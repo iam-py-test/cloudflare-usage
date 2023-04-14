@@ -1,6 +1,24 @@
-20 domains tested. 1 used CloudFlare (5.0%). 3 domains could not be tested.<br>
+250 domains tested. 19 used CloudFlare (7.6%). 50 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 cloudflare.com
+zoom.us
+vimeo.com
+cloudflare.net
+canva.com
+medium.com
+xhamster.com
+myshopify.com
+indeed.com
+w3.org
+spankbang.com
+shopify.com
+sciencedirect.com
+sourceforge.net
+creativecommons.org
+researchgate.net
+who.int
+discord.com
+tinyurl.com
 ```
 	
