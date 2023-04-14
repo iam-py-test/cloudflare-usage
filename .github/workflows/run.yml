@@ -18,7 +18,7 @@ jobs:
       run: |
         pip3 --version
         pip3 install requests tranco tqdm
-        python3 cloudflare-usage.py
+        python3 cloudflare-usage.py --noprogress
     - name: Commit & Push
       uses: actions-x/commit@v6
       with:
