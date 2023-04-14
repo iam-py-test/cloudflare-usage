@@ -1,0 +1,28 @@
+name: Update data
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: '0 20 * * *'
+  workflow_dispatch:
+jobs:
+  getdata:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    - name: Build data
+      run: |
+        pip3 --version
+        pip3 install requests tranco tqdm
+        python3 cloudflare-usage.py
+    - name: Commit & Push
+      uses: actions-x/commit@v6
+      with:
+          email: updatebot@iam-py-test.github.io
+          name: Update bot
+          branch: main
+          message: Update the data
