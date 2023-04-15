@@ -1,4 +1,4 @@
-250 domains tested. 19 used CloudFlare (7.6%). 50 domains could not be tested.<br>
+250 domains tested. 19 used CloudFlare (7.6%). 49 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 cloudflare.com
