@@ -18,7 +18,7 @@ REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 
 trancolist = Tranco(cache=CACHE_LIST)
-latest_list = t.list()
+latest_list = trancolist.list()
 topdomains = latest_list.top(NUM_DOMAINS)
 
 erroredout = 0
