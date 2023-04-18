@@ -16,21 +16,30 @@ SORT_DOMAINS = True
 CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
+DEBUG = False # set to True when testing
+
+def debugmsg(msg,data="No data!"):
+	if DEBUG:
+		print("[DEBUG] {}".format(msg),data)
 
 trancolist = Tranco(cache=CACHE_LIST)
 latest_list = trancolist.list()
 topdomains = latest_list.top(NUM_DOMAINS)
+debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
 
 erroredout = 0
 seenips = []
 
 def hascloudflare(url):
 	try:
-		headers = {"user-agent":random.choice(UA_CHOICES)}
-		r = requests.requests(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
+		useragent = random.choice(UA_CHOICES)
+		headers = {"user-agent":useragent}
+		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
+		debugmsg("Request done!",r.headers)
 		if "Server" in r.headers:
 			return r.headers["Server"] == "cloudflare"
-	except Exception:
+	except Exception as err:
+		print("Got error while making request: ",err)
 		return None
 	return False
 def saveip(domain):
