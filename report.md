@@ -10,9 +10,9 @@ medium.com
 xhamster.com
 myshopify.com
 indeed.com
+shopify.com
 spankbang.com
 w3.org
-shopify.com
 sciencedirect.com
 sourceforge.net
 creativecommons.org
