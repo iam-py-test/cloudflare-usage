@@ -1,4 +1,4 @@
-250 domains tested. 26 used CloudFlare (10.4%). 52 domains could not be tested.<br>
+250 domains tested. 26 used CloudFlare (10.4%). 53 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 canva.com
