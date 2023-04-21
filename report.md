@@ -1,16 +1,28 @@
-250 domains tested. 26 used CloudFlare (10.4%). 52 domains could not be tested.<br>
+400 domains tested. 41 used CloudFlare (10.25%). 80 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
+bluehost.com
 canva.com
+chaturbate.com
 cloudflare.com
 cloudflare.net
 creativecommons.org
+digitalocean.com
 discord.com
 epicgames.com
+fiverr.com
+hostgator.com
+hubspot.com
+ilovepdf.com
 indeed.com
+mediafire.com
 medium.com
 myshopify.com
+namu.wiki
+notion.so
 okta.com
+ozon.ru
+pixabay.com
 pixiv.net
 quora.com
 researchgate.net
@@ -19,9 +31,12 @@ shopify.com
 sourceforge.net
 spankbang.com
 teamviewer.com
+themeforest.net
 tinyurl.com
+udemy.com
 vimeo.com
 w3.org
+webmd.com
 who.int
 wiley.com
 xhamster.com
