@@ -1,6 +1,7 @@
-400 domains tested. 41 used CloudFlare (10.25%). 82 domains could not be tested.<br>
+400 domains tested. 42 used CloudFlare (10.5%). 82 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
+bluehost.com
 canva.com
 chaturbate.com
 cloudflare.com
