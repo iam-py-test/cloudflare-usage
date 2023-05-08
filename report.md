@@ -1,4 +1,4 @@
-400 domains tested. 41 used CloudFlare (10.25%). 84 domains could not be tested.<br>
+400 domains tested. 42 used CloudFlare (10.5%). 83 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 canva.com
@@ -41,6 +41,7 @@ who.int
 wiley.com
 xhamster.com
 zendesk.com
+zoom.com
 zoom.us
 ```
 	
