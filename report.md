@@ -1,4 +1,4 @@
-400 domains tested. 42 used CloudFlare (10.5%). 86 domains could not be tested.<br>
+400 domains tested. 42 used CloudFlare (10.5%). 85 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 canva.com
@@ -10,7 +10,6 @@ databricks.com
 digitalocean.com
 discord.com
 epicgames.com
-eslgaming.com
 fiverr.com
 hostgator.com
 hubspot.com
@@ -32,6 +31,7 @@ shopify.com
 sourceforge.net
 spankbang.com
 teamviewer.com
+themeforest.net
 tinyurl.com
 udemy.com
 vimeo.com
