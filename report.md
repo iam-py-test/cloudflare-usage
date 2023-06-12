@@ -1,4 +1,4 @@
-400 domains tested. 41 used CloudFlare (10.25%). 87 domains could not be tested.<br>
+400 domains tested. 43 used CloudFlare (10.75%). 81 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 bluehost.com
@@ -22,6 +22,7 @@ namu.wiki
 notion.so
 okta.com
 ozon.ru
+pexels.com
 pixabay.com
 pixiv.net
 quora.com
@@ -30,6 +31,7 @@ sciencedirect.com
 shopify.com
 sourceforge.net
 spankbang.com
+speedtest.net
 teamviewer.com
 themeforest.net
 tinyurl.com
