@@ -1,6 +1,7 @@
 400 domains tested. 42 used CloudFlare (10.5%). 85 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
+addtoany.com
 bluehost.com
 canva.com
 chaturbate.com
@@ -30,7 +31,6 @@ sciencedirect.com
 shopify.com
 sourceforge.net
 spankbang.com
-speedtest.net
 teamviewer.com
 themeforest.net
 tinyurl.com
