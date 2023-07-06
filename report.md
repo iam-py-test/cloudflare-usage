@@ -1,4 +1,4 @@
-400 domains tested. 42 used CloudFlare (10.5%). 87 domains could not be tested.<br>
+400 domains tested. 42 used CloudFlare (10.5%). 85 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 bluehost.com
