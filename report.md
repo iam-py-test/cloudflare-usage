@@ -1,4 +1,4 @@
-400 domains tested. 42 used CloudFlare (10.5%). 86 domains could not be tested.<br>
+400 domains tested. 41 used CloudFlare (10.25%). 85 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 bluehost.com
@@ -15,7 +15,6 @@ hostgator.com
 hubspot.com
 ilovepdf.com
 indeed.com
-intermedia.net
 mediafire.com
 medium.com
 myshopify.com
