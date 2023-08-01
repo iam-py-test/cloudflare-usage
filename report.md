@@ -1,4 +1,4 @@
-1000 domains tested. 133 used CloudFlare (13.3%). 214 domains could not be tested.<br>
+1000 domains tested. 134 used CloudFlare (13.4%). 215 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 1337x.to
@@ -12,6 +12,7 @@ bluehost.com
 bmj.com
 box.com
 branch.io
+braze.com
 britannica.com
 buydomains.com
 calendly.com
