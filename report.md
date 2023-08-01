@@ -1,4 +1,4 @@
-1000 domains tested. 134 used CloudFlare (13.4%). 215 domains could not be tested.<br>
+1000 domains tested. 134 used CloudFlare (13.4%). 213 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 1337x.to
