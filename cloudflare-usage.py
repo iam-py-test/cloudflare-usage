@@ -1,4 +1,4 @@
-import sys,random,socket,hashlib
+import sys,random,socket,hashlib, json
 
 import requests
 from tranco import Tranco
@@ -18,6 +18,12 @@ REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
 
+domain_ip_map = {}
+try:
+	domain_ip_map = json.loads(open("domain_ip_map.json", encoding = "UTF-8").read())
+except:
+	pass
+
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
 		print("[DEBUG] {}".format(msg),data)
@@ -29,6 +35,21 @@ debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
 
 erroredout = 0
 seenips = []
+def saveip(ip):
+	global seenips
+	try:
+		if ip not in seenips:
+			seenips.append(ip)
+	except:
+		pass
+
+def get_ip(domain):
+	ip = None
+	try:
+		ip = socket.gethostbyname(domain)
+	except:
+		pass
+	return ip
 
 def hascloudflare(url):
 	try:
@@ -42,14 +63,7 @@ def hascloudflare(url):
 		print("Got error while making request: ",err)
 		return None
 	return False
-def saveip(domain):
-	global seenips
-	try:
-		ip = socket.gethostbyname(domain)
-		if ip not in seenips:
-			seenips.append(ip)
-	except:
-		pass
+
 hascloud = []
 
 def savedomains():
@@ -59,6 +73,10 @@ def savedomains():
 def saveips():
 	ipsfile = open(IPS_FILE,'w',encoding="UTF-8")
 	ipsfile.write("\n".join(seenips))
+	ipsfile.close()
+def savemap():
+	ipsfile = open("domain_ip_map.json",'w',encoding="UTF-8")
+	ipsfile.write(json.dumps(domain_ip_map))
 	ipsfile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
@@ -84,15 +102,24 @@ else:
 	domainsarray = topdomains
 
 for d in domainsarray:
+	ip = get_ip(d)
+	if ip in domain_ip_map:
+		if domain_ip_map[d] == ip:
+			print("Skipped as it's ip hasn't changed")
+			continue
+		else:
+			domain_ip_map[d] = ip
+	else:
+		domain_ip_map[d] = ip
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == True:
 		hascloud.append(d)
-		saveip(d)
+		saveip(ip)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
 			hascloud.append(d)
-			saveip(d)
+			saveip(ip)
 		elif httpstestresult == None:
 			erroredout += 1
 
@@ -102,3 +129,4 @@ if SORT_DOMAINS:
 savedomains()
 saveips()
 savereport()
+savemap()
