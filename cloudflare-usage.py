@@ -1,11 +1,11 @@
-import sys,random,socket,hashlib, json
+import sys,random,socket,hashlib, json, time, threading
 
 import requests
 from tranco import Tranco
 from tqdm import tqdm
 
 NUM_DOMAINS = 1000
-UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188']
+UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"]
 REQUEST_TIMEOUT = 45
 RETRY_ENABLED = True
 REPORT_FILE = "report.md"
@@ -17,6 +17,7 @@ CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
+MAX_THREADS = 60
 
 domain_ip_map = {}
 try:
@@ -32,6 +33,11 @@ trancolist = Tranco(cache=CACHE_LIST)
 latest_list = trancolist.list()
 topdomains = latest_list.top(NUM_DOMAINS)
 debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
+useragent = random.choice(UA_CHOICES)
+headers = {"user-agent":useragent}
+running = 0
+done = 0
+started = 0
 
 erroredout = 0
 seenips = []
@@ -53,8 +59,6 @@ def get_ip(domain):
 
 def hascloudflare(url):
 	try:
-		useragent = random.choice(UA_CHOICES)
-		headers = {"user-agent":useragent}
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Server" in r.headers:
@@ -101,14 +105,24 @@ if PROGRESS_BAR_ENABLED:
 else:
 	domainsarray = topdomains
 
-for d in domainsarray:
+def checkdomain(d):
+	global domain_ip_map
+	global erroredout
+	global hascloud
+	global running
+	global done
+	running += 1
 	ip = get_ip(d)
 	if ip == None:
-		continue
+		running -= 1
+		done += 1
+		return
 	if d in domain_ip_map:
 		if domain_ip_map[d] == ip:
 			print("Skipped as it's ip hasn't changed")
-			continue
+			running -= 1
+			done += 1
+			return
 		else:
 			domain_ip_map[d] = ip
 	else:
@@ -124,6 +138,19 @@ for d in domainsarray:
 			saveip(ip)
 		elif httpstestresult == None:
 			erroredout += 1
+	done += 1
+	running -= 1
+
+for d in domainsarray:
+	if running > MAX_THREADS:
+		print("too many, sleeping", running)
+		time.sleep(5)
+		print("woke up", running)
+	started += 1
+	threading.Thread(target=checkdomain, args=(d, )).start()
+
+while done < started:
+	pass
 
 if SORT_DOMAINS:
 	hascloud.sort()
