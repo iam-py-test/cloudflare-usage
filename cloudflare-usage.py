@@ -103,6 +103,8 @@ else:
 
 for d in domainsarray:
 	ip = get_ip(d)
+	if ip == None:
+		continue
 	if d in domain_ip_map:
 		if domain_ip_map[d] == ip:
 			print("Skipped as it's ip hasn't changed")
