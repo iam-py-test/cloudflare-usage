@@ -17,7 +17,7 @@ CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
-MAX_THREADS = 60
+MAX_THREADS = 80
 
 domain_ip_map = {}
 try:
