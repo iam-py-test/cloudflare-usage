@@ -136,7 +136,7 @@ def checkdomain(d):
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == True:
 		hascloud.append(d)
-		saveip(ip)
+		saveip(ips)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
