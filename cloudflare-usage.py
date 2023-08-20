@@ -59,8 +59,8 @@ def get_ip(domain):
 		res = list(resolver.resolve(domain))
 		for ip in res:
 			ips.append(ip.address)
-	except:
-		pass
+	except Exception as err:
+		print(err)
 	return ips
 
 def hascloudflare(url):
