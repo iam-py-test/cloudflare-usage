@@ -40,7 +40,7 @@ running = 0
 done = 0
 started = 0
 resolver = dns.resolver.Resolver()
-resolver.nameservers = ["https://unfiltered.adguard-dns.com/dns-query"]
+resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
 erroredout = 0
 seenips = []
