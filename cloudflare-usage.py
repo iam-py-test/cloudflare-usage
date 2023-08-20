@@ -1,4 +1,5 @@
 import sys,random,socket,hashlib, json, time, threading
+import dns.resolver
 
 import requests
 from tranco import Tranco
@@ -38,24 +39,29 @@ headers = {"user-agent":useragent}
 running = 0
 done = 0
 started = 0
+resolver = dns.resolver.Resolver()
+resolver.nameservers = ["https://unfiltered.adguard-dns.com/dns-query"]
 
 erroredout = 0
 seenips = []
-def saveip(ip):
+def saveip(ips):
 	global seenips
 	try:
-		if ip not in seenips:
-			seenips.append(ip)
+		for ip in ips:
+			if ip not in seenips:
+				seenips.append(ip)
 	except:
 		pass
 
 def get_ip(domain):
-	ip = None
+	ips = []
 	try:
-		ip = socket.gethostbyname(domain)
+		res = list(resolver.resolve(domain))
+		for ip in res:
+			ips.append(ip.address)
 	except:
 		pass
-	return ip
+	return ips
 
 def hascloudflare(url):
 	try:
@@ -112,21 +118,21 @@ def checkdomain(d):
 	global running
 	global done
 	running += 1
-	ip = get_ip(d)
-	if ip == None:
+	ips = get_ip(d)
+	if ips == None:
 		running -= 1
 		done += 1
 		return
 	if d in domain_ip_map:
-		if domain_ip_map[d] == ip:
-			print("Skipped as it's ip hasn't changed")
-			running -= 1
-			done += 1
-			return
-		else:
-			domain_ip_map[d] = ip
+		for ip in ips:
+			if ip in domain_ip_map[d]:
+				print("Skipped as it's ip hasn't changed")
+				running -= 1
+				done += 1
+				return
+		domain_ip_map[d] = ips
 	else:
-		domain_ip_map[d] = ip
+		domain_ip_map[d] = ips
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == True:
 		hascloud.append(d)
