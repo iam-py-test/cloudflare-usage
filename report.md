@@ -1,13 +1,16 @@
-1000 domains tested. 8 used CloudFlare (0.8%). 210 domains could not be tested.<br>
+1000 domains tested. 11 used CloudFlare (1.0999999999999999%). 206 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 branch.io
-bugsnag.com
-fontawesome.com
+cambridge.org
+canva.com
+cookielaw.org
+digitalocean.com
 glance.net
-klaviyo.com
 networkadvertising.org
-shipt.com
+udemy.com
 unrulymedia.com
+xhamster.com
+zopim.com
 ```
 	
