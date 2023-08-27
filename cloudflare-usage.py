@@ -123,16 +123,6 @@ def checkdomain(d):
 		running -= 1
 		done += 1
 		return
-	if d in domain_ip_map:
-		for ip in ips:
-			if ip in domain_ip_map[d]:
-				print("Skipped as it's ip hasn't changed")
-				running -= 1
-				done += 1
-				return
-		domain_ip_map[d] = ips
-	else:
-		domain_ip_map[d] = ips
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == True:
 		hascloud.append(d)
@@ -141,7 +131,7 @@ def checkdomain(d):
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
 			hascloud.append(d)
-			saveip(ip)
+			saveips(ips)
 		elif httpstestresult == None:
 			erroredout += 1
 	done += 1
