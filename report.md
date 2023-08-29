@@ -1,4 +1,4 @@
-1000 domains tested. 121 used CloudFlare (12.1%). 264 domains could not be tested.<br>
+1000 domains tested. 120 used CloudFlare (12.0%). 266 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -36,7 +36,6 @@ discordapp.com
 docker.com
 dotomi.com
 economist.com
-ecosia.org
 entrust.net
 epicgames.com
 eyeota.net
@@ -60,8 +59,8 @@ jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
+life360.com
 loc.gov
-maricopa.gov
 markmonitor.com
 mediafire.com
 medium.com
