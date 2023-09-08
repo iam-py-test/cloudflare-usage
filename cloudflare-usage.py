@@ -68,7 +68,9 @@ def hascloudflare(url):
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Server" in r.headers:
-			return r.headers["Server"] == "cloudflare"
+			return r.headers["Server"].lower() == "cloudflare"
+		if "CF-RAY" in r.headers:
+			return True
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
