@@ -57,7 +57,12 @@ def get_cname(domain):
 	global cnames
 	try:
 		resp = resolver.resolve(domain)
-		cnames.append(resp.canonical_name.to_text())
+		cn = resp.canonical_name.to_text()
+		if cn.endswith("."):
+			cn = cn[:-1]
+		if cn == domain:
+			return None
+		cnames.append(cn)
 	except:
 		return None
 
