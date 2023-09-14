@@ -39,6 +39,7 @@ headers = {"user-agent":useragent}
 running = 0
 done = 0
 started = 0
+cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
@@ -52,11 +53,19 @@ def saveip(ips):
 				seenips.append(ip)
 	except:
 		pass
+def get_cname(domain):
+	global cnames
+	try:
+		resp = resolver.resolve(domain)
+		cnames.append(resp.canonical_name.to_text())
+	except:
+		return None
 
 def get_ip(domain):
 	ips = []
 	try:
-		res = list(resolver.resolve(domain))
+		resp = resolver.resolve(domain)
+		res = list(resp)
 		for ip in res:
 			ips.append(ip.address)
 	except Exception as err:
@@ -85,6 +94,10 @@ def savedomains():
 def saveips():
 	ipsfile = open(IPS_FILE,'w',encoding="UTF-8")
 	ipsfile.write("\n".join(seenips))
+	ipsfile.close()
+def savecnames():
+	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
+	ipsfile.write("\n".join(cnames))
 	ipsfile.close()
 def savemap():
 	ipsfile = open("domain_ip_map.json",'w',encoding="UTF-8")
@@ -129,11 +142,13 @@ def checkdomain(d):
 	if httptestresult == True:
 		hascloud.append(d)
 		saveip(ips)
+		get_cname(d)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
 			hascloud.append(d)
 			saveips(ips)
+			get_cname(d)
 		elif httpstestresult == None:
 			erroredout += 1
 	done += 1
