@@ -1,4 +1,4 @@
-1000 domains tested. 114 used CloudFlare (11.4%). 271 domains could not be tested.<br>
+1000 domains tested. 116 used CloudFlare (11.600000000000001%). 268 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -86,6 +86,7 @@ roku.com
 sciencedirect.com
 sectigo.com
 sedo.com
+shein.com
 shopify.com
 simpli.fi
 sitescout.com
@@ -94,6 +95,7 @@ sourceforge.net
 spankbang.com
 speedtest.net
 springserve.com
+stackoverflow.com
 statcounter.com
 takeaway.com
 tandfonline.com
