@@ -1,4 +1,4 @@
-1000 domains tested. 116 used CloudFlare (11.600000000000001%). 268 domains could not be tested.<br>
+1000 domains tested. 120 used CloudFlare (12.0%). 269 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -26,6 +26,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+constantcontact.com
 cookielaw.org
 creativecommons.org
 dashlane.com
@@ -48,6 +49,7 @@ genius.com
 gitlab.com
 glance.net
 globalsign.com
+grserver.gr
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -59,6 +61,7 @@ jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
+life360.com
 loc.gov
 markmonitor.com
 mediafire.com
@@ -66,6 +69,7 @@ medium.com
 mgid.com
 mlb.com
 myshopify.com
+name.com
 networkadvertising.org
 okta.com
 onesignal.com
