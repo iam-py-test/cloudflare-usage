@@ -1,4 +1,4 @@
-1000 domains tested. 121 used CloudFlare (12.1%). 269 domains could not be tested.<br>
+1000 domains tested. 120 used CloudFlare (12.0%). 271 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -99,7 +99,6 @@ skroutz.gr
 sourceforge.net
 spankbang.com
 speedtest.net
-springserve.com
 stackoverflow.com
 statcounter.com
 takeaway.com
