@@ -18,13 +18,9 @@ CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
-MAX_THREADS = 90
+MAX_THREADS = 95
 
 domain_ip_map = {}
-try:
-	domain_ip_map = json.loads(open("domain_ip_map.json", encoding = "UTF-8").read())
-except:
-	pass
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
@@ -44,13 +40,15 @@ resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
 erroredout = 0
-seenips = []
-def saveip(ips):
+seenips = {}
+def saveip(ips, provider="cloudflare"):
 	global seenips
 	try:
+		if provider not in seenips:
+			seenips[provider] = []
 		for ip in ips:
 			if ip not in seenips:
-				seenips.append(ip)
+				seenips[provider].append(ip)
 	except:
 		pass
 def get_cname(domain):
@@ -82,24 +80,47 @@ def hascloudflare(url):
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Server" in r.headers:
-			return r.headers["Server"].lower() == "cloudflare"
+			if r.headers["Server"].lower() == "cloudflare":
+				return True
+			elif r.headers["Server"] == "AkamaiGHost":
+				return "akamai"
 		if "CF-RAY" in r.headers:
 			return True
+		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
+			return "sucuri"
+		if "X-Cache" in r.headers:
+			if r.headers["X-Cache"] == "Hit from cloudfront":
+				return "cloudfront"
+		if "Akamai-Expedia-Global-GRN" in r.headers:
+			return "akamai"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
 	return False
 
 hascloud = []
+hascloudfront = []
+hassucuri = []
+hasakamai = []
 
 def savedomains():
 	domainsfile = open(DOMAINS_FILE,'w',encoding="UTF-8")
 	domainsfile.write("\n".join(hascloud))
 	domainsfile.close()
+	domainsfile = open("sucuri_domains.txt",'w',encoding="UTF-8")
+	domainsfile.write("\n".join(hassucuri))
+	domainsfile.close()
+	domainsfile = open("cloudfront_domains.txt",'w',encoding="UTF-8")
+	domainsfile.write("\n".join(hascloudfront))
+	domainsfile.close()
+	domainsfile = open("akamai_domains.txt",'w',encoding="UTF-8")
+	domainsfile.write("\n".join(hasakamai))
+	domainsfile.close()
 def saveips():
-	ipsfile = open(IPS_FILE,'w',encoding="UTF-8")
-	ipsfile.write("\n".join(seenips))
-	ipsfile.close()
+	for p in seenips:
+		ipsfile = open(f"{p}_ips.txt",'w',encoding="UTF-8")
+		ipsfile.write("\n".join(seenips))
+		ipsfile.close()
 def savecnames():
 	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
 	ipsfile.write("\n".join(cnames))
@@ -135,6 +156,9 @@ def checkdomain(d):
 	global domain_ip_map
 	global erroredout
 	global hascloud
+	global hascloudfront
+	global hassucuri
+	global hasakamai
 	global running
 	global done
 	running += 1
@@ -148,11 +172,20 @@ def checkdomain(d):
 		hascloud.append(d)
 		saveip(ips)
 		get_cname(d)
+	elif httptestresult == "sucuri":
+		hassucuri.append(d)
+		saveip(ips, "sucuri")
+	elif httptestresult == "cloudfront":
+		hascloudfront.append(d)
+		saveip(ips, "cloudfront")
+	elif httptestresult == "akamai":
+		hasakamai.append(d)
+		saveip(ips, "akamai")
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
 			hascloud.append(d)
-			saveips(ips)
+			saveip(ips)
 			get_cname(d)
 		elif httpstestresult == None:
 			erroredout += 1
