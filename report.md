@@ -1,4 +1,4 @@
-1000 domains tested. 120 used CloudFlare (12.0%). 274 domains could not be tested.<br>
+1000 domains tested. 120 used CloudFlare (12.0%). 273 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
