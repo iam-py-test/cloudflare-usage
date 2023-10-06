@@ -1,7 +1,6 @@
-1000 domains tested. 121 used CloudFlare (12.1%). 279 domains could not be tested.<br>
+1000 domains tested. 121 used CloudFlare (12.1%). 269 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
-33across.com
 adcolony.com
 addtoany.com
 allaboutcookies.org
@@ -39,6 +38,7 @@ docker.com
 doordash.com
 dotomi.com
 economist.com
+ecosia.org
 entrust.net
 epicgames.com
 eyeota.net
