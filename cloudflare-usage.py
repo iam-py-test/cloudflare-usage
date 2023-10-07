@@ -6,7 +6,7 @@ from tranco import Tranco
 from tqdm import tqdm
 
 NUM_DOMAINS = 1000
-UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0"]
+UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"]
 REQUEST_TIMEOUT = 50
 RETRY_ENABLED = True
 REPORT_FILE = "report.md"
@@ -39,6 +39,7 @@ resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
 erroredout = 0
 seenips = {}
+server_headers = []
 def saveip(ips, provider="cloudflare"):
 	global seenips
 	try:
@@ -58,6 +59,8 @@ def get_cname(domain):
 			cn = cn[:-1]
 		if cn == domain:
 			return None
+		if cn in cnames:
+			return None
 		cnames.append(cn)
 	except:
 		return None
@@ -74,10 +77,13 @@ def get_ip(domain):
 	return ips
 
 def hascloudflare(url):
+	global server_headers
 	try:
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Server" in r.headers:
+			if r.headers["Server"] not in server_headers:
+				server_headers.append(r.headers["Server"])
 			if r.headers["Server"].lower() == "cloudflare":
 				return True
 			elif r.headers["Server"] == "AkamaiGHost":
@@ -123,6 +129,10 @@ def savecnames():
 	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
 	ipsfile.write("\n".join(cnames))
 	ipsfile.close()
+def saveserverheaders():
+	serverfile = open("servers.txt", 'w', encoding="UTF-8")
+	serverfile.write("\n".join(server_headers))
+	serverfile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
 	alldomains = """
@@ -156,6 +166,7 @@ def checkdomain(d):
 	global done
 	running += 1
 	ips = get_ip(d)
+	get_cname(d)
 	if ips == None:
 		running -= 1
 		done += 1
@@ -164,7 +175,6 @@ def checkdomain(d):
 	if httptestresult == True:
 		hascloud.append(d)
 		saveip(ips)
-		get_cname(d)
 	elif httptestresult == "sucuri":
 		hassucuri.append(d)
 		saveip(ips, "sucuri")
@@ -179,7 +189,6 @@ def checkdomain(d):
 		if httpstestresult == True:
 			hascloud.append(d)
 			saveip(ips)
-			get_cname(d)
 		elif httpstestresult == None:
 			erroredout += 1
 	done += 1
@@ -203,3 +212,4 @@ savedomains()
 saveips()
 savereport()
 savecnames()
+saveserverheaders()
