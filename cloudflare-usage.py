@@ -84,10 +84,12 @@ def hascloudflare(url):
 		if "Server" in r.headers:
 			if r.headers["Server"] not in server_headers:
 				server_headers.append(r.headers["Server"])
-			if r.headers["Server"].lower() == "cloudflare":
+			if r.headers["Server"].lower() == "cloudflare" or r.headers["Server"] == "cloudflare-nginx":
 				return True
-			elif r.headers["Server"] == "AkamaiGHost":
+			elif r.headers["Server"] == "AkamaiGHost" or r.headers["Server"] == "AkamaiNetStorage":
 				return "akamai"
+			elif r.headers["Server"] == "ddos-guard":
+				return "ddosguard"
 		if "CF-RAY" in r.headers:
 			return True
 		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
@@ -106,6 +108,7 @@ hascloud = []
 hascloudfront = []
 hassucuri = []
 hasakamai = []
+hasddosguard = []
 
 def savedomains():
 	domainsfile = open(DOMAINS_FILE,'w',encoding="UTF-8")
@@ -162,6 +165,7 @@ def checkdomain(d):
 	global hascloudfront
 	global hassucuri
 	global hasakamai
+	global hasddosguard
 	global running
 	global done
 	running += 1
@@ -184,6 +188,9 @@ def checkdomain(d):
 	elif httptestresult == "akamai":
 		hasakamai.append(d)
 		saveip(ips, "akamai")
+	elif httptestresult == "ddosguard":
+		hasddosguard.append(d)
+		saveip(ips, "ddosguard")
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == True:
