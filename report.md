@@ -1,6 +1,7 @@
-1000 domains tested. 121 used CloudFlare (12.1%). 269 domains could not be tested.<br>
+1000 domains tested. 124 used CloudFlare (12.4%). 271 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
+33across.com
 adcolony.com
 addtoany.com
 allaboutcookies.org
@@ -100,6 +101,7 @@ skroutz.gr
 sourceforge.net
 spankbang.com
 speedtest.net
+sportskeeda.com
 stackoverflow.com
 statcounter.com
 takeaway.com
@@ -107,6 +109,7 @@ tandfonline.com
 teamviewer.com
 themeforest.net
 tinyurl.com
+truste.com
 udemy.com
 unpkg.com
 unrulymedia.com
