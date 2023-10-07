@@ -40,6 +40,7 @@ resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 erroredout = 0
 seenips = {}
 server_headers = []
+via_headers = []
 def saveip(ips, provider="cloudflare"):
 	global seenips
 	try:
@@ -78,9 +79,12 @@ def get_ip(domain):
 
 def hascloudflare(url):
 	global server_headers
+	global via_headers
 	try:
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
+		if "Via" in r.headers:
+			via_headers.append(r.headers["Via"])
 		if "Server" in r.headers:
 			if r.headers["Server"] not in server_headers:
 				server_headers.append(r.headers["Server"])
@@ -136,6 +140,10 @@ def saveserverheaders():
 	serverfile = open("servers.txt", 'w', encoding="UTF-8")
 	serverfile.write("\n".join(server_headers))
 	serverfile.close()
+def saveviaheaders():
+	viafile = open("via.txt", 'w', encoding="UTF-8")
+	viafile.write("\n".join(via_headers))
+	viafile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
 	alldomains = """
