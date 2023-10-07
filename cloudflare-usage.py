@@ -127,6 +127,9 @@ def savedomains():
 	domainsfile = open("akamai_domains.txt",'w',encoding="UTF-8")
 	domainsfile.write("\n".join(hasakamai))
 	domainsfile.close()
+	domainsfile = open("ddosguard_domains.txt",'w',encoding="UTF-8")
+	domainsfile.write("\n".join(hasddosguard))
+	domainsfile.close()
 def saveips():
 	for p in seenips:
 		ipsfile = open(f"{p}_ips.txt",'w',encoding="UTF-8")
@@ -228,3 +231,4 @@ saveips()
 savereport()
 savecnames()
 saveserverheaders()
+saveviaheaders()
