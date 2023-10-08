@@ -84,7 +84,10 @@ def hascloudflare(url):
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
-			via_headers.append(r.headers["Via"])
+			if r.headers["Via"] not in via_headers:
+				via_headers.append(r.headers["Via"])
+			if r.headers["Via"].endswith(".cloudfront.net (CloudFront)"):
+				return "cloudfront"
 		if "Server" in r.headers:
 			if r.headers["Server"] not in server_headers:
 				server_headers.append(r.headers["Server"])
