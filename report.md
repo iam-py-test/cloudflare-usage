@@ -1,4 +1,4 @@
-1000 domains tested. 124 used CloudFlare (12.4%). 267 domains could not be tested.<br>
+1000 domains tested. 121 used CloudFlare (12.1%). 271 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -17,7 +17,6 @@ braze.com
 britannica.com
 btloader.com
 bugsnag.com
-calendly.com
 cambridge.org
 canva.com
 change.org
@@ -39,7 +38,6 @@ docker.com
 doordash.com
 dotomi.com
 dribbble.com
-economist.com
 ecosia.org
 entrust.net
 epicgames.com
@@ -51,6 +49,7 @@ frontapp.com
 genius.com
 gitlab.com
 glance.net
+globalsign.com
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -63,7 +62,6 @@ jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
-life360.com
 loc.gov
 markmonitor.com
 mediafire.com
@@ -101,7 +99,6 @@ skroutz.gr
 sourceforge.net
 spankbang.com
 speedtest.net
-sportskeeda.com
 stackoverflow.com
 statcounter.com
 takeaway.com
