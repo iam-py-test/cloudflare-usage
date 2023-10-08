@@ -1,4 +1,4 @@
-1000 domains tested. 125 used CloudFlare (12.5%). 272 domains could not be tested.<br>
+1000 domains tested. 124 used CloudFlare (12.4%). 267 domains could not be tested.<br>
 Domains using CloudFlare:
 ```
 33across.com
@@ -51,7 +51,6 @@ frontapp.com
 genius.com
 gitlab.com
 glance.net
-globalsign.com
 hostgator.com
 hostgator.com.br
 hubspot.com
