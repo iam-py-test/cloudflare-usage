@@ -193,8 +193,8 @@ def checkdomain(d):
 		if httpstestresult != False:
 			if httpstestresult not in has_cdn:
 				has_cdn[httpstestresult] = []
-		has_cdn[httpstestresult].append(d)
-		saveip(ips, httpstestresult)
+			has_cdn[httpstestresult].append(d)
+			saveip(ips, httpstestresult)
 		elif httpstestresult == None:
 			erroredout += 1
 	done += 1
