@@ -18,7 +18,7 @@ CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
-MAX_THREADS = 95
+MAX_THREADS = 100
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
@@ -92,13 +92,13 @@ def hascloudflare(url):
 			if r.headers["Server"] not in server_headers:
 				server_headers.append(r.headers["Server"])
 			if r.headers["Server"].lower() == "cloudflare" or r.headers["Server"] == "cloudflare-nginx":
-				return True
+				return "cloudflare"
 			elif r.headers["Server"] == "AkamaiGHost" or r.headers["Server"] == "AkamaiNetStorage":
 				return "akamai"
 			elif r.headers["Server"] == "ddos-guard":
 				return "ddosguard"
 		if "CF-RAY" in r.headers:
-			return True
+			return "cloudflare"
 		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
 			return "sucuri"
 		if "X-Cache" in r.headers:
@@ -116,23 +116,15 @@ hascloudfront = []
 hassucuri = []
 hasakamai = []
 hasddosguard = []
+has_cdn = {
+
+}
 
 def savedomains():
-	domainsfile = open(DOMAINS_FILE,'w',encoding="UTF-8")
-	domainsfile.write("\n".join(hascloud))
-	domainsfile.close()
-	domainsfile = open("sucuri_domains.txt",'w',encoding="UTF-8")
-	domainsfile.write("\n".join(hassucuri))
-	domainsfile.close()
-	domainsfile = open("cloudfront_domains.txt",'w',encoding="UTF-8")
-	domainsfile.write("\n".join(hascloudfront))
-	domainsfile.close()
-	domainsfile = open("akamai_domains.txt",'w',encoding="UTF-8")
-	domainsfile.write("\n".join(hasakamai))
-	domainsfile.close()
-	domainsfile = open("ddosguard_domains.txt",'w',encoding="UTF-8")
-	domainsfile.write("\n".join(hasddosguard))
-	domainsfile.close()
+	for cdn in has_cdn:
+		domainsfile = open(f"{cdn}_domains.txt",'w',encoding="UTF-8")
+		domainsfile.write("\n".join(has_cdn[cdn]))
+		domainsfile.close()
 def saveips():
 	for p in seenips:
 		ipsfile = open(f"{p}_ips.txt",'w',encoding="UTF-8")
@@ -152,14 +144,14 @@ def saveviaheaders():
 	viafile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
-	alldomains = """
-""".join(hascloud)
-	report = f"""{len(topdomains)} domains tested. {len(hascloud)} used CloudFlare ({(len(hascloud)/len(topdomains))*100}%). {erroredout} domains could not be tested.<br>
-Domains using CloudFlare:
+	report = f"""{len(topdomains)} domains tested. {erroredout} domains could not be tested.<br>"""
+	for cdn in has_cdn:
+		alldomains = "\n".join(has_cdn[cdn])
+		report += f"""{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/len(topdomains))*100}%):
 ```
 {alldomains}
 ```
-	"""
+"""
 	reportfile.write(report)
 	reportfile.close()
 	if TOPHASH_FILE == "" or TOPHASH_FILE == None:
@@ -182,6 +174,7 @@ def checkdomain(d):
 	global hasddosguard
 	global running
 	global done
+	global has_cdn
 	running += 1
 	ips = get_ip(d)
 	get_cname(d)
@@ -190,26 +183,18 @@ def checkdomain(d):
 		done += 1
 		return
 	httptestresult = hascloudflare(f"http://{d}")
-	if httptestresult == True:
-		hascloud.append(d)
-		saveip(ips)
-	elif httptestresult == "sucuri":
-		hassucuri.append(d)
-		saveip(ips, "sucuri")
-	elif httptestresult == "cloudfront":
-		hascloudfront.append(d)
-		saveip(ips, "cloudfront")
-	elif httptestresult == "akamai":
-		hasakamai.append(d)
-		saveip(ips, "akamai")
-	elif httptestresult == "ddosguard":
-		hasddosguard.append(d)
-		saveip(ips, "ddosguard")
+	if httptestresult != False:
+		if httptestresult not in has_cdn:
+			has_cdn[httptestresult] = []
+		has_cdn[httptestresult].append(d)
+		saveip(ips, httptestresult)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
-		if httpstestresult == True:
-			hascloud.append(d)
-			saveip(ips)
+		if httpstestresult != False:
+			if httpstestresult not in has_cdn:
+				has_cdn[httpstestresult] = []
+		has_cdn[httpstestresult].append(d)
+		saveip(ips, httpstestresult)
 		elif httpstestresult == None:
 			erroredout += 1
 	done += 1
