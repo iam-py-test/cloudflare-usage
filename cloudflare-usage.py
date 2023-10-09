@@ -119,6 +119,7 @@ hasddosguard = []
 has_cdn = {
 
 }
+has_nothing = 0
 
 def savedomains():
 	for cdn in has_cdn:
@@ -144,7 +145,7 @@ def saveviaheaders():
 	viafile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
-	report = f"""{len(topdomains)} domains tested. {erroredout} domains could not be tested.<br>"""
+	report = f"""{len(topdomains)} domains tested. {(has_nothing/len(topdomains))*100}% were behind nothing. {erroredout} domains could not be tested.<br>"""
 	for cdn in has_cdn:
 		alldomains = "\n".join(has_cdn[cdn])
 		report += f"""{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/len(topdomains))*100}%):
@@ -175,6 +176,7 @@ def checkdomain(d):
 	global running
 	global done
 	global has_cdn
+	global has_nothing
 	running += 1
 	ips = get_ip(d)
 	get_cname(d)
@@ -183,14 +185,18 @@ def checkdomain(d):
 		done += 1
 		return
 	httptestresult = hascloudflare(f"http://{d}")
-	if httptestresult != False and httptestresult != None:
+	if httptestresult == False:
+		has_nothing += 1
+	elif httptestresult != False and httptestresult != None:
 		if httptestresult not in has_cdn:
 			has_cdn[httptestresult] = []
 		has_cdn[httptestresult].append(d)
 		saveip(ips, httptestresult)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
-		if httpstestresult != False and httpstestresult != None:
+		if httpstestresult == False:
+			has_nothing += 1
+		elif httpstestresult != False and httpstestresult != None:
 			if httpstestresult not in has_cdn:
 				has_cdn[httpstestresult] = []
 			has_cdn[httpstestresult].append(d)
