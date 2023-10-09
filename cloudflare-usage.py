@@ -183,14 +183,14 @@ def checkdomain(d):
 		done += 1
 		return
 	httptestresult = hascloudflare(f"http://{d}")
-	if httptestresult != False:
+	if httptestresult != False and httptestresult != None:
 		if httptestresult not in has_cdn:
 			has_cdn[httptestresult] = []
 		has_cdn[httptestresult].append(d)
 		saveip(ips, httptestresult)
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
-		if httpstestresult != False:
+		if httpstestresult != False and httpstestresult != None:
 			if httpstestresult not in has_cdn:
 				has_cdn[httpstestresult] = []
 			has_cdn[httpstestresult].append(d)
