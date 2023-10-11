@@ -117,7 +117,11 @@ hassucuri = []
 hasakamai = []
 hasddosguard = []
 has_cdn = {
-
+	"akamai": [],
+	"cloudflare": [],
+	"cloudfront": [],
+	"ddosguard": [],
+	"sucuri": []
 }
 has_nothing = 0
 
@@ -145,10 +149,11 @@ def saveviaheaders():
 	viafile.close()
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
-	report = f"""{len(topdomains)} domains tested. {(has_nothing/len(topdomains))*100}% were behind nothing. {erroredout} domains could not be tested.<br>"""
+	dtested = len(topdomains) - erroredout
+	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing. {erroredout} domains could not be tested.<br>"""
 	for cdn in has_cdn:
 		alldomains = "\n".join(has_cdn[cdn])
-		report += f"""{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/len(topdomains))*100}%):
+		report += f"""{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/dtested)*100}%):
 ```
 {alldomains}
 ```
