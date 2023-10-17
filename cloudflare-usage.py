@@ -89,14 +89,21 @@ def hascloudflare(url):
 			if r.headers["Via"].endswith(".cloudfront.net (CloudFront)"):
 				return "cloudfront"
 		if "Server" in r.headers:
-			if r.headers["Server"] not in server_headers:
-				server_headers.append(r.headers["Server"])
-			if r.headers["Server"].lower() == "cloudflare" or r.headers["Server"] == "cloudflare-nginx":
+			server_header = r.headers["Server"]
+			if server_header not in server_headers and server_header != None and server_header != "":
+				server_headers.append(server_header)
+			if server_header == None or server_header == "":
+				pass
+			elif server_header.lower() == "cloudflare" or server_header == "cloudflare-nginx":
 				return "cloudflare"
-			elif r.headers["Server"] == "AkamaiGHost" or r.headers["Server"] == "AkamaiNetStorage":
+			elif server_header == "AkamaiGHost" or server_header == "AkamaiNetStorage":
 				return "akamai"
-			elif r.headers["Server"] == "ddos-guard":
+			elif server_header == "ddos-guard":
 				return "ddosguard"
+			elif server_header.startswith("BunnyCDN"):
+				return "bunnycdn"
+			elif server_header == "myracloud":
+				return "myracloud"
 		if "CF-RAY" in r.headers:
 			return "cloudflare"
 		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
@@ -118,10 +125,12 @@ hasakamai = []
 hasddosguard = []
 has_cdn = {
 	"akamai": [],
+	"bunnycdn": [],
 	"cloudflare": [],
 	"cloudfront": [],
 	"ddosguard": [],
-	"sucuri": []
+	"sucuri": [],
+	"myracloud": []
 }
 has_nothing = 0
 
@@ -150,10 +159,11 @@ def saveviaheaders():
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
 	dtested = len(topdomains) - erroredout
-	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing. {erroredout} domains could not be tested.<br>"""
+	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({((dtested-has_nothing/dtested)*100)} were behind something). {erroredout} domains could not be tested.<br>"""
 	for cdn in has_cdn:
 		alldomains = "\n".join(has_cdn[cdn])
-		report += f"""{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/dtested)*100}%):
+		report += f"""
+{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/dtested)*100}%):
 ```
 {alldomains}
 ```
