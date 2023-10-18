@@ -13,5 +13,3 @@ The IP addresses of domains hosted on various servers
 
 - cnames.txt
 The CNAME records of all domains, regardless of what they are behind.
-
-- 

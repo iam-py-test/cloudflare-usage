@@ -1,5 +1,6 @@
 import sys,random,socket,hashlib, json, time, threading
 import dns.resolver
+import urllib.parse
 
 import requests
 from tranco import Tranco
@@ -63,6 +64,7 @@ def get_cname(domain):
 		if cn in cnames:
 			return None
 		cnames.append(cn)
+		return cn
 	except:
 		return None
 
@@ -81,6 +83,11 @@ def hascloudflare(url):
 	global server_headers
 	global via_headers
 	try:
+		domain = urllib.parse.urlparse(url).netloc
+		cname = get_cname(domain)
+		if cname != None:
+			if cname.endswith(".fastly.net"):
+				return "fastly"
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
@@ -129,6 +136,7 @@ has_cdn = {
 	"cloudflare": [],
 	"cloudfront": [],
 	"ddosguard": [],
+	"fastly": [],
 	"sucuri": [],
 	"myracloud": []
 }
@@ -159,7 +167,7 @@ def saveviaheaders():
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
 	dtested = len(topdomains) - erroredout
-	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({((dtested-has_nothing/dtested)*100)} were behind something). {erroredout} domains could not be tested.<br>"""
+	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({dtested-has_nothing/dtested} were behind something). {erroredout} domains could not be tested.<br>"""
 	for cdn in has_cdn:
 		alldomains = "\n".join(has_cdn[cdn])
 		report += f"""
@@ -194,7 +202,6 @@ def checkdomain(d):
 	global has_nothing
 	running += 1
 	ips = get_ip(d)
-	get_cname(d)
 	if ips == None:
 		running -= 1
 		done += 1
