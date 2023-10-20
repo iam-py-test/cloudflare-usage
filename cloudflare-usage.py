@@ -142,6 +142,10 @@ has_cdn = {
 }
 has_nothing = 0
 
+def sortdomains():
+	global has_cdn
+	for c in has_cdn:
+		has_cdn[c] = sorted(has_cdn[c])
 def savedomains():
 	for cdn in has_cdn:
 		domainsfile = open(f"{cdn}_domains.txt",'w',encoding="UTF-8")
@@ -242,6 +246,7 @@ while done < started:
 if SORT_DOMAINS:
 	hascloud.sort()
 
+sortdomains()
 savedomains()
 saveips()
 savereport()
