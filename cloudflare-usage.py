@@ -167,7 +167,7 @@ def saveviaheaders():
 def savereport():
 	reportfile = open(REPORT_FILE,'w')
 	dtested = len(topdomains) - erroredout
-	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({dtested-has_nothing/dtested} were behind something). {erroredout} domains could not be tested.<br>"""
+	report = f"""{len(topdomains)} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({(dtested - has_nothing) - erroredout} were behind something). {erroredout} domains could not be tested.<br>"""
 	for cdn in has_cdn:
 		alldomains = "\n".join(has_cdn[cdn])
 		report += f"""
