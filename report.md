@@ -1,5 +1,5 @@
-724 domains tested. 64.64088397790056% were behind nothing (256 were behind something). 276 domains could not be tested.<br>
-19 used akamai (2.6243093922651934%):
+721 domains tested. 64.77115117891817% were behind nothing (254 were behind something). 279 domains could not be tested.<br>
+19 used akamai (2.6352288488210815%):
 ```
 airbnb.com
 arubanetworks.com
@@ -22,12 +22,12 @@ wbx2.com
 webex.com
 ```
 
-1 used bunnycdn (0.13812154696132595%):
+1 used bunnycdn (0.13869625520110956%):
 ```
 b-cdn.net
 ```
 
-121 used cloudflare (16.71270718232044%):
+120 used cloudflare (16.643550624133148%):
 ```
 33across.com
 addtoany.com
@@ -75,7 +75,6 @@ forter.com
 frontapp.com
 genius.com
 gitlab.com
-globalsign.com
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -152,18 +151,17 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (15.193370165745856%):
+109 used cloudfront (15.117891816920942%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
-amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -243,7 +241,6 @@ shutterstock.com
 soundcloud.com
 spot.im
 state.gov
-statuspage.io
 surveymonkey.com
 swrve.com
 synology.com
@@ -257,6 +254,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 warnerbros.com
 wattpad.com
@@ -266,14 +264,14 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.4143646408839779%):
+3 used ddosguard (0.4160887656033287%):
 ```
 1c.ru
 netangels.ru
 pikabu.ru
 ```
 
-1 used fastly (0.13812154696132595%):
+1 used fastly (0.13869625520110956%):
 ```
 www.gov.uk
 ```
@@ -283,7 +281,7 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.13812154696132595%):
+1 used myracloud (0.13869625520110956%):
 ```
 php.net
 ```
