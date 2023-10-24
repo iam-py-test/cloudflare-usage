@@ -1,4 +1,4 @@
-726 domains tested. 64.87603305785123% were behind nothing (255 were behind something). 274 domains could not be tested.<br>
+726 domains tested. 64.46280991735537% were behind nothing (258 were behind something). 274 domains could not be tested.<br>
 19 used akamai (2.6170798898071626%):
 ```
 airbnb.com
@@ -27,7 +27,7 @@ webex.com
 b-cdn.net
 ```
 
-123 used cloudflare (16.94214876033058%):
+125 used cloudflare (17.21763085399449%):
 ```
 33across.com
 adcolony.com
@@ -77,6 +77,7 @@ forter.com
 frontapp.com
 genius.com
 gitlab.com
+glance.net
 globalsign.com
 hostgator.com
 hostgator.com.br
@@ -86,6 +87,7 @@ ibm.com
 ietf.org
 immunet.com
 indeed.com
+indexww.com
 innovid.com
 instacart.com
 jotform.com
@@ -154,21 +156,22 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (14.738292011019283%):
+108 used cloudfront (14.87603305785124%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
+amzn.to
 aniview.com
 atlassian.com
 atlassian.net
@@ -213,6 +216,7 @@ istockphoto.com
 latimes.com
 leboncoin.fr
 lijit.com
+line.me
 marketwatch.com
 mediatek.com
 merriam-webster.com
@@ -256,7 +260,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 warnerbros.com
 wattpad.com
 weathernews.jp
