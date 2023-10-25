@@ -1,5 +1,5 @@
-726 domains tested. 64.46280991735537% were behind nothing (258 were behind something). 274 domains could not be tested.<br>
-19 used akamai (2.6170798898071626%):
+725 domains tested. 64.41379310344828% were behind nothing (258 were behind something). 275 domains could not be tested.<br>
+19 used akamai (2.6206896551724137%):
 ```
 airbnb.com
 arubanetworks.com
@@ -22,12 +22,12 @@ wbx2.com
 webex.com
 ```
 
-1 used bunnycdn (0.13774104683195593%):
+1 used bunnycdn (0.13793103448275862%):
 ```
 b-cdn.net
 ```
 
-125 used cloudflare (17.21763085399449%):
+125 used cloudflare (17.24137931034483%):
 ```
 33across.com
 adcolony.com
@@ -156,18 +156,19 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (14.87603305785124%):
+108 used cloudfront (14.896551724137929%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com.br
+amazon.com
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -196,7 +197,6 @@ doi.org
 dreamhost.com
 economist.com
 elasticbeanstalk.com
-epa.gov
 espn.com
 europa.eu
 eventbrite.com
@@ -268,14 +268,14 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.4132231404958678%):
+3 used ddosguard (0.41379310344827586%):
 ```
 1c.ru
 netangels.ru
 pikabu.ru
 ```
 
-1 used fastly (0.13774104683195593%):
+1 used fastly (0.13793103448275862%):
 ```
 www.gov.uk
 ```
@@ -285,7 +285,7 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.13774104683195593%):
+1 used myracloud (0.13793103448275862%):
 ```
 php.net
 ```
