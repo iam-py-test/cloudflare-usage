@@ -10,3 +10,9 @@ This project looks for:
 - MyraCloud (Myra Security)
 - Sucuri
 - Fastly
+- Cachefly
+- CDN77
+- keycdn
+- leaseweb
+
+Not all these CDNs are as bad as CloudFlare.

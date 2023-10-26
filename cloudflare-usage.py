@@ -111,8 +111,18 @@ def hascloudflare(url):
 				return "bunnycdn"
 			elif server_header == "myracloud":
 				return "myracloud"
+			elif server_header == "CDN77" or server_header.startswith("CDN77-"):
+				return "cdn77"
+			elif server_header.startswith("keycdn-"):
+				return "keycdn"
 		if "CF-RAY" in r.headers:
 			return "cloudflare"
+		if "x-77-age" in r.headers or "x-77-cache" in r.headers or "x-77-nzt" in r.headers or "x-77-nzt-ray" in r.headers or "x-77-pop" in r.headers:
+			return "cdn77"
+		if "x-cf-reqid" in r.headers:
+			return "cachefly"
+		if "lswcdn_country_code" in r.headers:
+			return "leaseweb"
 		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
 			return "sucuri"
 		if "X-Cache" in r.headers:
@@ -133,12 +143,16 @@ hasddosguard = []
 has_cdn = {
 	"akamai": [],
 	"bunnycdn": [],
+	"cachefly": [],
+	"cdn77": [],
 	"cloudflare": [],
 	"cloudfront": [],
 	"ddosguard": [],
 	"fastly": [],
 	"sucuri": [],
-	"myracloud": []
+	"myracloud": [],
+	"keycdn": [],
+	"leaseweb": []
 }
 has_nothing = 0
 
