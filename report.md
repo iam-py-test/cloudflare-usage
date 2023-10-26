@@ -1,5 +1,5 @@
-725 domains tested. 64.41379310344828% were behind nothing (258 were behind something). 275 domains could not be tested.<br>
-19 used akamai (2.6206896551724137%):
+726 domains tested. 64.87603305785123% were behind nothing (255 were behind something). 274 domains could not be tested.<br>
+18 used akamai (2.479338842975207%):
 ```
 airbnb.com
 arubanetworks.com
@@ -10,7 +10,6 @@ ebay.de
 eepurl.com
 expedia.com
 fedex.com
-godaddy.com
 hp.com
 intel.com
 lowes.com
@@ -22,15 +21,14 @@ wbx2.com
 webex.com
 ```
 
-1 used bunnycdn (0.13793103448275862%):
+1 used bunnycdn (0.13774104683195593%):
 ```
 b-cdn.net
 ```
 
-125 used cloudflare (17.24137931034483%):
+124 used cloudflare (17.079889807162534%):
 ```
 33across.com
-adcolony.com
 addtoany.com
 allaboutcookies.org
 ancestry.com
@@ -156,18 +154,17 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (14.896551724137929%):
+107 used cloudfront (14.738292011019283%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.ca
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -191,6 +188,7 @@ clever.com
 coinmarketcap.com
 connatix.com
 cox.net
+datadoghq.com
 deviantart.com
 dmm.co.jp
 doi.org
@@ -259,7 +257,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 warnerbros.com
 wattpad.com
 weathernews.jp
@@ -268,14 +265,14 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.41379310344827586%):
+3 used ddosguard (0.4132231404958678%):
 ```
 1c.ru
 netangels.ru
 pikabu.ru
 ```
 
-1 used fastly (0.13793103448275862%):
+1 used fastly (0.13774104683195593%):
 ```
 www.gov.uk
 ```
@@ -285,7 +282,7 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.13793103448275862%):
+1 used myracloud (0.13774104683195593%):
 ```
 php.net
 ```
