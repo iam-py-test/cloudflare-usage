@@ -1,5 +1,5 @@
-731 domains tested. 64.70588235294117% were behind nothing (258 were behind something). 269 domains could not be tested.<br>
-19 used akamai (2.5991792065663475%):
+730 domains tested. 65.06849315068493% were behind nothing (255 were behind something). 270 domains could not be tested.<br>
+19 used akamai (2.6027397260273974%):
 ```
 airbnb.com
 arubanetworks.com
@@ -22,7 +22,7 @@ wbx2.com
 webex.com
 ```
 
-1 used bunnycdn (0.13679890560875513%):
+1 used bunnycdn (0.136986301369863%):
 ```
 b-cdn.net
 ```
@@ -37,7 +37,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (17.099863201094394%):
+123 used cloudflare (16.84931506849315%):
 ```
 33across.com
 addtoany.com
@@ -66,7 +66,6 @@ cloudflareinsights.com
 constantcontact.com
 cookielaw.org
 creativecommons.org
-dashlane.com
 digitalocean.com
 discogs.com
 discord.com
@@ -87,7 +86,6 @@ frontapp.com
 genius.com
 gitlab.com
 glance.net
-globalsign.com
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -166,18 +164,19 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (14.774281805745554%):
+107 used cloudfront (14.657534246575343%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -199,7 +198,6 @@ classdojo.com
 clever.com
 coinmarketcap.com
 connatix.com
-cox.net
 datadoghq.com
 deviantart.com
 dmm.co.jp
@@ -207,6 +205,7 @@ doi.org
 dreamhost.com
 economist.com
 elasticbeanstalk.com
+epa.gov
 espn.com
 europa.eu
 eventbrite.com
@@ -216,7 +215,6 @@ getpocket.com
 go.com
 hbr.org
 healthline.com
-here.com
 hipages.com.au
 hotjar.com
 imdb.com
@@ -269,7 +267,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-uol.com.br
 warnerbros.com
 wattpad.com
 weathernews.jp
@@ -278,14 +275,14 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.4103967168262654%):
+3 used ddosguard (0.410958904109589%):
 ```
 1c.ru
 netangels.ru
 pikabu.ru
 ```
 
-1 used fastly (0.13679890560875513%):
+1 used fastly (0.136986301369863%):
 ```
 www.gov.uk
 ```
@@ -295,7 +292,7 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.13679890560875513%):
+1 used myracloud (0.136986301369863%):
 ```
 php.net
 ```
