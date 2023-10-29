@@ -1,10 +1,9 @@
-import sys,random,socket,hashlib, json, time, threading
+import sys, random, socket,hashlib, json, time, threading, os
 import dns.resolver
 import urllib.parse
 
 import requests
 from tranco import Tranco
-from tqdm import tqdm
 
 NUM_DOMAINS = 1000
 UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"]
@@ -140,36 +139,68 @@ hascloudfront = []
 hassucuri = []
 hasakamai = []
 hasddosguard = []
-has_cdn = {
-	"akamai": [],
-	"bunnycdn": [],
-	"cachefly": [],
-	"cdn77": [],
-	"cloudflare": [],
-	"cloudfront": [],
-	"ddosguard": [],
-	"fastly": [],
-	"sucuri": [],
-	"myracloud": [],
-	"keycdn": [],
-	"leaseweb": []
+report_base = {
+	"cdns": {
+		"akamai": {
+			"domains": [],
+			"ips": []
+		},
+		"bunnycdn": {
+			"domains": [],
+			"ips": []
+		},
+		"cachefly": {
+			"domains": [],
+			"ips": []
+		},
+		"cdn77": {
+			"domains": [],
+			"ips": []
+		},
+		"cloudflare": {
+			"domains": [],
+			"ips": []
+		},
+		"cloudfront": {
+			"domains": [],
+			"ips": []
+		},
+		"ddosguard": {
+			"domains": [],
+			"ips": []
+		},
+		"fastly": {
+			"domains": [],
+			"ips": []
+		},
+		"sucuri": {
+			"domains": [],
+			"ips": []
+		},
+		"myracloud": {
+			"domains": [],
+			"ips": []
+		},
+		"keycdn": {
+			"domains": [],
+			"ips": []
+		},
+		"leaseweb": {
+			"domains": [],
+			"ips": []
+		}
+	},
+	"has_nothing": 0,
+	"tested": 0,
+	"total": 0,
+	"erroredout": 0
 }
-has_nothing = 0
+full_report = {
+}
+via_headers = []
+server_headers = []
+cnames = []
 
-def sortdomains():
-	global has_cdn
-	for c in has_cdn:
-		has_cdn[c] = sorted(has_cdn[c])
-def savedomains():
-	for cdn in has_cdn:
-		domainsfile = open(f"{cdn}_domains.txt",'w',encoding="UTF-8")
-		domainsfile.write("\n".join(has_cdn[cdn]))
-		domainsfile.close()
-def saveips():
-	for p in seenips:
-		ipsfile = open(f"{p}_ips.txt",'w',encoding="UTF-8")
-		ipsfile.write("\n".join(seenips[p]))
-		ipsfile.close()
 def savecnames():
 	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
 	ipsfile.write("\n".join(cnames))
@@ -183,86 +214,121 @@ def saveviaheaders():
 	viafile.write("\n".join(via_headers))
 	viafile.close()
 def savereport():
-	reportfile = open(REPORT_FILE,'w')
-	dtested = len(topdomains) - erroredout
-	report = f"""{dtested} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
-	for cdn in has_cdn:
-		alldomains = "\n".join(has_cdn[cdn])
-		report += f"""
-{len(has_cdn[cdn])} used {cdn} ({(len(has_cdn[cdn])/dtested)*100}%):
+	
+	for cata in full_report:
+		try:
+			os.mkdir(cata)
+		except Exception as err:
+			print(err)
+		report = full_report[cata]
+		for cdn in report["cdns"]:
+			try:
+				domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
+				domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
+				domainsfile.close()
+			except Exception as err:
+				debugmsg('err domains file',err)
+			try:
+				ipsfile = open(f"{cata}/{cdn}_ips.txt",'w',encoding="UTF-8")
+				ipsfile.write("\n".join(report["cdns"][cdn]["ips"]))
+				ipsfile.close()
+			except Exception as err:
+				debugmsg('err ips file',err)
+	
+		
+		dtested = report["tested"]
+		has_nothing = report["has_nothing"]
+		report_contents = f"""{dtested} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
+		debugmsg(report)
+		for cdn in report["cdns"]:
+			alldomains = "\n".join(report["cdns"][cdn]["domains"])
+			report_contents += f"""
+{len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
 ```
 {alldomains}
 ```
 """
-	reportfile.write(report)
+	reportfile = open(os.path.join(cata, "report.md"),'w')
+	reportfile.write(report_contents)
 	reportfile.close()
-	if TOPHASH_FILE == "" or TOPHASH_FILE == None:
-		return
-	tophash = open(TOPHASH_FILE,'w')
-	tophash.write(hashlib.sha256(";".join(topdomains).encode()).hexdigest())
-	tophash.close()
 
-if PROGRESS_BAR_ENABLED:
-	domainsarray = tqdm(topdomains)
-else:
-	domainsarray = topdomains
-
-def checkdomain(d):
-	global erroredout
-	global hascloud
-	global hascloudfront
-	global hassucuri
-	global hasakamai
-	global hasddosguard
+def checkdomain(d, cata):
 	global running
 	global done
-	global has_cdn
-	global has_nothing
+	global full_report
+	
 	running += 1
 	ips = get_ip(d)
 	if ips == None:
 		running -= 1
 		done += 1
+		full_report[cata]["erroredout"] += 1
 		return
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == False:
-		has_nothing += 1
+		full_report[cata]["tested"] += 1
+		full_report[cata]["has_nothing"] += 1
 	elif httptestresult != False and httptestresult != None:
-		if httptestresult not in has_cdn:
-			has_cdn[httptestresult] = []
-		has_cdn[httptestresult].append(d)
-		saveip(ips, httptestresult)
+		full_report[cata]["tested"] += 1
+		if httptestresult not in full_report[cata]:
+			full_report[cata]["cdns"][httptestresult] = {
+			"domains": [],
+			"ips": []
+			}
+		full_report[cata]["cdns"][httptestresult]["domains"].append(d)
+		full_report[cata]["cdns"][httptestresult]["domains"] = sorted(full_report[cata]["cdns"][httptestresult]["domains"])
+		full_report[cata]["cdns"][httptestresult]["ips"] = get_ip(d)
+		full_report[cata]["cdns"][httptestresult]["ips"] = list(set(full_report[cata]["cdns"][httptestresult]["ips"]))
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
 		if httpstestresult == False:
-			has_nothing += 1
+			full_report[cata]["has_nothing"] += 1
 		elif httpstestresult != False and httpstestresult != None:
-			if httpstestresult not in has_cdn:
-				has_cdn[httpstestresult] = []
-			has_cdn[httpstestresult].append(d)
-			saveip(ips, httpstestresult)
+			full_report[cata]["tested"] += 1
+			if httpstestresult not in full_report[cata]:
+				full_report[cata]["cdns"][httpstestresult] = {
+					"domains": [],
+					"ips": []
+				}
+			full_report[cata]["cdns"][httpstestresult]["domains"].append(d)
+			full_report[cata]["cdns"][httpstestresult]["ips"] = get_ip(d)
 		elif httpstestresult == None:
-			erroredout += 1
+			full_report[cata]["erroredout"] += 1
 	done += 1
 	running -= 1
+	debugmsg(f"Done: {done} Running: {running}")
 
-for d in domainsarray:
-	if running > MAX_THREADS:
-		print("too many, sleeping", running)
-		time.sleep(5)
-		print("woke up", running)
-	started += 1
-	threading.Thread(target=checkdomain, args=(d, )).start()
 
-while done < started:
-	pass
+def check_domains(domains, cata):
+	global running
+	global full_report
+	global started
+	
+	running = 0
+	done = 0
+	started = 0
+	
+	full_report[cata] = dict(report_base)
+	full_report[cata]["total"] = len(domains)
+	
+	for domain in domains:
+		if running > MAX_THREADS:
+			print("too many, sleeping", running)
+			time.sleep(5)
+			print("woke up", running)
+		started += 1
+		threading.Thread(target=checkdomain, args=(domain, cata, )).start()
 
-if SORT_DOMAINS:
-	hascloud.sort()
+	try:
+		while running > 0:
+			pass
+	except KeyboardInterrupt:
+		pass
+	print("Done checking domains for cata",cata)
 
-sortdomains()
-savedomains()
-saveips()
+check_domains(topdomains, "top1000")
+
+
 savereport()
 savecnames()
 saveserverheaders()
