@@ -214,7 +214,7 @@ def saveviaheaders():
 	viafile.write("\n".join(via_headers))
 	viafile.close()
 def savereport():
-	
+	print(full_report)
 	for cata in full_report:
 		try:
 			os.mkdir(cata)
@@ -270,13 +270,12 @@ def checkdomain(d, cata):
 		full_report[cata]["has_nothing"] += 1
 	elif httptestresult != False and httptestresult != None:
 		full_report[cata]["tested"] += 1
-		if httptestresult not in full_report[cata]:
+		if httptestresult not in full_report[cata]["cdns"]:
 			full_report[cata]["cdns"][httptestresult] = {
 			"domains": [],
 			"ips": []
 			}
 		full_report[cata]["cdns"][httptestresult]["domains"].append(d)
-		full_report[cata]["cdns"][httptestresult]["domains"] = sorted(full_report[cata]["cdns"][httptestresult]["domains"])
 		full_report[cata]["cdns"][httptestresult]["ips"] = get_ip(d)
 		full_report[cata]["cdns"][httptestresult]["ips"] = list(set(full_report[cata]["cdns"][httptestresult]["ips"]))
 	elif httptestresult == None and RETRY_ENABLED == True:
@@ -285,7 +284,7 @@ def checkdomain(d, cata):
 			full_report[cata]["has_nothing"] += 1
 		elif httpstestresult != False and httpstestresult != None:
 			full_report[cata]["tested"] += 1
-			if httpstestresult not in full_report[cata]:
+			if httpstestresult not in full_report[cata]["cdns"]:
 				full_report[cata]["cdns"][httpstestresult] = {
 					"domains": [],
 					"ips": []
