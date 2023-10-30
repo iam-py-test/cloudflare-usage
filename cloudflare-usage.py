@@ -37,7 +37,6 @@ cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
-erroredout = 0
 seenips = {}
 server_headers = []
 via_headers = []
@@ -238,6 +237,7 @@ def savereport():
 		
 		dtested = report["tested"]
 		has_nothing = report["has_nothing"]
+		erroredout = report["erroredout"]
 		report_contents = f"""{dtested} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
 		debugmsg(report)
 		for cdn in report["cdns"]:
