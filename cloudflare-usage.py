@@ -311,6 +311,8 @@ def check_domains(domains, cata):
 	full_report[cata]["total"] = len(domains)
 	
 	for domain in domains:
+		if domain == "" or domain.startswith("#"):
+			continue
 		if running > MAX_THREADS:
 			print("too many, sleeping", running)
 			time.sleep(5)
@@ -330,6 +332,12 @@ check_domains(topdomains, "top1000")
 try:
 	kdl = requests.get("https://raw.githubusercontent.com/iam-py-test/tracker_analytics/main/kdl.txt").text.split("\n")
 	check_domains(kdl, "kdl")
+except Exception as err:
+	print(err)
+
+try:
+	urlhaus = requests.get("https://urlhaus.abuse.ch/downloads/hostfile/").text.replace("127.0.0.1\t","").split("\n")
+	check_domains(urlhaus, "urlhaus")
 except Exception as err:
 	print(err)
 
