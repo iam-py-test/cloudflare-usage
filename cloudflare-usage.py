@@ -276,7 +276,7 @@ def checkdomain(d, cata):
 			"ips": []
 			}
 		full_report[cata]["cdns"][httptestresult]["domains"].append(d)
-		full_report[cata]["cdns"][httptestresult]["ips"] = get_ip(d)
+		full_report[cata]["cdns"][httptestresult]["ips"] += get_ip(d)
 		full_report[cata]["cdns"][httptestresult]["ips"] = list(set(full_report[cata]["cdns"][httptestresult]["ips"]))
 	elif httptestresult == None and RETRY_ENABLED == True:
 		httpstestresult = hascloudflare(f"https://{d}")
