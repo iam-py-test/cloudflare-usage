@@ -327,6 +327,11 @@ def check_domains(domains, cata):
 
 check_domains(topdomains, "top1000")
 
+try:
+	kdl = requests.get("https://raw.githubusercontent.com/iam-py-test/tracker_analytics/main/kdl.txt").text.split("\n")
+	check_domains(kdl, "kdl")
+except Exception as err:
+	print(err)
 
 savereport()
 savecnames()
