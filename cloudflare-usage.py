@@ -238,7 +238,11 @@ def savereport():
 		dtested = report["tested"]
 		has_nothing = report["has_nothing"]
 		erroredout = report["erroredout"]
-		report_contents = f"""{dtested} domains tested. {(has_nothing/dtested)*100}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
+		try:
+			tested_precent = (has_nothing/dtested)*100
+		except:
+			tested_precent = 0
+		report_contents = f"""{dtested} domains tested. {tested_precent}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
 		debugmsg(report)
 		for cdn in report["cdns"]:
 			alldomains = "\n".join(report["cdns"][cdn]["domains"])
@@ -259,6 +263,7 @@ def checkdomain(d, cata):
 	
 	running += 1
 	ips = get_ip(d)
+	full_report[cata]["tested"] += 1
 	if ips == None:
 		running -= 1
 		done += 1
@@ -266,10 +271,8 @@ def checkdomain(d, cata):
 		return
 	httptestresult = hascloudflare(f"http://{d}")
 	if httptestresult == False:
-		full_report[cata]["tested"] += 1
 		full_report[cata]["has_nothing"] += 1
 	elif httptestresult != False and httptestresult != None:
-		full_report[cata]["tested"] += 1
 		if httptestresult not in full_report[cata]["cdns"]:
 			full_report[cata]["cdns"][httptestresult] = {
 			"domains": [],
@@ -283,7 +286,6 @@ def checkdomain(d, cata):
 		if httpstestresult == False:
 			full_report[cata]["has_nothing"] += 1
 		elif httpstestresult != False and httpstestresult != None:
-			full_report[cata]["tested"] += 1
 			if httpstestresult not in full_report[cata]["cdns"]:
 				full_report[cata]["cdns"][httpstestresult] = {
 					"domains": [],
