@@ -338,7 +338,7 @@ except Exception as err:
 	print(err)
 
 try:
-	urlhaus = requests.get("https://urlhaus.abuse.ch/downloads/hostfile/").text.replace("127.0.0.1\t","").split("\n")
+	urlhaus = requests.get("https://urlhaus.abuse.ch/downloads/hostfile/").text.replace("127.0.0.1\t","").replace("\r", "").split("\n")
 	check_domains(urlhaus, "urlhaus")
 except Exception as err:
 	print(err)
