@@ -1,4 +1,4 @@
-354 domains tested. 85.31073446327684% were behind nothing (52 were behind something). 18 domains could not be tested.<br>
+348 domains tested. 85.91954022988506% were behind nothing (49 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,39 +19,35 @@
 
 ```
 
-31 used cloudflare (8.757062146892656%):
+27 used cloudflare (7.758620689655173%):
 ```
+demonware.online
 api.baimless.com
 akhtarweb.com
-demonware.online
-dienmay01.maudemo.com
-dlink.caesarsgroup.top
 china.dhabigroup.top
-downloayxkemam.sbs
-crackload.net
-ji.alie3ksgbb.com
+appstopic.com
 electnum.com
-et3.ektpnc.com
-frezzyhook.com
+dienmay01.maudemo.com
+crackload.net
 img.proxies.world
-ji.alie3ksgdd.com
-fresh1.ironoreprod.top
 faucetmeaning.com
-gtn.cl
+ji.alie3ksgdd.com
+frezzyhook.com
 lycheepanel.info
-rusticironstore.com
-marrakechfolkloredays.com
-wordpress.ductai.xyz
-subirfact.com
+ji.alie3ksgbb.com
+gtn.cl
+paste-bin.xyz
+spices.com.sg
 walkinglate.com
-www.agies.org
-support.firesecurityproducts.com.au
 www.gxigroup.com
-www.idpminic.org
-vollfisioterapia.com.br
-trtmyanmar.com
+support.firesecurityproducts.com.au
 gomlgaming.dev
+vollfisioterapia.com.br
+www.idpminic.org
+toquedebolafc.com.br
 zaofisa.net
+dlink.caesarsgroup.top
+fresh1.ironoreprod.top
 ```
 
 0 used cloudfront (0.0%):
@@ -59,9 +55,14 @@ zaofisa.net
 
 ```
 
-1 used ddosguard (0.2824858757062147%):
+1 used ddosguard (0.28735632183908044%):
 ```
 saderasi.pics
+```
+
+0 used edgecast (0.0%):
+```
+
 ```
 
 0 used fastly (0.0%):
@@ -69,9 +70,10 @@ saderasi.pics
 
 ```
 
-2 used sucuri (0.5649717514124294%):
+3 used sucuri (0.8620689655172413%):
 ```
 www.bearware.org
+www.asterglobal.com
 www.lasikofmichigan.com
 ```
 
