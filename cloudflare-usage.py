@@ -1,6 +1,7 @@
 import sys, random, socket,hashlib, json, time, threading, os
 import dns.resolver
 import urllib.parse
+import copy
 
 import requests
 from tranco import Tranco
@@ -309,7 +310,7 @@ def check_domains(domains, cata):
 	done = 0
 	started = 0
 	
-	full_report[cata] = dict(report_base)
+	full_report[cata] = copy.deepcopy(report_base)
 	full_report[cata]["total"] = len(domains)
 	
 	for domain in domains:
