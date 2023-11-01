@@ -38,19 +38,9 @@ cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 
-seenips = {}
 server_headers = []
 via_headers = []
-def saveip(ips, provider="cloudflare"):
-	global seenips
-	try:
-		if provider not in seenips:
-			seenips[provider] = []
-		for ip in ips:
-			if ip not in seenips:
-				seenips[provider].append(ip)
-	except:
-		pass
+
 def get_cname(domain):
 	global cnames
 	try:
@@ -87,6 +77,8 @@ def hascloudflare(url):
 		if cname != None:
 			if cname.endswith(".fastly.net"):
 				return "fastly"
+			if cname.endswith(".edgecastcdn.net"):
+				return "edgecast"
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
@@ -166,6 +158,10 @@ report_base = {
 			"ips": []
 		},
 		"ddosguard": {
+			"domains": [],
+			"ips": []
+		},
+		"edgecast": {
 			"domains": [],
 			"ips": []
 		},
