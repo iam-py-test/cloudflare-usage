@@ -51,7 +51,7 @@ def get_cname(domain):
 		if cn == domain:
 			return None
 		if cn in cnames:
-			return None
+			return cn
 		cnames.append(cn)
 		return cn
 	except:
