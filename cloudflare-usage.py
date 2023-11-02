@@ -340,6 +340,12 @@ try:
 except Exception as err:
 	print(err)
 
+try:
+	urlshort = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/anti-redirectors_domains.txt").text.replace("\r", "").split("\n")
+	check_domains(urlshort, "urlshort")
+except Exception as err:
+	print(err)
+
 savereport()
 savecnames()
 saveserverheaders()
