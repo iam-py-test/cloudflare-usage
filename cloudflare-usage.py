@@ -79,6 +79,8 @@ def hascloudflare(url):
 				return "fastly"
 			if cname.endswith(".edgecastcdn.net"):
 				return "edgecast"
+			if cname.endswith(".akamaiedge.net") or cname.endswith(".akamai.net"):
+				return "akamai"
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
