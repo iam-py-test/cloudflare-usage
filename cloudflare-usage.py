@@ -359,6 +359,8 @@ try:
 		except:
 			pass
 	check_domains(filterlists_domains, "filterlists")
+except:
+	pass
 
 savereport()
 savecnames()
