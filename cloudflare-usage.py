@@ -348,6 +348,18 @@ try:
 except Exception as err:
 	print(err)
 
+try:
+	filterlists_data = json.loads(requests.get("https://raw.githubusercontent.com/collinbarrett/FilterLists/main/services/Directory/data/FilterListViewUrl.json"))
+	filterlists_domains = []
+	for filterlist in filterlists_data:
+		try:
+			ff_domain = urllib.parse.urlparse(filterlist["url"]).netloc
+			if ff_domain not in filterlists_domains:
+				filterlists_domains.append(ff_domain)
+		except:
+			pass
+	check_domains(filterlists_domains, "filterlists")
+
 savereport()
 savecnames()
 saveserverheaders()

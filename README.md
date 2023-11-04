@@ -19,10 +19,17 @@ Not all these CDNs are as bad as CloudFlare.
 
 ## Structure
 - [top1000](./top1000/report.md)
+
 Tracks the top 1000 most popular domains [in the Tranco list](https://tranco-list.eu/)
 - [kdl](./kdl/report.md)
+
 Tracks the domains present on the top 200 domains ([based on data from my Tracker Analytics project](https://github.com/iam-py-test/tracker_analytics/))
 - [urlhaus](./urlhaus/report.md)
+
 Tracks [websites distributing malware, using data from abuse.ch's URLHaus](https://urlhaus.abuse.ch/)
 - [URL Shorteners](./urlshort/report.md)
+
 Tracks URL Shorteners, based on my own data.
+- [Filterlists](./filterlists/report.md)
+
+Tracks how many filterlists are hosted behind CloudFlare, [using the data from filterlists.com](https://filterlists.com/) (Behind CloudFlare).
