@@ -349,7 +349,7 @@ except Exception as err:
 	print(err)
 
 try:
-	filterlists_data = json.loads(requests.get("https://raw.githubusercontent.com/collinbarrett/FilterLists/main/services/Directory/data/FilterListViewUrl.json"))
+	filterlists_data = json.loads(requests.get("https://raw.githubusercontent.com/collinbarrett/FilterLists/main/services/Directory/data/FilterListViewUrl.json").text)
 	filterlists_domains = []
 	for filterlist in filterlists_data:
 		try:
