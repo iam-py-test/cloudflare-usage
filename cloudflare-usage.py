@@ -358,9 +358,10 @@ try:
 				filterlists_domains.append(ff_domain)
 		except:
 			pass
+	print(len(filterlists_domains))
 	check_domains(filterlists_domains, "filterlists")
-except:
-	pass
+except Exception as err:
+	print(err)
 
 savereport()
 savecnames()
