@@ -251,9 +251,9 @@ def savereport():
 {alldomains}
 ```
 """
-	reportfile = open(os.path.join(cata, "report.md"),'w')
-	reportfile.write(report_contents)
-	reportfile.close()
+		reportfile = open(os.path.join(cata, "report.md"),'w')
+		reportfile.write(report_contents)
+		reportfile.close()
 
 def checkdomain(d, cata):
 	global running
