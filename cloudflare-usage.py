@@ -2,6 +2,7 @@ import sys, random, socket,hashlib, json, time, threading, os
 import dns.resolver
 import urllib.parse
 import copy
+import datetime.datetime
 
 import requests
 from tranco import Tranco
@@ -20,6 +21,7 @@ REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
 MAX_THREADS = 100
+start_time = datetime.datetime.now().isoformat()
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
@@ -37,6 +39,20 @@ started = 0
 cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
+
+try:
+	stats_file = json.loads(open("stats.json").read())
+except:
+	stats_file = {
+		"date_reports": {},
+		"cat_precents": {}
+	}
+if "cat_precents" not in stats_file:
+	stats_file["cat_precents"] = {}
+if "date_reports" not in stats_file:
+	stats_file["date_reports"] = {}
+if start_time not in stats_file["date_reports"]:
+	stats_file["date_reports"][start_time] = {}
 
 server_headers = []
 via_headers = []
@@ -212,6 +228,7 @@ def saveviaheaders():
 	viafile.write("\n".join(via_headers))
 	viafile.close()
 def savereport():
+	global stats_file
 	print(full_report)
 	for cata in full_report:
 		try:
@@ -219,7 +236,13 @@ def savereport():
 		except Exception as err:
 			print(err)
 		report = full_report[cata]
+		if cata not in stats_file["cat_precents"]:
+			stats_file["cat_precents"][cata] = {}
+		
 		for cdn in report["cdns"]:
+			if cdn not in stats_file["cat_precents"][cata]:
+				stats_file["cat_precents"][cata][cdn] = []
+			stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"])))
 			try:
 				domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
 				domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
@@ -254,6 +277,9 @@ def savereport():
 		reportfile = open(os.path.join(cata, "report.md"),'w')
 		reportfile.write(report_contents)
 		reportfile.close()
+	stats_file_handle = open("stats.json", 'w')
+	stats_file_handle.write(json.dumps(stats_file))
+	stats_file_handle.close()
 
 def checkdomain(d, cata):
 	global running
@@ -303,6 +329,10 @@ def check_domains(domains, cata):
 	global running
 	global full_report
 	global started
+	global stats_file
+
+	if cata not in stats_file[start_time]:
+		stats_file[start_time][cata] = {}
 	
 	running = 0
 	done = 0
@@ -326,6 +356,7 @@ def check_domains(domains, cata):
 			pass
 	except KeyboardInterrupt:
 		pass
+	stats_file[start_time][cata] = full_report[cata]
 	print("Done checking domains for cata",cata)
 
 check_domains(topdomains, "top1000")
