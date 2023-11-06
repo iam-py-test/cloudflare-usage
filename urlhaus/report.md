@@ -1,4 +1,4 @@
-446 domains tested. 88.56502242152466% were behind nothing (51 were behind something). 16 domains could not be tested.<br>
+661 domains tested. 89.25869894099849% were behind nothing (71 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,52 @@
 
 ```
 
-32 used cloudflare (7.174887892376682%):
+44 used cloudflare (6.656580937972769%):
 ```
-akhtarweb.com
 api.baimless.com
-beegolang.com
+akhtarweb.com
+buildrs.com
+books.ttc.edu.sg
 china.dhabigroup.top
+airtimes.my
+buranding.com
 crackload.net
-dlink.caesarsgroup.top
-electnum.com
-downloayxkemam.sbs
 et3.ektpnc.com
-dienmay01.maudemo.com
-globalseorim.co.in
 fresh1.ironoreprod.top
-frezzyhook.com
-gtn.cl
+dlink.caesarsgroup.top
+downloayxkemam.sbs
+dienmay01.maudemo.com
 faucetmeaning.com
+dis.ac.tz
+frezzyhook.com
+ferreterialirquen.cl
 hostigram.xyz
-marrakechfolkloredays.com
+hseferi-ks.com
+img.proxies.world
+gtn.cl
+h2u.host
 lycheepanel.info
+marrakechfolkloredays.com
 gomlgaming.dev
+lagunabeachresort3-maldives.com
 paste-bin.xyz
-wordpress.ductai.xyz
-theredchickz.com
-vollfisioterapia.com.br
-spices.com.sg
-trtmyanmar.com
-zabeeltower.com
+nexcreations.com.sg
+petryseguros.com.br
+spbinan.com
+spinnerhigh.com
+securehosting.vip
 spacetrack.co.tz
-zang1.almashreaq.top
-toquedebolafc.com.br
-www.idpminic.org
-www.geovanisantos.adv.br
+rusticironstore.com
+spices.com.sg
+walkinglate.com
+triskeliumhub.com
 www.agies.org
+www.idpminic.org
+vollfisioterapia.com.br
+www.geovanisantos.adv.br
+trtmyanmar.com
+zang1.almashreaq.top
+zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -60,7 +72,7 @@ www.agies.org
 
 ```
 
-1 used ddosguard (0.2242152466367713%):
+1 used ddosguard (0.15128593040847202%):
 ```
 saderasi.pics
 ```
@@ -75,10 +87,10 @@ saderasi.pics
 
 ```
 
-2 used sucuri (0.4484304932735426%):
+2 used sucuri (0.30257186081694404%):
 ```
-www.lasikofmichigan.com
 www.asterglobal.com
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
