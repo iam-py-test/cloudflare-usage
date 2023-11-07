@@ -16,8 +16,10 @@ jobs:
         python-version: '3.x'
     - name: Build data
       run: |
-        pip3 install requests tranco tqdm httpx dnspython
+        pip3 install requests tranco tqdm httpx dnspython datetime
         pip3 list
+        python3 --version
+        ps -e
         python3 cloudflare-usage.py --noprogress
     - name: Commit & Push
       uses: actions-x/commit@v6
