@@ -331,8 +331,8 @@ def check_domains(domains, cata):
 	global started
 	global stats_file
 
-	if cata not in stats_file[start_time]:
-		stats_file[start_time][cata] = {}
+	if cata not in stats_file["date_reports"][start_time]:
+		stats_file["date_reports"][start_time][cata] = {}
 	
 	running = 0
 	done = 0
