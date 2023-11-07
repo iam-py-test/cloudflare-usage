@@ -242,7 +242,7 @@ def savereport():
 		for cdn in report["cdns"]:
 			if cdn not in stats_file["cat_precents"][cata]:
 				stats_file["cat_precents"][cata][cdn] = []
-			stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"])))
+			stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"]))
 			try:
 				domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
 				domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
