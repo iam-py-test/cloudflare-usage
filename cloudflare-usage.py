@@ -2,7 +2,7 @@ import sys, random, socket,hashlib, json, time, threading, os
 import dns.resolver
 import urllib.parse
 import copy
-import datetime.datetime
+from datetime import datetime
 
 import requests
 from tranco import Tranco
