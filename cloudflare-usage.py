@@ -356,7 +356,7 @@ def check_domains(domains, cata):
 			pass
 	except KeyboardInterrupt:
 		pass
-	stats_file[start_time][cata] = full_report[cata]
+	stats_file["date_reports"][start_time][cata] = full_report[cata]
 	print("Done checking domains for cata",cata)
 
 check_domains(topdomains, "top1000")
