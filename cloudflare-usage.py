@@ -21,7 +21,7 @@ REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
 MAX_THREADS = 100
-start_time = datetime.datetime.now().isoformat()
+start_time = datetime.now().isoformat()
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
