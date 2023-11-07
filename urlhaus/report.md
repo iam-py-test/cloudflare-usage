@@ -1,4 +1,4 @@
-661 domains tested. 89.25869894099849% were behind nothing (71 were behind something). 24 domains could not be tested.<br>
+763 domains tested. 89.90825688073394% were behind nothing (77 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,52 +19,57 @@
 
 ```
 
-44 used cloudflare (6.656580937972769%):
+49 used cloudflare (6.422018348623854%):
 ```
-api.baimless.com
 akhtarweb.com
-buildrs.com
-books.ttc.edu.sg
+bcysa.org
 china.dhabigroup.top
+books.ttc.edu.sg
+demonware.online
+dlink.caesarsgroup.top
 airtimes.my
 buranding.com
-crackload.net
-et3.ektpnc.com
+buildrs.com
+bujor.md
 fresh1.ironoreprod.top
-dlink.caesarsgroup.top
-downloayxkemam.sbs
+crackload.net
+electnum.com
 dienmay01.maudemo.com
-faucetmeaning.com
-dis.ac.tz
-frezzyhook.com
-ferreterialirquen.cl
-hostigram.xyz
 hseferi-ks.com
+hostigram.xyz
 img.proxies.world
+dis.ac.tz
+et3.ektpnc.com
+ferreterialirquen.cl
+gbuarts.com
+hopewater.co
 gtn.cl
 h2u.host
-lycheepanel.info
-marrakechfolkloredays.com
-gomlgaming.dev
+ledsun-eg.com
 lagunabeachresort3-maldives.com
-paste-bin.xyz
-nexcreations.com.sg
+lycheepanel.info
+gomlgaming.dev
+marrakechfolkloredays.com
 petryseguros.com.br
+nexcreations.com.sg
+securehosting.vip
+seokittool.com
+rusticironstore.com
 spbinan.com
 spinnerhigh.com
-securehosting.vip
 spacetrack.co.tz
-rusticironstore.com
-spices.com.sg
-walkinglate.com
-triskeliumhub.com
-www.agies.org
-www.idpminic.org
-vollfisioterapia.com.br
-www.geovanisantos.adv.br
 trtmyanmar.com
+triskeliumhub.com
+wordpress.ductai.xyz
+walkinglate.com
+ji.alie3ksgbb.com
+www.agies.org
 zang1.almashreaq.top
-zaofisa.net
+vollfisioterapia.com.br
+www.idpminic.org
+zabeelmall.com
+www.geovanisantos.adv.br
+toquedebolafc.com.br
 ```
 
 0 used cloudfront (0.0%):
@@ -72,9 +77,9 @@ zaofisa.net
 
 ```
 
-1 used ddosguard (0.15128593040847202%):
+0 used ddosguard (0.0%):
 ```
-saderasi.pics
+
 ```
 
 0 used edgecast (0.0%):
@@ -87,8 +92,9 @@ saderasi.pics
 
 ```
 
-2 used sucuri (0.30257186081694404%):
+3 used sucuri (0.39318479685452157%):
 ```
+www.bearware.org
 www.asterglobal.com
 www.lasikofmichigan.com
 ```
