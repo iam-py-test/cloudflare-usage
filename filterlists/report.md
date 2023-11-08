@@ -1,17 +1,17 @@
-214 domains tested. 57.009345794392516% were behind nothing (92 were behind something). 27 domains could not be tested.<br>
+214 domains tested. 57.943925233644855% were behind nothing (90 were behind something). 25 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
-easylist-downloads.adblockplus.org
-www.ebates.com
 www.microsoft.com
+www.ebates.com
+easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
 ```
 
 3 used bunnycdn (1.4018691588785046%):
 ```
 oooo.b-cdn.net
-doh1.blahdns.com
 www.bentasker.co.uk
+doh1.blahdns.com
 ```
 
 0 used cachefly (0.0%):
@@ -26,56 +26,56 @@ filters.adtidy.org
 
 51 used cloudflare (23.83177570093458%):
 ```
-rawcdn.githack.com
-gitcdn.link
 cdn.adblockcdn.com
-pastebin.com
+gitcdn.link
+rawcdn.githack.com
 getadhell.com
+block.energized.pro
 iplists.firehol.org
 easylist.to
-secure.fanboy.co.nz
-stanev.org
-adblock.mahakala.is
-www.i-dont-care-about-cookies.eu
-phishing.army
-osint.bambenekconsulting.com
-ads-for-open-source.readthedocs.io
-block.energized.pro
-fanboy.co.nz
-blocklist.palemoon.org
-www.fanboy.co.nz
 adp.magnobiet.com
-abp.tt.codes
-nonio.pt
+osint.bambenekconsulting.com
 tgc.cloud
+nonio.pt
+pastebin.com
+phishing.army
+abpvn.com
+adblock.mahakala.is
+fanboy.co.nz
+abp.tt.codes
+blocklist.palemoon.org
+secure.fanboy.co.nz
+ads-for-open-source.readthedocs.io
+www.fanboy.co.nz
+www.i-dont-care-about-cookies.eu
+stanev.org
 road.adblock.ro
-gitlab.com
+zonefiles.io
 www.stopforumspam.com
 www.binarydefense.com
+blokada.org
 www.botvrij.eu
 theantisocialengineer.com
-www.lb.lt
-lpt.lrv.lt
-dns.adguard.com
-abpvn.com
-repo.andnixsh.com
-dns-family.adguard.com
-anti-ad.net
-azorult-tracker.net
 assets.windscribe.com
+www.lb.lt
+repo.andnixsh.com
+gitlab.com
+azorult-tracker.net
 jansal.net
-combinatronics.io
-easydutch.pages.dev
-1275.ru
-blokada.org
-easydutchcdn.pages.dev
-zonefiles.io
+dns-family.adguard.com
+dns.adguard.com
+anti-ad.net
 security.cloudflare-dns.com
+lpt.lrv.lt
+easydutchcdn.pages.dev
 managedsentinel.com
 family.cloudflare-dns.com
-filtersheroes.gitlab.io
-malware-filter.gitlab.io
+easydutch.pages.dev
+1275.ru
+combinatronics.io
 anonymousposter.gitlab.io
+malware-filter.gitlab.io
+filtersheroes.gitlab.io
 blocklist.cyberthreatcoalition.org
 ```
 

@@ -1,4 +1,4 @@
-763 domains tested. 89.90825688073394% were behind nothing (77 were behind something). 25 domains could not be tested.<br>
+764 domains tested. 89.13612565445025% were behind nothing (83 were behind something). 33 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,57 +19,55 @@
 
 ```
 
-49 used cloudflare (6.422018348623854%):
+47 used cloudflare (6.151832460732985%):
 ```
+api.baimless.com
 akhtarweb.com
 bcysa.org
 china.dhabigroup.top
 books.ttc.edu.sg
 demonware.online
-dlink.caesarsgroup.top
 airtimes.my
-buranding.com
 buildrs.com
+buranding.com
 bujor.md
-fresh1.ironoreprod.top
+dlink.caesarsgroup.top
 crackload.net
-electnum.com
-dienmay01.maudemo.com
-hseferi-ks.com
-hostigram.xyz
-img.proxies.world
-dis.ac.tz
+faucetmeaning.com
+fresh1.ironoreprod.top
 et3.ektpnc.com
-ferreterialirquen.cl
-gbuarts.com
-hopewater.co
-gtn.cl
+dis.ac.tz
+downloayxkemam.sbs
+dienmay01.maudemo.com
+hostigram.xyz
+frezzyhook.com
 h2u.host
+ferreterialirquen.cl
+hopewater.co
+gbuarts.com
+lycheepanel.info
 ledsun-eg.com
 lagunabeachresort3-maldives.com
-lycheepanel.info
-gomlgaming.dev
 marrakechfolkloredays.com
+paste-bin.xyz
 petryseguros.com.br
 nexcreations.com.sg
 securehosting.vip
+spbinan.com
 seokittool.com
 rusticironstore.com
-spbinan.com
 spinnerhigh.com
 spacetrack.co.tz
-trtmyanmar.com
-triskeliumhub.com
-wordpress.ductai.xyz
+spices.com.sg
 walkinglate.com
-ji.alie3ksgbb.com
+triskeliumhub.com
 www.agies.org
+trtmyanmar.com
+ji.alie3ksgbb.com
 zang1.almashreaq.top
-vollfisioterapia.com.br
-www.idpminic.org
 zabeelmall.com
+www.idpminic.org
 www.geovanisantos.adv.br
-toquedebolafc.com.br
 ```
 
 0 used cloudfront (0.0%):
@@ -92,7 +90,7 @@ toquedebolafc.com.br
 
 ```
 
-3 used sucuri (0.39318479685452157%):
+3 used sucuri (0.3926701570680628%):
 ```
 www.bearware.org
 www.asterglobal.com
