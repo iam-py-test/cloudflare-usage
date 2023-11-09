@@ -33,3 +33,11 @@ Tracks URL Shorteners, based on my own data.
 - [Filterlists](./filterlists/report.md)
 
 Tracks how many filterlists are hosted behind CloudFlare, [using the data from filterlists.com](https://filterlists.com/) (Behind CloudFlare).
+
+- [News websites](./news_websites/report.md)
+
+[Tracks news websites](./data/news.txt)
+
+- [United States government](./us_gov/report.md)
+
+[Tracks US government (federal, state, local, territorial, and tribal) websites](./data/usgov.txt)

@@ -394,6 +394,18 @@ try:
 except Exception as err:
 	print(err)
 
+try:
+	news_websites = open("data/news.txt").read().replace("\r", "").split("\n")
+	check_domains(news_websites, "news_websites")
+except Exception as err:
+	print(err)
+
+try:
+	usgov = open("data/usgov.txt").read().replace("\r", "").split("\n")
+	check_domains(usgov, "usgov")
+except Exception as err:
+	print(err)
+
 savereport()
 savecnames()
 saveserverheaders()
