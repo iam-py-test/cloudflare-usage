@@ -1,25 +1,24 @@
-356 domains tested. 54.21348314606742% were behind nothing (163 were behind something). 79 domains could not be tested.<br>
-20 used akamai (5.617977528089887%):
+356 domains tested. 46.62921348314607% were behind nothing (190 were behind something). 114 domains could not be tested.<br>
+19 used akamai (5.337078651685393%):
 ```
+fda.gov
 cic.ndu.edu
 stats.bls.gov
-amtrak.com
 home.treasury.gov
-dea.gov
 doleta.gov
-fcc.gov
-bea.gov
-fda.gov
-studentaid.gov
-jfsc.ndu.edu
-clerk.house.gov
-railroads.dot.gov
+dea.gov
+amtrak.com
 transit.dot.gov
-usfa.fema.gov
-maritime.dot.gov
+railroads.dot.gov
 highways.dot.gov
+fcc.gov
+usfa.fema.gov
+clerk.house.gov
+bea.gov
+jfsc.ndu.edu
+studentaid.gov
+maritime.dot.gov
 npin.cdc.gov
-tsa.gov
 eia.gov
 ```
 
@@ -38,75 +37,68 @@ eia.gov
 
 ```
 
-28 used cloudflare (7.865168539325842%):
+24 used cloudflare (6.741573033707865%):
 ```
 loc.gov
 aoc.gov
-juvenilecouncil.ojp.gov
-fbi.gov
+copyright.gov
 dau.edu
-cftc.gov
-uscirf.gov
-bis.doc.gov
-arc.gov
-csb.gov
-bjs.gov
-fanniemae.com
-eac.gov
-fcsic.gov
-freddiemac.com
-ffiec.gov
-federalreserve.gov
-federallabs.org
-constitutioncenter.org
-gpo.gov
+fbi.gov
 fca.gov
-ojp.gov
-nij.ojp.gov
+juvenilecouncil.ojp.gov
+freddiemac.com
+constitutioncenter.org
+federallabs.org
+gpo.gov
+fcsic.gov
+federalreserve.gov
+arc.gov
+bis.doc.gov
+ffiec.gov
 nga.gov
-kennedy-center.org
-peacecorps.gov
+eac.gov
+nij.ojp.gov
+uscirf.gov
+cftc.gov
 tva.com
+peacecorps.gov
 srbc.net
 ```
 
-35 used cloudfront (9.831460674157304%):
+32 used cloudfront (8.98876404494382%):
 ```
-cio.gov
 state.gov
-usa.gov
 commerce.gov
-archives.gov
-cfo.gov
-exim.gov
+cio.gov
 energy.gov
-fdic.gov
+exim.gov
 eda.gov
+cfo.gov
+fdic.gov
 fec.gov
-usmint.gov
+archives.gov
+fhfa.gov
 epa.gov
 ushmm.org
 minorityhealth.hhs.gov
-fhfa.gov
 mbda.gov
 usgs.gov
-msha.gov
 health.gov
-gsa.gov
-jobcorps.gov
-nlm.nih.gov
-nccih.nih.gov
-onrr.gov
 noaa.gov
-uspto.gov
+onrr.gov
+usmint.gov
+jobcorps.gov
+msha.gov
 nationalparks.org
-ustr.gov
-ustaxcourt.gov
+nlm.nih.gov
 nps.gov
 sss.gov
-ustda.gov
+ustaxcourt.gov
+ustr.gov
+uspto.gov
 usun.usmission.gov
 sba.gov
+ustda.gov
 ```
 
 0 used ddosguard (0.0%):

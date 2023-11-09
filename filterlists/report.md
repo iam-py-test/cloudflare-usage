@@ -1,17 +1,17 @@
-214 domains tested. 57.943925233644855% were behind nothing (90 were behind something). 25 domains could not be tested.<br>
+214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 24 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 www.microsoft.com
-easylist-downloads.adblockplus.org
-easylist-msie.adblockplus.org
 www.ebates.com
+easylist-msie.adblockplus.org
+easylist-downloads.adblockplus.org
 ```
 
 3 used bunnycdn (1.4018691588785046%):
 ```
 oooo.b-cdn.net
-www.bentasker.co.uk
 doh1.blahdns.com
+www.bentasker.co.uk
 ```
 
 0 used cachefly (0.0%):
@@ -26,56 +26,56 @@ filters.adtidy.org
 
 51 used cloudflare (23.83177570093458%):
 ```
-cdn.adblockcdn.com
 rawcdn.githack.com
-easylist.to
+cdn.adblockcdn.com
 gitcdn.link
-block.energized.pro
-secure.fanboy.co.nz
-pastebin.com
-adp.magnobiet.com
-fanboy.co.nz
-osint.bambenekconsulting.com
-abpvn.com
-ads-for-open-source.readthedocs.io
-phishing.army
-www.fanboy.co.nz
-www.i-dont-care-about-cookies.eu
-stanev.org
-abp.tt.codes
-nonio.pt
 getadhell.com
 iplists.firehol.org
+pastebin.com
+block.energized.pro
+secure.fanboy.co.nz
+abpvn.com
+osint.bambenekconsulting.com
+easylist.to
 adblock.mahakala.is
-tgc.cloud
-road.adblock.ro
-gitlab.com
-blokada.org
-jansal.net
-www.binarydefense.com
-repo.andnixsh.com
-anti-ad.net
-www.stopforumspam.com
-www.botvrij.eu
-assets.windscribe.com
-malware-filter.gitlab.io
-anonymousposter.gitlab.io
-theantisocialengineer.com
-dns.adguard.com
-zonefiles.io
-dns-family.adguard.com
+www.fanboy.co.nz
 blocklist.palemoon.org
-lpt.lrv.lt
-easydutch.pages.dev
-easydutchcdn.pages.dev
-combinatronics.io
-azorult-tracker.net
-1275.ru
+www.stopforumspam.com
+fanboy.co.nz
+ads-for-open-source.readthedocs.io
+road.adblock.ro
+stanev.org
+abp.tt.codes
+phishing.army
+adp.magnobiet.com
+nonio.pt
+tgc.cloud
+www.i-dont-care-about-cookies.eu
 www.lb.lt
+lpt.lrv.lt
+repo.andnixsh.com
+gitlab.com
+dns-family.adguard.com
+dns.adguard.com
+www.botvrij.eu
+www.binarydefense.com
+zonefiles.io
+blokada.org
+assets.windscribe.com
+theantisocialengineer.com
+anti-ad.net
+azorult-tracker.net
+combinatronics.io
+1275.ru
+easydutchcdn.pages.dev
+easydutch.pages.dev
+jansal.net
+managedsentinel.com
+filtersheroes.gitlab.io
 family.cloudflare-dns.com
 security.cloudflare-dns.com
-filtersheroes.gitlab.io
-managedsentinel.com
+malware-filter.gitlab.io
+anonymousposter.gitlab.io
 blocklist.cyberthreatcoalition.org
 ```
 
@@ -99,8 +99,8 @@ isc.sans.edu
 www.eff.org
 cdn.jsdelivr.net
 urlhaus.abuse.ch
-downloads.vivaldi.com
 cdn.statically.io
+downloads.vivaldi.com
 ```
 
 0 used sucuri (0.0%):

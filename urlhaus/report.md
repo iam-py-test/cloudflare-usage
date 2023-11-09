@@ -1,4 +1,4 @@
-346 domains tested. 84.39306358381504% were behind nothing (54 were behind something). 18 domains could not be tested.<br>
+507 domains tested. 87.96844181459566% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,43 @@
 
 ```
 
-32 used cloudflare (9.248554913294797%):
+35 used cloudflare (6.903353057199212%):
 ```
-demonware.online
 api.baimless.com
-controletempo.com
 akhtarweb.com
-electnum.com
-downloayxkemam.sbs
+books.ttc.edu.sg
+alwahacare.com
+70northair.com
+arcrosarquitectura.com
+demonware.online
+controletempo.com
 china.dhabigroup.top
-dienmay01.maudemo.com
+ajmanmall.com
 crackload.net
-dlink.caesarsgroup.top
-hostigram.xyz
-lycheepanel.info
-fresh1.ironoreprod.top
+cycling-today.live
+et3.ektpnc.com
 img.proxies.world
+hostigram.xyz
+iemagreen.com
+downloayxkemam.sbs
+fresh1.ironoreprod.top
 frezzyhook.com
 faucetmeaning.com
-gtn.cl
-marrakechfolkloredays.com
 gbuarts.com
-gomlgaming.dev
-spacetrack.co.tz
+lycheepanel.info
 renukaindustry.co.in
-paste-bin.xyz
-rusticironstore.com
-spices.com.sg
+gomlgaming.dev
+walkinglate.com
 wordpress.ductai.xyz
-zang1.almashreaq.top
-www.idpminic.org
-www.geovanisantos.adv.br
+spacetrack.co.tz
 trtmyanmar.com
 vollfisioterapia.com.br
-ji.alie3ksgbb.com
+spices.com.sg
+www.idpminic.org
+zang1.almashreaq.top
+www.geovanisantos.adv.br
+zaofisa.net
+souq-alshashat.com
 ```
 
 0 used cloudfront (0.0%):
@@ -75,12 +78,11 @@ ji.alie3ksgbb.com
 
 ```
 
-4 used sucuri (1.1560693641618496%):
+3 used sucuri (0.591715976331361%):
 ```
 spsiphil.com
 www.bearware.org
 www.lasikofmichigan.com
-www.asterglobal.com
 ```
 
 0 used myracloud (0.0%):
