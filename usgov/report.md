@@ -1,146 +1,145 @@
-356 domains tested. 53.93258426966292% were behind nothing (164 were behind something). 80 domains could not be tested.<br>
-	19 used akamai (5.337078651685393%):
-	```
-	stats.bls.gov
+356 domains tested. 54.21348314606742% were behind nothing (163 were behind something). 79 domains could not be tested.<br>
+20 used akamai (5.617977528089887%):
+```
 cic.ndu.edu
+stats.bls.gov
 amtrak.com
-fda.gov
-railroads.dot.gov
-bea.gov
-dea.gov
 home.treasury.gov
+dea.gov
 doleta.gov
 fcc.gov
-highways.dot.gov
-clerk.house.gov
-transit.dot.gov
+bea.gov
+fda.gov
+studentaid.gov
 jfsc.ndu.edu
+clerk.house.gov
+railroads.dot.gov
+transit.dot.gov
 usfa.fema.gov
 maritime.dot.gov
-studentaid.gov
+highways.dot.gov
 npin.cdc.gov
+tsa.gov
 eia.gov
-	```
-	
-	0 used bunnycdn (0.0%):
-	```
-	
-	```
-	
-	0 used cachefly (0.0%):
-	```
-	
-	```
-	
-	0 used cdn77 (0.0%):
-	```
-	
-	```
-	
-	29 used cloudflare (8.146067415730338%):
-	```
-	aoc.gov
-juvenilecouncil.ojp.gov
-copyright.gov
-bis.doc.gov
+```
+
+0 used bunnycdn (0.0%):
+```
+
+```
+
+0 used cachefly (0.0%):
+```
+
+```
+
+0 used cdn77 (0.0%):
+```
+
+```
+
+28 used cloudflare (7.865168539325842%):
+```
 loc.gov
-bjs.gov
+aoc.gov
+juvenilecouncil.ojp.gov
+fbi.gov
 dau.edu
+cftc.gov
+uscirf.gov
+bis.doc.gov
 arc.gov
 csb.gov
-uscirf.gov
-cftc.gov
-freddiemac.com
-fbi.gov
-ffiec.gov
-fca.gov
+bjs.gov
 fanniemae.com
-federallabs.org
 eac.gov
+fcsic.gov
+freddiemac.com
+ffiec.gov
 federalreserve.gov
+federallabs.org
 constitutioncenter.org
 gpo.gov
-nij.ojp.gov
+fca.gov
 ojp.gov
+nij.ojp.gov
 nga.gov
-fcsic.gov
 kennedy-center.org
 peacecorps.gov
 tva.com
 srbc.net
-	```
-	
-	35 used cloudfront (9.831460674157304%):
-	```
-	state.gov
-commerce.gov
+```
+
+35 used cloudfront (9.831460674157304%):
+```
 cio.gov
+state.gov
 usa.gov
+commerce.gov
 archives.gov
 cfo.gov
+exim.gov
+energy.gov
 fdic.gov
 eda.gov
-exim.gov
 fec.gov
-energy.gov
-fhfa.gov
+usmint.gov
 epa.gov
 ushmm.org
-mbda.gov
 minorityhealth.hhs.gov
+fhfa.gov
+mbda.gov
 usgs.gov
-usmint.gov
-gsa.gov
-health.gov
-jobcorps.gov
-noaa.gov
-nccih.nih.gov
 msha.gov
+health.gov
+gsa.gov
+jobcorps.gov
 nlm.nih.gov
-nationalparks.org
+nccih.nih.gov
 onrr.gov
-sss.gov
-nps.gov
-sba.gov
-ustaxcourt.gov
+noaa.gov
 uspto.gov
+nationalparks.org
 ustr.gov
+ustaxcourt.gov
+nps.gov
+sss.gov
 ustda.gov
 usun.usmission.gov
-	```
-	
-	0 used ddosguard (0.0%):
-	```
-	
-	```
-	
-	0 used edgecast (0.0%):
-	```
-	
-	```
-	
-	0 used fastly (0.0%):
-	```
-	
-	```
-	
-	1 used sucuri (0.2808988764044944%):
-	```
-	jusfc.gov
-	```
-	
-	0 used myracloud (0.0%):
-	```
-	
-	```
-	
-	0 used keycdn (0.0%):
-	```
-	
-	```
-	
-	0 used leaseweb (0.0%):
-	```
-	
-	```
-	
+sba.gov
+```
+
+0 used ddosguard (0.0%):
+```
+
+```
+
+0 used edgecast (0.0%):
+```
+
+```
+
+0 used fastly (0.0%):
+```
+
+```
+
+1 used sucuri (0.2808988764044944%):
+```
+jusfc.gov
+```
+
+0 used myracloud (0.0%):
+```
+
+```
+
+0 used keycdn (0.0%):
+```
+
+```
+
+0 used leaseweb (0.0%):
+```
+
+```

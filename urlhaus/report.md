@@ -1,98 +1,99 @@
-351 domains tested. 85.47008547008546% were behind nothing (51 were behind something). 17 domains could not be tested.<br>
-	0 used akamai (0.0%):
-	```
-	
-	```
-	
-	0 used bunnycdn (0.0%):
-	```
-	
-	```
-	
-	0 used cachefly (0.0%):
-	```
-	
-	```
-	
-	0 used cdn77 (0.0%):
-	```
-	
-	```
-	
-	30 used cloudflare (8.547008547008547%):
-	```
-	api.baimless.com
+346 domains tested. 84.39306358381504% were behind nothing (54 were behind something). 18 domains could not be tested.<br>
+0 used akamai (0.0%):
+```
+
+```
+
+0 used bunnycdn (0.0%):
+```
+
+```
+
+0 used cachefly (0.0%):
+```
+
+```
+
+0 used cdn77 (0.0%):
+```
+
+```
+
+32 used cloudflare (9.248554913294797%):
+```
+demonware.online
+api.baimless.com
 controletempo.com
 akhtarweb.com
-crackload.net
-dienmay01.maudemo.com
-demonware.online
+electnum.com
 downloayxkemam.sbs
 china.dhabigroup.top
+dienmay01.maudemo.com
+crackload.net
 dlink.caesarsgroup.top
-lycheepanel.info
 hostigram.xyz
+lycheepanel.info
 fresh1.ironoreprod.top
-et3.ektpnc.com
+img.proxies.world
+frezzyhook.com
 faucetmeaning.com
 gtn.cl
+marrakechfolkloredays.com
 gbuarts.com
+gomlgaming.dev
 spacetrack.co.tz
 renukaindustry.co.in
 paste-bin.xyz
-spices.com.sg
-gomlgaming.dev
 rusticironstore.com
-walkinglate.com
-www.idpminic.org
+spices.com.sg
 wordpress.ductai.xyz
 zang1.almashreaq.top
-www.agies.org
-vollfisioterapia.com.br
+www.idpminic.org
 www.geovanisantos.adv.br
-zaofisa.net
-	```
-	
-	0 used cloudfront (0.0%):
-	```
-	
-	```
-	
-	0 used ddosguard (0.0%):
-	```
-	
-	```
-	
-	0 used edgecast (0.0%):
-	```
-	
-	```
-	
-	0 used fastly (0.0%):
-	```
-	
-	```
-	
-	4 used sucuri (1.1396011396011396%):
-	```
-	spsiphil.com
-www.lasikofmichigan.com
+trtmyanmar.com
+vollfisioterapia.com.br
+ji.alie3ksgbb.com
+```
+
+0 used cloudfront (0.0%):
+```
+
+```
+
+0 used ddosguard (0.0%):
+```
+
+```
+
+0 used edgecast (0.0%):
+```
+
+```
+
+0 used fastly (0.0%):
+```
+
+```
+
+4 used sucuri (1.1560693641618496%):
+```
+spsiphil.com
 www.bearware.org
+www.lasikofmichigan.com
 www.asterglobal.com
-	```
-	
-	0 used myracloud (0.0%):
-	```
-	
-	```
-	
-	0 used keycdn (0.0%):
-	```
-	
-	```
-	
-	0 used leaseweb (0.0%):
-	```
-	
-	```
-	
+```
+
+0 used myracloud (0.0%):
+```
+
+```
+
+0 used keycdn (0.0%):
+```
+
+```
+
+0 used leaseweb (0.0%):
+```
+
+```
