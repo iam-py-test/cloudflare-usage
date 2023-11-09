@@ -279,11 +279,11 @@ def savereport():
 			for cdn in report["cdns"]:
 				alldomains = "\n".join(report["cdns"][cdn]["domains"])
 				report_contents += f"""
-	{len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
-	```
-	{alldomains}
-	```
-	"""
+{len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
+```
+{alldomains}
+```
+"""
 			reportfile = open(os.path.join(cata, "report.md"),'w')
 			reportfile.write(report_contents)
 			reportfile.close()
