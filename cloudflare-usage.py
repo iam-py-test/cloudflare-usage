@@ -241,51 +241,54 @@ def savereport():
 	print(full_report)
 	for cata in full_report:
 		try:
-			os.mkdir(cata)
+			try:
+				os.mkdir(cata)
+			except Exception as err:
+				print(err)
+			report = full_report[cata]
+			if cata not in stats_file["cat_precents"]:
+				stats_file["cat_precents"][cata] = {}
+			
+			for cdn in report["cdns"]:
+				if cdn not in stats_file["cat_precents"][cata]:
+					stats_file["cat_precents"][cata][cdn] = []
+				stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"]))
+				try:
+					domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
+					domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
+					domainsfile.close()
+				except Exception as err:
+					debugmsg('err domains file',err)
+				try:
+					ipsfile = open(f"{cata}/{cdn}_ips.txt",'w',encoding="UTF-8")
+					ipsfile.write("\n".join(report["cdns"][cdn]["ips"]))
+					ipsfile.close()
+				except Exception as err:
+					debugmsg('err ips file',err)
+		
+			
+			dtested = report["tested"]
+			has_nothing = report["has_nothing"]
+			erroredout = report["erroredout"]
+			try:
+				tested_precent = (has_nothing/dtested)*100
+			except:
+				tested_precent = 0
+			report_contents = f"""{dtested} domains tested. {tested_precent}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
+			debugmsg(report)
+			for cdn in report["cdns"]:
+				alldomains = "\n".join(report["cdns"][cdn]["domains"])
+				report_contents += f"""
+	{len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
+	```
+	{alldomains}
+	```
+	"""
+			reportfile = open(os.path.join(cata, "report.md"),'w')
+			reportfile.write(report_contents)
+			reportfile.close()
 		except Exception as err:
 			print(err)
-		report = full_report[cata]
-		if cata not in stats_file["cat_precents"]:
-			stats_file["cat_precents"][cata] = {}
-		
-		for cdn in report["cdns"]:
-			if cdn not in stats_file["cat_precents"][cata]:
-				stats_file["cat_precents"][cata][cdn] = []
-			stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"]))
-			try:
-				domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
-				domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
-				domainsfile.close()
-			except Exception as err:
-				debugmsg('err domains file',err)
-			try:
-				ipsfile = open(f"{cata}/{cdn}_ips.txt",'w',encoding="UTF-8")
-				ipsfile.write("\n".join(report["cdns"][cdn]["ips"]))
-				ipsfile.close()
-			except Exception as err:
-				debugmsg('err ips file',err)
-	
-		
-		dtested = report["tested"]
-		has_nothing = report["has_nothing"]
-		erroredout = report["erroredout"]
-		try:
-			tested_precent = (has_nothing/dtested)*100
-		except:
-			tested_precent = 0
-		report_contents = f"""{dtested} domains tested. {tested_precent}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
-		debugmsg(report)
-		for cdn in report["cdns"]:
-			alldomains = "\n".join(report["cdns"][cdn]["domains"])
-			report_contents += f"""
-{len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
-```
-{alldomains}
-```
-"""
-		reportfile = open(os.path.join(cata, "report.md"),'w')
-		reportfile.write(report_contents)
-		reportfile.close()
 	stats_file_handle = open("stats.json", 'w')
 	stats_file_handle.write(json.dumps(stats_file))
 	stats_file_handle.close()
