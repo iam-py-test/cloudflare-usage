@@ -11,17 +11,20 @@ NUM_DOMAINS = 1000
 UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0"]
 REQUEST_TIMEOUT = 50
 RETRY_ENABLED = True
-REPORT_FILE = "report.md"
-DOMAINS_FILE = "domains.txt"
-IPS_FILE = "ips.txt"
-TOPHASH_FILE = "topdomains_hash.txt"
 SORT_DOMAINS = True
 CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
-PROGRESS_BAR_ENABLED = "--noprogress" not in sys.argv # read from sys.argv, overwrite to always enable/disable
 DEBUG = False # set to True when testing
-MAX_THREADS = 100
+MAX_THREADS = 110
 start_time = datetime.now().isoformat()
+ip_domain_map = {}
+
+try:
+	ip_owners = json.loads(open("data/ip_owners.json").read())
+except:
+	ip_owners = {}
+if "cloudflare" not in ip_owners:
+	ip_owners["cloudflare"] = []
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
@@ -84,6 +87,9 @@ def get_cname(domain):
 		return None
 
 def get_ip(domain):
+	global ip_domain_map
+	if domain in ip_domain_map:
+		return ip_domain_map[domain]
 	ips = []
 	try:
 		resp = resolver.resolve(domain)
@@ -92,6 +98,7 @@ def get_ip(domain):
 			ips.append(ip.address)
 	except Exception as err:
 		print(err)
+	ip_domain_map[domain] = ips
 	return ips
 
 def hascloudflare(url):
@@ -100,6 +107,10 @@ def hascloudflare(url):
 	global x_served_by
 	try:
 		domain = urllib.parse.urlparse(url).netloc
+		ips = get_ip(domain)
+		for ip in ips:
+			if ip in ip_owners["cloudflare"]:
+				return "cloudflare"
 		cname = get_cname(domain)
 		if cname != None:
 			if cname.endswith(".fastly.net"):
