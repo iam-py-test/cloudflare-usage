@@ -2,7 +2,7 @@ import sys, random, socket,hashlib, json, time, threading, os
 import dns.resolver
 import urllib.parse
 import copy
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import requests
 from tranco import Tranco
@@ -27,9 +27,18 @@ def debugmsg(msg,data="No data!"):
 	if DEBUG:
 		print("[DEBUG] {}".format(msg),data)
 
-trancolist = Tranco(cache=CACHE_LIST)
-latest_list = trancolist.list()
-topdomains = latest_list.top(NUM_DOMAINS)
+try:
+	trancolist = Tranco(cache=CACHE_LIST)
+	try:
+		latest_list = trancolist.list()
+	except:
+		print("Using yesterday's list", start_time)
+		yesterday = datetime.strftime(datetime.now() - timedelta(1), '%Y-%m-%d') # https://stackoverflow.com/questions/30483977/ddg#30484112
+		latest_list = trancolist.list(yesterday)
+	topdomains = latest_list.top(NUM_DOMAINS)
+except Exception as err:
+	print(err)
+	topdomains = []
 debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
 useragent = random.choice(UA_CHOICES)
 headers = {"user-agent":useragent}
