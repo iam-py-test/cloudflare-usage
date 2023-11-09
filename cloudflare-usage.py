@@ -65,6 +65,7 @@ if start_time not in stats_file["date_reports"]:
 
 server_headers = []
 via_headers = []
+x_served_by = []
 
 def get_cname(domain):
 	global cnames
@@ -96,6 +97,7 @@ def get_ip(domain):
 def hascloudflare(url):
 	global server_headers
 	global via_headers
+	global x_served_by
 	try:
 		domain = urllib.parse.urlparse(url).netloc
 		cname = get_cname(domain)
@@ -146,6 +148,11 @@ def hascloudflare(url):
 		if "X-Cache" in r.headers:
 			if r.headers["X-Cache"] == "Hit from cloudfront":
 				return "cloudfront"
+		if "X-Served-By" in r.headers:
+			if r.headers["X-Served-By"] not in x_served_by:
+				x_served_by.append(r.headers["X-Served-By"])
+			if "cache-fty" in r.headers["X-Served-By"]:
+				return "cachefly"
 		if "Akamai-Expedia-Global-GRN" in r.headers:
 			return "akamai"
 	except Exception as err:
@@ -236,6 +243,10 @@ def saveviaheaders():
 	viafile = open("via.txt", 'w', encoding="UTF-8")
 	viafile.write("\n".join(via_headers))
 	viafile.close()
+def savex_served_byheaders():
+	xsbfile = open("x_served_by.txt", 'w', encoding="UTF-8")
+	xsbfile.write("\n".join(x_served_by))
+	xsbfile.close()
 def savereport():
 	global stats_file
 	print(full_report)
@@ -422,3 +433,4 @@ savereport()
 savecnames()
 saveserverheaders()
 saveviaheaders()
+savex_served_byheaders()
