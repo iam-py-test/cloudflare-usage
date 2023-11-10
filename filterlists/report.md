@@ -1,10 +1,10 @@
-214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 24 domains could not be tested.<br>
+214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 25 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
+www.ebates.com
+www.microsoft.com
 easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
-www.microsoft.com
-www.ebates.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,59 +24,58 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-51 used cloudflare (23.83177570093458%):
+50 used cloudflare (23.364485981308412%):
 ```
+gitcdn.link
 rawcdn.githack.com
 adblock.mahakala.is
-gitlab.com
-cdn.adblockcdn.com
-gitcdn.link
 getadhell.com
+easylist.to
+cdn.adblockcdn.com
+secure.fanboy.co.nz
+fanboy.co.nz
+pastebin.com
+stanev.org
+osint.bambenekconsulting.com
+www.i-dont-care-about-cookies.eu
+block.energized.pro
 iplists.firehol.org
 blocklist.palemoon.org
-pastebin.com
-abpvn.com
-nonio.pt
-adp.magnobiet.com
-osint.bambenekconsulting.com
-tgc.cloud
-fanboy.co.nz
-abp.tt.codes
 www.stopforumspam.com
-ads-for-open-source.readthedocs.io
+abp.tt.codes
+abpvn.com
+gitlab.com
+tgc.cloud
+adp.magnobiet.com
 www.fanboy.co.nz
-block.energized.pro
-secure.fanboy.co.nz
-easylist.to
-phishing.army
-www.i-dont-care-about-cookies.eu
-lpt.lrv.lt
-www.lb.lt
+ads-for-open-source.readthedocs.io
+nonio.pt
 road.adblock.ro
-stanev.org
-www.binarydefense.com
-assets.windscribe.com
-blokada.org
-repo.andnixsh.com
-dns.adguard.com
-anti-ad.net
-zonefiles.io
-www.botvrij.eu
-dns-family.adguard.com
+phishing.army
 theantisocialengineer.com
+blokada.org
+anti-ad.net
+repo.andnixsh.com
 azorult-tracker.net
-easydutchcdn.pages.dev
+www.binarydefense.com
+zonefiles.io
+jansal.net
+assets.windscribe.com
+dns.adguard.com
+malware-filter.gitlab.io
+dns-family.adguard.com
+www.botvrij.eu
+family.cloudflare-dns.com
+www.lb.lt
+lpt.lrv.lt
+security.cloudflare-dns.com
+anonymousposter.gitlab.io
+managedsentinel.com
 1275.ru
+easydutchcdn.pages.dev
 combinatronics.io
 easydutch.pages.dev
-jansal.net
-security.cloudflare-dns.com
-family.cloudflare-dns.com
-managedsentinel.com
 filtersheroes.gitlab.io
-malware-filter.gitlab.io
-anonymousposter.gitlab.io
-blocklist.cyberthreatcoalition.org
 ```
 
 1 used cloudfront (0.46728971962616817%):
@@ -97,8 +96,8 @@ isc.sans.edu
 5 used fastly (2.336448598130841%):
 ```
 www.eff.org
-cdn.jsdelivr.net
 urlhaus.abuse.ch
+cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
 ```

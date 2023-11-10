@@ -1,5 +1,5 @@
-153 domains tested. 70.58823529411765% were behind nothing (45 were behind something). 9 domains could not be tested.<br>
-2 used akamai (1.3071895424836601%):
+163 domains tested. 69.93865030674846% were behind nothing (49 were behind something). 5 domains could not be tested.<br>
+2 used akamai (1.2269938650306749%):
 ```
 news.sky.com
 dailymail.co.uk
@@ -20,46 +20,54 @@ dailymail.co.uk
 
 ```
 
-15 used cloudflare (9.803921568627452%):
+19 used cloudflare (11.65644171779141%):
 ```
 thewire.in
-theregister.com
-drudgereport.com
-axios.com
-publicintegrity.org
-washingtontimes.com
-mashable.com
-propublica.org
+therecord.media
 thehindu.com
+theregister.com
+alarabiya.net
 politico.com
 themarshallproject.org
+publicintegrity.org
 pravdareport.com
-startribune.com
+propublica.org
+dexerto.com
+drudgereport.com
 altnews.in
+bleepingcomputer.com
+mashable.com
+axios.com
+washingtontimes.com
 techdirt.com
+startribune.com
 ```
 
-19 used cloudfront (12.418300653594772%):
+23 used cloudfront (14.11042944785276%):
 ```
-sandiegouniontribune.com
+andhrajyothy.com
+hbr.org
+abcnews.go.com
+economist.com
 espn.com
-onet.pl
+sandiegouniontribune.com
+theoutline.com
+repubblica.it
 time.com
 fortune.com
-andhrajyothy.com
-theoutline.com
-abcnews.go.com
-repubblica.it
 ap.org
+onet.pl
 reuters.com
+csmonitor.com
 latimes.com
-lastampa.it
-sueddeutsche.de
 salon.com
-economist.com
+lastampa.it
 wsj.com
+economist.com
+sueddeutsche.de
 mic.com
 thetimes.co.uk
+fivethirtyeight.com
 ```
 
 0 used ddosguard (0.0%):

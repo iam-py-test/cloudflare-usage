@@ -1,4 +1,4 @@
-544 domains tested. 87.68382352941177% were behind nothing (67 were behind something). 27 domains could not be tested.<br>
+589 domains tested. 87.77589134125637% were behind nothing (72 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,45 +19,51 @@
 
 ```
 
-37 used cloudflare (6.8014705882352935%):
+43 used cloudflare (7.30050933786078%):
 ```
-akhtarweb.com
-alwahacare.com
-books.ttc.edu.sg
 70northair.com
+api.baimless.com
+akhtarweb.com
+books.ttc.edu.sg
+alwahacare.com
 arcrosarquitectura.com
-ajmanmall.com
+demonware.online
 controletempo.com
 china.dhabigroup.top
-demonware.online
-dlink.caesarsgroup.top
-cycling-today.live
 crackload.net
+dienmay01.maudemo.com
+cycling-today.live
 downloayxkemam.sbs
-fresh1.ironoreprod.top
-img.proxies.world
-citycentredubai.com
-hostigram.xyz
-iemagreen.com
+dlink.caesarsgroup.top
 frezzyhook.com
 faucetmeaning.com
+fresh1.ironoreprod.top
+img.proxies.world
+hopewater.co
+hostigram.xyz
 lycheepanel.info
+iemagreen.com
 gtn.cl
-gbuarts.com
-paste-bin.xyz
+hassannisar.pk
+marrakechfolkloredays.com
+screeninghive.com
 renukaindustry.co.in
-gomlgaming.dev
-walkinglate.com
-souq-alshashat.com
+paste-bin.xyz
+pan.tenire.com
 rusticironstore.com
+trtmyanmar.com
+souq-alshashat.com
 spacetrack.co.tz
 www.agies.org
-zang1.almashreaq.top
 vollfisioterapia.com.br
 www.idpminic.org
-trtmyanmar.com
+spices.com.sg
+zang1.almashreaq.top
 www.geovanisantos.adv.br
 zaofisa.net
+ji.alie3ksgbb.com
+ji.alie3ksgdd.com
+www.movidoc.com.br
 ```
 
 0 used cloudfront (0.0%):
@@ -80,11 +86,12 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.5514705882352942%):
+4 used sucuri (0.6791171477079796%):
 ```
-spsiphil.com
 www.bearware.org
+spsiphil.com
 www.lasikofmichigan.com
+www.asterglobal.com
 ```
 
 0 used myracloud (0.0%):
