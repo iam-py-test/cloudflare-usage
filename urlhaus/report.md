@@ -1,4 +1,4 @@
-507 domains tested. 87.96844181459566% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
+544 domains tested. 87.68382352941177% were behind nothing (67 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,43 +19,45 @@
 
 ```
 
-35 used cloudflare (6.903353057199212%):
+37 used cloudflare (6.8014705882352935%):
 ```
-api.baimless.com
 akhtarweb.com
-books.ttc.edu.sg
 alwahacare.com
+books.ttc.edu.sg
 70northair.com
 arcrosarquitectura.com
-demonware.online
+ajmanmall.com
 controletempo.com
 china.dhabigroup.top
-ajmanmall.com
-crackload.net
+demonware.online
+dlink.caesarsgroup.top
 cycling-today.live
-et3.ektpnc.com
-img.proxies.world
-hostigram.xyz
-iemagreen.com
+crackload.net
 downloayxkemam.sbs
 fresh1.ironoreprod.top
+img.proxies.world
+citycentredubai.com
+hostigram.xyz
+iemagreen.com
 frezzyhook.com
 faucetmeaning.com
-gbuarts.com
 lycheepanel.info
+gtn.cl
+gbuarts.com
+paste-bin.xyz
 renukaindustry.co.in
 gomlgaming.dev
 walkinglate.com
-wordpress.ductai.xyz
+souq-alshashat.com
+rusticironstore.com
 spacetrack.co.tz
-trtmyanmar.com
-vollfisioterapia.com.br
-spices.com.sg
-www.idpminic.org
+www.agies.org
 zang1.almashreaq.top
+vollfisioterapia.com.br
+www.idpminic.org
+trtmyanmar.com
 www.geovanisantos.adv.br
 zaofisa.net
-souq-alshashat.com
 ```
 
 0 used cloudfront (0.0%):
@@ -78,7 +80,7 @@ souq-alshashat.com
 
 ```
 
-3 used sucuri (0.591715976331361%):
+3 used sucuri (0.5514705882352942%):
 ```
 spsiphil.com
 www.bearware.org
