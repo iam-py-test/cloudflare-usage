@@ -393,22 +393,25 @@ def check_domains(domains, cata):
 	stats_file["date_reports"][start_time][cata] = full_report[cata]
 	print("Done checking domains for cata",cata)
 
-check_domains(topdomains, "top1000")
+try:
+	check_domains(sorted(topdomains), "top1000")
+except Exception as err:
+	print(err)
 
 try:
-	kdl = requests.get("https://raw.githubusercontent.com/iam-py-test/tracker_analytics/main/kdl.txt").text.split("\n")
+	kdl = sorted(requests.get("https://raw.githubusercontent.com/iam-py-test/tracker_analytics/main/kdl.txt").text.split("\n"))
 	check_domains(kdl, "kdl")
 except Exception as err:
 	print(err)
 
 try:
-	urlhaus = requests.get("https://urlhaus.abuse.ch/downloads/hostfile/").text.replace("127.0.0.1\t","").replace("\r", "").split("\n")
+	urlhaus = sorted(requests.get("https://urlhaus.abuse.ch/downloads/hostfile/").text.replace("127.0.0.1\t","").replace("\r", "").split("\n"))
 	check_domains(urlhaus, "urlhaus")
 except Exception as err:
 	print(err)
 
 try:
-	urlshort = requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/anti-redirectors_domains.txt").text.replace("\r", "").split("\n")
+	urlshort = sorted(requests.get("https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/anti-redirectors_domains.txt").text.replace("\r", "").split("\n"))
 	check_domains(urlshort, "urlshort")
 except Exception as err:
 	print(err)
@@ -424,18 +427,18 @@ try:
 		except:
 			pass
 	print(len(filterlists_domains))
-	check_domains(filterlists_domains, "filterlists")
+	check_domains(sorted(filterlists_domains), "filterlists")
 except Exception as err:
 	print(err)
 
 try:
-	news_websites = open("data/news.txt").read().replace("\r", "").split("\n")
+	news_websites = sorted(open("data/news.txt").read().replace("\r", "").split("\n"))
 	check_domains(news_websites, "news_websites")
 except Exception as err:
 	print(err)
 
 try:
-	usgov = open("data/usgov.txt").read().replace("\r", "").split("\n")
+	usgov = sorted(open("data/usgov.txt").read().replace("\r", "").split("\n"))
 	check_domains(usgov, "usgov")
 except Exception as err:
 	print(err)
