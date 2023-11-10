@@ -1,16 +1,16 @@
-214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 25 domains could not be tested.<br>
+214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 24 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-www.ebates.com
-www.microsoft.com
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
+www.microsoft.com
+www.ebates.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
 ```
-oooo.b-cdn.net
 doh1.blahdns.com
+oooo.b-cdn.net
 www.bentasker.co.uk
 ```
 
@@ -24,58 +24,59 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-50 used cloudflare (23.364485981308412%):
+51 used cloudflare (23.83177570093458%):
 ```
-gitcdn.link
-rawcdn.githack.com
-adblock.mahakala.is
 getadhell.com
-easylist.to
 cdn.adblockcdn.com
-secure.fanboy.co.nz
-fanboy.co.nz
-pastebin.com
-stanev.org
-osint.bambenekconsulting.com
-www.i-dont-care-about-cookies.eu
-block.energized.pro
-iplists.firehol.org
+gitcdn.link
 blocklist.palemoon.org
-www.stopforumspam.com
-abp.tt.codes
-abpvn.com
-gitlab.com
-tgc.cloud
-adp.magnobiet.com
-www.fanboy.co.nz
-ads-for-open-source.readthedocs.io
-nonio.pt
-road.adblock.ro
-phishing.army
-theantisocialengineer.com
-blokada.org
-anti-ad.net
-repo.andnixsh.com
-azorult-tracker.net
-www.binarydefense.com
-zonefiles.io
-jansal.net
+easylist.to
+easydutchcdn.pages.dev
+lpt.lrv.lt
 assets.windscribe.com
+block.energized.pro
+blokada.org
+azorult-tracker.net
+easydutch.pages.dev
+combinatronics.io
+1275.ru
+adp.magnobiet.com
+adblock.mahakala.is
+abp.tt.codes
+iplists.firehol.org
+abpvn.com
 dns.adguard.com
-malware-filter.gitlab.io
+fanboy.co.nz
 dns-family.adguard.com
-www.botvrij.eu
+ads-for-open-source.readthedocs.io
+anti-ad.net
+rawcdn.githack.com
 family.cloudflare-dns.com
 www.lb.lt
-lpt.lrv.lt
-security.cloudflare-dns.com
 anonymousposter.gitlab.io
-managedsentinel.com
-1275.ru
-easydutchcdn.pages.dev
-combinatronics.io
-easydutch.pages.dev
+gitlab.com
+tgc.cloud
+osint.bambenekconsulting.com
 filtersheroes.gitlab.io
+www.binarydefense.com
+www.botvrij.eu
+secure.fanboy.co.nz
+phishing.army
+repo.andnixsh.com
+nonio.pt
+pastebin.com
+road.adblock.ro
+stanev.org
+theantisocialengineer.com
+www.i-dont-care-about-cookies.eu
+www.fanboy.co.nz
+managedsentinel.com
+malware-filter.gitlab.io
+security.cloudflare-dns.com
+jansal.net
+www.stopforumspam.com
+zonefiles.io
+blocklist.cyberthreatcoalition.org
 ```
 
 1 used cloudfront (0.46728971962616817%):
@@ -95,11 +96,11 @@ isc.sans.edu
 
 5 used fastly (2.336448598130841%):
 ```
-www.eff.org
-urlhaus.abuse.ch
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
+urlhaus.abuse.ch
+www.eff.org
 ```
 
 0 used sucuri (0.0%):

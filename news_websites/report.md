@@ -1,4 +1,4 @@
-163 domains tested. 69.93865030674846% were behind nothing (49 were behind something). 5 domains could not be tested.<br>
+163 domains tested. 70.5521472392638% were behind nothing (48 were behind something). 5 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 news.sky.com
@@ -22,52 +22,51 @@ dailymail.co.uk
 
 19 used cloudflare (11.65644171779141%):
 ```
-thewire.in
-therecord.media
-thehindu.com
-theregister.com
-alarabiya.net
-politico.com
-themarshallproject.org
-publicintegrity.org
-pravdareport.com
-propublica.org
-dexerto.com
 drudgereport.com
-altnews.in
-bleepingcomputer.com
+alarabiya.net
+propublica.org
+publicintegrity.org
 mashable.com
+pravdareport.com
+thewire.in
+politico.com
+dexerto.com
 axios.com
+bleepingcomputer.com
+altnews.in
+thehindu.com
+themarshallproject.org
+theregister.com
+therecord.media
 washingtontimes.com
 techdirt.com
 startribune.com
 ```
 
-23 used cloudfront (14.11042944785276%):
+22 used cloudfront (13.496932515337424%):
 ```
-andhrajyothy.com
-hbr.org
-abcnews.go.com
 economist.com
-espn.com
-sandiegouniontribune.com
-theoutline.com
-repubblica.it
-time.com
 fortune.com
+andhrajyothy.com
+economist.com
+latimes.com
+abcnews.go.com
+sandiegouniontribune.com
+lastampa.it
 ap.org
 onet.pl
 reuters.com
-csmonitor.com
-latimes.com
-salon.com
-lastampa.it
-wsj.com
-economist.com
+espn.com
+hbr.org
+repubblica.it
 sueddeutsche.de
+csmonitor.com
+salon.com
+wsj.com
 mic.com
+time.com
+theoutline.com
 thetimes.co.uk
-fivethirtyeight.com
 ```
 
 0 used ddosguard (0.0%):

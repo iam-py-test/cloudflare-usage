@@ -1,4 +1,4 @@
-589 domains tested. 87.77589134125637% were behind nothing (72 were behind something). 25 domains could not be tested.<br>
+579 domains tested. 87.39205526770294% were behind nothing (73 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,51 +19,51 @@
 
 ```
 
-43 used cloudflare (7.30050933786078%):
+43 used cloudflare (7.4265975820379975%):
 ```
-70northair.com
 api.baimless.com
 akhtarweb.com
 books.ttc.edu.sg
+70northair.com
 alwahacare.com
 arcrosarquitectura.com
-demonware.online
 controletempo.com
+demonware.online
 china.dhabigroup.top
-crackload.net
 dienmay01.maudemo.com
+crackload.net
+dlink.caesarsgroup.top
 cycling-today.live
 downloayxkemam.sbs
-dlink.caesarsgroup.top
-frezzyhook.com
+et3.ektpnc.com
+gbuarts.com
 faucetmeaning.com
+frezzyhook.com
 fresh1.ironoreprod.top
 img.proxies.world
 hopewater.co
-hostigram.xyz
 lycheepanel.info
+hostigram.xyz
 iemagreen.com
-gtn.cl
-hassannisar.pk
 marrakechfolkloredays.com
-screeninghive.com
-renukaindustry.co.in
+hassannisar.pk
+gtn.cl
 paste-bin.xyz
+screeninghive.com
 pan.tenire.com
-rusticironstore.com
-trtmyanmar.com
 souq-alshashat.com
-spacetrack.co.tz
+renukaindustry.co.in
+wordpress.ductai.xyz
 www.agies.org
 vollfisioterapia.com.br
 www.idpminic.org
 spices.com.sg
-zang1.almashreaq.top
 www.geovanisantos.adv.br
+trtmyanmar.com
+zang1.almashreaq.top
 zaofisa.net
 ji.alie3ksgbb.com
 ji.alie3ksgdd.com
-www.movidoc.com.br
 ```
 
 0 used cloudfront (0.0%):
@@ -86,10 +86,11 @@ www.movidoc.com.br
 
 ```
 
-4 used sucuri (0.6791171477079796%):
+5 used sucuri (0.8635578583765112%):
 ```
-www.bearware.org
+cwhawkins.org
 spsiphil.com
+www.bearware.org
 www.lasikofmichigan.com
 www.asterglobal.com
 ```
