@@ -1,4 +1,4 @@
-163 domains tested. 70.5521472392638% were behind nothing (48 were behind something). 5 domains could not be tested.<br>
+163 domains tested. 67.48466257668711% were behind nothing (53 were behind something). 11 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 news.sky.com
@@ -20,52 +20,51 @@ dailymail.co.uk
 
 ```
 
-19 used cloudflare (11.65644171779141%):
+18 used cloudflare (11.042944785276074%):
 ```
 drudgereport.com
-alarabiya.net
-propublica.org
-publicintegrity.org
-mashable.com
-pravdareport.com
 thewire.in
-politico.com
-dexerto.com
-axios.com
 bleepingcomputer.com
-altnews.in
+axios.com
+dexerto.com
+publicintegrity.org
+theregister.com
+mashable.com
+therecord.media
 thehindu.com
 themarshallproject.org
-theregister.com
-therecord.media
+politico.com
+propublica.org
+pravdareport.com
 washingtontimes.com
 techdirt.com
 startribune.com
+altnews.in
 ```
 
 22 used cloudfront (13.496932515337424%):
 ```
-economist.com
-fortune.com
-andhrajyothy.com
-economist.com
-latimes.com
 abcnews.go.com
-sandiegouniontribune.com
-lastampa.it
-ap.org
-onet.pl
-reuters.com
 espn.com
+economist.com
+ap.org
 hbr.org
+andhrajyothy.com
+latimes.com
 repubblica.it
-sueddeutsche.de
+sandiegouniontribune.com
+reuters.com
+fortune.com
+lastampa.it
+onet.pl
 csmonitor.com
-salon.com
-wsj.com
-mic.com
-time.com
+sueddeutsche.de
 theoutline.com
+salon.com
+time.com
+mic.com
+wsj.com
+economist.com
 thetimes.co.uk
 ```
 

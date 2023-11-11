@@ -1,4 +1,4 @@
-579 domains tested. 87.39205526770294% were behind nothing (73 were behind something). 25 domains could not be tested.<br>
+577 domains tested. 87.17504332755632% were behind nothing (74 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,51 +19,50 @@
 
 ```
 
-43 used cloudflare (7.4265975820379975%):
+42 used cloudflare (7.279029462738301%):
 ```
-api.baimless.com
-akhtarweb.com
-books.ttc.edu.sg
-70northair.com
-alwahacare.com
 arcrosarquitectura.com
-controletempo.com
-demonware.online
+70northair.com
+akhtarweb.com
+alwahacare.com
+books.ttc.edu.sg
 china.dhabigroup.top
-dienmay01.maudemo.com
-crackload.net
+demonware.online
 dlink.caesarsgroup.top
+crackload.net
 cycling-today.live
-downloayxkemam.sbs
-et3.ektpnc.com
-gbuarts.com
-faucetmeaning.com
-frezzyhook.com
 fresh1.ironoreprod.top
-img.proxies.world
-hopewater.co
-lycheepanel.info
+downloayxkemam.sbs
 hostigram.xyz
 iemagreen.com
-marrakechfolkloredays.com
-hassannisar.pk
+img.proxies.world
+dienmay01.maudemo.com
+frezzyhook.com
+et3.ektpnc.com
+lycheepanel.info
 gtn.cl
-paste-bin.xyz
-screeninghive.com
+hopewater.co
+iaqqav.com
+hassannisar.pk
+kuwalla.band
+marrakechfolkloredays.com
+gomlgaming.dev
 pan.tenire.com
-souq-alshashat.com
-renukaindustry.co.in
+walkinglate.com
+screeninghive.com
+rusticironstore.com
 wordpress.ductai.xyz
+zang1.almashreaq.top
+spices.com.sg
+souq-alshashat.com
 www.agies.org
 vollfisioterapia.com.br
-www.idpminic.org
-spices.com.sg
-www.geovanisantos.adv.br
 trtmyanmar.com
-zang1.almashreaq.top
+www.idpminic.org
+spacetrack.co.tz
+visionlightscapes.com
+www.geovanisantos.adv.br
 zaofisa.net
-ji.alie3ksgbb.com
-ji.alie3ksgdd.com
 ```
 
 0 used cloudfront (0.0%):
@@ -86,13 +85,12 @@ ji.alie3ksgdd.com
 
 ```
 
-5 used sucuri (0.8635578583765112%):
+4 used sucuri (0.6932409012131715%):
 ```
 cwhawkins.org
-spsiphil.com
 www.bearware.org
-www.lasikofmichigan.com
 www.asterglobal.com
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):

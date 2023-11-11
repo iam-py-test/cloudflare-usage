@@ -1,24 +1,24 @@
-356 domains tested. 53.65168539325843% were behind nothing (165 were behind something). 81 domains could not be tested.<br>
+356 domains tested. 45.50561797752809% were behind nothing (194 were behind something). 117 domains could not be tested.<br>
 19 used akamai (5.337078651685393%):
 ```
-cic.ndu.edu
 amtrak.com
 clerk.house.gov
-dea.gov
 doleta.gov
+cic.ndu.edu
 fcc.gov
-highways.dot.gov
+dea.gov
 home.treasury.gov
-jfsc.ndu.edu
+highways.dot.gov
 maritime.dot.gov
-fda.gov
+jfsc.ndu.edu
 bea.gov
 npin.cdc.gov
-stats.bls.gov
+fda.gov
 railroads.dot.gov
-studentaid.gov
+stats.bls.gov
 transit.dot.gov
 usfa.fema.gov
+studentaid.gov
 eia.gov
 ```
 
@@ -37,76 +37,69 @@ eia.gov
 
 ```
 
-29 used cloudflare (8.146067415730338%):
+24 used cloudflare (6.741573033707865%):
 ```
 aoc.gov
-copyright.gov
 constitutioncenter.org
 fbi.gov
+arc.gov
+copyright.gov
 dau.edu
 bis.doc.gov
-arc.gov
-bjs.gov
-fca.gov
-gpo.gov
-eac.gov
-freddiemac.com
 cftc.gov
-fanniemae.com
-federallabs.org
-ffiec.gov
+eac.gov
 csb.gov
-juvenilecouncil.ojp.gov
-federalreserve.gov
 fcsic.gov
 loc.gov
+juvenilecouncil.ojp.gov
+federallabs.org
 nij.ojp.gov
 nga.gov
+ffiec.gov
+federalreserve.gov
+fca.gov
 kennedy-center.org
-ojp.gov
 peacecorps.gov
-srbc.net
-tva.com
 uscirf.gov
+tva.com
+srbc.net
 ```
 
-35 used cloudfront (9.831460674157304%):
+33 used cloudfront (9.269662921348315%):
 ```
-energy.gov
-cio.gov
-exim.gov
-commerce.gov
-eda.gov
 archives.gov
-health.gov
-fec.gov
-cfo.gov
+exim.gov
+cio.gov
+energy.gov
+commerce.gov
 fdic.gov
-epa.gov
-minorityhealth.hhs.gov
-mbda.gov
-gsa.gov
-msha.gov
-onrr.gov
-nationalparks.org
-jobcorps.gov
-noaa.gov
+eda.gov
+fec.gov
 fhfa.gov
-nps.gov
+health.gov
+cfo.gov
+epa.gov
+mbda.gov
+minorityhealth.hhs.gov
+noaa.gov
+jobcorps.gov
+onrr.gov
+msha.gov
+nationalparks.org
 nlm.nih.gov
-nccih.nih.gov
-state.gov
+nps.gov
 sss.gov
+state.gov
 sba.gov
-ustaxcourt.gov
 ustr.gov
-usun.usmission.gov
 ushmm.org
+ustaxcourt.gov
+usun.usmission.gov
+usgs.gov
+ustda.gov
 uspto.gov
 usmint.gov
 usa.gov
-ustda.gov
-usgs.gov
 ```
 
 0 used ddosguard (0.0%):
