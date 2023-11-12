@@ -1,24 +1,25 @@
-356 domains tested. 45.50561797752809% were behind nothing (194 were behind something). 117 domains could not be tested.<br>
-19 used akamai (5.337078651685393%):
+356 domains tested. 53.93258426966292% were behind nothing (164 were behind something). 79 domains could not be tested.<br>
+20 used akamai (5.617977528089887%):
 ```
 amtrak.com
 clerk.house.gov
-doleta.gov
 cic.ndu.edu
+doleta.gov
 fcc.gov
 dea.gov
-home.treasury.gov
 highways.dot.gov
-maritime.dot.gov
+home.treasury.gov
 jfsc.ndu.edu
+maritime.dot.gov
 bea.gov
-npin.cdc.gov
 fda.gov
-railroads.dot.gov
+ftc.gov
+npin.cdc.gov
 stats.bls.gov
 transit.dot.gov
-usfa.fema.gov
+railroads.dot.gov
 studentaid.gov
+usfa.fema.gov
 eia.gov
 ```
 
@@ -37,69 +38,76 @@ eia.gov
 
 ```
 
-24 used cloudflare (6.741573033707865%):
+29 used cloudflare (8.146067415730338%):
 ```
 aoc.gov
-constitutioncenter.org
-fbi.gov
 arc.gov
+bjs.gov
+fbi.gov
+constitutioncenter.org
 copyright.gov
-dau.edu
 bis.doc.gov
-cftc.gov
-eac.gov
+dau.edu
+gpo.gov
+fca.gov
+freddiemac.com
 csb.gov
-fcsic.gov
+eac.gov
+cftc.gov
+federallabs.org
+fanniemae.com
 loc.gov
 juvenilecouncil.ojp.gov
-federallabs.org
-nij.ojp.gov
-nga.gov
 ffiec.gov
 federalreserve.gov
-fca.gov
+fcsic.gov
+nij.ojp.gov
+nga.gov
 kennedy-center.org
+ojp.gov
 peacecorps.gov
+srbc.net
 uscirf.gov
 tva.com
-srbc.net
 ```
 
-33 used cloudfront (9.269662921348315%):
+35 used cloudfront (9.831460674157304%):
 ```
-archives.gov
-exim.gov
+commerce.gov
 cio.gov
 energy.gov
-commerce.gov
-fdic.gov
+exim.gov
 eda.gov
-fec.gov
-fhfa.gov
 health.gov
+fec.gov
+archives.gov
 cfo.gov
 epa.gov
-mbda.gov
+fdic.gov
+fhfa.gov
 minorityhealth.hhs.gov
-noaa.gov
+gsa.gov
+mbda.gov
 jobcorps.gov
-onrr.gov
 msha.gov
-nationalparks.org
-nlm.nih.gov
+onrr.gov
+noaa.gov
 nps.gov
+nlm.nih.gov
+nationalparks.org
 sss.gov
+nccih.nih.gov
 state.gov
-sba.gov
-ustr.gov
-ushmm.org
 ustaxcourt.gov
+ustr.gov
 usun.usmission.gov
-usgs.gov
+sba.gov
+ushmm.org
+usmint.gov
 ustda.gov
 uspto.gov
-usmint.gov
 usa.gov
+usgs.gov
 ```
 
 0 used ddosguard (0.0%):

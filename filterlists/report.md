@@ -1,10 +1,10 @@
-214 domains tested. 57.943925233644855% were behind nothing (90 were behind something). 26 domains could not be tested.<br>
+214 domains tested. 58.41121495327103% were behind nothing (89 were behind something). 24 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
-www.microsoft.com
+easylist-downloads.adblockplus.org
 www.ebates.com
+www.microsoft.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,57 +24,58 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-50 used cloudflare (23.364485981308412%):
+51 used cloudflare (23.83177570093458%):
 ```
-blocklist.palemoon.org
-abp.tt.codes
-getadhell.com
-gitcdn.link
 cdn.adblockcdn.com
-iplists.firehol.org
-adblock.mahakala.is
-adp.magnobiet.com
+abp.tt.codes
+azorult-tracker.net
 ads-for-open-source.readthedocs.io
-anti-ad.net
-lpt.lrv.lt
-rawcdn.githack.com
-assets.windscribe.com
-dns.adguard.com
-easydutchcdn.pages.dev
-1275.ru
-easylist.to
-fanboy.co.nz
 blokada.org
-easydutch.pages.dev
+adp.magnobiet.com
+anti-ad.net
+assets.windscribe.com
+adblock.mahakala.is
+combinatronics.io
 block.energized.pro
 dns-family.adguard.com
-combinatronics.io
-azorult-tracker.net
-www.lb.lt
-secure.fanboy.co.nz
+anonymousposter.gitlab.io
+getadhell.com
+gitcdn.link
+iplists.firehol.org
+blocklist.palemoon.org
+abpvn.com
+easydutchcdn.pages.dev
+fanboy.co.nz
+1275.ru
+easylist.to
+dns.adguard.com
+easydutch.pages.dev
+lpt.lrv.lt
+rawcdn.githack.com
 repo.andnixsh.com
+family.cloudflare-dns.com
 pastebin.com
 osint.bambenekconsulting.com
-anonymousposter.gitlab.io
+jansal.net
+nonio.pt
+gitlab.com
+secure.fanboy.co.nz
+filtersheroes.gitlab.io
+tgc.cloud
+stanev.org
 phishing.army
 road.adblock.ro
-nonio.pt
 www.binarydefense.com
-tgc.cloud
+security.cloudflare-dns.com
 theantisocialengineer.com
-stanev.org
 www.botvrij.eu
 www.fanboy.co.nz
-gitlab.com
-www.i-dont-care-about-cookies.eu
-family.cloudflare-dns.com
-jansal.net
-www.stopforumspam.com
-managedsentinel.com
-security.cloudflare-dns.com
 malware-filter.gitlab.io
+managedsentinel.com
+www.lb.lt
+www.stopforumspam.com
+www.i-dont-care-about-cookies.eu
 zonefiles.io
-abpvn.com
 blocklist.cyberthreatcoalition.org
 ```
 

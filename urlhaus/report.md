@@ -1,4 +1,4 @@
-577 domains tested. 87.17504332755632% were behind nothing (74 were behind something). 28 domains could not be tested.<br>
+350 domains tested. 85.71428571428571% were behind nothing (50 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,50 +19,40 @@
 
 ```
 
-42 used cloudflare (7.279029462738301%):
+32 used cloudflare (9.142857142857142%):
 ```
-arcrosarquitectura.com
-70northair.com
-akhtarweb.com
-alwahacare.com
-books.ttc.edu.sg
-china.dhabigroup.top
+api.baimless.com
 demonware.online
-dlink.caesarsgroup.top
-crackload.net
-cycling-today.live
+akhtarweb.com
 fresh1.ironoreprod.top
+dlink.caesarsgroup.top
+china.dhabigroup.top
 downloayxkemam.sbs
-hostigram.xyz
-iemagreen.com
-img.proxies.world
-dienmay01.maudemo.com
-frezzyhook.com
-et3.ektpnc.com
-lycheepanel.info
-gtn.cl
-hopewater.co
-iaqqav.com
+crackload.net
+fdgdgd.su
 hassannisar.pk
+faucetmeaning.com
+hopewater.co
+hostigram.xyz
+gbuarts.com
 kuwalla.band
-marrakechfolkloredays.com
 gomlgaming.dev
-pan.tenire.com
-walkinglate.com
+iaqqav.com
+lycheepanel.info
 screeninghive.com
-rusticironstore.com
-wordpress.ductai.xyz
-zang1.almashreaq.top
-spices.com.sg
-souq-alshashat.com
-www.agies.org
-vollfisioterapia.com.br
-trtmyanmar.com
-www.idpminic.org
+pan.tenire.com
+paste-bin.xyz
 spacetrack.co.tz
+rusticironstore.com
+thre03bb.top
+wordpress.ductai.xyz
+www.idpminic.org
+www.agies.org
 visionlightscapes.com
+zang1.almashreaq.top
+trtmyanmar.com
+vollfisioterapia.com.br
 www.geovanisantos.adv.br
-zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -85,12 +75,10 @@ zaofisa.net
 
 ```
 
-4 used sucuri (0.6932409012131715%):
+2 used sucuri (0.5714285714285714%):
 ```
-cwhawkins.org
 www.bearware.org
 www.asterglobal.com
-www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
