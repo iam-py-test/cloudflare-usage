@@ -18,6 +18,7 @@ DEBUG = False # set to True when testing
 MAX_THREADS = 110
 start_time = datetime.now().isoformat()
 ip_domain_map = {}
+do_not_resolve = ["1.1.1.1", "127.0.0.1", "localhost", "", "0.0.0.0"] # IP addresses can't be resolved
 
 try:
 	ip_owners = json.loads(open("data/ip_owners.json").read())
@@ -51,6 +52,7 @@ started = 0
 cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
+already_checked = {}
 
 try:
 	stats_file = json.loads(open("stats.json").read())
@@ -88,6 +90,8 @@ def get_cname(domain):
 
 def get_ip(domain):
 	global ip_domain_map
+	if domain in do_not_resolve:
+		return []
 	if domain in ip_domain_map:
 		return ip_domain_map[domain]
 	ips = []
@@ -105,20 +109,30 @@ def hascloudflare(url):
 	global server_headers
 	global via_headers
 	global x_served_by
+	global already_checked
 	try:
 		domain = urllib.parse.urlparse(url).netloc
+		if domain in already_checked:
+			return already_checked[domain]
 		ips = get_ip(domain)
+		if len(ips) == 0:
+			return None # don't do anything with domains which don't resolve
 		for ip in ips:
 			if ip in ip_owners["cloudflare"]:
+				already_checked[domain] = "cloudflare"
 				return "cloudflare"
 		cname = get_cname(domain)
 		if cname != None:
 			if cname.endswith(".fastly.net"):
+				already_checked[domain] = "fastly"
 				return "fastly"
 			if cname.endswith(".edgecastcdn.net"):
+				already_checked[domain] = "edgecast"
 				return "edgecast"
 			if cname.endswith(".akamaiedge.net") or cname.endswith(".akamai.net"):
 				return "akamai"
+			if cname.endswith(".pacloudflare.com") or cname.endswith(".cloudflare.com") or cname.endswith(".cloudflare.net"):
+				return "cloudflare"
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
@@ -166,6 +180,8 @@ def hascloudflare(url):
 				return "cachefly"
 		if "Akamai-Expedia-Global-GRN" in r.headers:
 			return "akamai"
+		if "cf-mitigated" in r.headers:
+			return "cloudflare"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -329,6 +345,7 @@ def checkdomain(d, cata):
 		full_report[cata]["erroredout"] += 1
 		return
 	httptestresult = hascloudflare(f"http://{d}")
+	already_checked[d] = httptestresult
 	if httptestresult == False:
 		full_report[cata]["has_nothing"] += 1
 	elif httptestresult != False and httptestresult != None:
