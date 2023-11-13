@@ -1,26 +1,24 @@
-356 domains tested. 53.93258426966292% were behind nothing (164 were behind something). 79 domains could not be tested.<br>
-20 used akamai (5.617977528089887%):
+356 domains tested. 41.01123595505618% were behind nothing (210 were behind something). 141 domains could not be tested.<br>
+18 used akamai (5.056179775280898%):
 ```
-amtrak.com
+fda.gov
 clerk.house.gov
 cic.ndu.edu
 doleta.gov
-fcc.gov
 dea.gov
-highways.dot.gov
+fcc.gov
+amtrak.com
 home.treasury.gov
-jfsc.ndu.edu
+highways.dot.gov
 maritime.dot.gov
-bea.gov
-fda.gov
-ftc.gov
+jfsc.ndu.edu
 npin.cdc.gov
+bea.gov
+railroads.dot.gov
 stats.bls.gov
 transit.dot.gov
-railroads.dot.gov
-studentaid.gov
 usfa.fema.gov
-eia.gov
+studentaid.gov
 ```
 
 0 used bunnycdn (0.0%):
@@ -38,76 +36,62 @@ eia.gov
 
 ```
 
-29 used cloudflare (8.146067415730338%):
+17 used cloudflare (4.775280898876404%):
 ```
-aoc.gov
-arc.gov
-bjs.gov
 fbi.gov
 constitutioncenter.org
-copyright.gov
-bis.doc.gov
-dau.edu
 gpo.gov
-fca.gov
-freddiemac.com
+loc.gov
+juvenilecouncil.ojp.gov
+federallabs.org
+arc.gov
+nij.ojp.gov
 csb.gov
 eac.gov
 cftc.gov
-federallabs.org
-fanniemae.com
-loc.gov
-juvenilecouncil.ojp.gov
-ffiec.gov
-federalreserve.gov
-fcsic.gov
-nij.ojp.gov
 nga.gov
-kennedy-center.org
-ojp.gov
 peacecorps.gov
-srbc.net
-uscirf.gov
+kennedy-center.org
 tva.com
+uscirf.gov
+srbc.net
 ```
 
-35 used cloudfront (9.831460674157304%):
+33 used cloudfront (9.269662921348315%):
 ```
-commerce.gov
+epa.gov
+exim.gov
+fdic.gov
 cio.gov
 energy.gov
-exim.gov
-eda.gov
-health.gov
+commerce.gov
 fec.gov
+eda.gov
+fhfa.gov
+noaa.gov
+health.gov
 archives.gov
 cfo.gov
-epa.gov
-fdic.gov
-fhfa.gov
 minorityhealth.hhs.gov
-gsa.gov
 mbda.gov
+state.gov
+onrr.gov
 jobcorps.gov
 msha.gov
-onrr.gov
-noaa.gov
-nps.gov
-nlm.nih.gov
 nationalparks.org
+nlm.nih.gov
+nps.gov
 sss.gov
-nccih.nih.gov
-state.gov
 ustaxcourt.gov
-ustr.gov
-usun.usmission.gov
-sba.gov
 ushmm.org
-usmint.gov
+ustr.gov
+sba.gov
 ustda.gov
-uspto.gov
+usmint.gov
 usa.gov
+usun.usmission.gov
 usgs.gov
+uspto.gov
 ```
 
 0 used ddosguard (0.0%):

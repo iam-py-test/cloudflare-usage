@@ -1,8 +1,8 @@
-163 domains tested. 71.16564417177914% were behind nothing (47 were behind something). 3 domains could not be tested.<br>
+163 domains tested. 67.48466257668711% were behind nothing (53 were behind something). 10 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
-news.sky.com
 dailymail.co.uk
+news.sky.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -22,52 +22,51 @@ dailymail.co.uk
 
 19 used cloudflare (11.65644171779141%):
 ```
-drudgereport.com
-alarabiya.net
-politico.com
-mashable.com
-pravdareport.com
-propublica.org
-publicintegrity.org
 thewire.in
-altnews.in
-bleepingcomputer.com
-axios.com
-dexerto.com
-theregister.com
+drudgereport.com
+mashable.com
+politico.com
+alarabiya.net
+pravdareport.com
+publicintegrity.org
 therecord.media
 thehindu.com
+theregister.com
 themarshallproject.org
+propublica.org
+axios.com
+altnews.in
 washingtontimes.com
+dexerto.com
+bleepingcomputer.com
 techdirt.com
 startribune.com
 ```
 
-23 used cloudfront (14.11042944785276%):
+22 used cloudfront (13.496932515337424%):
 ```
-abcnews.go.com
-ap.org
+economist.com
+economist.com
 espn.com
 hbr.org
-economist.com
-economist.com
-andhrajyothy.com
-reuters.com
+latimes.com
 onet.pl
 repubblica.it
-latimes.com
-sandiegouniontribune.com
-fortune.com
-lastampa.it
-csmonitor.com
-sueddeutsche.de
-salon.com
-wsj.com
-theoutline.com
+reuters.com
 time.com
+wsj.com
+abcnews.go.com
+ap.org
+andhrajyothy.com
+fortune.com
+theoutline.com
+sandiegouniontribune.com
+sueddeutsche.de
+lastampa.it
+salon.com
+csmonitor.com
 mic.com
 thetimes.co.uk
-fivethirtyeight.com
 ```
 
 0 used ddosguard (0.0%):

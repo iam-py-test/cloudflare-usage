@@ -1,4 +1,4 @@
-350 domains tested. 85.71428571428571% were behind nothing (50 were behind something). 16 domains could not be tested.<br>
+294 domains tested. 84.01360544217688% were behind nothing (47 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,41 @@
 
 ```
 
-32 used cloudflare (9.142857142857142%):
+33 used cloudflare (11.224489795918368%):
 ```
 api.baimless.com
 demonware.online
 akhtarweb.com
+budgienation.net
+bobkelsofan.com
 fresh1.ironoreprod.top
-dlink.caesarsgroup.top
+frezzyhook.com
 china.dhabigroup.top
-downloayxkemam.sbs
+et3.ektpnc.com
+dienmay01.maudemo.com
 crackload.net
+img.proxies.world
 fdgdgd.su
-hassannisar.pk
-faucetmeaning.com
-hopewater.co
 hostigram.xyz
-gbuarts.com
-kuwalla.band
+gtn.cl
 gomlgaming.dev
-iaqqav.com
+rawcracker.com
 lycheepanel.info
-screeninghive.com
-pan.tenire.com
 paste-bin.xyz
+thecrazymonkey.org
+walkinglate.com
+marrakechfolkloredays.com
 spacetrack.co.tz
 rusticironstore.com
 thre03bb.top
-wordpress.ductai.xyz
 www.idpminic.org
 www.agies.org
-visionlightscapes.com
-zang1.almashreaq.top
 trtmyanmar.com
 vollfisioterapia.com.br
+spices.com.sg
+zang1.almashreaq.top
 www.geovanisantos.adv.br
+zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -75,10 +76,11 @@ www.geovanisantos.adv.br
 
 ```
 
-2 used sucuri (0.5714285714285714%):
+3 used sucuri (1.0204081632653061%):
 ```
-www.bearware.org
 www.asterglobal.com
+www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
