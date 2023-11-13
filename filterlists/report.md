@@ -1,10 +1,10 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 36 domains could not be tested.<br>
+214 domains tested. 57.476635514018696% were behind nothing (91 were behind something). 26 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
-www.ebates.com
 www.microsoft.com
+www.ebates.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,52 +24,57 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-46 used cloudflare (21.49532710280374%):
+51 used cloudflare (23.83177570093458%):
 ```
 gitlab.com
-blocklist.palemoon.org
 cdn.adblockcdn.com
-getadhell.com
-iplists.firehol.org
-gitcdn.link
-lpt.lrv.lt
-rawcdn.githack.com
 adp.magnobiet.com
-azorult-tracker.net
-anti-ad.net
-combinatronics.io
-abpvn.com
 block.energized.pro
-assets.windscribe.com
-fanboy.co.nz
-easydutch.pages.dev
-dns.adguard.com
-easylist.to
 adblock.mahakala.is
-easydutchcdn.pages.dev
-1275.ru
-dns-family.adguard.com
-ads-for-open-source.readthedocs.io
 blokada.org
+abp.tt.codes
+assets.windscribe.com
+anonymousposter.gitlab.io
+ads-for-open-source.readthedocs.io
+abpvn.com
+blocklist.palemoon.org
+getadhell.com
+gitcdn.link
+iplists.firehol.org
+azorult-tracker.net
+easydutchcdn.pages.dev
+anti-ad.net
+rawcdn.githack.com
+easydutch.pages.dev
+dns-family.adguard.com
+combinatronics.io
+dns.adguard.com
+fanboy.co.nz
+easylist.to
+lpt.lrv.lt
+1275.ru
 osint.bambenekconsulting.com
-pastebin.com
-www.lb.lt
-nonio.pt
-repo.andnixsh.com
-secure.fanboy.co.nz
-road.adblock.ro
 phishing.army
-tgc.cloud
-theantisocialengineer.com
-www.binarydefense.com
-www.i-dont-care-about-cookies.eu
-stanev.org
+secure.fanboy.co.nz
+repo.andnixsh.com
 family.cloudflare-dns.com
+pastebin.com
+nonio.pt
+www.lb.lt
+filtersheroes.gitlab.io
+stanev.org
 jansal.net
-www.botvrij.eu
-www.fanboy.co.nz
+theantisocialengineer.com
+road.adblock.ro
+tgc.cloud
+managedsentinel.com
+www.binarydefense.com
 www.stopforumspam.com
+www.i-dont-care-about-cookies.eu
 security.cloudflare-dns.com
+www.fanboy.co.nz
+www.botvrij.eu
+malware-filter.gitlab.io
 zonefiles.io
 blocklist.cyberthreatcoalition.org
 ```
