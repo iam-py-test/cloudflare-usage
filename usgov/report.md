@@ -1,24 +1,24 @@
-356 domains tested. 49.157303370786515% were behind nothing (181 were behind something). 98 domains could not be tested.<br>
+356 domains tested. 39.60674157303371% were behind nothing (215 were behind something). 149 domains could not be tested.<br>
 18 used akamai (5.056179775280898%):
 ```
 fda.gov
+bea.gov
 cic.ndu.edu
 clerk.house.gov
+fcc.gov
 doleta.gov
 dea.gov
-fcc.gov
-home.treasury.gov
-jfsc.ndu.edu
 highways.dot.gov
 amtrak.com
-bea.gov
-npin.cdc.gov
+jfsc.ndu.edu
 maritime.dot.gov
+home.treasury.gov
+npin.cdc.gov
 railroads.dot.gov
 stats.bls.gov
 transit.dot.gov
-studentaid.gov
 usfa.fema.gov
+studentaid.gov
 ```
 
 0 used bunnycdn (0.0%):
@@ -36,76 +36,59 @@ usfa.fema.gov
 
 ```
 
-29 used cloudflare (8.146067415730338%):
+15 used cloudflare (4.213483146067416%):
 ```
 fbi.gov
 constitutioncenter.org
-copyright.gov
-aoc.gov
-dau.edu
-bis.doc.gov
-fca.gov
-freddiemac.com
-federallabs.org
-csb.gov
-fanniemae.com
-arc.gov
-gpo.gov
-eac.gov
-fcsic.gov
-cftc.gov
 loc.gov
 juvenilecouncil.ojp.gov
 nij.ojp.gov
-bjs.gov
-ffiec.gov
-federalreserve.gov
+arc.gov
+csb.gov
+cftc.gov
+eac.gov
 nga.gov
-ojp.gov
 peacecorps.gov
 kennedy-center.org
 tva.com
-srbc.net
 uscirf.gov
+srbc.net
 ```
 
-35 used cloudfront (9.831460674157304%):
+32 used cloudfront (8.98876404494382%):
 ```
 epa.gov
-archives.gov
-energy.gov
 exim.gov
-fdic.gov
+energy.gov
 cio.gov
+fdic.gov
 eda.gov
-commerce.gov
 fec.gov
-cfo.gov
-fhfa.gov
+commerce.gov
 health.gov
+fhfa.gov
 noaa.gov
-gsa.gov
+archives.gov
+cfo.gov
 minorityhealth.hhs.gov
 mbda.gov
-jobcorps.gov
 state.gov
-msha.gov
-nps.gov
 onrr.gov
-nccih.nih.gov
-nlm.nih.gov
+jobcorps.gov
+msha.gov
 nationalparks.org
 sss.gov
-sba.gov
-usa.gov
+nps.gov
+nlm.nih.gov
+ushmm.org
 ustr.gov
 ustaxcourt.gov
-ushmm.org
-usmint.gov
+sba.gov
 usun.usmission.gov
+uspto.gov
 ustda.gov
 usgs.gov
-uspto.gov
+usmint.gov
 ```
 
 0 used ddosguard (0.0%):

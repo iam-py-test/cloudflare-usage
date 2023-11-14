@@ -1,10 +1,10 @@
-214 domains tested. 57.476635514018696% were behind nothing (91 were behind something). 26 domains could not be tested.<br>
+214 domains tested. 55.60747663551402% were behind nothing (95 were behind something). 33 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
-www.microsoft.com
+easylist-msie.adblockplus.org
 www.ebates.com
+www.microsoft.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,58 +24,55 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-51 used cloudflare (23.83177570093458%):
+48 used cloudflare (22.429906542056074%):
 ```
 gitlab.com
-cdn.adblockcdn.com
-adp.magnobiet.com
-block.energized.pro
-adblock.mahakala.is
 blokada.org
-abp.tt.codes
-assets.windscribe.com
-anonymousposter.gitlab.io
-ads-for-open-source.readthedocs.io
-abpvn.com
-blocklist.palemoon.org
 getadhell.com
 gitcdn.link
-iplists.firehol.org
-azorult-tracker.net
-easydutchcdn.pages.dev
-anti-ad.net
-rawcdn.githack.com
-easydutch.pages.dev
-dns-family.adguard.com
-combinatronics.io
-dns.adguard.com
-fanboy.co.nz
-easylist.to
+cdn.adblockcdn.com
+ads-for-open-source.readthedocs.io
+blocklist.palemoon.org
+abpvn.com
 lpt.lrv.lt
+rawcdn.githack.com
+combinatronics.io
+anti-ad.net
+block.energized.pro
+easylist.to
+fanboy.co.nz
+assets.windscribe.com
+dns-family.adguard.com
+adp.magnobiet.com
+easydutchcdn.pages.dev
+easydutch.pages.dev
+adblock.mahakala.is
+azorult-tracker.net
 1275.ru
-osint.bambenekconsulting.com
-phishing.army
-secure.fanboy.co.nz
-repo.andnixsh.com
-family.cloudflare-dns.com
-pastebin.com
-nonio.pt
 www.lb.lt
-filtersheroes.gitlab.io
-stanev.org
-jansal.net
+dns.adguard.com
+abp.tt.codes
+secure.fanboy.co.nz
+phishing.army
+nonio.pt
+osint.bambenekconsulting.com
+tgc.cloud
+pastebin.com
+repo.andnixsh.com
 theantisocialengineer.com
 road.adblock.ro
-tgc.cloud
-managedsentinel.com
+stanev.org
+family.cloudflare-dns.com
 www.binarydefense.com
-www.stopforumspam.com
-www.i-dont-care-about-cookies.eu
-security.cloudflare-dns.com
-www.fanboy.co.nz
 www.botvrij.eu
-malware-filter.gitlab.io
+jansal.net
+www.fanboy.co.nz
+www.i-dont-care-about-cookies.eu
+www.stopforumspam.com
+security.cloudflare-dns.com
+managedsentinel.com
 zonefiles.io
+iplists.firehol.org
 blocklist.cyberthreatcoalition.org
 ```
 

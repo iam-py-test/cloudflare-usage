@@ -1,4 +1,4 @@
-289 domains tested. 84.77508650519032% were behind nothing (44 were behind something). 11 domains could not be tested.<br>
+312 domains tested. 84.61538461538461% were behind nothing (48 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,34 @@
 
 ```
 
-31 used cloudflare (10.726643598615917%):
+27 used cloudflare (8.653846153846153%):
 ```
 demonware.online
-downloayxkemam.sbs
-frezzyhook.com
-crackload.net
+api.baimless.com
 akhtarweb.com
-bobkelsofan.com
-hostigram.xyz
 budgienation.net
-faucetmeaning.com
-dienmay01.maudemo.com
-china.dhabigroup.top
-fresh1.ironoreprod.top
+bobkelsofan.com
 dlink.caesarsgroup.top
+china.dhabigroup.top
+crackload.net
+frezzyhook.com
+downloayxkemam.sbs
+fresh1.ironoreprod.top
 fdgdgd.su
+hostigram.xyz
 gomlgaming.dev
-img.proxies.world
-rawcracker.com
-lycheepanel.info
 paste-bin.xyz
-gbuarts.com
-rusticironstore.com
+img.proxies.world
+lycheepanel.info
+gons18cl.top
+marrakechfolkloredays.com
 wordpress.ductai.xyz
-thecrazymonkey.org
-trtmyanmar.com
-www.agies.org
 walkinglate.com
-zang1.almashreaq.top
-www.geovanisantos.adv.br
+rawcracker.com
+www.agies.org
 www.idpminic.org
-zaofisa.net
+zang1.almashreaq.top
+rusticironstore.com
 vollfisioterapia.com.br
 ```
 
@@ -74,8 +70,9 @@ vollfisioterapia.com.br
 
 ```
 
-2 used sucuri (0.6920415224913495%):
+3 used sucuri (0.9615384615384616%):
 ```
+www.bearware.org
 www.asterglobal.com
 www.lasikofmichigan.com
 ```
