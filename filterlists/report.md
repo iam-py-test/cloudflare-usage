@@ -1,4 +1,4 @@
-214 domains tested. 55.60747663551402% were behind nothing (95 were behind something). 33 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 38 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -24,56 +24,52 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-48 used cloudflare (22.429906542056074%):
+44 used cloudflare (20.5607476635514%):
 ```
 gitlab.com
-blokada.org
-getadhell.com
-gitcdn.link
-cdn.adblockcdn.com
+adp.magnobiet.com
+assets.windscribe.com
+anonymousposter.gitlab.io
 ads-for-open-source.readthedocs.io
-blocklist.palemoon.org
 abpvn.com
+gitcdn.link
+getadhell.com
+cdn.adblockcdn.com
+iplists.firehol.org
+blocklist.palemoon.org
 lpt.lrv.lt
 rawcdn.githack.com
-combinatronics.io
-anti-ad.net
-block.energized.pro
-easylist.to
 fanboy.co.nz
-assets.windscribe.com
-dns-family.adguard.com
-adp.magnobiet.com
-easydutchcdn.pages.dev
 easydutch.pages.dev
+easylist.to
 adblock.mahakala.is
+anti-ad.net
 azorult-tracker.net
-1275.ru
-www.lb.lt
-dns.adguard.com
+easydutchcdn.pages.dev
+block.energized.pro
 abp.tt.codes
+www.lb.lt
+blokada.org
+combinatronics.io
+1275.ru
+dns.adguard.com
+dns-family.adguard.com
 secure.fanboy.co.nz
-phishing.army
-nonio.pt
-osint.bambenekconsulting.com
 tgc.cloud
-pastebin.com
+osint.bambenekconsulting.com
+phishing.army
 repo.andnixsh.com
-theantisocialengineer.com
 road.adblock.ro
-stanev.org
-family.cloudflare-dns.com
+theantisocialengineer.com
 www.binarydefense.com
-www.botvrij.eu
-jansal.net
 www.fanboy.co.nz
+www.botvrij.eu
 www.i-dont-care-about-cookies.eu
-www.stopforumspam.com
-security.cloudflare-dns.com
+family.cloudflare-dns.com
 managedsentinel.com
+jansal.net
+www.stopforumspam.com
 zonefiles.io
-iplists.firehol.org
-blocklist.cyberthreatcoalition.org
 ```
 
 1 used cloudfront (0.46728971962616817%):

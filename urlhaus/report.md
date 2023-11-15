@@ -1,4 +1,4 @@
-312 domains tested. 84.61538461538461% were behind nothing (48 were behind something). 18 domains could not be tested.<br>
+415 domains tested. 86.02409638554217% were behind nothing (58 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,43 @@
 
 ```
 
-27 used cloudflare (8.653846153846153%):
+35 used cloudflare (8.433734939759036%):
 ```
-demonware.online
 api.baimless.com
-akhtarweb.com
-budgienation.net
-bobkelsofan.com
-dlink.caesarsgroup.top
-china.dhabigroup.top
 crackload.net
-frezzyhook.com
+dienmay01.maudemo.com
 downloayxkemam.sbs
-fresh1.ironoreprod.top
-fdgdgd.su
-hostigram.xyz
-gomlgaming.dev
-paste-bin.xyz
 img.proxies.world
+hostigram.xyz
 lycheepanel.info
-gons18cl.top
+et3.ektpnc.com
+frezzyhook.com
+kmcpokhara.edu.np
+ismartsocial.com
+gbuarts.com
+gomlgaming.dev
 marrakechfolkloredays.com
-wordpress.ductai.xyz
+nexcreations.com.sg
 walkinglate.com
-rawcracker.com
+paste-bin.xyz
+routemart.co.in
+quintacamelot.com
+securehosting.vip
 www.agies.org
-www.idpminic.org
-zang1.almashreaq.top
+spbinan.com
+spacetrack.co.tz
 rusticironstore.com
+sansadkhelspardha.in
+spices.com.sg
+toquedebolafc.com.br
 vollfisioterapia.com.br
+www.idpminic.org
+trtmyanmar.com
+www.geovanisantos.adv.br
+china.dhabigroup.top
+dlink.caesarsgroup.top
+fresh1.ironoreprod.top
+zang1.almashreaq.top
 ```
 
 0 used cloudfront (0.0%):
@@ -70,10 +78,10 @@ vollfisioterapia.com.br
 
 ```
 
-3 used sucuri (0.9615384615384616%):
+3 used sucuri (0.7228915662650602%):
 ```
-www.bearware.org
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
