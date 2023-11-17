@@ -1,4 +1,4 @@
-535 domains tested. 87.28971962616822% were behind nothing (68 were behind something). 19 domains could not be tested.<br>
+618 domains tested. 88.3495145631068% were behind nothing (72 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,53 +19,54 @@
 
 ```
 
-46 used cloudflare (8.598130841121495%):
+47 used cloudflare (7.605177993527508%):
 ```
-bertam.com.my
-demonware.online
-api.baimless.com
 akhtarweb.com
-china.dhabigroup.top
 crackload.net
+china.dhabigroup.top
+dambbel.ir
+demonware.online
+bertam.com.my
 frey2.com
-fresh1.ironoreprod.top
-dlink.caesarsgroup.top
-img.proxies.world
 hostigram.xyz
-downloayxkemam.sbs
-et3.ektpnc.com
+fresh1.ironoreprod.top
+dienmay01.maudemo.com
 etumaxgulf.com
-kmcpokhara.edu.np
-lycheepanel.info
+et3.ektpnc.com
 ferreterialirquen.cl
-gbuarts.com
-ismartsocial.com
-gons20cl.top
-globalknitfair.com
 aciia.asia
+kmcpokhara.edu.np
+img.proxies.world
+gons20cl.top
+gons2cl.top
+lycheepanel.info
+globalknitfair.com
+ismartsocial.com
+kuwalla.band
 gomlgaming.dev
 pablobreijo.es
-kuwalla.band
 medicalwellbeinggroup.com
-marrakechfolkloredays.com
 nexcreations.com.sg
-shaadow.net
-spbinan.com
-securehosting.vip
-routemart.co.in
+petertiohk.com
 quintacamelot.com
+securehosting.vip
+shaadow.net
+screeninghive.com
+routemart.co.in
 sansadkhelspardha.in
-spacetrack.co.tz
-spices.com.sg
 wordpress.ductai.xyz
 walkinglate.com
-zang1.almashreaq.top
-topteam.fr
-www.agies.org
+www.geovanisantos.adv.br
 rusticironstore.com
-trtmyanmar.com
-youneedlavu.com
+spbinan.com
+www.agies.org
+spices.com.sg
+zang1.almashreaq.top
 www.idpminic.org
+ttc.edu.sg
+spacetrack.co.tz
+topteam.fr
+youneedlavu.com
 zaofisa.net
 ```
 
@@ -89,10 +90,10 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.5607476635514018%):
+3 used sucuri (0.48543689320388345%):
 ```
-www.bearware.org
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
