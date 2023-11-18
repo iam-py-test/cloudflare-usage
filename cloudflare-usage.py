@@ -138,7 +138,7 @@ def hascloudflare(url):
 		if "Via" in r.headers:
 			if r.headers["Via"] not in via_headers:
 				via_headers.append(r.headers["Via"])
-			if r.headers["Via"].endswith(".cloudfront.net (CloudFront)"):
+			if ".cloudfront.net (CloudFront)" in r.headers["Via"]:
 				return "cloudfront"
 		if "Server" in r.headers:
 			server_header = r.headers["Server"]
@@ -160,7 +160,9 @@ def hascloudflare(url):
 				return "cdn77"
 			elif server_header.startswith("keycdn-"):
 				return "keycdn"
-		if "CF-RAY" in r.headers:
+			elif server_header.startswith("Sucuri"):
+				return "sucuri"
+		if "CF-RAY" in r.headers or "CF-Cache-Status" in r.headers or "cf-mitigated" in r.headers or "Cf-Mitigated" in r.headers:
 			return "cloudflare"
 		if "x-77-age" in r.headers or "x-77-cache" in r.headers or "x-77-nzt" in r.headers or "x-77-nzt-ray" in r.headers or "x-77-pop" in r.headers:
 			return "cdn77"
@@ -180,8 +182,6 @@ def hascloudflare(url):
 				return "cachefly"
 		if "Akamai-Expedia-Global-GRN" in r.headers:
 			return "akamai"
-		if "cf-mitigated" in r.headers:
-			return "cloudflare"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
