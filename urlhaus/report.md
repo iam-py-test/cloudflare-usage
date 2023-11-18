@@ -1,4 +1,4 @@
-618 domains tested. 88.3495145631068% were behind nothing (72 were behind something). 22 domains could not be tested.<br>
+452 domains tested. 86.50442477876106% were behind nothing (61 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,54 +19,48 @@
 
 ```
 
-47 used cloudflare (7.605177993527508%):
+41 used cloudflare (9.070796460176991%):
 ```
 akhtarweb.com
-crackload.net
-china.dhabigroup.top
-dambbel.ir
 demonware.online
-bertam.com.my
-frey2.com
+api.baimless.com
+downloayxkemam.sbs
+china.dhabigroup.top
+dlink.caesarsgroup.top
+crackload.net
+dienmay01.maudemo.com
 hostigram.xyz
 fresh1.ironoreprod.top
-dienmay01.maudemo.com
-etumaxgulf.com
-et3.ektpnc.com
-ferreterialirquen.cl
-aciia.asia
-kmcpokhara.edu.np
-img.proxies.world
-gons20cl.top
-gons2cl.top
+dambbel.ir
 lycheepanel.info
-globalknitfair.com
-ismartsocial.com
-kuwalla.band
+et3.ektpnc.com
+gons20cl.top
+frezzyhook.com
+kmcpokhara.edu.np
+gbuarts.com
+gobo18cl.top
+gons2cl.top
+potatogoose.com
 gomlgaming.dev
-pablobreijo.es
-medicalwellbeinggroup.com
-nexcreations.com.sg
+ismartsocial.com
+kondisioner.az
+marrakechfolkloredays.com
+paste-bin.xyz
+pan.tenire.com
 petertiohk.com
-quintacamelot.com
-securehosting.vip
-shaadow.net
-screeninghive.com
-routemart.co.in
-sansadkhelspardha.in
-wordpress.ductai.xyz
 walkinglate.com
-www.geovanisantos.adv.br
-rusticironstore.com
 spbinan.com
-www.agies.org
+mcnamaratowing.com
+screeninghive.com
 spices.com.sg
+rusticironstore.com
 zang1.almashreaq.top
-www.idpminic.org
-ttc.edu.sg
+vollfisioterapia.com.br
 spacetrack.co.tz
-topteam.fr
-youneedlavu.com
+www.agies.org
+ttc.edu.sg
+www.idpminic.org
+www.geovanisantos.adv.br
 zaofisa.net
 ```
 
@@ -90,7 +84,7 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.48543689320388345%):
+3 used sucuri (0.6637168141592921%):
 ```
 www.asterglobal.com
 www.bearware.org

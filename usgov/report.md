@@ -1,15 +1,16 @@
-356 domains tested. 41.01123595505618% were behind nothing (210 were behind something). 142 domains could not be tested.<br>
-16 used akamai (4.49438202247191%):
+356 domains tested. 40.44943820224719% were behind nothing (212 were behind something). 139 domains could not be tested.<br>
+17 used akamai (4.775280898876404%):
 ```
 fda.gov
-clerk.house.gov
+amtrak.com
 cic.ndu.edu
-fcc.gov
 dea.gov
+fcc.gov
+clerk.house.gov
 highways.dot.gov
 home.treasury.gov
-jfsc.ndu.edu
 maritime.dot.gov
+jfsc.ndu.edu
 npin.cdc.gov
 bea.gov
 railroads.dot.gov
@@ -34,21 +35,24 @@ studentaid.gov
 
 ```
 
-19 used cloudflare (5.337078651685393%):
+22 used cloudflare (6.179775280898876%):
 ```
+copyright.gov
+arc.gov
 fbi.gov
 constitutioncenter.org
-copyright.gov
+aoc.gov
 bis.doc.gov
+gpo.gov
 loc.gov
 juvenilecouncil.ojp.gov
-freddiemac.com
-csb.gov
-arc.gov
-gpo.gov
+federallabs.org
 nij.ojp.gov
 eac.gov
 cftc.gov
+csb.gov
+federalreserve.gov
+fcsic.gov
 nga.gov
 peacecorps.gov
 kennedy-center.org
@@ -57,40 +61,41 @@ uscirf.gov
 srbc.net
 ```
 
-32 used cloudfront (8.98876404494382%):
+33 used cloudfront (9.269662921348315%):
 ```
 epa.gov
-commerce.gov
+energy.gov
+exim.gov
+fdic.gov
 cio.gov
 eda.gov
-fdic.gov
-exim.gov
-energy.gov
+health.gov
 fec.gov
+commerce.gov
 fhfa.gov
 noaa.gov
-archives.gov
-health.gov
 cfo.gov
+archives.gov
 minorityhealth.hhs.gov
 mbda.gov
 state.gov
 onrr.gov
-msha.gov
 jobcorps.gov
+msha.gov
 nationalparks.org
-nlm.nih.gov
-nps.gov
 sss.gov
-ushmm.org
+nps.gov
+nlm.nih.gov
 ustr.gov
-usun.usmission.gov
+ushmm.org
 ustaxcourt.gov
-ustda.gov
-usgs.gov
-uspto.gov
-usmint.gov
 sba.gov
+usun.usmission.gov
+usa.gov
+uspto.gov
+ustda.gov
+usmint.gov
+usgs.gov
 ```
 
 0 used ddosguard (0.0%):
