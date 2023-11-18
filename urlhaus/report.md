@@ -1,4 +1,4 @@
-452 domains tested. 86.50442477876106% were behind nothing (61 were behind something). 17 domains could not be tested.<br>
+433 domains tested. 87.29792147806005% were behind nothing (55 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,47 +19,47 @@
 
 ```
 
-41 used cloudflare (9.070796460176991%):
+41 used cloudflare (9.468822170900692%):
 ```
-akhtarweb.com
-demonware.online
 api.baimless.com
-downloayxkemam.sbs
+demonware.online
+akhtarweb.com
 china.dhabigroup.top
 dlink.caesarsgroup.top
 crackload.net
 dienmay01.maudemo.com
+img.proxies.world
 hostigram.xyz
 fresh1.ironoreprod.top
-dambbel.ir
-lycheepanel.info
-et3.ektpnc.com
-gons20cl.top
-frezzyhook.com
+downloayxkemam.sbs
 kmcpokhara.edu.np
-gbuarts.com
-gobo18cl.top
+lycheepanel.info
+dambbel.ir
+et3.ektpnc.com
+frezzyhook.com
 gons2cl.top
+gons20cl.top
 potatogoose.com
-gomlgaming.dev
+gobo18cl.top
+gbuarts.com
 ismartsocial.com
-kondisioner.az
 marrakechfolkloredays.com
+kondisioner.az
+gomlgaming.dev
 paste-bin.xyz
-pan.tenire.com
 petertiohk.com
-walkinglate.com
 spbinan.com
 mcnamaratowing.com
+wordpress.ductai.xyz
 screeninghive.com
-spices.com.sg
-rusticironstore.com
-zang1.almashreaq.top
-vollfisioterapia.com.br
-spacetrack.co.tz
 www.agies.org
-ttc.edu.sg
+rusticironstore.com
+spices.com.sg
+vollfisioterapia.com.br
+zang1.almashreaq.top
 www.idpminic.org
+ttc.edu.sg
+trtmyanmar.com
 www.geovanisantos.adv.br
 zaofisa.net
 ```
@@ -84,10 +84,8 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.6637168141592921%):
+1 used sucuri (0.23094688221709006%):
 ```
-www.asterglobal.com
-www.bearware.org
 www.lasikofmichigan.com
 ```
 
