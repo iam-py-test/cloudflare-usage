@@ -1,4 +1,4 @@
-214 domains tested. 56.074766355140184% were behind nothing (94 were behind something). 37 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 44 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -24,49 +24,44 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-43 used cloudflare (20.093457943925234%):
+38 used cloudflare (17.75700934579439%):
 ```
 gitlab.com
+adp.magnobiet.com
 cdn.adblockcdn.com
-getadhell.com
-gitcdn.link
+anti-ad.net
 blocklist.palemoon.org
 iplists.firehol.org
+gitcdn.link
+getadhell.com
+adblock.mahakala.is
+assets.windscribe.com
+abpvn.com
 lpt.lrv.lt
 abp.tt.codes
-abpvn.com
-anti-ad.net
-assets.windscribe.com
 rawcdn.githack.com
-blokada.org
-adp.magnobiet.com
-combinatronics.io
-ads-for-open-source.readthedocs.io
-easylist.to
-azorult-tracker.net
-block.energized.pro
-easydutch.pages.dev
-dns-family.adguard.com
 easydutchcdn.pages.dev
-dns.adguard.com
 fanboy.co.nz
+azorult-tracker.net
+blokada.org
+easylist.to
+combinatronics.io
+easydutch.pages.dev
 www.lb.lt
-1275.ru
-adblock.mahakala.is
-repo.andnixsh.com
-secure.fanboy.co.nz
+block.energized.pro
+ads-for-open-source.readthedocs.io
+dns-family.adguard.com
+dns.adguard.com
+pastebin.com
 nonio.pt
-tgc.cloud
-phishing.army
-stanev.org
-theantisocialengineer.com
-www.botvrij.eu
+www.binarydefense.com
 www.i-dont-care-about-cookies.eu
 www.fanboy.co.nz
-www.binarydefense.com
+www.botvrij.eu
 family.cloudflare-dns.com
-www.stopforumspam.com
 managedsentinel.com
+jansal.net
+www.stopforumspam.com
 zonefiles.io
 blocklist.cyberthreatcoalition.org
 ```
