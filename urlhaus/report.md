@@ -1,4 +1,4 @@
-437 domains tested. 87.4141876430206% were behind nothing (55 were behind something). 12 domains could not be tested.<br>
+432 domains tested. 86.80555555555556% were behind nothing (57 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,49 @@
 
 ```
 
-42 used cloudflare (9.610983981693364%):
+42 used cloudflare (9.722222222222223%):
 ```
-demonware.online
 api.baimless.com
+demonware.online
 akhtarweb.com
-dienmay01.maudemo.com
 dlink.caesarsgroup.top
 china.dhabigroup.top
 crackload.net
+dienmay01.maudemo.com
 downloayxkemam.sbs
 hostigram.xyz
-img.proxies.world
 fresh1.ironoreprod.top
 dambbel.ir
 kmcpokhara.edu.np
 lycheepanel.info
-et3.ektpnc.com
 frezzyhook.com
+gons2cl.top
+potatogoose.com
+gons23cl.top
 gons22cl.top
-gbuarts.com
 gobo18cl.top
 gons20cl.top
-gons2cl.top
 ismartsocial.com
+gomlgaming.dev
 kondisioner.az
-potatogoose.com
 marrakechfolkloredays.com
+paste-bin.xyz
+pan.tenire.com
+walkinglate.com
 petertiohk.com
 screeninghive.com
-pan.tenire.com
 mcnamaratowing.com
-walkinglate.com
-wordpress.ductai.xyz
-zang1.almashreaq.top
 rusticironstore.com
 spbinan.com
+vollfisioterapia.com.br
 toquedebolafc.com.br
 www.agies.org
 ttc.edu.sg
+spices.com.sg
+trtmyanmar.com
 www.idpminic.org
-vollfisioterapia.com.br
-www.geovanisantos.adv.br
 spacetrack.co.tz
+www.geovanisantos.adv.br
 zaofisa.net
 ```
 
@@ -85,9 +85,11 @@ zaofisa.net
 
 ```
 
-1 used sucuri (0.2288329519450801%):
+3 used sucuri (0.6944444444444444%):
 ```
+www.bearware.org
 www.asterglobal.com
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
