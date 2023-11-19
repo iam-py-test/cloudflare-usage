@@ -26,6 +26,8 @@ except:
 	ip_owners = {}
 if "cloudflare" not in ip_owners:
 	ip_owners["cloudflare"] = []
+if "fastly" not in ip_owners:
+	ip_owners["fastly"] = []
 
 def debugmsg(msg,data="No data!"):
 	if DEBUG:
@@ -71,6 +73,7 @@ if start_time not in stats_file["date_reports"]:
 server_headers = []
 via_headers = []
 x_served_by = []
+total_domains_checked = 0
 
 def get_cname(domain):
 	global cnames
@@ -110,6 +113,9 @@ def hascloudflare(url):
 	global via_headers
 	global x_served_by
 	global already_checked
+	global total_domains_checked
+
+	total_domains_checked += 1
 	try:
 		domain = urllib.parse.urlparse(url).netloc
 		if domain in already_checked:
@@ -121,6 +127,8 @@ def hascloudflare(url):
 			if ip in ip_owners["cloudflare"]:
 				already_checked[domain] = "cloudflare"
 				return "cloudflare"
+			elif ip in ip_owners["fastly"]:
+				return "fastly"
 		cname = get_cname(domain)
 		if cname != None:
 			if cname.endswith(".fastly.net"):
@@ -133,6 +141,8 @@ def hascloudflare(url):
 				return "akamai"
 			if cname.endswith(".pacloudflare.com") or cname.endswith(".cloudflare.com") or cname.endswith(".cloudflare.net"):
 				return "cloudflare"
+			if cname.endswith(".b-cdn.net"):
+				return "bunnycdn"
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
@@ -173,7 +183,7 @@ def hascloudflare(url):
 		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
 			return "sucuri"
 		if "X-Cache" in r.headers:
-			if r.headers["X-Cache"] == "Hit from cloudfront":
+			if r.headers["X-Cache"].endswith(" from cloudfront"):
 				return "cloudfront"
 		if "X-Served-By" in r.headers:
 			if r.headers["X-Served-By"] not in x_served_by:
@@ -182,6 +192,8 @@ def hascloudflare(url):
 				return "cachefly"
 		if "Akamai-Expedia-Global-GRN" in r.headers:
 			return "akamai"
+		if "X-Amz-Cf-Pop" in r.headers or "X-Amz-Cf-Id" in r.headers:
+			return "cloudfront"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -258,6 +270,10 @@ via_headers = []
 server_headers = []
 cnames = []
 
+def save_statdata():
+	stat_data = open("stats.txt", 'w', encoding="UTF-8")
+	stat_data.write(f"{total_domains_checked} domains checked. {len(already_checked)} unique domains.")
+	stat_data.close()
 def savecnames():
 	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
 	ipsfile.write("\n".join(cnames))
@@ -465,3 +481,4 @@ savecnames()
 saveserverheaders()
 saveviaheaders()
 savex_served_byheaders()
+save_statdata()
