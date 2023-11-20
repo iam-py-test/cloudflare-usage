@@ -1,4 +1,4 @@
-163 domains tested. 61.34969325153374% were behind nothing (63 were behind something). 13 domains could not be tested.<br>
+163 domains tested. 61.963190184049076% were behind nothing (62 were behind something). 10 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 dailymail.co.uk
@@ -20,29 +20,30 @@ news.sky.com
 
 ```
 
-18 used cloudflare (11.042944785276074%):
+19 used cloudflare (11.65644171779141%):
 ```
-thewire.in
-drudgereport.com
-thehindu.com
-alarabiya.net
-theregister.com
-politico.com
-therecord.media
-themarshallproject.org
-propublica.org
-mashable.com
-pravdareport.com
 axios.com
-dexerto.com
-washingtontimes.com
-altnews.in
-techdirt.com
+drudgereport.com
+thewire.in
 bleepingcomputer.com
+altnews.in
+thehindu.com
+theregister.com
+mashable.com
+alarabiya.net
+propublica.org
+publicintegrity.org
+pravdareport.com
+therecord.media
+politico.com
+themarshallproject.org
+dexerto.com
+techdirt.com
+washingtontimes.com
 startribune.com
 ```
 
-30 used cloudfront (18.404907975460123%):
+31 used cloudfront (19.018404907975462%):
 ```
 bbc.com
 bbc.com
@@ -57,23 +58,24 @@ repubblica.it
 reuters.com
 time.com
 wsj.com
-fortune.com
-theglobeandmail.com
+andhrajyothy.com
 abcnews.go.com
+fortune.com
+ap.org
+theoutline.com
+sandiegouniontribune.com
+theglobeandmail.com
 bostonglobe.com
 elpais.es
-ap.org
 nj.com
-sandiegouniontribune.com
-andhrajyothy.com
-theoutline.com
 sueddeutsche.de
 lastampa.it
-infobae.com
 salon.com
-mic.com
 csmonitor.com
+mic.com
+infobae.com
 chicagotribune.com
+thetimes.co.uk
 ```
 
 0 used ddosguard (0.0%):

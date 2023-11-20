@@ -1,8 +1,8 @@
-214 domains tested. 54.67289719626168% were behind nothing (97 were behind something). 60 domains could not be tested.<br>
+214 domains tested. 55.60747663551402% were behind nothing (95 were behind something). 56 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
 www.ebates.com
 www.microsoft.com
 ```
@@ -24,29 +24,31 @@ www.bentasker.co.uk
 
 ```
 
-24 used cloudflare (11.214953271028037%):
+26 used cloudflare (12.149532710280374%):
 ```
 gitlab.com
 cdn.adblockcdn.com
-blocklist.palemoon.org
 getadhell.com
-iplists.firehol.org
 gitcdn.link
+blocklist.palemoon.org
+iplists.firehol.org
 lpt.lrv.lt
 rawcdn.githack.com
-abp.tt.codes
-azorult-tracker.net
-combinatronics.io
-adp.magnobiet.com
-assets.windscribe.com
+dns-family.adguard.com
 anti-ad.net
-easydutchcdn.pages.dev
+adp.magnobiet.com
+fanboy.co.nz
+easylist.to
+blokada.org
+azorult-tracker.net
+dns.adguard.com
+block.energized.pro
 abpvn.com
 www.lb.lt
 www.binarydefense.com
-family.cloudflare-dns.com
-www.fanboy.co.nz
 www.botvrij.eu
+www.fanboy.co.nz
+family.cloudflare-dns.com
 www.i-dont-care-about-cookies.eu
 www.stopforumspam.com
 zonefiles.io
