@@ -1,4 +1,4 @@
-163 domains tested. 61.963190184049076% were behind nothing (62 were behind something). 10 domains could not be tested.<br>
+163 domains tested. 61.34969325153374% were behind nothing (63 were behind something). 11 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 dailymail.co.uk
@@ -22,24 +22,24 @@ news.sky.com
 
 19 used cloudflare (11.65644171779141%):
 ```
+alarabiya.net
 axios.com
 drudgereport.com
 thewire.in
 bleepingcomputer.com
 altnews.in
-thehindu.com
-theregister.com
 mashable.com
-alarabiya.net
-propublica.org
+thehindu.com
 publicintegrity.org
-pravdareport.com
-therecord.media
+theregister.com
 politico.com
+propublica.org
 themarshallproject.org
+therecord.media
+pravdareport.com
 dexerto.com
-techdirt.com
 washingtontimes.com
+techdirt.com
 startribune.com
 ```
 
@@ -58,24 +58,24 @@ repubblica.it
 reuters.com
 time.com
 wsj.com
-andhrajyothy.com
 abcnews.go.com
+andhrajyothy.com
 fortune.com
-ap.org
-theoutline.com
-sandiegouniontribune.com
-theglobeandmail.com
 bostonglobe.com
-elpais.es
-nj.com
-sueddeutsche.de
+ap.org
+theglobeandmail.com
 lastampa.it
+sandiegouniontribune.com
+nj.com
+elpais.es
+theoutline.com
+sueddeutsche.de
+infobae.com
 salon.com
 csmonitor.com
 mic.com
-infobae.com
-chicagotribune.com
 thetimes.co.uk
+chicagotribune.com
 ```
 
 0 used ddosguard (0.0%):

@@ -1,4 +1,4 @@
-268 domains tested. 84.70149253731343% were behind nothing (41 were behind something). 11 domains could not be tested.<br>
+275 domains tested. 87.27272727272727% were behind nothing (35 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,31 @@
 
 ```
 
-28 used cloudflare (10.44776119402985%):
+24 used cloudflare (8.727272727272728%):
 ```
-api.baimless.com
 demonware.online
-hostigram.xyz
-demo.devswire.com
-downloayxkemam.sbs
-et3.ektpnc.com
+api.baimless.com
 img.proxies.world
-dienmay01.maudemo.com
-frezzyhook.com
+hostigram.xyz
+china.dhabigroup.top
+et3.ektpnc.com
 fresh1.ironoreprod.top
+frezzyhook.com
 dlink.caesarsgroup.top
 crackload.net
-china.dhabigroup.top
+downloayxkemam.sbs
 gons24cl.top
-lycheepanel.info
-spacetrack.co.tz
+gomlgaming.dev
+marrakechfolkloredays.com
+pan.tenire.com
+www.agies.org
+walkinglate.com
+www.idpminic.org
+zang1.almashreaq.top
 spices.com.sg
 rusticironstore.com
-wordpress.ductai.xyz
-zang1.almashreaq.top
 www.geovanisantos.adv.br
-www.agies.org
-toquedebolafc.com.br
-www.idpminic.org
-vollfisioterapia.com.br
 trtmyanmar.com
-gomlgaming.dev
 zaofisa.net
 ```
 
@@ -71,10 +67,11 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.7462686567164178%):
+3 used sucuri (1.090909090909091%):
 ```
-www.lasikofmichigan.com
+www.asterglobal.com
 www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
