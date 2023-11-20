@@ -9,13 +9,13 @@ from tranco import Tranco
 
 NUM_DOMAINS = 1000
 UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0", "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)"]
-REQUEST_TIMEOUT = 50
+REQUEST_TIMEOUT = 45
 RETRY_ENABLED = True
 SORT_DOMAINS = True
 CACHE_LIST = False # pointless with GitHub actions
 REQUEST_METHOD = "HEAD" # HEAD gives us what we need
 DEBUG = False # set to True when testing
-MAX_THREADS = 110
+MAX_THREADS = 115
 start_time = datetime.now().isoformat()
 ip_domain_map = {}
 do_not_resolve = ["1.1.1.1", "127.0.0.1", "localhost", "", "0.0.0.0"] # IP addresses can't be resolved
@@ -55,6 +55,7 @@ cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
 already_checked = {}
+known_cnames = {}
 
 try:
 	stats_file = json.loads(open("stats.json").read())
@@ -77,11 +78,15 @@ total_domains_checked = 0
 
 def get_cname(domain):
 	global cnames
+	global known_cnames
+	if domain in known_cnames:
+		return known_cnames[domain]
 	try:
 		resp = resolver.resolve(domain)
 		cn = resp.canonical_name.to_text()
 		if cn.endswith("."):
 			cn = cn[:-1]
+		known_cnames[domain] = cn
 		if cn == domain:
 			return None
 		if cn in cnames:
