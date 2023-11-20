@@ -1,4 +1,4 @@
-432 domains tested. 86.80555555555556% were behind nothing (57 were behind something). 12 domains could not be tested.<br>
+269 domains tested. 86.61710037174721% were behind nothing (36 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,32 @@
 
 ```
 
-42 used cloudflare (9.722222222222223%):
+25 used cloudflare (9.293680297397769%):
 ```
-api.baimless.com
 demonware.online
-akhtarweb.com
+api.baimless.com
+demo.devswire.com
 dlink.caesarsgroup.top
 china.dhabigroup.top
-crackload.net
-dienmay01.maudemo.com
-downloayxkemam.sbs
-hostigram.xyz
 fresh1.ironoreprod.top
-dambbel.ir
-kmcpokhara.edu.np
-lycheepanel.info
 frezzyhook.com
-gons2cl.top
-potatogoose.com
-gons23cl.top
-gons22cl.top
-gobo18cl.top
-gons20cl.top
-ismartsocial.com
-gomlgaming.dev
-kondisioner.az
+dienmay01.maudemo.com
+img.proxies.world
+et3.ektpnc.com
+hostigram.xyz
+crackload.net
+gons24cl.top
+pan.tenire.com
+wordpress.ductai.xyz
 marrakechfolkloredays.com
 paste-bin.xyz
-pan.tenire.com
-walkinglate.com
-petertiohk.com
-screeninghive.com
-mcnamaratowing.com
-rusticironstore.com
-spbinan.com
-vollfisioterapia.com.br
-toquedebolafc.com.br
 www.agies.org
-ttc.edu.sg
+gomlgaming.dev
 spices.com.sg
-trtmyanmar.com
+zang1.almashreaq.top
+vollfisioterapia.com.br
 www.idpminic.org
-spacetrack.co.tz
-www.geovanisantos.adv.br
+rusticironstore.com
 zaofisa.net
 ```
 
@@ -85,10 +68,10 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.6944444444444444%):
+3 used sucuri (1.1152416356877324%):
 ```
-www.bearware.org
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
