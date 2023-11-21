@@ -1,10 +1,10 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 61 domains could not be tested.<br>
+214 domains tested. 53.73831775700935% were behind nothing (99 were behind something). 55 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
-www.ebates.com
+easylist-downloads.adblockplus.org
 www.microsoft.com
+www.ebates.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,30 +24,39 @@ www.bentasker.co.uk
 
 ```
 
-22 used cloudflare (10.2803738317757%):
+31 used cloudflare (14.485981308411214%):
 ```
 gitlab.com
-cdn.adblockcdn.com
-blocklist.palemoon.org
-getadhell.com
 gitcdn.link
+assets.windscribe.com
+getadhell.com
+cdn.adblockcdn.com
+easylist.to
 iplists.firehol.org
+blocklist.palemoon.org
 lpt.lrv.lt
-rawcdn.githack.com
-abpvn.com
-anti-ad.net
-blokada.org
 easydutchcdn.pages.dev
+anti-ad.net
 easydutch.pages.dev
-azorult-tracker.net
+block.energized.pro
+dns-family.adguard.com
+1275.ru
+rawcdn.githack.com
 www.lb.lt
-www.botvrij.eu
-www.binarydefense.com
-family.cloudflare-dns.com
+combinatronics.io
+ads-for-open-source.readthedocs.io
+fanboy.co.nz
+adblock.mahakala.is
+abpvn.com
 www.fanboy.co.nz
+www.botvrij.eu
+www.malwaredomainlist.com
+www.binarydefense.com
 www.i-dont-care-about-cookies.eu
 www.stopforumspam.com
+managedsentinel.com
 zonefiles.io
+blocklist.cyberthreatcoalition.org
 ```
 
 1 used cloudfront (0.46728971962616817%):

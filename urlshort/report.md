@@ -1,5 +1,5 @@
-240 domains tested. 26.25% were behind nothing (177 were behind something). 93 domains could not be tested.<br>
-3 used akamai (1.25%):
+241 domains tested. 24.896265560165975% were behind nothing (181 were behind something). 96 domains could not be tested.<br>
+3 used akamai (1.2448132780082988%):
 ```
 eepurl.com
 go.microsoft.com
@@ -21,89 +21,90 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-67 used cloudflare (27.916666666666668%):
+68 used cloudflare (28.21576763485477%):
 ```
-echoz.com
 ahscdn.com
-gamergirl.pro
-foot.wiki
-imghost.pics
-joinmy.site
-gamingfun.me
-fortnight.space
+2truth.com
+buff.ly
+1sta.com
+2freedom.com
+2hell.com
+2fortune.com
 fortnitechat.site
-cdn-lv3.de
-grabify.world
-chilp.it
+fortnight.space
+gamingfun.me
+imghost.pics
 goo.su
+grabify.world
+foot.wiki
+joinmy.site
+echoz.com
+gamergirl.pro
+chilp.it
+cdn-lv3.de
 links.e.malwarebytes.com
 linkspy.cc
 myprivate.pics
+pichost.pics
+photovault.pics
 noodshare.pics
+picshost.pics
 linkbucks.com
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 p.chilp.it
-pichost.pics
-photovault.pics
-adfoc.us
-picshost.pics
-2truth.com
-2ya.com
-buff.ly
-rotf.lol
-cutt.ly
 screenshare.pics
 screenshot.best
-cuty.io
 refererhider.com
-exe.io
+rotf.lol
+adfoc.us
 tinyurl.com
-shorterall.com
 stopify.co
+shorterall.com
 shrekis.life
 www.linkbucks.com
-uprot.net
-shorten.is
-shre.su
-shorturl.com
-shrinkme.io
-sh.st
-url1.io
-t.ly
-shrink.pe
-tii.la
-stfly.xyz
-shorturl.gg
-shrinkearn.com
 shorte.st
-upo.im
+shorten.is
+sh.st
+exee.app
+shre.su
+shrink.pe
+shorturl.gg
+tii.la
+shorturl.com
+t.ly
+stfly.xyz
+shrinkme.io
+shrinkearn.com
 www.bl.ink
-v.gd
-vze.com
 usheethe.com
+uprot.net
+v.gd
+url1.io
 urlshortx.com
 www.jdoqocy.com
-s.id
+vze.com
+shorten.ee
 snip.ly
 shorturl.at
-shorten.ee
+s.id
 smarturl.it
 shorten.world
+upo.im
 urlday.cc
 ```
 
-12 used cloudfront (5.0%):
+12 used cloudfront (4.979253112033195%):
 ```
-bstore.smsb.co
-clicks.eventbrite.com
 a.co
+clicks.eventbrite.com
+bstore.smsb.co
 trk.klclick3.com
-trk.klclick1.com
 trk.klclick.com
 trk.klclick2.com
-rb.gy
+trk.klclick1.com
 rebrand.ly
 rebrandly.com
+rb.gy
 short.gy
 zpr.io
 ```
@@ -123,7 +124,7 @@ zpr.io
 
 ```
 
-2 used sucuri (0.8333333333333334%):
+2 used sucuri (0.8298755186721992%):
 ```
 promo-visits.site
 wee.so
