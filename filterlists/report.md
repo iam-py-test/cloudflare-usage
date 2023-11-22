@@ -1,8 +1,8 @@
-214 domains tested. 54.67289719626168% were behind nothing (97 were behind something). 35 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 33 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
 www.microsoft.com
 www.ebates.com
 ```
@@ -19,61 +19,61 @@ www.bentasker.co.uk
 
 ```
 
-0 used cdn77 (0.0%):
+1 used cdn77 (0.46728971962616817%):
 ```
-
+filters.adtidy.org
 ```
 
 49 used cloudflare (22.897196261682243%):
 ```
-gitlab.com
-cdn.adblockcdn.com
-getadhell.com
-iplists.firehol.org
-gitcdn.link
-blocklist.palemoon.org
-lpt.lrv.lt
-assets.windscribe.com
-adp.magnobiet.com
-abpvn.com
-anti-ad.net
-rawcdn.githack.com
-easydutch.pages.dev
-ads-for-open-source.readthedocs.io
-dns-family.adguard.com
-abp.tt.codes
-dns.adguard.com
-www.lb.lt
 azorult-tracker.net
-easylist.to
-block.energized.pro
-fanboy.co.nz
+abpvn.com
+cdn.adblockcdn.com
 adblock.mahakala.is
-1275.ru
+adp.magnobiet.com
+getadhell.com
+blocklist.palemoon.org
+gitcdn.link
+assets.windscribe.com
+iplists.firehol.org
+lpt.lrv.lt
+ads-for-open-source.readthedocs.io
+rawcdn.githack.com
+www.lb.lt
+anonymousposter.gitlab.io
 blokada.org
-easydutchcdn.pages.dev
+block.energized.pro
+anti-ad.net
 combinatronics.io
-nonio.pt
-osint.bambenekconsulting.com
+abp.tt.codes
+fanboy.co.nz
 pastebin.com
-theantisocialengineer.com
-secure.fanboy.co.nz
-stanev.org
-repo.andnixsh.com
-tgc.cloud
-road.adblock.ro
+dns-family.adguard.com
+easydutch.pages.dev
 phishing.army
-www.botvrij.eu
+dns.adguard.com
+road.adblock.ro
+osint.bambenekconsulting.com
+secure.fanboy.co.nz
+repo.andnixsh.com
+1275.ru
+nonio.pt
+www.fanboy.co.nz
+easydutchcdn.pages.dev
 www.binarydefense.com
+easylist.to
 www.i-dont-care-about-cookies.eu
+theantisocialengineer.com
+stanev.org
 www.malwaredomainlist.com
+tgc.cloud
 www.stopforumspam.com
 family.cloudflare-dns.com
-www.fanboy.co.nz
-managedsentinel.com
 security.cloudflare-dns.com
-jansal.net
+www.botvrij.eu
+managedsentinel.com
 zonefiles.io
+jansal.net
 blocklist.cyberthreatcoalition.org
 ```
 

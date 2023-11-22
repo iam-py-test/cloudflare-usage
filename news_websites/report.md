@@ -1,4 +1,4 @@
-163 domains tested. 61.963190184049076% were behind nothing (62 were behind something). 10 domains could not be tested.<br>
+163 domains tested. 62.57668711656442% were behind nothing (61 were behind something). 13 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 dailymail.co.uk
@@ -10,9 +10,9 @@ news.sky.com
 
 ```
 
-1 used cachefly (0.6134969325153374%):
+0 used cachefly (0.0%):
 ```
-foxnews.com
+
 ```
 
 0 used cdn77 (0.0%):
@@ -22,31 +22,29 @@ foxnews.com
 
 19 used cloudflare (11.65644171779141%):
 ```
+alarabiya.net
+axios.com
 drudgereport.com
 thewire.in
-alarabiya.net
 altnews.in
-thehindu.com
-mashable.com
+bleepingcomputer.com
 theregister.com
 pravdareport.com
 therecord.media
-politico.com
-themarshallproject.org
-dexerto.com
-bleepingcomputer.com
-axios.com
 propublica.org
-techdirt.com
+politico.com
+mashable.com
+themarshallproject.org
 publicintegrity.org
+thehindu.com
 washingtontimes.com
+techdirt.com
+dexerto.com
 startribune.com
 ```
 
-30 used cloudfront (18.404907975460123%):
+27 used cloudfront (16.56441717791411%):
 ```
-economist.com
-economist.com
 elpais.com
 espn.com
 hbr.org
@@ -57,24 +55,23 @@ reuters.com
 time.com
 wsj.com
 abcnews.go.com
+chicagotribune.com
 andhrajyothy.com
-ap.org
-fortune.com
-bostonglobe.com
-theglobeandmail.com
-lastampa.it
-nj.com
-sueddeutsche.de
-elpais.es
 sandiegouniontribune.com
 theoutline.com
+elpais.es
+fortune.com
+bostonglobe.com
+nj.com
+ap.org
+lastampa.it
+sueddeutsche.de
 salon.com
-csmonitor.com
 mic.com
 infobae.com
-fivethirtyeight.com
+csmonitor.com
+theglobeandmail.com
 thetimes.co.uk
-chicagotribune.com
 ```
 
 0 used ddosguard (0.0%):
