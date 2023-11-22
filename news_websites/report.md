@@ -1,4 +1,4 @@
-163 domains tested. 62.57668711656442% were behind nothing (61 were behind something). 11 domains could not be tested.<br>
+163 domains tested. 61.963190184049076% were behind nothing (62 were behind something). 10 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 dailymail.co.uk
@@ -10,9 +10,9 @@ news.sky.com
 
 ```
 
-0 used cachefly (0.0%):
+1 used cachefly (0.6134969325153374%):
 ```
-
+foxnews.com
 ```
 
 0 used cdn77 (0.0%):
@@ -24,26 +24,26 @@ news.sky.com
 ```
 drudgereport.com
 thewire.in
-axios.com
-propublica.org
-altnews.in
-dexerto.com
 alarabiya.net
-publicintegrity.org
-politico.com
+altnews.in
+thehindu.com
 mashable.com
 theregister.com
-therecord.media
 pravdareport.com
+therecord.media
+politico.com
 themarshallproject.org
-thehindu.com
-washingtontimes.com
+dexerto.com
 bleepingcomputer.com
+axios.com
+propublica.org
 techdirt.com
+publicintegrity.org
+washingtontimes.com
 startribune.com
 ```
 
-29 used cloudfront (17.791411042944784%):
+30 used cloudfront (18.404907975460123%):
 ```
 economist.com
 economist.com
@@ -57,21 +57,22 @@ reuters.com
 time.com
 wsj.com
 abcnews.go.com
-sueddeutsche.de
-theglobeandmail.com
-fortune.com
-ap.org
-lastampa.it
-theoutline.com
 andhrajyothy.com
+ap.org
+fortune.com
 bostonglobe.com
-sandiegouniontribune.com
+theglobeandmail.com
+lastampa.it
 nj.com
+sueddeutsche.de
 elpais.es
-infobae.com
+sandiegouniontribune.com
+theoutline.com
+salon.com
 csmonitor.com
 mic.com
-salon.com
+infobae.com
+fivethirtyeight.com
 thetimes.co.uk
 chicagotribune.com
 ```

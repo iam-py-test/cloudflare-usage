@@ -1,17 +1,17 @@
-358 domains tested. 41.06145251396648% were behind nothing (211 were behind something). 144 domains could not be tested.<br>
+358 domains tested. 41.06145251396648% were behind nothing (211 were behind something). 146 domains could not be tested.<br>
 18 used akamai (5.027932960893855%):
 ```
 fda.gov
-cic.ndu.edu
-dea.gov
 clerk.house.gov
+dea.gov
+cic.ndu.edu
 fcc.gov
-home.treasury.gov
 highways.dot.gov
-amtrak.com
+home.treasury.gov
 jfsc.ndu.edu
-maritime.dot.gov
+amtrak.com
 npin.cdc.gov
+maritime.dot.gov
 bea.gov
 railroads.dot.gov
 sec.gov
@@ -36,60 +36,58 @@ studentaid.gov
 
 ```
 
-15 used cloudflare (4.189944134078212%):
+12 used cloudflare (3.35195530726257%):
 ```
-arc.gov
 fbi.gov
 constitutioncenter.org
 loc.gov
 juvenilecouncil.ojp.gov
 nij.ojp.gov
-federalreserve.gov
-eac.gov
 cftc.gov
 nga.gov
-kennedy-center.org
-peacecorps.gov
 tva.com
+peacecorps.gov
+kennedy-center.org
 uscirf.gov
 srbc.net
 ```
 
-33 used cloudfront (9.217877094972067%):
+34 used cloudfront (9.497206703910614%):
 ```
 epa.gov
+fec.gov
+commerce.gov
+exim.gov
+energy.gov
 fdic.gov
 cio.gov
-alabama.gov
-exim.gov
-commerce.gov
-fec.gov
-energy.gov
 eda.gov
+alabama.gov
+noaa.gov
+fhfa.gov
 health.gov
 archives.gov
-fhfa.gov
-noaa.gov
+cfo.gov
 minorityhealth.hhs.gov
 mbda.gov
-cfo.gov
 state.gov
 onrr.gov
-nationalparks.org
 jobcorps.gov
 msha.gov
-nps.gov
+nationalparks.org
 nlm.nih.gov
+nps.gov
 sss.gov
 ushmm.org
 ustr.gov
-ustaxcourt.gov
-sba.gov
-usgs.gov
-uspto.gov
 usun.usmission.gov
+ustaxcourt.gov
+usa.gov
 usmint.gov
+usgs.gov
 ustda.gov
+uspto.gov
+sba.gov
 ```
 
 0 used ddosguard (0.0%):

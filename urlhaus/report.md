@@ -1,4 +1,4 @@
-293 domains tested. 83.95904436860067% were behind nothing (47 were behind something). 14 domains could not be tested.<br>
+301 domains tested. 85.04983388704319% were behind nothing (45 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,36 @@
 
 ```
 
-30 used cloudflare (10.238907849829351%):
+29 used cloudflare (9.634551495016613%):
 ```
-crackload.net
-chashni.co
-demonware.online
+api.baimless.com
 hostigram.xyz
-dlink.caesarsgroup.top
 fresh1.ironoreprod.top
 china.dhabigroup.top
+dlink.caesarsgroup.top
+chashni.co
+inflowingagency.com
 dienmay01.maudemo.com
-img.proxies.world
-demo.devswire.com
-lycheepanel.info
-et3.ektpnc.com
-downloayxkemam.sbs
 frezzyhook.com
-gons25cl.top
-gons24cl.top
+demo.devswire.com
+downloayxkemam.sbs
+et3.ektpnc.com
+crackload.net
 gomlgaming.dev
+lycheepanel.info
+gons26cl.top
+supportlights.com
+pan.tenire.com
 walkinglate.com
 wordpress.ductai.xyz
-supportlights.com
-marrakechfolkloredays.com
-paste-bin.xyz
-pan.tenire.com
-www.agies.org
-www.geovanisantos.adv.br
-vollfisioterapia.com.br
 zang1.almashreaq.top
-spices.com.sg
+www.agies.org
+vollfisioterapia.com.br
+rusticironstore.com
+trtmyanmar.com
 www.idpminic.org
+spacetrack.co.tz
+www.geovanisantos.adv.br
 zaofisa.net
 ```
 
@@ -73,10 +72,10 @@ zaofisa.net
 
 ```
 
-3 used sucuri (1.023890784982935%):
+3 used sucuri (0.9966777408637874%):
 ```
-www.asterglobal.com
 www.bearware.org
+www.asterglobal.com
 www.lasikofmichigan.com
 ```
 
