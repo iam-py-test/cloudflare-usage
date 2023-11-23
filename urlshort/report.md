@@ -1,4 +1,4 @@
-241 domains tested. 24.481327800829874% were behind nothing (182 were behind something). 120 domains could not be tested.<br>
+241 domains tested. 26.141078838174277% were behind nothing (178 were behind something). 104 domains could not be tested.<br>
 3 used akamai (1.2448132780082988%):
 ```
 eepurl.com
@@ -21,67 +21,78 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-46 used cloudflare (19.08713692946058%):
+57 used cloudflare (23.651452282157674%):
 ```
-links.e.malwarebytes.com
-linkspy.cc
-iplogger.co
-iplogger.com
-iplogger.info
-echoz.com
-02ip.ru
+2ya.com
+2truth.com
+buff.ly
+2tunes.com
+24ex.com
+2fortune.com
+alturl.com
+2hell.com
 ahscdn.com
-o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
-myprivate.pics
+iplogger.co
 noodshare.pics
-photovault.pics
-foot.wiki
-imghost.pics
 fortnight.space
+foot.wiki
+iplogger.com
 gamingfun.me
+links.e.malwarebytes.com
+echoz.com
+grabify.world
 pichost.pics
 linkbucks.com
-gamergirl.pro
-joinmy.site
+photovault.pics
 fortnitechat.site
-ezstat.ru
-goo.su
-grabify.world
-iplogger.ru
-cdn-lv3.de
-ipgraber.ru
-chilp.it
-p.chilp.it
-shorterall.com
-rotf.lol
 picshost.pics
-stopify.co
+imghost.pics
+myprivate.pics
+joinmy.site
+gamergirl.pro
+02ip.ru
+iplogger.ru
+iplogger.info
+ipgraber.ru
+o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+ezstat.ru
+chilp.it
+cdn-lv3.de
+p.chilp.it
+tinyurl.com
 screenshot.best
 screenshare.pics
+stopify.co
 shrekis.life
+rotf.lol
 refererhider.com
-tinyurl.com
+uprot.net
 www.linkbucks.com
-vze.com
-v.gd
 www.bl.ink
-shorten.ee
-smarturl.it
-s.id
+v.gd
+urlshortx.com
+usheethe.com
+vze.com
+url1.io
 www.jdoqocy.com
+upo.im
+smarturl.it
+shorten.ee
+s.id
+urlday.cc
 ```
 
 12 used cloudfront (4.979253112033195%):
 ```
-trk.klclick3.com
+a.co
 trk.klclick.com
-trk.klclick2.com
 trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
 bstore.smsb.co
 clicks.eventbrite.com
-a.co
-rebrand.ly
 rebrandly.com
+rebrand.ly
 rb.gy
 short.gy
 zpr.io
@@ -102,8 +113,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4149377593360996%):
+2 used sucuri (0.8298755186721992%):
 ```
+promo-visits.site
 wee.so
 ```
 

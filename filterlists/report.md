@@ -1,4 +1,4 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 33 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -24,56 +24,55 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-49 used cloudflare (22.897196261682243%):
+48 used cloudflare (22.429906542056074%):
 ```
-azorult-tracker.net
-abpvn.com
-cdn.adblockcdn.com
-adblock.mahakala.is
-adp.magnobiet.com
-getadhell.com
-blocklist.palemoon.org
 gitcdn.link
-assets.windscribe.com
+cdn.adblockcdn.com
+getadhell.com
+adp.magnobiet.com
+blocklist.palemoon.org
 iplists.firehol.org
 lpt.lrv.lt
-ads-for-open-source.readthedocs.io
 rawcdn.githack.com
+azorult-tracker.net
+ads-for-open-source.readthedocs.io
 www.lb.lt
-anonymousposter.gitlab.io
+assets.windscribe.com
 blokada.org
-block.energized.pro
-anti-ad.net
-combinatronics.io
-abp.tt.codes
-fanboy.co.nz
-pastebin.com
+abpvn.com
 dns-family.adguard.com
-easydutch.pages.dev
-phishing.army
 dns.adguard.com
-road.adblock.ro
-osint.bambenekconsulting.com
+easydutchcdn.pages.dev
+abp.tt.codes
+pastebin.com
+anti-ad.net
+easylist.to
 secure.fanboy.co.nz
 repo.andnixsh.com
-1275.ru
-nonio.pt
-www.fanboy.co.nz
-easydutchcdn.pages.dev
-www.binarydefense.com
-easylist.to
-www.i-dont-care-about-cookies.eu
-theantisocialengineer.com
-stanev.org
-www.malwaredomainlist.com
+fanboy.co.nz
+osint.bambenekconsulting.com
+block.energized.pro
 tgc.cloud
+easydutch.pages.dev
+combinatronics.io
+stanev.org
+adblock.mahakala.is
+nonio.pt
+phishing.army
+road.adblock.ro
+www.fanboy.co.nz
+1275.ru
+www.malwaredomainlist.com
+www.binarydefense.com
 www.stopforumspam.com
-family.cloudflare-dns.com
-security.cloudflare-dns.com
+www.i-dont-care-about-cookies.eu
 www.botvrij.eu
+theantisocialengineer.com
+security.cloudflare-dns.com
+family.cloudflare-dns.com
 managedsentinel.com
-zonefiles.io
 jansal.net
+zonefiles.io
 blocklist.cyberthreatcoalition.org
 ```
 
@@ -97,8 +96,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-urlhaus.abuse.ch
 www.eff.org
+urlhaus.abuse.ch
 ```
 
 0 used sucuri (0.0%):
