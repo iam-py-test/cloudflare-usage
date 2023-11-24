@@ -1,4 +1,4 @@
-295 domains tested. 83.72881355932203% were behind nothing (48 were behind something). 13 domains could not be tested.<br>
+293 domains tested. 83.61774744027304% were behind nothing (48 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,39 +19,35 @@
 
 ```
 
-32 used cloudflare (10.847457627118644%):
+28 used cloudflare (9.556313993174061%):
 ```
-img.proxies.world
+demonware.online
 api.baimless.com
 inflowingagency.com
 hostigram.xyz
-lycheepanel.info
-fresh1.ironoreprod.top
 china.dhabigroup.top
+fresh1.ironoreprod.top
+lycheepanel.info
+dlink.caesarsgroup.top
+angoraveteriner.com
+frezzyhook.com
 chashni.co
+crackload.net
 dienmay01.maudemo.com
 downloayxkemam.sbs
-demo.devswire.com
-frezzyhook.com
-crackload.net
-demonware.online
-et3.ektpnc.com
 walkinglate.com
-gons27cl.top
-gobo25cl.top
+gons28cl.top
 marrakechfolkloredays.com
 wordpress.ductai.xyz
 zang1.almashreaq.top
 www.agies.org
-pan.tenire.com
-vollfisioterapia.com.br
-rusticironstore.com
 spacetrack.co.tz
+trtmyanmar.com
 gomlgaming.dev
 spices.com.sg
 www.idpminic.org
-trtmyanmar.com
-www.geovanisantos.adv.br
+vollfisioterapia.com.br
+rusticironstore.com
 zaofisa.net
 ```
 
@@ -75,10 +71,10 @@ zaofisa.net
 
 ```
 
-3 used sucuri (1.0169491525423728%):
+3 used sucuri (1.023890784982935%):
 ```
-www.asterglobal.com
 www.bearware.org
+www.asterglobal.com
 www.lasikofmichigan.com
 ```
 
