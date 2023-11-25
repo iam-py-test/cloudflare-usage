@@ -1,21 +1,20 @@
-358 domains tested. 39.94413407821229% were behind nothing (215 were behind something). 156 domains could not be tested.<br>
-18 used akamai (5.027932960893855%):
+358 domains tested. 40.78212290502793% were behind nothing (212 were behind something). 155 domains could not be tested.<br>
+17 used akamai (4.748603351955307%):
 ```
 fda.gov
-cic.ndu.edu
-highways.dot.gov
-clerk.house.gov
 home.treasury.gov
+clerk.house.gov
+highways.dot.gov
+cic.ndu.edu
 fcc.gov
 dea.gov
 maritime.dot.gov
 jfsc.ndu.edu
-amtrak.com
+sec.gov
 npin.cdc.gov
 railroads.dot.gov
-sec.gov
-transit.dot.gov
 stats.bls.gov
+transit.dot.gov
 bea.gov
 usfa.fema.gov
 studentaid.gov
@@ -36,14 +35,13 @@ studentaid.gov
 
 ```
 
-8 used cloudflare (2.2346368715083798%):
+7 used cloudflare (1.9553072625698324%):
 ```
 fbi.gov
 constitutioncenter.org
 juvenilecouncil.ojp.gov
 nij.ojp.gov
 peacecorps.gov
-tva.com
 uscirf.gov
 srbc.net
 ```
@@ -51,37 +49,37 @@ srbc.net
 32 used cloudfront (8.938547486033519%):
 ```
 epa.gov
+commerce.gov
+eda.gov
 health.gov
 exim.gov
-energy.gov
 fdic.gov
-cio.gov
-fec.gov
-eda.gov
-commerce.gov
 fhfa.gov
-noaa.gov
-mbda.gov
+fec.gov
+cio.gov
+energy.gov
 minorityhealth.hhs.gov
+mbda.gov
+noaa.gov
 state.gov
+alabama.gov
 archives.gov
 cfo.gov
 jobcorps.gov
-onrr.gov
-sss.gov
 msha.gov
-nationalparks.org
-ushmm.org
-nps.gov
-usun.usmission.gov
-nlm.nih.gov
+sss.gov
+onrr.gov
 ustaxcourt.gov
-ustr.gov
+nlm.nih.gov
+ushmm.org
 sba.gov
+usun.usmission.gov
+ustr.gov
+nps.gov
+usmint.gov
 ustda.gov
 uspto.gov
 usgs.gov
-usmint.gov
 ```
 
 0 used ddosguard (0.0%):
