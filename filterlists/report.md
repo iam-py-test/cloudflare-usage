@@ -1,8 +1,8 @@
-214 domains tested. 54.67289719626168% were behind nothing (97 were behind something). 35 domains could not be tested.<br>
+214 domains tested. 54.20560747663551% were behind nothing (98 were behind something). 36 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
 www.microsoft.com
 www.ebates.com
 ```
@@ -26,53 +26,53 @@ filters.adtidy.org
 
 48 used cloudflare (22.429906542056074%):
 ```
+blokada.org
+anti-ad.net
+assets.windscribe.com
+ads-for-open-source.readthedocs.io
 cdn.adblockcdn.com
 blocklist.palemoon.org
 getadhell.com
-gitcdn.link
 iplists.firehol.org
+gitcdn.link
 lpt.lrv.lt
 rawcdn.githack.com
 www.lb.lt
-assets.windscribe.com
-abpvn.com
-anti-ad.net
-adp.magnobiet.com
-azorult-tracker.net
-easydutch.pages.dev
-adblock.mahakala.is
-fanboy.co.nz
-dns-family.adguard.com
-theantisocialengineer.com
-repo.andnixsh.com
-block.energized.pro
-www.stopforumspam.com
-abp.tt.codes
 combinatronics.io
-pastebin.com
-osint.bambenekconsulting.com
-ads-for-open-source.readthedocs.io
-stanev.org
-www.fanboy.co.nz
-secure.fanboy.co.nz
+block.energized.pro
+easydutch.pages.dev
 1275.ru
-phishing.army
-easydutchcdn.pages.dev
+fanboy.co.nz
+adp.magnobiet.com
+secure.fanboy.co.nz
 easylist.to
-tgc.cloud
-www.malwaredomainlist.com
-road.adblock.ro
-nonio.pt
-blokada.org
-www.binarydefense.com
-zonefiles.io
+stanev.org
+pastebin.com
+easydutchcdn.pages.dev
 dns.adguard.com
-www.botvrij.eu
+azorult-tracker.net
+dns-family.adguard.com
+osint.bambenekconsulting.com
+adblock.mahakala.is
+abp.tt.codes
+www.fanboy.co.nz
+abpvn.com
+www.binarydefense.com
+www.stopforumspam.com
+nonio.pt
+road.adblock.ro
 www.i-dont-care-about-cookies.eu
-family.cloudflare-dns.com
+www.malwaredomainlist.com
+repo.andnixsh.com
+tgc.cloud
+www.botvrij.eu
+phishing.army
 security.cloudflare-dns.com
+theantisocialengineer.com
+family.cloudflare-dns.com
 managedsentinel.com
 jansal.net
+zonefiles.io
 blocklist.cyberthreatcoalition.org
 ```
 
@@ -96,8 +96,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-urlhaus.abuse.ch
 www.eff.org
+urlhaus.abuse.ch
 ```
 
 0 used sucuri (0.0%):
