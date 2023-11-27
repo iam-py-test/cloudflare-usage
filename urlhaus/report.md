@@ -1,4 +1,4 @@
-290 domains tested. 84.13793103448276% were behind nothing (46 were behind something). 11 domains could not be tested.<br>
+395 domains tested. 86.07594936708861% were behind nothing (55 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,43 @@
 
 ```
 
-32 used cloudflare (11.03448275862069%):
+35 used cloudflare (8.860759493670885%):
 ```
-api.baimless.com
-inflowingagency.com
-china.dhabigroup.top
+adsmark.net
+img.proxies.world
+hostigram.xyz
+books.ttc.edu.sg
 fresh1.ironoreprod.top
 dlink.caesarsgroup.top
 angoraveteriner.com
-crackload.net
-et3.ektpnc.com
 chashni.co
-hostigram.xyz
-downloayxkemam.sbs
-demo.devswire.com
-dienmay01.maudemo.com
+inflowingagency.com
 frezzyhook.com
-walkinglate.com
+lycheepanel.info
+palasan.ro
+et3.ektpnc.com
+gamecente.com
+demo.devswire.com
+crackload.net
+downloayxkemam.sbs
+wordpress.ductai.xyz
+gomlgaming.dev
 www.agies.org
-gons30cl.top
-gons28cl.top
-livmesilovess.pro
+pan.tenire.com
 zang1.almashreaq.top
 zang3.conyersdill.top
+leeziptv.com
 marrakechfolkloredays.com
-wdb.life
-gomlgaming.dev
-vollfisioterapia.com.br
-spices.com.sg
+tecnologiesline.com
+petertiohk.com
 www.jyotigroup.co.in
-trtmyanmar.com
-www.idpminic.org
+spices.com.sg
 rusticironstore.com
+www.idpminic.org
+vollfisioterapia.com.br
+wdb.life
 www.geovanisantos.adv.br
-zaofisa.net
+trtmyanmar.com
 ```
 
 0 used cloudfront (0.0%):
@@ -75,9 +78,8 @@ zaofisa.net
 
 ```
 
-3 used sucuri (1.0344827586206897%):
+2 used sucuri (0.5063291139240507%):
 ```
-www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
