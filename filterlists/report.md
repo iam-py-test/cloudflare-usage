@@ -1,4 +1,4 @@
-214 domains tested. 54.20560747663551% were behind nothing (98 were behind something). 36 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -26,49 +26,49 @@ filters.adtidy.org
 
 48 used cloudflare (22.429906542056074%):
 ```
-anti-ad.net
-adp.magnobiet.com
-assets.windscribe.com
-gitcdn.link
 getadhell.com
+gitcdn.link
 cdn.adblockcdn.com
-lpt.lrv.lt
 iplists.firehol.org
+lpt.lrv.lt
 blocklist.palemoon.org
 rawcdn.githack.com
 abpvn.com
+adp.magnobiet.com
 www.lb.lt
-dns-family.adguard.com
-adblock.mahakala.is
 azorult-tracker.net
-pastebin.com
-easydutch.pages.dev
-combinatronics.io
-secure.fanboy.co.nz
-fanboy.co.nz
-blokada.org
-osint.bambenekconsulting.com
-ads-for-open-source.readthedocs.io
-nonio.pt
-easylist.to
+anti-ad.net
+dns-family.adguard.com
 abp.tt.codes
-block.energized.pro
-phishing.army
-easydutchcdn.pages.dev
-repo.andnixsh.com
-road.adblock.ro
+ads-for-open-source.readthedocs.io
+blokada.org
+assets.windscribe.com
 dns.adguard.com
-theantisocialengineer.com
+combinatronics.io
+block.energized.pro
+osint.bambenekconsulting.com
+pastebin.com
+fanboy.co.nz
+easylist.to
+easydutchcdn.pages.dev
+nonio.pt
 1275.ru
-tgc.cloud
-www.binarydefense.com
-stanev.org
-www.malwaredomainlist.com
-www.i-dont-care-about-cookies.eu
-www.stopforumspam.com
-www.botvrij.eu
+phishing.army
 www.fanboy.co.nz
+secure.fanboy.co.nz
+www.i-dont-care-about-cookies.eu
+tgc.cloud
+stanev.org
+adblock.mahakala.is
+www.stopforumspam.com
+repo.andnixsh.com
+easydutch.pages.dev
+www.binarydefense.com
+road.adblock.ro
+www.botvrij.eu
+theantisocialengineer.com
 family.cloudflare-dns.com
+www.malwaredomainlist.com
 security.cloudflare-dns.com
 managedsentinel.com
 zonefiles.io
@@ -96,8 +96,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-urlhaus.abuse.ch
 www.eff.org
+urlhaus.abuse.ch
 ```
 
 0 used sucuri (0.0%):

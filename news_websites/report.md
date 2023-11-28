@@ -1,4 +1,4 @@
-163 domains tested. 62.57668711656442% were behind nothing (61 were behind something). 12 domains could not be tested.<br>
+163 domains tested. 63.190184049079754% were behind nothing (60 were behind something). 12 domains could not be tested.<br>
 2 used akamai (1.2269938650306749%):
 ```
 dailymail.co.uk
@@ -23,27 +23,27 @@ news.sky.com
 19 used cloudflare (11.65644171779141%):
 ```
 drudgereport.com
-alarabiya.net
-thewire.in
 axios.com
+thewire.in
+alarabiya.net
 dexerto.com
-bleepingcomputer.com
-altnews.in
 mashable.com
-politico.com
-thehindu.com
-therecord.media
-themarshallproject.org
-publicintegrity.org
-pravdareport.com
 theregister.com
+thehindu.com
+politico.com
+themarshallproject.org
+therecord.media
+bleepingcomputer.com
+pravdareport.com
+altnews.in
 propublica.org
+publicintegrity.org
 washingtontimes.com
 techdirt.com
 startribune.com
 ```
 
-28 used cloudfront (17.177914110429448%):
+27 used cloudfront (16.56441717791411%):
 ```
 elpais.com
 espn.com
@@ -54,22 +54,21 @@ repubblica.it
 reuters.com
 time.com
 wsj.com
-fortune.com
 abcnews.go.com
-ap.org
 andhrajyothy.com
-theoutline.com
-nj.com
-theglobeandmail.com
-elpais.es
 bostonglobe.com
-lastampa.it
+ap.org
+fortune.com
 sandiegouniontribune.com
+nj.com
+elpais.es
+theglobeandmail.com
+lastampa.it
+theoutline.com
 sueddeutsche.de
-fivethirtyeight.com
-mic.com
-salon.com
 csmonitor.com
+salon.com
+mic.com
 infobae.com
 thetimes.co.uk
 chicagotribune.com

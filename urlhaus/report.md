@@ -1,4 +1,4 @@
-395 domains tested. 86.07594936708861% were behind nothing (55 were behind something). 18 domains could not be tested.<br>
+498 domains tested. 82.73092369477911% were behind nothing (86 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,43 +19,58 @@
 
 ```
 
-35 used cloudflare (8.860759493670885%):
+50 used cloudflare (10.040160642570282%):
 ```
-adsmark.net
-img.proxies.world
-hostigram.xyz
-books.ttc.edu.sg
-fresh1.ironoreprod.top
+api.baimless.com
+demonware.online
 dlink.caesarsgroup.top
+books.ttc.edu.sg
 angoraveteriner.com
 chashni.co
-inflowingagency.com
-frezzyhook.com
-lycheepanel.info
-palasan.ro
-et3.ektpnc.com
-gamecente.com
-demo.devswire.com
-crackload.net
+buildrs.com
+frey2.com
+hostigram.xyz
 downloayxkemam.sbs
-wordpress.ductai.xyz
-gomlgaming.dev
-www.agies.org
-pan.tenire.com
-zang1.almashreaq.top
-zang3.conyersdill.top
+crackload.net
+kmcpokhara.edu.np
+demo.devswire.com
+dubaishop.site
+adsmark.net
+inflowingagency.com
+bertam.com.my
+palasan.ro
+gamecente.com
 leeziptv.com
-marrakechfolkloredays.com
-tecnologiesline.com
+ismartsocial.com
+gons32cl.top
+gons28cl.top
+paste-bin.xyz
+pan.tenire.com
+walkinglate.com
+www.agies.org
 petertiohk.com
-www.jyotigroup.co.in
+medicalwellbeinggroup.com
+screeninghive.com
+img.proxies.world
+pressfacto.com
+spbinan.com
 spices.com.sg
+srikrishnaretailfixtures.com
+tecnologiesline.com
+balance.fcz.ma
 rusticironstore.com
-www.idpminic.org
-vollfisioterapia.com.br
+china.dhabigroup.top
+www.jyotigroup.co.in
 wdb.life
-www.geovanisantos.adv.br
+www.idpminic.org
+ttc.edu.sg
+spacetrack.co.tz
+vollfisioterapia.com.br
+zaofisa.net
 trtmyanmar.com
+fresh1.ironoreprod.top
+willowgreen.com.sg
+zang1.almashreaq.top
 ```
 
 0 used cloudfront (0.0%):
@@ -63,9 +78,9 @@ trtmyanmar.com
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.2008032128514056%):
 ```
-
+agentleadgenesis.com
 ```
 
 0 used edgecast (0.0%):
@@ -78,8 +93,9 @@ trtmyanmar.com
 
 ```
 
-2 used sucuri (0.5063291139240507%):
+3 used sucuri (0.6024096385542169%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
