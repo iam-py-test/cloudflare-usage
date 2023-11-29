@@ -1,4 +1,4 @@
-498 domains tested. 82.73092369477911% were behind nothing (86 were behind something). 32 domains could not be tested.<br>
+507 domains tested. 80.86785009861933% were behind nothing (97 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,58 +19,64 @@
 
 ```
 
-50 used cloudflare (10.040160642570282%):
+56 used cloudflare (11.045364891518737%):
 ```
 api.baimless.com
 demonware.online
-dlink.caesarsgroup.top
 books.ttc.edu.sg
+china.dhabigroup.top
+dlink.caesarsgroup.top
 angoraveteriner.com
 chashni.co
 buildrs.com
-frey2.com
-hostigram.xyz
-downloayxkemam.sbs
-crackload.net
 kmcpokhara.edu.np
-demo.devswire.com
-dubaishop.site
 adsmark.net
-inflowingagency.com
+et3.ektpnc.com
+frey2.com
+crackload.net
+fresh1.ironoreprod.top
+hostigram.xyz
+dubaishop.site
+dienmay01.maudemo.com
+demo.devswire.com
+downloayxkemam.sbs
 bertam.com.my
 palasan.ro
+frezzyhook.com
 gamecente.com
-leeziptv.com
+iaqqav.com
 ismartsocial.com
-gons32cl.top
-gons28cl.top
-paste-bin.xyz
-pan.tenire.com
+leeziptv.com
+gobo30cl.top
+marrakechfolkloredays.com
+nvis-it.com
+gomlgaming.dev
+wordpress.ductai.xyz
 walkinglate.com
-www.agies.org
-petertiohk.com
 medicalwellbeinggroup.com
+www.agies.org
 screeninghive.com
-img.proxies.world
 pressfacto.com
-spbinan.com
-spices.com.sg
-srikrishnaretailfixtures.com
-tecnologiesline.com
-balance.fcz.ma
+paste-bin.xyz
+zang1.almashreaq.top
+petertiohk.com
 rusticironstore.com
-china.dhabigroup.top
+spbinan.com
+srikrishnaretailfixtures.com
+balance.fcz.ma
+tecnologiesline.com
+spices.com.sg
 www.jyotigroup.co.in
-wdb.life
 www.idpminic.org
 ttc.edu.sg
-spacetrack.co.tz
-vollfisioterapia.com.br
-zaofisa.net
+www.geovanisantos.adv.br
+wdb.life
 trtmyanmar.com
-fresh1.ironoreprod.top
+spacetrack.co.tz
+img.proxies.world
+zaofisa.net
+vollfisioterapia.com.br
 willowgreen.com.sg
-zang1.almashreaq.top
 ```
 
 0 used cloudfront (0.0%):
@@ -78,7 +84,7 @@ zang1.almashreaq.top
 
 ```
 
-1 used ddosguard (0.2008032128514056%):
+1 used ddosguard (0.19723865877712032%):
 ```
 agentleadgenesis.com
 ```
@@ -93,11 +99,10 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.6024096385542169%):
+2 used sucuri (0.39447731755424065%):
 ```
 www.asterglobal.com
 www.bearware.org
-www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
