@@ -1,4 +1,4 @@
-386 domains tested. 81.0880829015544% were behind nothing (73 were behind something). 20 domains could not be tested.<br>
+399 domains tested. 80.95238095238095% were behind nothing (76 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,57 +19,56 @@
 
 ```
 
-49 used cloudflare (12.694300518134716%):
+48 used cloudflare (12.030075187969924%):
 ```
+api.baimless.com
+angoraveteriner.com
+books.ttc.edu.sg
 demonware.online
 frey2.com
-fresh1.ironoreprod.top
-china.dhabigroup.top
 hostigram.xyz
-books.ttc.edu.sg
-inflowingagency.com
-buildrs.com
-dienmay01.maudemo.com
-downloayxkemam.sbs
-et3.ektpnc.com
-crackload.net
-iaqqav.com
+china.dhabigroup.top
+dlink.caesarsgroup.top
+fresh1.ironoreprod.top
 chashni.co
 demo.devswire.com
+crackload.net
+et3.ektpnc.com
+dienmay01.maudemo.com
 frezzyhook.com
-palasan.ro
-gons28cl.top
+downloayxkemam.sbs
+buildrs.com
 gobo30cl.top
 gons34cl.top
+gons28cl.top
 bertam.com.my
-ismartsocial.com
-gomlgaming.dev
+palasan.ro
+walkinglate.com
 wordpress.ductai.xyz
+ismartsocial.com
 leeziptv.com
 www.agies.org
-medicalwellbeinggroup.com
+iaqqav.com
 nvis-it.com
-petertiohk.com
 marrakechfolkloredays.com
-zang1.almashreaq.top
 zang3.conyersdill.top
-pl.mamutert.com
-spices.com.sg
+zang1.almashreaq.top
+medicalwellbeinggroup.com
 screeninghive.com
-rusticironstore.com
+paste-bin.xyz
+petertiohk.com
 spbinan.com
 www.idpminic.org
-www.jyotigroup.co.in
-www.geovanisantos.adv.br
+spices.com.sg
 marrakechfolkloredays.ma
 ttc.edu.sg
 spacetrack.co.tz
-vollfisioterapia.com.br
-trtmyanmar.com
-willowgreen.com.sg
 zaofisa.net
+vollfisioterapia.com.br
 img.proxies.world
+willowgreen.com.sg
 balance.fcz.ma
+pl.mamutert.com
 ```
 
 0 used cloudfront (0.0%):
@@ -77,7 +76,7 @@ balance.fcz.ma
 
 ```
 
-1 used ddosguard (0.2590673575129534%):
+1 used ddosguard (0.2506265664160401%):
 ```
 agentleadgenesis.com
 ```
@@ -92,7 +91,7 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.7772020725388601%):
+3 used sucuri (0.7518796992481203%):
 ```
 www.asterglobal.com
 www.bearware.org

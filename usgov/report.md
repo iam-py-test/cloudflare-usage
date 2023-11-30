@@ -1,20 +1,20 @@
-358 domains tested. 39.66480446927375% were behind nothing (216 were behind something). 157 domains could not be tested.<br>
+358 domains tested. 40.78212290502793% were behind nothing (212 were behind something). 153 domains could not be tested.<br>
 18 used akamai (5.027932960893855%):
 ```
 fda.gov
-home.treasury.gov
-dea.gov
-cic.ndu.edu
+amtrak.com
 clerk.house.gov
-highways.dot.gov
+home.treasury.gov
+cic.ndu.edu
+dea.gov
 fcc.gov
+highways.dot.gov
 maritime.dot.gov
 jfsc.ndu.edu
 npin.cdc.gov
-amtrak.com
+stats.bls.gov
 sec.gov
 transit.dot.gov
-stats.bls.gov
 railroads.dot.gov
 usfa.fema.gov
 bea.gov
@@ -42,46 +42,46 @@ constitutioncenter.org
 fbi.gov
 juvenilecouncil.ojp.gov
 nij.ojp.gov
-uscirf.gov
 tva.com
-srbc.net
 peacecorps.gov
+uscirf.gov
+srbc.net
 ```
 
 32 used cloudfront (8.938547486033519%):
 ```
 epa.gov
-commerce.gov
 alabama.gov
-energy.gov
-noaa.gov
-health.gov
-fhfa.gov
-fec.gov
+commerce.gov
 exim.gov
+health.gov
+noaa.gov
+energy.gov
+fec.gov
 cio.gov
+fhfa.gov
 fdic.gov
-eda.gov
 minorityhealth.hhs.gov
-state.gov
 mbda.gov
-archives.gov
+state.gov
+eda.gov
 cfo.gov
-jobcorps.gov
+archives.gov
 msha.gov
+jobcorps.gov
 onrr.gov
 sss.gov
-ushmm.org
 nps.gov
-ustaxcourt.gov
 nlm.nih.gov
-usun.usmission.gov
 ustr.gov
+ustaxcourt.gov
+ushmm.org
+usun.usmission.gov
 sba.gov
 uspto.gov
+ustda.gov
 usgs.gov
 usmint.gov
-ustda.gov
 ```
 
 0 used ddosguard (0.0%):

@@ -1,9 +1,9 @@
-242 domains tested. 26.033057851239672% were behind nothing (179 were behind something). 104 domains could not be tested.<br>
+242 domains tested. 26.033057851239672% were behind nothing (179 were behind something). 107 domains could not be tested.<br>
 3 used akamai (1.2396694214876034%):
 ```
 eepurl.com
-email-sendgrid-deep-linking.chewy.com
 go.microsoft.com
+email-sendgrid-deep-linking.chewy.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -21,63 +21,60 @@ go.microsoft.com
 
 ```
 
-58 used cloudflare (23.96694214876033%):
+55 used cloudflare (22.727272727272727%):
 ```
 ahscdn.com
-cutt.ly
-links.e.malwarebytes.com
-echoz.com
-fortnitechat.site
-gamergirl.pro
-linkbucks.com
+foot.wiki
 linkspy.cc
-grabify.world
-noodshare.pics
+fortnitechat.site
 pichost.pics
-fortnight.space
-imghost.pics
 myprivate.pics
+gamergirl.pro
+joinmy.site
 gamingfun.me
 photovault.pics
-joinmy.site
+linkbucks.com
 picshost.pics
-foot.wiki
-o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
-goo.su
-cdn-lv3.de
+echoz.com
+imghost.pics
+noodshare.pics
+fortnight.space
+links.e.malwarebytes.com
 chilp.it
+goo.su
+o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+grabify.world
+cdn-lv3.de
 p.chilp.it
-stopify.co
-screenshot.best
 screenshare.pics
-rotf.lol
 shrekis.life
 refererhider.com
-direct-link.net
-adf.ly
-tinyurl.com
+screenshot.best
+rotf.lol
+adfoc.us
 2ya.com
-1sta.com
+tinyurl.com
+stopify.co
+adshrink.it
+buff.ly
 antiblog.com
 2fortune.com
-2savvy.com
-dealtap.com
 2hell.com
-2freedom.com
-www.linkbucks.com
 2fear.com
 2tunes.com
+bigbig.com
+www.linkbucks.com
 urlshortx.com
 v.gd
-uprot.net
 vze.com
-www.bl.ink
 url1.io
-www.jdoqocy.com
 usheethe.com
+uprot.net
+www.bl.ink
+www.jdoqocy.com
 upo.im
-smarturl.it
 shorten.ee
+smarturl.it
 s.id
 urlday.cc
 2truth.com
@@ -85,17 +82,17 @@ urlday.cc
 
 12 used cloudfront (4.958677685950414%):
 ```
-a.co
-trk.klclick3.com
-trk.klclick.com
 trk.klclick1.com
-trk.klclick2.com
+trk.klclick.com
+a.co
 bstore.smsb.co
+trk.klclick2.com
+trk.klclick3.com
 clicks.eventbrite.com
 rebrandly.com
 short.gy
-rb.gy
 rebrand.ly
+rb.gy
 zpr.io
 ```
 
