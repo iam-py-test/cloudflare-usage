@@ -1,5 +1,5 @@
-163 domains tested. 63.190184049079754% were behind nothing (60 were behind something). 11 domains could not be tested.<br>
-2 used akamai (1.2269938650306749%):
+170 domains tested. 61.1764705882353% were behind nothing (66 were behind something). 14 domains could not be tested.<br>
+2 used akamai (1.1764705882352942%):
 ```
 dailymail.co.uk
 news.sky.com
@@ -20,30 +20,33 @@ news.sky.com
 
 ```
 
-19 used cloudflare (11.65644171779141%):
+22 used cloudflare (12.941176470588237%):
 ```
 drudgereport.com
-mashable.com
 thewire.in
 alarabiya.net
-altnews.in
-therecord.media
 politico.com
-publicintegrity.org
 themarshallproject.org
-theregister.com
-propublica.org
-dexerto.com
-pravdareport.com
-thehindu.com
 bleepingcomputer.com
-techdirt.com
-washingtontimes.com
+mashable.com
+theregister.com
+pravdareport.com
+publicintegrity.org
+freedom.press
+therecord.media
+thehindu.com
+propublica.org
+science.org
 axios.com
+kyivpost.com
+dexerto.com
+altnews.in
+washingtontimes.com
+techdirt.com
 startribune.com
 ```
 
-28 used cloudfront (17.177914110429448%):
+28 used cloudfront (16.470588235294116%):
 ```
 elpais.com
 espn.com
@@ -55,21 +58,21 @@ repubblica.it
 reuters.com
 time.com
 wsj.com
-abcnews.go.com
-bostonglobe.com
-chicagotribune.com
 andhrajyothy.com
+abcnews.go.com
+chicagotribune.com
 ap.org
-sandiegouniontribune.com
-lastampa.it
-theoutline.com
 theglobeandmail.com
-elpais.es
 sueddeutsche.de
+sandiegouniontribune.com
+bostonglobe.com
 nj.com
-salon.com
+theoutline.com
+lastampa.it
+elpais.es
 infobae.com
-fivethirtyeight.com
+salon.com
+slashgear.com
 csmonitor.com
 mic.com
 thetimes.co.uk

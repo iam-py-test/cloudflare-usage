@@ -1,9 +1,9 @@
-242 domains tested. 24.380165289256198% were behind nothing (183 were behind something). 123 domains could not be tested.<br>
+242 domains tested. 26.033057851239672% were behind nothing (179 were behind something). 104 domains could not be tested.<br>
 3 used akamai (1.2396694214876034%):
 ```
 eepurl.com
-go.microsoft.com
 email-sendgrid-deep-linking.chewy.com
+go.microsoft.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -21,67 +21,81 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-45 used cloudflare (18.59504132231405%):
+58 used cloudflare (23.96694214876033%):
 ```
-adfoc.us
-buff.ly
-24ex.com
-1sta.com
-links.e.malwarebytes.com
 ahscdn.com
-linkbucks.com
+cutt.ly
+links.e.malwarebytes.com
 echoz.com
-linkspy.cc
-imghost.pics
 fortnitechat.site
 gamergirl.pro
-foot.wiki
+linkbucks.com
+linkspy.cc
+grabify.world
+noodshare.pics
 pichost.pics
-photovault.pics
-myprivate.pics
 fortnight.space
+imghost.pics
+myprivate.pics
+gamingfun.me
+photovault.pics
 joinmy.site
 picshost.pics
-noodshare.pics
-gamingfun.me
-grabify.world
-chilp.it
+foot.wiki
+o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 goo.su
 cdn-lv3.de
-o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+chilp.it
 p.chilp.it
-shrekis.life
 stopify.co
-screenshare.pics
-refererhider.com
 screenshot.best
+screenshare.pics
 rotf.lol
+shrekis.life
+refererhider.com
+direct-link.net
+adf.ly
 tinyurl.com
+2ya.com
+1sta.com
+antiblog.com
+2fortune.com
+2savvy.com
+dealtap.com
+2hell.com
+2freedom.com
 www.linkbucks.com
+2fear.com
+2tunes.com
 urlshortx.com
-usheethe.com
 v.gd
-www.bl.ink
+uprot.net
 vze.com
+www.bl.ink
+url1.io
 www.jdoqocy.com
+usheethe.com
+upo.im
 smarturl.it
 shorten.ee
 s.id
 urlday.cc
+2truth.com
 ```
 
-11 used cloudfront (4.545454545454546%):
+12 used cloudfront (4.958677685950414%):
 ```
-trk.klclick1.com
+a.co
 trk.klclick3.com
-trk.klclick2.com
 trk.klclick.com
+trk.klclick1.com
+trk.klclick2.com
 bstore.smsb.co
 clicks.eventbrite.com
-rb.gy
-rebrand.ly
 rebrandly.com
 short.gy
+rb.gy
+rebrand.ly
 zpr.io
 ```
 
@@ -100,8 +114,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4132231404958678%):
+2 used sucuri (0.8264462809917356%):
 ```
+promo-visits.site
 wee.so
 ```
 

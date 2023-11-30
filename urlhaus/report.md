@@ -1,4 +1,4 @@
-383 domains tested. 81.72323759791122% were behind nothing (70 were behind something). 21 domains could not be tested.<br>
+386 domains tested. 81.0880829015544% were behind nothing (73 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,53 +19,56 @@
 
 ```
 
-46 used cloudflare (12.010443864229766%):
+49 used cloudflare (12.694300518134716%):
 ```
 demonware.online
-api.baimless.com
 frey2.com
-hostigram.xyz
-dlink.caesarsgroup.top
-china.dhabigroup.top
 fresh1.ironoreprod.top
-angoraveteriner.com
-buildrs.com
+china.dhabigroup.top
+hostigram.xyz
 books.ttc.edu.sg
-downloayxkemam.sbs
-demo.devswire.com
 inflowingagency.com
+buildrs.com
 dienmay01.maudemo.com
+downloayxkemam.sbs
+et3.ektpnc.com
 crackload.net
-palasan.ro
+iaqqav.com
+chashni.co
+demo.devswire.com
 frezzyhook.com
+palasan.ro
 gons28cl.top
 gobo30cl.top
 gons34cl.top
 bertam.com.my
-gomlgaming.dev
 ismartsocial.com
+gomlgaming.dev
 wordpress.ductai.xyz
-iaqqav.com
-zang1.almashreaq.top
-nvis-it.com
-zang3.conyersdill.top
+leeziptv.com
+www.agies.org
 medicalwellbeinggroup.com
-spbinan.com
-marrakechfolkloredays.com
-screeninghive.com
-spacetrack.co.tz
+nvis-it.com
 petertiohk.com
-spices.com.sg
-www.jyotigroup.co.in
+marrakechfolkloredays.com
+zang1.almashreaq.top
+zang3.conyersdill.top
 pl.mamutert.com
-www.idpminic.org
-www.geovanisantos.adv.br
+spices.com.sg
+screeninghive.com
 rusticironstore.com
-ttc.edu.sg
+spbinan.com
+www.idpminic.org
+www.jyotigroup.co.in
+www.geovanisantos.adv.br
 marrakechfolkloredays.ma
+ttc.edu.sg
+spacetrack.co.tz
+vollfisioterapia.com.br
 trtmyanmar.com
-zaofisa.net
 willowgreen.com.sg
+zaofisa.net
+img.proxies.world
 balance.fcz.ma
 ```
 
@@ -74,7 +77,7 @@ balance.fcz.ma
 
 ```
 
-1 used ddosguard (0.26109660574412535%):
+1 used ddosguard (0.2590673575129534%):
 ```
 agentleadgenesis.com
 ```
@@ -89,9 +92,10 @@ agentleadgenesis.com
 
 ```
 
-2 used sucuri (0.5221932114882507%):
+3 used sucuri (0.7772020725388601%):
 ```
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
