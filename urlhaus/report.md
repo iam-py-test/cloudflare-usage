@@ -1,4 +1,4 @@
-507 domains tested. 80.86785009861933% were behind nothing (97 were behind something). 38 domains could not be tested.<br>
+383 domains tested. 81.72323759791122% were behind nothing (70 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,64 +19,54 @@
 
 ```
 
-56 used cloudflare (11.045364891518737%):
+46 used cloudflare (12.010443864229766%):
 ```
-api.baimless.com
 demonware.online
-books.ttc.edu.sg
-china.dhabigroup.top
-dlink.caesarsgroup.top
-angoraveteriner.com
-chashni.co
-buildrs.com
-kmcpokhara.edu.np
-adsmark.net
-et3.ektpnc.com
+api.baimless.com
 frey2.com
-crackload.net
-fresh1.ironoreprod.top
 hostigram.xyz
-dubaishop.site
-dienmay01.maudemo.com
-demo.devswire.com
+dlink.caesarsgroup.top
+china.dhabigroup.top
+fresh1.ironoreprod.top
+angoraveteriner.com
+buildrs.com
+books.ttc.edu.sg
 downloayxkemam.sbs
-bertam.com.my
+demo.devswire.com
+inflowingagency.com
+dienmay01.maudemo.com
+crackload.net
 palasan.ro
 frezzyhook.com
-gamecente.com
-iaqqav.com
-ismartsocial.com
-leeziptv.com
+gons28cl.top
 gobo30cl.top
-marrakechfolkloredays.com
-nvis-it.com
+gons34cl.top
+bertam.com.my
 gomlgaming.dev
+ismartsocial.com
 wordpress.ductai.xyz
-walkinglate.com
-medicalwellbeinggroup.com
-www.agies.org
-screeninghive.com
-pressfacto.com
-paste-bin.xyz
+iaqqav.com
 zang1.almashreaq.top
-petertiohk.com
-rusticironstore.com
+nvis-it.com
+zang3.conyersdill.top
+medicalwellbeinggroup.com
 spbinan.com
-srikrishnaretailfixtures.com
-balance.fcz.ma
-tecnologiesline.com
+marrakechfolkloredays.com
+screeninghive.com
+spacetrack.co.tz
+petertiohk.com
 spices.com.sg
 www.jyotigroup.co.in
+pl.mamutert.com
 www.idpminic.org
-ttc.edu.sg
 www.geovanisantos.adv.br
-wdb.life
+rusticironstore.com
+ttc.edu.sg
+marrakechfolkloredays.ma
 trtmyanmar.com
-spacetrack.co.tz
-img.proxies.world
 zaofisa.net
-vollfisioterapia.com.br
 willowgreen.com.sg
+balance.fcz.ma
 ```
 
 0 used cloudfront (0.0%):
@@ -84,7 +74,7 @@ willowgreen.com.sg
 
 ```
 
-1 used ddosguard (0.19723865877712032%):
+1 used ddosguard (0.26109660574412535%):
 ```
 agentleadgenesis.com
 ```
@@ -99,10 +89,10 @@ agentleadgenesis.com
 
 ```
 
-2 used sucuri (0.39447731755424065%):
+2 used sucuri (0.5221932114882507%):
 ```
 www.asterglobal.com
-www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):

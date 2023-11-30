@@ -1,4 +1,4 @@
-242 domains tested. 26.033057851239672% were behind nothing (179 were behind something). 118 domains could not be tested.<br>
+242 domains tested. 24.380165289256198% were behind nothing (183 were behind something). 123 domains could not be tested.<br>
 3 used akamai (1.2396694214876034%):
 ```
 eepurl.com
@@ -23,66 +23,65 @@ email-sendgrid-deep-linking.chewy.com
 
 45 used cloudflare (18.59504132231405%):
 ```
+adfoc.us
+buff.ly
+24ex.com
+1sta.com
 links.e.malwarebytes.com
-foot.wiki
-linkspy.cc
-fortnitechat.site
-imghost.pics
-echoz.com
-myprivate.pics
 ahscdn.com
-noodshare.pics
-joinmy.site
+linkbucks.com
+echoz.com
+linkspy.cc
+imghost.pics
+fortnitechat.site
+gamergirl.pro
+foot.wiki
 pichost.pics
 photovault.pics
-gamergirl.pro
-grabify.world
-linkbucks.com
+myprivate.pics
 fortnight.space
-gamingfun.me
-o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
-goo.su
-chilp.it
-cdn-lv3.de
-p.chilp.it
+joinmy.site
 picshost.pics
-screenshare.pics
+noodshare.pics
+gamingfun.me
+grabify.world
+chilp.it
+goo.su
+cdn-lv3.de
+o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+p.chilp.it
 shrekis.life
+stopify.co
+screenshare.pics
+refererhider.com
 screenshot.best
 rotf.lol
-refererhider.com
-adfoc.us
 tinyurl.com
-stopify.co
 www.linkbucks.com
-uprot.net
 urlshortx.com
-upo.im
-url1.io
-vze.com
-www.bl.ink
 usheethe.com
-shorten.ee
 v.gd
+www.bl.ink
+vze.com
 www.jdoqocy.com
 smarturl.it
+shorten.ee
 s.id
 urlday.cc
 ```
 
-12 used cloudfront (4.958677685950414%):
+11 used cloudfront (4.545454545454546%):
 ```
-trk.klclick.com
 trk.klclick1.com
 trk.klclick3.com
 trk.klclick2.com
+trk.klclick.com
 bstore.smsb.co
 clicks.eventbrite.com
-a.co
-short.gy
+rb.gy
 rebrand.ly
 rebrandly.com
-rb.gy
+short.gy
 zpr.io
 ```
 

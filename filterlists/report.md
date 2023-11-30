@@ -1,8 +1,8 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
+214 domains tested. 54.67289719626168% were behind nothing (97 were behind something). 34 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
+easylist-downloads.adblockplus.org
 www.microsoft.com
 www.ebates.com
 ```
@@ -24,53 +24,54 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-48 used cloudflare (22.429906542056074%):
+49 used cloudflare (22.897196261682243%):
 ```
-cdn.adblockcdn.com
-getadhell.com
-gitcdn.link
-blocklist.palemoon.org
-iplists.firehol.org
-rawcdn.githack.com
-lpt.lrv.lt
-www.lb.lt
-blokada.org
-easylist.to
-easydutchcdn.pages.dev
-block.energized.pro
 anti-ad.net
-fanboy.co.nz
-adblock.mahakala.is
-1275.ru
-osint.bambenekconsulting.com
-abpvn.com
-combinatronics.io
 assets.windscribe.com
-adp.magnobiet.com
-repo.andnixsh.com
-abp.tt.codes
-azorult-tracker.net
-road.adblock.ro
-easydutch.pages.dev
-secure.fanboy.co.nz
-dns.adguard.com
-phishing.army
 ads-for-open-source.readthedocs.io
+anonymousposter.gitlab.io
+gitcdn.link
+getadhell.com
+cdn.adblockcdn.com
+iplists.firehol.org
+blocklist.palemoon.org
+lpt.lrv.lt
+rawcdn.githack.com
+www.lb.lt
+combinatronics.io
+adp.magnobiet.com
+1275.ru
+block.energized.pro
 nonio.pt
-dns-family.adguard.com
-pastebin.com
-tgc.cloud
-stanev.org
-www.fanboy.co.nz
+easylist.to
+abp.tt.codes
+osint.bambenekconsulting.com
+adblock.mahakala.is
+blokada.org
+easydutchcdn.pages.dev
+secure.fanboy.co.nz
+fanboy.co.nz
 www.binarydefense.com
+dns.adguard.com
+repo.andnixsh.com
+azorult-tracker.net
 www.stopforumspam.com
-www.i-dont-care-about-cookies.eu
-www.malwaredomainlist.com
-family.cloudflare-dns.com
-security.cloudflare-dns.com
+easydutch.pages.dev
+abpvn.com
+stanev.org
+phishing.army
+road.adblock.ro
+pastebin.com
+dns-family.adguard.com
+tgc.cloud
+www.fanboy.co.nz
 www.botvrij.eu
+www.malwaredomainlist.com
+www.i-dont-care-about-cookies.eu
 theantisocialengineer.com
 managedsentinel.com
+family.cloudflare-dns.com
+security.cloudflare-dns.com
 jansal.net
 zonefiles.io
 blocklist.cyberthreatcoalition.org
@@ -96,8 +97,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-urlhaus.abuse.ch
 www.eff.org
+urlhaus.abuse.ch
 ```
 
 0 used sucuri (0.0%):
