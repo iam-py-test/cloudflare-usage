@@ -1,8 +1,8 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 33 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
+easylist-downloads.adblockplus.org
 www.microsoft.com
 www.ebates.com
 ```
@@ -24,56 +24,55 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-49 used cloudflare (22.897196261682243%):
+48 used cloudflare (22.429906542056074%):
 ```
-adp.magnobiet.com
 cdn.adblockcdn.com
+blocklist.palemoon.org
 getadhell.com
 gitcdn.link
-assets.windscribe.com
 iplists.firehol.org
-blocklist.palemoon.org
 lpt.lrv.lt
 rawcdn.githack.com
-abpvn.com
-ads-for-open-source.readthedocs.io
-dns.adguard.com
-dns-family.adguard.com
 www.lb.lt
+easydutchcdn.pages.dev
 abp.tt.codes
-blokada.org
-fanboy.co.nz
 easylist.to
+fanboy.co.nz
+combinatronics.io
+adp.magnobiet.com
 osint.bambenekconsulting.com
+easydutch.pages.dev
+dns.adguard.com
+abpvn.com
+anti-ad.net
 block.energized.pro
 adblock.mahakala.is
 nonio.pt
-phishing.army
-azorult-tracker.net
-combinatronics.io
-easydutch.pages.dev
-anti-ad.net
-easydutchcdn.pages.dev
-tgc.cloud
-secure.fanboy.co.nz
 pastebin.com
+secure.fanboy.co.nz
+dns-family.adguard.com
+azorult-tracker.net
+blokada.org
 repo.andnixsh.com
-road.adblock.ro
 1275.ru
-www.i-dont-care-about-cookies.eu
-stanev.org
-anonymousposter.gitlab.io
-theantisocialengineer.com
-www.fanboy.co.nz
+assets.windscribe.com
+road.adblock.ro
+tgc.cloud
+ads-for-open-source.readthedocs.io
+phishing.army
+www.malwaredomainlist.com
 www.stopforumspam.com
+stanev.org
+www.i-dont-care-about-cookies.eu
 www.binarydefense.com
 www.botvrij.eu
 zonefiles.io
-www.malwaredomainlist.com
+www.fanboy.co.nz
+theantisocialengineer.com
 family.cloudflare-dns.com
 security.cloudflare-dns.com
-jansal.net
 managedsentinel.com
+jansal.net
 blocklist.cyberthreatcoalition.org
 ```
 
@@ -97,8 +96,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-www.eff.org
 urlhaus.abuse.ch
+www.eff.org
 ```
 
 0 used sucuri (0.0%):

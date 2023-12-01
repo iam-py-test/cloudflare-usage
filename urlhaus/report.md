@@ -1,4 +1,4 @@
-399 domains tested. 80.95238095238095% were behind nothing (76 were behind something). 24 domains could not be tested.<br>
+299 domains tested. 83.61204013377926% were behind nothing (49 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,56 +19,35 @@
 
 ```
 
-48 used cloudflare (12.030075187969924%):
+27 used cloudflare (9.03010033444816%):
 ```
 api.baimless.com
-angoraveteriner.com
-books.ttc.edu.sg
-demonware.online
-frey2.com
 hostigram.xyz
 china.dhabigroup.top
-dlink.caesarsgroup.top
 fresh1.ironoreprod.top
-chashni.co
-demo.devswire.com
+inflowingagency.com
+angoraveteriner.com
+dlink.caesarsgroup.top
 crackload.net
+chashni.co
 et3.ektpnc.com
 dienmay01.maudemo.com
+demo.devswire.com
 frezzyhook.com
+leeziptv.com
 downloayxkemam.sbs
-buildrs.com
-gobo30cl.top
 gons34cl.top
 gons28cl.top
-bertam.com.my
-palasan.ro
-walkinglate.com
-wordpress.ductai.xyz
-ismartsocial.com
-leeziptv.com
-www.agies.org
-iaqqav.com
-nvis-it.com
-marrakechfolkloredays.com
 zang3.conyersdill.top
+www.agies.org
 zang1.almashreaq.top
-medicalwellbeinggroup.com
-screeninghive.com
-paste-bin.xyz
-petertiohk.com
-spbinan.com
-www.idpminic.org
-spices.com.sg
-marrakechfolkloredays.ma
-ttc.edu.sg
-spacetrack.co.tz
-zaofisa.net
-vollfisioterapia.com.br
-img.proxies.world
-willowgreen.com.sg
-balance.fcz.ma
 pl.mamutert.com
+rodhigital.com
+spices.com.sg
+www.idpminic.org
+trtmyanmar.com
+zaofisa.net
+spacetrack.co.tz
 ```
 
 0 used cloudfront (0.0%):
@@ -76,9 +55,9 @@ pl.mamutert.com
 
 ```
 
-1 used ddosguard (0.2506265664160401%):
+0 used ddosguard (0.0%):
 ```
-agentleadgenesis.com
+
 ```
 
 0 used edgecast (0.0%):
@@ -91,11 +70,11 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.7518796992481203%):
+3 used sucuri (1.0033444816053512%):
 ```
 www.asterglobal.com
-www.bearware.org
 www.lasikofmichigan.com
+www.bearware.org
 ```
 
 0 used myracloud (0.0%):

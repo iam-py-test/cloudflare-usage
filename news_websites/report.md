@@ -1,4 +1,4 @@
-171 domains tested. 60.81871345029239% were behind nothing (67 were behind something). 13 domains could not be tested.<br>
+171 domains tested. 60.23391812865497% were behind nothing (68 were behind something). 15 domains could not be tested.<br>
 2 used akamai (1.1695906432748537%):
 ```
 dailymail.co.uk
@@ -22,35 +22,34 @@ news.sky.com
 
 22 used cloudflare (12.865497076023392%):
 ```
-drudgereport.com
-thewire.in
-alarabiya.net
 axios.com
-themarshallproject.org
-pravdareport.com
-mashable.com
-publicintegrity.org
+alarabiya.net
+drudgereport.com
 altnews.in
-science.org
-politico.com
-theregister.com
-kyivpost.com
+publicintegrity.org
 therecord.media
 propublica.org
-freedom.press
-dexerto.com
-bleepingcomputer.com
+mashable.com
+politico.com
 thehindu.com
-washingtontimes.com
+freedom.press
+kyivpost.com
+science.org
+theregister.com
+pravdareport.com
+themarshallproject.org
+thewire.in
+dexerto.com
 techdirt.com
+washingtontimes.com
+bleepingcomputer.com
 startribune.com
 ```
 
-30 used cloudfront (17.543859649122805%):
+29 used cloudfront (16.95906432748538%):
 ```
 elpais.com
 espn.com
-fortune.com
 hbr.org
 latimes.com
 onet.pl
@@ -58,26 +57,26 @@ repubblica.it
 reuters.com
 time.com
 wsj.com
-andhrajyothy.com
-abcnews.go.com
 bostonglobe.com
+chicagotribune.com
+fortune.com
+lastampa.it
+theoutline.com
+nj.com
 ap.org
-elpais.es
+abcnews.go.com
 theglobeandmail.com
 sandiegouniontribune.com
+andhrajyothy.com
+elpais.es
 sueddeutsche.de
-theoutline.com
-lastampa.it
-nj.com
-chicagotribune.com
 infobae.com
-suntimes.com
 salon.com
-csmonitor.com
 mic.com
-fivethirtyeight.com
 slashgear.com
-thetimes.co.uk
+suntimes.com
+csmonitor.com
+fivethirtyeight.com
 ```
 
 0 used ddosguard (0.0%):
