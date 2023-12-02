@@ -1,4 +1,4 @@
-299 domains tested. 83.61204013377926% were behind nothing (49 were behind something). 19 domains could not be tested.<br>
+287 domains tested. 85.36585365853658% were behind nothing (42 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,37 @@
 
 ```
 
-27 used cloudflare (9.03010033444816%):
+29 used cloudflare (10.104529616724738%):
 ```
 api.baimless.com
+demonware.online
 hostigram.xyz
 china.dhabigroup.top
-fresh1.ironoreprod.top
-inflowingagency.com
-angoraveteriner.com
 dlink.caesarsgroup.top
-crackload.net
-chashni.co
+fresh1.ironoreprod.top
 et3.ektpnc.com
-dienmay01.maudemo.com
-demo.devswire.com
+www.agies.org
 frezzyhook.com
+dienmay01.maudemo.com
+crackload.net
+demo.devswire.com
 leeziptv.com
+wordpress.ductai.xyz
+walkinglate.com
 downloayxkemam.sbs
 gons34cl.top
-gons28cl.top
 zang3.conyersdill.top
-www.agies.org
 zang1.almashreaq.top
-pl.mamutert.com
+www.geovanisantos.adv.br
+gomlgaming.dev
 rodhigital.com
-spices.com.sg
-www.idpminic.org
-trtmyanmar.com
-zaofisa.net
 spacetrack.co.tz
+rusticironstore.com
+pl.mamutert.com
+www.idpminic.org
+www.jyotigroup.co.in
+trtmyanmar.com
+vollfisioterapia.com.br
 ```
 
 0 used cloudfront (0.0%):
@@ -70,11 +72,11 @@ spacetrack.co.tz
 
 ```
 
-3 used sucuri (1.0033444816053512%):
+3 used sucuri (1.0452961672473868%):
 ```
 www.asterglobal.com
-www.lasikofmichigan.com
 www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
