@@ -1,10 +1,10 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
+214 domains tested. 56.074766355140184% were behind nothing (94 were behind something). 32 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
-easylist-msie.adblockplus.org
 easylist-downloads.adblockplus.org
-www.microsoft.com
+easylist-msie.adblockplus.org
 www.ebates.com
+www.microsoft.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -26,54 +26,54 @@ filters.adtidy.org
 
 48 used cloudflare (22.429906542056074%):
 ```
+1275.ru
+abp.tt.codes
+abpvn.com
+adblock.mahakala.is
+adp.magnobiet.com
+ads-for-open-source.readthedocs.io
+anonymousposter.gitlab.io
+anti-ad.net
+assets.windscribe.com
+azorult-tracker.net
+block.energized.pro
 blocklist.palemoon.org
+blokada.org
 cdn.adblockcdn.com
+combinatronics.io
+dns-family.adguard.com
+dns.adguard.com
+easydutch.pages.dev
+easydutchcdn.pages.dev
+easylist.to
+family.cloudflare-dns.com
+fanboy.co.nz
 getadhell.com
 gitcdn.link
 iplists.firehol.org
+jansal.net
 lpt.lrv.lt
-rawcdn.githack.com
-www.lb.lt
-secure.fanboy.co.nz
-azorult-tracker.net
-assets.windscribe.com
-easylist.to
-adp.magnobiet.com
-block.energized.pro
-fanboy.co.nz
-easydutchcdn.pages.dev
-abp.tt.codes
-repo.andnixsh.com
-combinatronics.io
-easydutch.pages.dev
-adblock.mahakala.is
-1275.ru
-abpvn.com
-anti-ad.net
-phishing.army
-blokada.org
-www.binarydefense.com
-ads-for-open-source.readthedocs.io
-dns.adguard.com
-osint.bambenekconsulting.com
-stanev.org
-www.malwaredomainlist.com
-dns-family.adguard.com
-www.stopforumspam.com
-tgc.cloud
-pastebin.com
-www.i-dont-care-about-cookies.eu
+managedsentinel.com
 nonio.pt
+osint.bambenekconsulting.com
+pastebin.com
+phishing.army
+rawcdn.githack.com
+repo.andnixsh.com
 road.adblock.ro
+secure.fanboy.co.nz
+security.cloudflare-dns.com
+stanev.org
+tgc.cloud
+theantisocialengineer.com
+www.binarydefense.com
 www.botvrij.eu
 www.fanboy.co.nz
-theantisocialengineer.com
-family.cloudflare-dns.com
-security.cloudflare-dns.com
+www.i-dont-care-about-cookies.eu
+www.lb.lt
+www.malwaredomainlist.com
+www.stopforumspam.com
 zonefiles.io
-managedsentinel.com
-jansal.net
-blocklist.cyberthreatcoalition.org
 ```
 
 1 used cloudfront (0.46728971962616817%):
@@ -96,8 +96,8 @@ isc.sans.edu
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
-www.eff.org
 urlhaus.abuse.ch
+www.eff.org
 ```
 
 0 used sucuri (0.0%):

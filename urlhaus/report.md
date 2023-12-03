@@ -1,4 +1,4 @@
-274 domains tested. 84.67153284671532% were behind nothing (42 were behind something). 15 domains could not be tested.<br>
+291 domains tested. 84.87972508591065% were behind nothing (44 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,39 @@
 
 ```
 
-25 used cloudflare (9.124087591240876%):
+31 used cloudflare (10.652920962199312%):
 ```
-demonware.online
-downloayxkemam.sbs
-china.dhabigroup.top
-fresh1.ironoreprod.top
-dlink.caesarsgroup.top
-inflowingagency.com
+angoraveteriner.com
+chashni.co
 chatnoir.life
-frezzyhook.com
-leeziptv.com
-dienmay01.maudemo.com
+china.dhabigroup.top
 crackload.net
+demonware.online
+dienmay01.maudemo.com
+dlink.caesarsgroup.top
+downloayxkemam.sbs
 et3.ektpnc.com
-wordpress.ductai.xyz
-www.agies.org
+fresh1.ironoreprod.top
+frezzyhook.com
 gomlgaming.dev
-rodhigital.com
-zang1.almashreaq.top
-wdb.life
+gons34cl.top
+img.proxies.world
+inflowingagency.com
+leeziptv.com
 pan.tenire.com
+rodhigital.com
+rusticironstore.com
+spacetrack.co.tz
+trtmyanmar.com
+vollfisioterapia.com.br
+walkinglate.com
+wdb.life
+www.agies.org
 www.geovanisantos.adv.br
 www.idpminic.org
-rusticironstore.com
-trtmyanmar.com
-img.proxies.world
-gons34cl.top
+www.jyotigroup.co.in
+zang1.almashreaq.top
+zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -68,9 +74,9 @@ gons34cl.top
 
 ```
 
-2 used sucuri (0.7299270072992701%):
+2 used sucuri (0.6872852233676976%):
 ```
-www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
