@@ -314,7 +314,7 @@ def savereport():
 				stats_file["cat_precents"][cata][cdn].append(len(report["cdns"][cdn]["domains"]))
 				try:
 					domainsfile = open(f"{cata}/{cdn}_domains.txt",'w',encoding="UTF-8")
-					domainsfile.write("\n".join(report["cdns"][cdn]["domains"]))
+					domainsfile.write("\n".join(sorted(report["cdns"][cdn]["domains"])))
 					domainsfile.close()
 				except Exception as err:
 					debugmsg('err domains file',err)
@@ -336,7 +336,7 @@ def savereport():
 			report_contents = f"""{dtested} domains tested. {tested_precent}% were behind nothing ({(dtested - has_nothing)} were behind something). {erroredout} domains could not be tested.<br>"""
 			debugmsg(report)
 			for cdn in report["cdns"]:
-				alldomains = "\n".join(report["cdns"][cdn]["domains"])
+				alldomains = "\n".join(sorted(report["cdns"][cdn]["domains"]))
 				report_contents += f"""
 {len(report["cdns"][cdn]["domains"])} used {cdn} ({(len(report["cdns"][cdn]["domains"])/dtested)*100}%):
 ```
