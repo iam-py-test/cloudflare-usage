@@ -1,4 +1,4 @@
-214 domains tested. 56.074766355140184% were behind nothing (94 were behind something). 32 domains could not be tested.<br>
+214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -32,11 +32,11 @@ abpvn.com
 adblock.mahakala.is
 adp.magnobiet.com
 ads-for-open-source.readthedocs.io
-anonymousposter.gitlab.io
 anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 block.energized.pro
+blocklist.cyberthreatcoalition.org
 blocklist.palemoon.org
 blokada.org
 cdn.adblockcdn.com
