@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-23 used cloudflare (13.372093023255813%):
+22 used cloudflare (12.790697674418606%):
 ```
 alarabiya.net
 altnews.in
@@ -35,7 +35,6 @@ mashable.com
 politico.com
 pravdareport.com
 propublica.org
-publicintegrity.org
 science.org
 startribune.com
 techdirt.com
@@ -47,7 +46,7 @@ thewire.in
 washingtontimes.com
 ```
 
-29 used cloudfront (16.86046511627907%):
+30 used cloudfront (17.441860465116278%):
 ```
 abcnews.go.com
 andhrajyothy.com
@@ -58,6 +57,7 @@ csmonitor.com
 elpais.com
 elpais.es
 espn.com
+fivethirtyeight.com
 fortune.com
 hbr.org
 infobae.com
