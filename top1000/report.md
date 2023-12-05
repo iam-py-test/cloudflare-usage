@@ -1,4 +1,4 @@
-1000 domains tested. 37.3% were behind nothing (627 were behind something). 455 domains could not be tested.<br>
+1000 domains tested. 37.9% were behind nothing (621 were behind something). 446 domains could not be tested.<br>
 20 used akamai (2.0%):
 ```
 airbnb.com
@@ -38,15 +38,13 @@ b-cdn.net
 
 ```
 
-53 used cloudflare (5.3%):
+58 used cloudflare (5.800000000000001%):
 ```
 33across.com
-addtoany.com
 ancestry.com
 bluehost.com
 braze.com
 btloader.com
-bugsnag.com
 change.org
 chaturbate.com
 cloudflare-dns.com
@@ -54,7 +52,9 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
+dotomi.com
 dribbble.com
+epicgames.com
 fiverr.com
 genius.com
 hostgator.com
@@ -63,23 +63,29 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
+jotform.com
 jquery.com
 kickstarter.com
 life360.com
+mathtag.com
+mgid.com
 myshopify.com
-okta.com
+name.com
+oup.com
 ozon.ru
 pixabay.com
 prnewswire.com
 quantummetric.com
 researchgate.net
 roku.com
+sciencedirect.com
+sectigo.com
 shein.com
 sitescout.com
 sourceforge.net
 statcounter.com
-teamviewer.com
-themeforest.net
+tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -88,20 +94,17 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
 wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-92 used cloudfront (9.2%):
+90 used cloudfront (9.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.co.jp
-amazon.com.br
 amazonaws.com
 amazontrust.com
 amazonvideo.com
