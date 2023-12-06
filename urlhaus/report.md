@@ -1,4 +1,4 @@
-287 domains tested. 83.62369337979094% were behind nothing (47 were behind something). 17 domains could not be tested.<br>
+430 domains tested. 82.32558139534883% were behind nothing (76 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,36 @@
 
 ```
 
-29 used cloudflare (10.104529616724738%):
+34 used cloudflare (7.906976744186046%):
 ```
 angoraveteriner.com
-api.baimless.com
+books.ttc.edu.sg
+ceylonx.net
+chatnoir.life
 china.dhabigroup.top
 crackload.net
 demo.devswire.com
 demonware.online
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
-downloayxkemam.sbs
+en-gb-wordpress.org
 et3.ektpnc.com
-foxfilehost.fun
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
 img.proxies.world
+ledsun-eg.com
 leeziptv.com
+lycheepanel.info
 pan.tenire.com
-rodhigital.com
-spices.com.sg
+realkolkataff.in
+sattakingtv.in
+trtmyanmar.com
 vollfisioterapia.com.br
 walkinglate.com
 wdb.life
+wordpress.ductai.xyz
 www.agies.org
 www.geovanisantos.adv.br
 www.idpminic.org
@@ -72,7 +77,7 @@ zaofisa.net
 
 ```
 
-1 used sucuri (0.34843205574912894%):
+1 used sucuri (0.23255813953488372%):
 ```
 www.lasikofmichigan.com
 ```
