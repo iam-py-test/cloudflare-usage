@@ -1,4 +1,4 @@
-430 domains tested. 82.32558139534883% were behind nothing (76 were behind something). 41 domains could not be tested.<br>
+576 domains tested. 85.9375% were behind nothing (81 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,43 @@
 
 ```
 
-34 used cloudflare (7.906976744186046%):
+37 used cloudflare (6.423611111111111%):
 ```
 angoraveteriner.com
+api.baimless.com
 books.ttc.edu.sg
+buildrs.com
+cecvillamaria.org
 ceylonx.net
-chatnoir.life
-china.dhabigroup.top
+chashni.co
 crackload.net
-demo.devswire.com
-demonware.online
-dienmay01.maudemo.com
 dlink.caesarsgroup.top
+downloayxkemam.sbs
 en-gb-wordpress.org
+engr-kelvin.com
 et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
+grabpanda.com
 hostigram.xyz
 img.proxies.world
+inflowingagency.com
+ioyuui.xyz
 ledsun-eg.com
 leeziptv.com
-lycheepanel.info
-pan.tenire.com
-realkolkataff.in
+pengalih.com
 sattakingtv.in
+skdigitalmediaa.com
 trtmyanmar.com
-vollfisioterapia.com.br
 walkinglate.com
 wdb.life
+werush.shop
 wordpress.ductai.xyz
 www.agies.org
+www.darktools.cx
 www.geovanisantos.adv.br
 www.idpminic.org
-www.jyotigroup.co.in
 zang1.almashreaq.top
 zaofisa.net
 ```
@@ -77,7 +80,7 @@ zaofisa.net
 
 ```
 
-1 used sucuri (0.23255813953488372%):
+1 used sucuri (0.1736111111111111%):
 ```
 www.lasikofmichigan.com
 ```

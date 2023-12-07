@@ -1,4 +1,4 @@
-172 domains tested. 59.883720930232556% were behind nothing (69 were behind something). 14 domains could not be tested.<br>
+172 domains tested. 60.46511627906976% were behind nothing (68 were behind something). 14 domains could not be tested.<br>
 2 used akamai (1.1627906976744187%):
 ```
 dailymail.co.uk
@@ -10,9 +10,9 @@ news.sky.com
 
 ```
 
-1 used cachefly (0.5813953488372093%):
+0 used cachefly (0.0%):
 ```
-foxnews.com
+
 ```
 
 0 used cdn77 (0.0%):

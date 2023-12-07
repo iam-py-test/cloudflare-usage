@@ -1,4 +1,4 @@
-1000 domains tested. 36.7% were behind nothing (633 were behind something). 453 domains could not be tested.<br>
+1000 domains tested. 37.5% were behind nothing (625 were behind something). 462 domains could not be tested.<br>
 20 used akamai (2.0%):
 ```
 airbnb.com
@@ -28,11 +28,8 @@ webex.com
 b-cdn.net
 ```
 
-4 used cachefly (0.4%):
+1 used cachefly (0.1%):
 ```
-foxnews.com
-mcafee.com
-outbrain.com
 teads.tv
 ```
 
@@ -41,15 +38,13 @@ teads.tv
 
 ```
 
-54 used cloudflare (5.4%):
+47 used cloudflare (4.7%):
 ```
 33across.com
-addtoany.com
 ancestry.com
 bluehost.com
 braze.com
 btloader.com
-bugsnag.com
 change.org
 chaturbate.com
 cloudflare-dns.com
@@ -68,14 +63,9 @@ ibm.com
 indexww.com
 jquery.com
 kickstarter.com
-mediafire.com
-mmcdn.com
 myshopify.com
-oup.com
 ozon.ru
 pixabay.com
-plos.org
-princeton.edu
 prnewswire.com
 quantummetric.com
 researchgate.net
@@ -99,19 +89,14 @@ zendesk.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.ca
-amazon.co.uk
-amazon.com.br
-amazon.de
 amazonaws.com
 amazontrust.com
 amazonvideo.com
-amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -123,7 +108,6 @@ chartbeat.net
 chartboost.com
 checkpoint.com
 churchcenter.com
-classdojo.com
 clever.com
 coinmarketcap.com
 connatix.com
@@ -164,7 +148,6 @@ pbs.org
 primevideo.com
 psu.edu
 rapid7.com
-rayjump.com
 realtor.com
 redfin.com
 repubblica.it
@@ -188,6 +171,7 @@ twilio.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -197,9 +181,8 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
-1c.ru
 crpt.ru
 netangels.ru
 pikabu.ru

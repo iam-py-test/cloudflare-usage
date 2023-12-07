@@ -10,6 +10,7 @@ a1520.dscc.akamai.net.0.1.cn.akamaitech.net
 a1603.dscv.akamai.net
 a1815.b.akamai.net
 a1815.dscr.akamai.net
+a1815.dscr.akamai.net.0.1.cn.akamaitech.net
 a1817.dscd.akamai.net
 a1817.dscd.akamai.net.0.1.cn.akamaitech.net
 a1834.dscg2.akamai.net
@@ -33,6 +34,7 @@ amd.cdn.turner.com
 analytics.tiktok.com
 appsforoffice.microsoft.com
 ar.ebay.com
+ar.pinterest.com
 assets.adobedtm.com
 assets.alicdn.com
 assets.msn.com
@@ -54,7 +56,6 @@ co.ebay.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-css.rbxcdn.com
 d3.sina.com.cn
 dds.dell.com
 digitalasset.intuit.com
@@ -128,17 +129,20 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.ebayimg.com
 i.etsystatic.com
+i.pinimg.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
+js.rbxcdn.com
 js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
@@ -168,7 +172,6 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
-res.cdn.office.net
 rover.ebay.com
 s.go-mpulse.net
 s.pinimg.com
@@ -229,6 +232,8 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
+www.pinterest.co.kr
+www.pinterest.dk
 www.salesforce.com
 www.samsung.com
 www.tiktok.com
