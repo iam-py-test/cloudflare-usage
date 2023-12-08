@@ -9,7 +9,7 @@ from tranco import Tranco
 
 NUM_DOMAINS = 1000
 UA_CHOICES = ["Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0","Microsoft Edge Legacy User-Agent string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70..3538.102 Safari/537.36 Edge/18.19582","Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0", 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188', "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0", "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0", "Mozilla/5.0 (PS4; Leanback Shell) Gecko/20100101 Firefox/65.0 LeanbackShell/01.00.01.75 Sony PS4/ (PS4, , no, CH)"]
-REQUEST_TIMEOUT = 75
+REQUEST_TIMEOUT = 80
 RETRY_ENABLED = True
 SORT_DOMAINS = True
 CACHE_LIST = False # pointless with GitHub actions
@@ -54,7 +54,12 @@ started = 0
 cnames = []
 resolver = dns.resolver.Resolver()
 resolver.nameservers = ["94.140.14.140", "8.8.8.8","1.1.1.1"]
-already_checked = {}
+already_checked = {
+	"cloudflare.com": "cloudflare",
+	"cloudflare-dns.com": "cloudflare",
+	"cloudflare.net": "cloudflare",
+	"cloudflareinsights.com": "cloudflare"
+}
 known_cnames = {}
 
 try:
@@ -163,7 +168,7 @@ def hascloudflare(url):
 				pass
 			elif server_header.lower() == "cloudflare" or server_header == "cloudflare-nginx":
 				return "cloudflare"
-			elif server_header == "AkamaiGHost" or server_header == "AkamaiNetStorage":
+			elif server_header == "AkamaiGHost" or server_header == "AkamaiNetStorage" or server_header == "akamai":
 				return "akamai"
 			elif server_header == "ddos-guard":
 				return "ddosguard"
@@ -478,6 +483,12 @@ except Exception as err:
 try:
 	usgov = sorted(open("data/usgov.txt").read().replace("\r", "").split("\n"))
 	check_domains(usgov, "usgov")
+except Exception as err:
+	print(err)
+
+try:
+	security = sorted(open("data/security.txt").read().replace("\r", "").split("\n"))
+	check_domains(security, "security")
 except Exception as err:
 	print(err)
 

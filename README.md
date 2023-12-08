@@ -41,3 +41,7 @@ Tracks how many filterlists are hosted behind CloudFlare, [using the data from f
 - [United States government](./us_gov/report.md)
 
 [Tracks US government (federal, state, local, territorial, and tribal) websites](./data/usgov.txt)
+
+- [Cybersecurity](./security/report.md)
+
+[Tracks cybersecurity companies and websites](./data/security.txt)
