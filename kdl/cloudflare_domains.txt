@@ -5,9 +5,6 @@ asset-proxy-staging.mrk.cfdata.org
 btloader.com
 c5.rgstatic.net
 cdn-client.medium.com
-cdn.cookielaw.org
-cdn.shopify.com
-cdn.sstatic.net
 cdnjs.cloudflare.com
 cfl.dropboxstatic.com
 cfl.dropboxstatic.com.cdn.cloudflare.net
@@ -19,6 +16,9 @@ discord.com
 dsum-sec.casalemedia.com
 explore.zoom.us
 fraiche.com.mx
+glyph.medium.com
+hls-uranus.sb-cd.com
+i.pinimg.com
 i1.rgstatic.net
 ibm.com
 js-eu1.hs-scripts.com
@@ -52,7 +52,6 @@ us01st-cf.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
 vimeo.com
-who.int
 www.artfut.com
 www.cloudflare.com
 www.researchgate.net

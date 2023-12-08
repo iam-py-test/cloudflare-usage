@@ -1,4 +1,4 @@
-1000 domains tested. 37.5% were behind nothing (625 were behind something). 462 domains could not be tested.<br>
+1000 domains tested. 37.4% were behind nothing (626 were behind something). 461 domains could not be tested.<br>
 20 used akamai (2.0%):
 ```
 airbnb.com
@@ -30,7 +30,7 @@ b-cdn.net
 
 1 used cachefly (0.1%):
 ```
-teads.tv
+mcafee.com
 ```
 
 0 used cdn77 (0.0%):
@@ -45,6 +45,7 @@ ancestry.com
 bluehost.com
 braze.com
 btloader.com
+bugsnag.com
 change.org
 chaturbate.com
 cloudflare-dns.com
@@ -64,6 +65,7 @@ indexww.com
 jquery.com
 kickstarter.com
 myshopify.com
+okta.com
 ozon.ru
 pixabay.com
 prnewswire.com
@@ -82,21 +84,21 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+90 used cloudfront (9.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
 amazonaws.com
 amazontrust.com
 amazonvideo.com
+amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
