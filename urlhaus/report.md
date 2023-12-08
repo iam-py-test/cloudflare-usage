@@ -1,4 +1,4 @@
-571 domains tested. 84.23817863397548% were behind nothing (90 were behind something). 43 domains could not be tested.<br>
+556 domains tested. 85.07194244604317% were behind nothing (83 were behind something). 39 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,31 @@
 
 ```
 
-45 used cloudflare (7.880910683012258%):
+42 used cloudflare (7.553956834532374%):
 ```
 IOIOUOIUOUOUIYJGROUP.SBS
 angoraveteriner.com
-api.baimless.com
 books.ttc.edu.sg
 buildrs.com
 cecvillamaria.org
 ceylonx.net
+chashni.co
 crackload.net
 demo.devswire.com
 demonware.online
+dienmay01.maudemo.com
 dlink.caesarsgroup.top
-downloayxkemam.sbs
 engr-kelvin.com
 et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
-gomlgaming.dev
 grabpanda.com
 hostigram.xyz
 img.proxies.world
 inflowingagency.com
-intercambiocristiano.com
 ioyuui.xyz
-medicalwellbeinggroup.com
+ledsun-eg.com
 pengalih.com
-realkolkataff.in
-rodhigital.com
 rusticironstore.com
 sattakingtv.in
 scheta.site
@@ -57,14 +53,15 @@ snowluwu.ru
 spacetrack.co.tz
 spices.com.sg
 trtmyanmar.com
-walkinglate.com
+vollfisioterapia.com.br
+wdb.life
 werush.shop
 wordpress.ductai.xyz
 www.agies.org
 www.darktools.cx
-www.geovanisantos.adv.br
 www.idpminic.org
 www.jyotigroup.co.in
+zang1.almashreaq.top
 zaofisa.net
 ```
 
@@ -88,7 +85,7 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.3502626970227671%):
+2 used sucuri (0.3597122302158274%):
 ```
 www.bearware.org
 www.lasikofmichigan.com

@@ -1,5 +1,5 @@
-1000 domains tested. 37.3% were behind nothing (627 were behind something). 455 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 37.3% were behind nothing (627 were behind something). 457 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
@@ -18,7 +18,6 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 staples.com
 wbx2.com
@@ -40,8 +39,10 @@ b-cdn.net
 
 ```
 
-55 used cloudflare (5.5%):
+52 used cloudflare (5.2%):
 ```
+33across.com
+addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -52,34 +53,31 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-creativecommons.org
+deepl.com
 discord.com
 discord.gg
+dotomi.com
 dribbble.com
-epicgames.com
 fiverr.com
 genius.com
 hostgator.com
 hostgator.com.br
 hubspot.com
+hugedomains.com
 ibm.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-mmcdn.com
 myshopify.com
-oup.com
 ozon.ru
-pexels.com
 pixabay.com
-plos.org
+princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
-sciencedirect.com
+sectigo.com
 shein.com
 sitescout.com
 sourceforge.net
@@ -92,18 +90,18 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+90 used cloudfront (9.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
+amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
