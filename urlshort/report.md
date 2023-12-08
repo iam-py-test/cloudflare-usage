@@ -1,4 +1,4 @@
-242 domains tested. 21.90082644628099% were behind nothing (189 were behind something). 112 domains could not be tested.<br>
+242 domains tested. 25.6198347107438% were behind nothing (180 were behind something). 117 domains could not be tested.<br>
 3 used akamai (1.2396694214876034%):
 ```
 eepurl.com
@@ -21,9 +21,8 @@ go.microsoft.com
 
 ```
 
-60 used cloudflare (24.793388429752067%):
+46 used cloudflare (19.00826446280992%):
 ```
-1sta.com
 24ex.com
 2fear.com
 2fortune.com
@@ -32,11 +31,8 @@ go.microsoft.com
 2savvy.com
 2truth.com
 2tunes.com
-adfoc.us
+2ya.com
 ahscdn.com
-alturl.com
-bigbig.com
-buff.ly
 cdn-lv3.de
 chilp.it
 echoz.com
@@ -45,13 +41,11 @@ fortnight.space
 fortnitechat.site
 gamergirl.pro
 gamingfun.me
-goo.su
 grabify.world
 imghost.pics
 joinmy.site
 linkbucks.com
 links.e.malwarebytes.com
-linkspy.cc
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -64,20 +58,12 @@ rotf.lol
 s.id
 screenshare.pics
 screenshot.best
-shorte.st
 shorten.ee
-shorter.cf
 shrekis.life
-shrink.pe
 smarturl.it
 stopify.co
 tinyurl.com
-upo.im
 uprot.net
-url1.io
-urlday.cc
-urlshortx.com
-usheethe.com
 v.gd
 vze.com
 www.bl.ink

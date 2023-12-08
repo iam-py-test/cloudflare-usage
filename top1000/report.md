@@ -1,8 +1,9 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 461 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 37.3% were behind nothing (627 were behind something). 455 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
 arubanetworks.com
+avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -17,6 +18,7 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 staples.com
 wbx2.com
@@ -28,9 +30,9 @@ webex.com
 b-cdn.net
 ```
 
-1 used cachefly (0.1%):
+0 used cachefly (0.0%):
 ```
-mcafee.com
+
 ```
 
 0 used cdn77 (0.0%):
@@ -38,40 +40,46 @@ mcafee.com
 
 ```
 
-47 used cloudflare (4.7%):
+55 used cloudflare (5.5%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
 btloader.com
-bugsnag.com
 change.org
 chaturbate.com
 cloudflare-dns.com
+cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+creativecommons.org
 discord.com
 discord.gg
 dribbble.com
+epicgames.com
 fiverr.com
 genius.com
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
+mmcdn.com
 myshopify.com
-okta.com
+oup.com
 ozon.ru
+pexels.com
 pixabay.com
+plos.org
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
+sciencedirect.com
 shein.com
 sitescout.com
 sourceforge.net
@@ -84,17 +92,18 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
+who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-90 used cloudfront (9.0%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.ca
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -173,7 +182,6 @@ twilio.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
