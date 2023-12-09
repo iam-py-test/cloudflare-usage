@@ -1,4 +1,4 @@
-556 domains tested. 85.07194244604317% were behind nothing (83 were behind something). 39 domains could not be tested.<br>
+482 domains tested. 82.98755186721992% were behind nothing (82 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,35 @@
 
 ```
 
-42 used cloudflare (7.553956834532374%):
+47 used cloudflare (9.751037344398341%):
 ```
 IOIOUOIUOUOUIYJGROUP.SBS
 angoraveteriner.com
-books.ttc.edu.sg
+api.baimless.com
 buildrs.com
-cecvillamaria.org
-ceylonx.net
 chashni.co
 crackload.net
+darktools.cx
 demo.devswire.com
 demonware.online
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
+downloayxkemam.sbs
 engr-kelvin.com
 et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
+gomlgaming.dev
 grabpanda.com
 hostigram.xyz
 img.proxies.world
 inflowingagency.com
-ioyuui.xyz
-ledsun-eg.com
+leeziptv.com
+medicalwellbeinggroup.com
+onlinequranlearningzone.com
+pan.tenire.com
 pengalih.com
+rodhigital.com
 rusticironstore.com
 sattakingtv.in
 scheta.site
@@ -54,13 +58,14 @@ spacetrack.co.tz
 spices.com.sg
 trtmyanmar.com
 vollfisioterapia.com.br
+walkinglate.com
 wdb.life
 werush.shop
 wordpress.ductai.xyz
 www.agies.org
 www.darktools.cx
+www.geovanisantos.adv.br
 www.idpminic.org
-www.jyotigroup.co.in
 zang1.almashreaq.top
 zaofisa.net
 ```
@@ -70,9 +75,9 @@ zaofisa.net
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.2074688796680498%):
 ```
-
+agentleadgenesis.com
 ```
 
 0 used edgecast (0.0%):
@@ -85,7 +90,7 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.3597122302158274%):
+2 used sucuri (0.4149377593360996%):
 ```
 www.bearware.org
 www.lasikofmichigan.com
