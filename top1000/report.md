@@ -1,4 +1,4 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 453 domains could not be tested.<br>
+1000 domains tested. 38.1% were behind nothing (619 were behind something). 441 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,9 +39,8 @@ b-cdn.net
 
 ```
 
-55 used cloudflare (5.5%):
+62 used cloudflare (6.2%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -53,8 +52,10 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 deepl.com
+discogs.com
 discord.com
 discord.gg
+dotomi.com
 dribbble.com
 fiverr.com
 genius.com
@@ -64,23 +65,29 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
-mmcdn.com
+life360.com
+mathtag.com
+medium.com
 myshopify.com
-onesignal.com
+networkadvertising.org
 ozon.ru
 pixabay.com
+plex.tv
+plos.org
+princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
 researchgate.net
 roku.com
-sectigo.com
+sciencedirect.com
 shein.com
+simpli.fi
 sitescout.com
 sourceforge.net
+spankbang.com
 statcounter.com
 tinyurl.com
 udemy.com
@@ -89,8 +96,8 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+w3.org
 wayfair.com
-webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -98,7 +105,7 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -106,6 +113,7 @@ academia.edu
 amazonaws.com
 amazontrust.com
 amazonvideo.com
+amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -191,7 +199,7 @@ zillow.com
 
 3 used ddosguard (0.3%):
 ```
-crpt.ru
+1c.ru
 netangels.ru
 pikabu.ru
 ```

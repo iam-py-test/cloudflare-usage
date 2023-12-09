@@ -1,4 +1,4 @@
-482 domains tested. 82.98755186721992% were behind nothing (82 were behind something). 32 domains could not be tested.<br>
+487 domains tested. 82.13552361396303% were behind nothing (87 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-47 used cloudflare (9.751037344398341%):
+45 used cloudflare (9.240246406570842%):
 ```
 IOIOUOIUOUOUIYJGROUP.SBS
 angoraveteriner.com
@@ -28,10 +28,7 @@ buildrs.com
 chashni.co
 crackload.net
 darktools.cx
-demo.devswire.com
-demonware.online
 dienmay01.maudemo.com
-dlink.caesarsgroup.top
 downloayxkemam.sbs
 engr-kelvin.com
 et3.ektpnc.com
@@ -66,6 +63,7 @@ www.agies.org
 www.darktools.cx
 www.geovanisantos.adv.br
 www.idpminic.org
+www.jyotigroup.co.in
 zang1.almashreaq.top
 zaofisa.net
 ```
@@ -75,7 +73,7 @@ zaofisa.net
 
 ```
 
-1 used ddosguard (0.2074688796680498%):
+1 used ddosguard (0.20533880903490762%):
 ```
 agentleadgenesis.com
 ```
@@ -90,8 +88,9 @@ agentleadgenesis.com
 
 ```
 
-2 used sucuri (0.4149377593360996%):
+3 used sucuri (0.6160164271047228%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
