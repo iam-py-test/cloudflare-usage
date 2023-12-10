@@ -1,9 +1,8 @@
-1000 domains tested. 38.1% were behind nothing (619 were behind something). 441 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 459 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 airbnb.com
 arubanetworks.com
-avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -39,8 +38,10 @@ b-cdn.net
 
 ```
 
-62 used cloudflare (6.2%):
+50 used cloudflare (5.0%):
 ```
+33across.com
+addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -51,8 +52,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
 discord.com
 discord.gg
 dotomi.com
@@ -67,27 +66,16 @@ ibm.com
 indexww.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
-medium.com
 myshopify.com
-networkadvertising.org
 ozon.ru
 pixabay.com
-plex.tv
-plos.org
-princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
-sciencedirect.com
 shein.com
-simpli.fi
 sitescout.com
 sourceforge.net
-spankbang.com
 statcounter.com
 tinyurl.com
 udemy.com
@@ -96,7 +84,6 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-w3.org
 wayfair.com
 who.int
 wiley.com
@@ -113,7 +100,6 @@ academia.edu
 amazonaws.com
 amazontrust.com
 amazonvideo.com
-amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -188,6 +174,7 @@ twilio.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -199,7 +186,7 @@ zillow.com
 
 3 used ddosguard (0.3%):
 ```
-1c.ru
+crpt.ru
 netangels.ru
 pikabu.ru
 ```
