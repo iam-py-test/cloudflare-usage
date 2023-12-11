@@ -1,4 +1,4 @@
-243 domains tested. 23.045267489711936% were behind nothing (187 were behind something). 123 domains could not be tested.<br>
+243 domains tested. 25.925925925925924% were behind nothing (180 were behind something). 118 domains could not be tested.<br>
 3 used akamai (1.2345679012345678%):
 ```
 eepurl.com
@@ -21,19 +21,16 @@ go.microsoft.com
 
 ```
 
-48 used cloudflare (19.753086419753085%):
+46 used cloudflare (18.930041152263374%):
 ```
+1sta.com
 2fear.com
 2fortune.com
-2freedom.com
-2hell.com
-2savvy.com
 2tunes.com
 2ya.com
 ahscdn.com
 cdn-lv3.de
 chilp.it
-cuty.io
 echoz.com
 foot.wiki
 fortnight.space
@@ -43,6 +40,7 @@ gamingfun.me
 goo.su
 grabify.world
 imghost.pics
+iplogger.org
 joinmy.site
 linkbucks.com
 links.e.malwarebytes.com

@@ -1,8 +1,9 @@
-1000 domains tested. 37.6% were behind nothing (624 were behind something). 459 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 456 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
+avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -38,26 +39,27 @@ b-cdn.net
 
 ```
 
-50 used cloudflare (5.0%):
+52 used cloudflare (5.2%):
 ```
-33across.com
-addtoany.com
 ancestry.com
 bluehost.com
 braze.com
 btloader.com
+bugsnag.com
+casalemedia.com
 change.org
 chaturbate.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+creativecommons.org
 discord.com
 discord.gg
-dotomi.com
 dribbble.com
 fiverr.com
 genius.com
+heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -74,6 +76,7 @@ quantummetric.com
 researchgate.net
 roku.com
 shein.com
+simpli.fi
 sitescout.com
 sourceforge.net
 statcounter.com
@@ -85,14 +88,14 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
+webmd.com
 wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -100,6 +103,7 @@ academia.edu
 amazonaws.com
 amazontrust.com
 amazonvideo.com
+amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -149,7 +153,6 @@ olx.ua
 onet.pl
 pbs.org
 primevideo.com
-psu.edu
 rapid7.com
 realtor.com
 redfin.com
@@ -174,7 +177,6 @@ twilio.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -184,8 +186,9 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+4 used ddosguard (0.4%):
 ```
+1c.ru
 crpt.ru
 netangels.ru
 pikabu.ru
