@@ -204,6 +204,8 @@ def hascloudflare(url):
 			return "akamai"
 		if "X-Amz-Cf-Pop" in r.headers or "X-Amz-Cf-Id" in r.headers:
 			return "cloudfront"
+		if "X-Fastly-Request-ID" in r.headers:
+			return "fastly"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
