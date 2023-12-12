@@ -1,4 +1,4 @@
-243 domains tested. 25.925925925925924% were behind nothing (180 were behind something). 118 domains could not be tested.<br>
+243 domains tested. 20.98765432098765% were behind nothing (192 were behind something). 131 domains could not be tested.<br>
 3 used akamai (1.2345679012345678%):
 ```
 eepurl.com
@@ -23,11 +23,8 @@ go.microsoft.com
 
 46 used cloudflare (18.930041152263374%):
 ```
-1sta.com
-2fear.com
-2fortune.com
-2tunes.com
-2ya.com
+2freedom.com
+adf.ly
 ahscdn.com
 cdn-lv3.de
 chilp.it
@@ -40,7 +37,6 @@ gamingfun.me
 goo.su
 grabify.world
 imghost.pics
-iplogger.org
 joinmy.site
 linkbucks.com
 links.e.malwarebytes.com
@@ -62,6 +58,10 @@ shrekis.life
 smarturl.it
 stopify.co
 tinyurl.com
+upo.im
+uprot.net
+url1.io
+urlday.cc
 urlshortx.com
 usheethe.com
 v.gd
@@ -71,9 +71,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.938271604938271%):
+11 used cloudfront (4.526748971193416%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy

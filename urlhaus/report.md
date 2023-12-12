@@ -1,4 +1,4 @@
-361 domains tested. 83.65650969529086% were behind nothing (59 were behind something). 14 domains could not be tested.<br>
+381 domains tested. 80.5774278215223% were behind nothing (74 were behind something). 31 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,19 @@
 
 ```
 
-42 used cloudflare (11.634349030470915%):
+40 used cloudflare (10.498687664041995%):
 ```
+amtri.ma
 angoraveteriner.com
 api.baimless.com
 balance.fcz.ma
+bigbuzzfact.in
 books.ttc.edu.sg
 cdn.nest.rip
-chashni.co
 crackload.net
 dambbel.ir
 demo.devswire.com
 demonware.online
-dienmay01.maudemo.com
 dlink.caesarsgroup.top
 downloayxkemam.sbs
 drugsideeffectchecker.com
@@ -39,8 +39,8 @@ et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
-hostigram.xyz
-img.proxies.world
+grabpanda.com
+infunotion.com
 ledsun-eg.com
 leeziptv.com
 pan.tenire.com
@@ -49,17 +49,15 @@ rodhigital.com
 rusticironstore.com
 sattakinganesh.in
 sattakingtv.in
-scheta.site
 simplywhatsapp.com
 spacetrack.co.tz
 spices.com.sg
 topteam.fr
+ttc.edu.sg
 vollfisioterapia.com.br
 walkinglate.com
 wdb.life
 wordpress.ductai.xyz
-www.agies.org
-www.geovanisantos.adv.br
 www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
@@ -85,7 +83,7 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.8310249307479225%):
+3 used sucuri (0.7874015748031495%):
 ```
 www.asterglobal.com
 www.bearware.org
