@@ -141,18 +141,26 @@ def hascloudflare(url):
 				return "fastly"
 		cname = get_cname(domain)
 		if cname != None:
+			if cname in already_checked:
+				return already_checked[cname]
 			if cname.endswith(".fastly.net"):
 				already_checked[domain] = "fastly"
+				already_checked[cname] = "fastly"
 				return "fastly"
 			if cname.endswith(".edgecastcdn.net"):
 				already_checked[domain] = "edgecast"
+				already_checked[cname] = "edgecast"
 				return "edgecast"
 			if cname.endswith(".akamaiedge.net") or cname.endswith(".akamai.net"):
+				already_checked[cname] = "akamai"
 				return "akamai"
 			if cname.endswith(".pacloudflare.com") or cname.endswith(".cloudflare.com") or cname.endswith(".cloudflare.net"):
+				already_checked[cname] = "cloudflare"
 				return "cloudflare"
 			if cname.endswith(".b-cdn.net"):
+				already_checked[cname] = "bunnycdn"
 				return "bunnycdn"
+
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
