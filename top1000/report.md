@@ -1,4 +1,4 @@
-1000 domains tested. 38.0% were behind nothing (620 were behind something). 451 domains could not be tested.<br>
+1000 domains tested. 37.2% were behind nothing (628 were behind something). 459 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -54,6 +54,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+deepl.com
 discord.com
 discord.gg
 dribbble.com
@@ -66,13 +67,13 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
+life360.com
+mathtag.com
 myshopify.com
 ozon.ru
 pixabay.com
-plos.org
 prnewswire.com
 quantummetric.com
 researchgate.net
@@ -88,7 +89,6 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
 xhamster.com
 zendesk.com
 zoom.us
@@ -99,8 +99,8 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
-amazon.com.br
-amazon.de
+amazon.co.jp
+amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -154,9 +154,9 @@ olx.ua
 onet.pl
 pbs.org
 primevideo.com
+psu.edu
 rapid7.com
 realtor.com
-redfin.com
 repubblica.it
 reuters.com
 segment.io
