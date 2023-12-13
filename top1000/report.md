@@ -1,4 +1,4 @@
-1000 domains tested. 37.8% were behind nothing (622 were behind something). 452 domains could not be tested.<br>
+1000 domains tested. 38.0% were behind nothing (620 were behind something). 451 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,8 +39,10 @@ b-cdn.net
 
 ```
 
-54 used cloudflare (5.4%):
+51 used cloudflare (5.1%):
 ```
+33across.com
+addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -52,12 +54,9 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
 discord.com
 discord.gg
 dribbble.com
-epicgames.com
 fiverr.com
 genius.com
 heylink.me
@@ -67,19 +66,17 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-jotform.com
+innovid.com
 jquery.com
 kickstarter.com
-life360.com
 myshopify.com
-okta.com
 ozon.ru
 pixabay.com
+plos.org
 prnewswire.com
 quantummetric.com
 researchgate.net
 roku.com
-sciencedirect.com
 shein.com
 sitescout.com
 sourceforge.net
@@ -91,17 +88,19 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-wiley.com
+who.int
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+90 used cloudfront (9.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.com.br
+amazon.de
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -189,9 +188,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-crpt.ru
 netangels.ru
 pikabu.ru
 ```
@@ -201,8 +199,9 @@ pikabu.ru
 
 ```
 
-2 used fastly (0.2%):
+3 used fastly (0.3%):
 ```
+github.io
 speedtest.net
 www.gov.uk
 ```

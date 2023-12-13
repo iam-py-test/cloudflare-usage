@@ -1,4 +1,4 @@
-214 domains tested. 55.140186915887845% were behind nothing (96 were behind something). 34 domains could not be tested.<br>
+214 domains tested. 49.06542056074766% were behind nothing (109 were behind something). 36 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -91,13 +91,24 @@ isc.sans.edu
 
 ```
 
-5 used fastly (2.336448598130841%):
+16 used fastly (7.476635514018691%):
 ```
+adaway.org
+adblock-thai.github.io
+badmojr.github.io
 cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
+easydutch-ubo.github.io
+iam-py-test.github.io
+mkb2091.github.io
+paulgb.github.io
+rickrolldb.com
 urlhaus.abuse.ch
+v.firebog.net
 www.eff.org
+www.github.developerdan.com
+www.thedumbterminal.co.uk
 ```
 
 0 used sucuri (0.0%):

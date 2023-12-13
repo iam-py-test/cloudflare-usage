@@ -1,4 +1,4 @@
-381 domains tested. 80.5774278215223% were behind nothing (74 were behind something). 31 domains could not be tested.<br>
+407 domains tested. 79.11547911547912% were behind nothing (85 were behind something). 39 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,19 @@
 
 ```
 
-40 used cloudflare (10.498687664041995%):
+43 used cloudflare (10.565110565110565%):
 ```
 amtri.ma
 angoraveteriner.com
-api.baimless.com
 balance.fcz.ma
 bigbuzzfact.in
 books.ttc.edu.sg
-cdn.nest.rip
+chashni.co
 crackload.net
 dambbel.ir
 demo.devswire.com
 demonware.online
+dienmay01.maudemo.com
 dlink.caesarsgroup.top
 downloayxkemam.sbs
 drugsideeffectchecker.com
@@ -40,7 +40,10 @@ fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
 grabpanda.com
+hostigram.xyz
+inflowingagency.com
 infunotion.com
+intercambiocristiano.com
 ledsun-eg.com
 leeziptv.com
 pan.tenire.com
@@ -56,11 +59,11 @@ topteam.fr
 ttc.edu.sg
 vollfisioterapia.com.br
 walkinglate.com
-wdb.life
 wordpress.ductai.xyz
+www.agies.org
+www.geovanisantos.adv.br
 www.idpminic.org
 zang1.almashreaq.top
-zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -83,7 +86,7 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.7874015748031495%):
+3 used sucuri (0.7371007371007371%):
 ```
 www.asterglobal.com
 www.bearware.org
