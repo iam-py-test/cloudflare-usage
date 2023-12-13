@@ -1,4 +1,4 @@
-1000 domains tested. 37.2% were behind nothing (628 were behind something). 459 domains could not be tested.<br>
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 448 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,10 +39,9 @@ b-cdn.net
 
 ```
 
-51 used cloudflare (5.1%):
+59 used cloudflare (5.8999999999999995%):
 ```
 33across.com
-addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -55,9 +54,11 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 deepl.com
+discogs.com
 discord.com
 discord.gg
 dribbble.com
+epicgames.com
 fiverr.com
 genius.com
 heylink.me
@@ -67,15 +68,20 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
 myshopify.com
+networkadvertising.org
+oup.com
 ozon.ru
+pexels.com
 pixabay.com
+plos.org
+princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 shein.com
@@ -88,19 +94,19 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+w3.org
 wayfair.com
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-90 used cloudfront (9.0%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.co.jp
-amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -147,6 +153,7 @@ merriam-webster.com
 milanuncios.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -178,7 +185,6 @@ twilio.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -188,8 +194,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```

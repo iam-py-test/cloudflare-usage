@@ -19,11 +19,12 @@ avira.com
 
 ```
 
-10 used cloudflare (30.303030303030305%):
+11 used cloudflare (33.33333333333333%):
 ```
 abuseipdb.com
 any.run
 clamav.net
+crowdstrike.com
 emsisoft.com
 gridinsoft.com
 haveibeenpwned.com
@@ -33,9 +34,8 @@ netcraft.com
 talosintelligence.com
 ```
 
-2 used cloudfront (6.0606060606060606%):
+1 used cloudfront (3.0303030303030303%):
 ```
-crowdstrike.com
 opswat.com
 ```
 

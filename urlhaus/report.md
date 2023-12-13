@@ -1,4 +1,4 @@
-397 domains tested. 77.07808564231739% were behind nothing (91 were behind something). 47 domains could not be tested.<br>
+451 domains tested. 80.48780487804879% were behind nothing (88 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,18 @@
 
 ```
 
-41 used cloudflare (10.327455919395465%):
+48 used cloudflare (10.643015521064301%):
 ```
+aalamilk.com
 amtri.ma
-angoraveteriner.com
-api.baimless.com
+archive.madz258.xyz
+arxeologiya.az
 balance.fcz.ma
 bigbuzzfact.in
 books.ttc.edu.sg
+buildrs.com
 chashni.co
+chingman.net
 crackload.net
 dambbel.ir
 demo.devswire.com
@@ -44,14 +47,18 @@ inflowingagency.com
 infunotion.com
 intercambiocristiano.com
 ledsun-eg.com
-leeziptv.com
+mini-apk.com
+pan.tenire.com
+paste-bin.xyz
 realkolkataff.in
 rodhigital.com
 rusticironstore.com
 sattakinganesh.in
+sattakingsss.in
 sattakingtv.in
 simplywhatsapp.com
-spacetrack.co.tz
+souq-alshashat.com
+spices.com.sg
 topteam.fr
 ttc.edu.sg
 vollfisioterapia.com.br
@@ -84,9 +91,8 @@ zaofisa.net
 
 ```
 
-3 used sucuri (0.7556675062972292%):
+2 used sucuri (0.4434589800443459%):
 ```
-www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
