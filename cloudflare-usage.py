@@ -151,7 +151,7 @@ def hascloudflare(url):
 				already_checked[domain] = "edgecast"
 				already_checked[cname] = "edgecast"
 				return "edgecast"
-			if cname.endswith(".akamaiedge.net") or cname.endswith(".akamai.net"):
+			if cname.endswith(".akamaiedge.net") or cname.endswith(".akamai.net") or cname.endswith(".akamaitech.net"):
 				already_checked[cname] = "akamai"
 				return "akamai"
 			if cname.endswith(".pacloudflare.com") or cname.endswith(".cloudflare.com") or cname.endswith(".cloudflare.net"):
