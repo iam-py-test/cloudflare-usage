@@ -14,7 +14,6 @@ api.flickr.com
 api.soundcloud.com
 assets-global.website-files.com
 assets.homeimprovementpages.com.au
-aws-us-west-2.amazon.com
 aws.amazon.com
 booking.com
 c.amazon-adsystem.com
@@ -22,8 +21,8 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
-cdn.rollbar.com
 cdn.segment.io
+cdn.transcend.io
 cdnssl.clicktale.net
 cf.bstatic.com
 cn.nytimes.com
@@ -37,13 +36,13 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
-d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
 d1u08w08on97dm.cloudfront.net
 d1ykf07e75w7ss.cloudfront.net
 d278netuvpt9qo.cloudfront.net
+d27f3qgc9anoq2.cloudfront.net
 d2c.aws.amazon.com
 d2daxcapcwhof6.cloudfront.net
 d2dz0a2zorjbnc.cloudfront.net
@@ -88,6 +87,7 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
+images-eu.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 img-deviantart.wixmp.com

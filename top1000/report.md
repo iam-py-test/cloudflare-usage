@@ -1,9 +1,8 @@
-1000 domains tested. 37.6% were behind nothing (624 were behind something). 448 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 451 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 airbnb.com
 arubanetworks.com
-avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -11,9 +10,9 @@ ebay.de
 eepurl.com
 fda.gov
 fedex.com
+force.com
 godaddy.com
 hp.com
-intel.com
 lowes.com
 macys.com
 mysql.com
@@ -39,7 +38,7 @@ b-cdn.net
 
 ```
 
-59 used cloudflare (5.8999999999999995%):
+58 used cloudflare (5.800000000000001%):
 ```
 33across.com
 ancestry.com
@@ -54,11 +53,9 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 deepl.com
-discogs.com
 discord.com
 discord.gg
 dribbble.com
-epicgames.com
 fiverr.com
 genius.com
 heylink.me
@@ -71,17 +68,18 @@ indexww.com
 innovid.com
 jquery.com
 kickstarter.com
+mathtag.com
+mgid.com
+mmcdn.com
 myshopify.com
-networkadvertising.org
-oup.com
+okta.com
+onesignal.com
 ozon.ru
 pexels.com
 pixabay.com
-plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
 shein.com
@@ -94,15 +92,15 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-w3.org
 wayfair.com
+who.int
 wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -110,7 +108,6 @@ academia.edu
 amazonaws.com
 amazontrust.com
 amazonvideo.com
-amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -153,7 +150,6 @@ merriam-webster.com
 milanuncios.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -161,7 +157,6 @@ olx.ua
 onet.pl
 pbs.org
 primevideo.com
-psu.edu
 rapid7.com
 realtor.com
 repubblica.it
@@ -169,6 +164,7 @@ reuters.com
 segment.io
 shalltry.com
 sharethis.com
+shutterstock.com
 soundcloud.com
 spot.im
 state.gov
@@ -181,10 +177,10 @@ tp-link.com
 tradingview.com
 tremorhub.com
 trustpilot.com
-twilio.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -194,9 +190,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
