@@ -1,4 +1,4 @@
-459 domains tested. 80.17429193899783% were behind nothing (91 were behind something). 23 domains could not be tested.<br>
+448 domains tested. 79.01785714285714% were behind nothing (94 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-64 used cloudflare (13.943355119825709%):
+61 used cloudflare (13.616071428571427%):
 ```
 1eia7y.elephonecelullares.pro
 1uis8.acercelullares.quest
@@ -31,8 +31,8 @@
 a3abj.wileyfoxcelullares.motorcycles
 aalamilk.com
 amtri.ma
+angoraveteriner.com
 api.baimless.com
-archive.madz258.xyz
 arxeologiya.az
 balance.fcz.ma
 bigbuzzfact.in
@@ -44,17 +44,15 @@ china.dhabigroup.top
 chingman.net
 cje4r.ulefonecelullares.motorcycles
 crackload.net
-dienmay01.maudemo.com
-dlink.caesarsgroup.top
 downloayxkemam.sbs
+et3.ektpnc.com
 f7aaww.razercelullares.motorcycles
-frezzyhook.com
+fresh1.ironoreprod.top
 gaa7r.lavacelullares.pro
 gomlgaming.dev
 grabpanda.com
 hjiaur.bluboldlikeuscelullares.motorcycles
 hostigram.xyz
-inflowingagency.com
 infunotion.com
 intercambiocristiano.com
 jgiasw.ulefonecelullares.motorcycles
@@ -63,7 +61,7 @@ leeziptv.com
 mini-apk.com
 ngaa1w.lavacelullares.pro
 owae4k.razercelullares.motorcycles
-paste-bin.xyz
+pan.tenire.com
 rodhigital.com
 sattakingsss.in
 sdey8.leecocelullares.quest
@@ -75,7 +73,6 @@ ttc.edu.sg
 twio0t.vertucelullares.pro
 vollfisioterapia.com.br
 w0oa5m.bluboldlikeuscelullares.motorcycles
-walkinglate.com
 wdb.life
 wordpress.ductai.xyz
 wqaur.alcatelcelullares.quest
@@ -92,7 +89,7 @@ zaue2o.karbonncelullares.pro
 
 ```
 
-1 used ddosguard (0.2178649237472767%):
+1 used ddosguard (0.2232142857142857%):
 ```
 agentleadgenesis.com
 ```
@@ -107,7 +104,7 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.6535947712418301%):
+3 used sucuri (0.6696428571428571%):
 ```
 www.asterglobal.com
 www.bearware.org
