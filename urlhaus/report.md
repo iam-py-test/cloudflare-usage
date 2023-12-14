@@ -1,4 +1,4 @@
-460 domains tested. 80.43478260869566% were behind nothing (90 were behind something). 24 domains could not be tested.<br>
+459 domains tested. 80.17429193899783% were behind nothing (91 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-63 used cloudflare (13.695652173913043%):
+64 used cloudflare (13.943355119825709%):
 ```
 1eia7y.elephonecelullares.pro
 1uis8.acercelullares.quest
@@ -31,7 +31,7 @@
 a3abj.wileyfoxcelullares.motorcycles
 aalamilk.com
 amtri.ma
-angoraveteriner.com
+api.baimless.com
 archive.madz258.xyz
 arxeologiya.az
 balance.fcz.ma
@@ -40,10 +40,10 @@ books.ttc.edu.sg
 buildrs.com
 bursalambiri.com
 chashni.co
+china.dhabigroup.top
 chingman.net
 cje4r.ulefonecelullares.motorcycles
 crackload.net
-demo.devswire.com
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
 downloayxkemam.sbs
@@ -63,11 +63,12 @@ leeziptv.com
 mini-apk.com
 ngaa1w.lavacelullares.pro
 owae4k.razercelullares.motorcycles
+paste-bin.xyz
 rodhigital.com
-rusticironstore.com
 sattakingsss.in
 sdey8.leecocelullares.quest
 souq-alshashat.com
+spacetrack.co.tz
 spices.com.sg
 topteam.fr
 ttc.edu.sg
@@ -91,7 +92,7 @@ zaue2o.karbonncelullares.pro
 
 ```
 
-1 used ddosguard (0.21739130434782608%):
+1 used ddosguard (0.2178649237472767%):
 ```
 agentleadgenesis.com
 ```
@@ -106,8 +107,9 @@ agentleadgenesis.com
 
 ```
 
-2 used sucuri (0.43478260869565216%):
+3 used sucuri (0.6535947712418301%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
