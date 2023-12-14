@@ -160,6 +160,9 @@ def hascloudflare(url):
 			if cname.endswith(".b-cdn.net"):
 				already_checked[cname] = "bunnycdn"
 				return "bunnycdn"
+			if cname.endswith(".cachefly.net"):
+				already_checked[cname] = "cachefly"
+				return "cachefly"
 
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
