@@ -1,4 +1,4 @@
-448 domains tested. 79.01785714285714% were behind nothing (94 were behind something). 29 domains could not be tested.<br>
+722 domains tested. 80.05540166204986% were behind nothing (144 were behind something). 83 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-61 used cloudflare (13.616071428571427%):
+57 used cloudflare (7.894736842105263%):
 ```
 1eia7y.elephonecelullares.pro
 1uis8.acercelullares.quest
@@ -30,54 +30,50 @@
 8waewa.alcatelcelullares.quest
 a3abj.wileyfoxcelullares.motorcycles
 aalamilk.com
-amtri.ma
 angoraveteriner.com
 api.baimless.com
 arxeologiya.az
-balance.fcz.ma
 bigbuzzfact.in
-books.ttc.edu.sg
 buildrs.com
 bursalambiri.com
 chashni.co
 china.dhabigroup.top
 chingman.net
+cipro.mx
 cje4r.ulefonecelullares.motorcycles
 crackload.net
+demo.devswire.com
+dienmay01.maudemo.com
 downloayxkemam.sbs
-et3.ektpnc.com
 f7aaww.razercelullares.motorcycles
-fresh1.ironoreprod.top
 gaa7r.lavacelullares.pro
 gomlgaming.dev
-grabpanda.com
+google-document.org
 hjiaur.bluboldlikeuscelullares.motorcycles
 hostigram.xyz
-infunotion.com
-intercambiocristiano.com
+inflowingagency.com
 jgiasw.ulefonecelullares.motorcycles
 khiew.elephonecelullares.pro
 leeziptv.com
+lombokoriginal.com
 mini-apk.com
+nexskill.com
 ngaa1w.lavacelullares.pro
 owae4k.razercelullares.motorcycles
 pan.tenire.com
+paste-bin.xyz
 rodhigital.com
-sattakingsss.in
 sdey8.leecocelullares.quest
 souq-alshashat.com
 spacetrack.co.tz
 spices.com.sg
 topteam.fr
-ttc.edu.sg
 twio0t.vertucelullares.pro
 vollfisioterapia.com.br
 w0oa5m.bluboldlikeuscelullares.motorcycles
-wdb.life
 wordpress.ductai.xyz
 wqaur.alcatelcelullares.quest
 www.agies.org
-www.geovanisantos.adv.br
 www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
@@ -89,7 +85,7 @@ zaue2o.karbonncelullares.pro
 
 ```
 
-1 used ddosguard (0.2232142857142857%):
+1 used ddosguard (0.13850415512465375%):
 ```
 agentleadgenesis.com
 ```
@@ -104,7 +100,7 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.6696428571428571%):
+3 used sucuri (0.41551246537396125%):
 ```
 www.asterglobal.com
 www.bearware.org

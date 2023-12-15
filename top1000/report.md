@@ -1,4 +1,4 @@
-1000 domains tested. 37.3% were behind nothing (627 were behind something). 462 domains could not be tested.<br>
+1000 domains tested. 37.3% were behind nothing (627 were behind something). 458 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,8 +39,9 @@ b-cdn.net
 
 ```
 
-50 used cloudflare (5.0%):
+56 used cloudflare (5.6000000000000005%):
 ```
+33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -52,8 +53,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
 discord.com
 discord.gg
 dribbble.com
@@ -66,14 +65,20 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
+life360.com
+mathtag.com
 myshopify.com
-onesignal.com
+optimizely.com
+oup.com
 ozon.ru
 pixabay.com
+princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 shein.com
@@ -87,13 +92,14 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
+who.int
 wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
@@ -147,7 +153,6 @@ mozilla.org
 nationalgeographic.com
 netgear.com
 noaa.gov
-olx.ua
 onet.pl
 pbs.org
 primevideo.com
@@ -183,9 +188,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```

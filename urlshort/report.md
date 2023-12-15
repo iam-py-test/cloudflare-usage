@@ -1,4 +1,4 @@
-243 domains tested. 22.22222222222222% were behind nothing (189 were behind something). 129 domains could not be tested.<br>
+243 domains tested. 24.691358024691358% were behind nothing (183 were behind something). 123 domains could not be tested.<br>
 3 used akamai (1.2345679012345678%):
 ```
 eepurl.com
@@ -23,10 +23,10 @@ go.microsoft.com
 
 44 used cloudflare (18.106995884773664%):
 ```
-adfoc.us
 ahscdn.com
 chilp.it
 echoz.com
+ezstat.ru
 foot.wiki
 fortnight.space
 fortnitechat.site
