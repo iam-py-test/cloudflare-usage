@@ -1,4 +1,4 @@
-722 domains tested. 80.05540166204986% were behind nothing (144 were behind something). 83 domains could not be tested.<br>
+720 domains tested. 84.30555555555556% were behind nothing (113 were behind something). 75 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,65 +19,44 @@
 
 ```
 
-57 used cloudflare (7.894736842105263%):
+36 used cloudflare (5.0%):
 ```
-1eia7y.elephonecelullares.pro
-1uis8.acercelullares.quest
-5oakd.wileyfoxcelullares.motorcycles
-76aae2.sharpcelullares.quest
-77eayc.karbonncelullares.pro
-8ta8t.sharpcelullares.quest
-8waewa.alcatelcelullares.quest
-a3abj.wileyfoxcelullares.motorcycles
-aalamilk.com
+100techhausa.com.ng
 angoraveteriner.com
 api.baimless.com
-arxeologiya.az
-bigbuzzfact.in
-buildrs.com
-bursalambiri.com
 chashni.co
 china.dhabigroup.top
 chingman.net
 cipro.mx
-cje4r.ulefonecelullares.motorcycles
 crackload.net
 demo.devswire.com
 dienmay01.maudemo.com
+dlink.caesarsgroup.top
 downloayxkemam.sbs
-f7aaww.razercelullares.motorcycles
-gaa7r.lavacelullares.pro
+egyptfurniture.org
+frezzyhook.com
 gomlgaming.dev
 google-document.org
-hjiaur.bluboldlikeuscelullares.motorcycles
 hostigram.xyz
 inflowingagency.com
-jgiasw.ulefonecelullares.motorcycles
-khiew.elephonecelullares.pro
 leeziptv.com
 lombokoriginal.com
-mini-apk.com
 nexskill.com
-ngaa1w.lavacelullares.pro
-owae4k.razercelullares.motorcycles
+objetivosexy.com
 pan.tenire.com
 paste-bin.xyz
 rodhigital.com
-sdey8.leecocelullares.quest
-souq-alshashat.com
+shpilliwilli.com
 spacetrack.co.tz
 spices.com.sg
-topteam.fr
-twio0t.vertucelullares.pro
-vollfisioterapia.com.br
-w0oa5m.bluboldlikeuscelullares.motorcycles
+spinnerhigh.com
+walkinglate.com
 wordpress.ductai.xyz
-wqaur.alcatelcelullares.quest
 www.agies.org
+www.geovanisantos.adv.br
 www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
-zaue2o.karbonncelullares.pro
 ```
 
 0 used cloudfront (0.0%):
@@ -85,9 +64,9 @@ zaue2o.karbonncelullares.pro
 
 ```
 
-1 used ddosguard (0.13850415512465375%):
+0 used ddosguard (0.0%):
 ```
-agentleadgenesis.com
+
 ```
 
 0 used edgecast (0.0%):
@@ -100,11 +79,10 @@ agentleadgenesis.com
 
 ```
 
-3 used sucuri (0.41551246537396125%):
+2 used sucuri (0.2777777777777778%):
 ```
 www.asterglobal.com
 www.bearware.org
-www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):

@@ -1,5 +1,5 @@
-1000 domains tested. 37.3% were behind nothing (627 were behind something). 458 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.7% were behind nothing (623 were behind something). 446 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 airbnb.com
 arubanetworks.com
@@ -21,7 +21,6 @@ news.com.au
 rakuten.co.jp
 staples.com
 wbx2.com
-webex.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -39,9 +38,8 @@ b-cdn.net
 
 ```
 
-56 used cloudflare (5.6000000000000005%):
+65 used cloudflare (6.5%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -56,8 +54,10 @@ cloudflareinsights.com
 discord.com
 discord.gg
 dribbble.com
+entrust.net
 fiverr.com
 genius.com
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -65,25 +65,32 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
 life360.com
 mathtag.com
+mmcdn.com
 myshopify.com
+networkadvertising.org
+okta.com
 optimizely.com
 oup.com
 ozon.ru
+pexels.com
 pixabay.com
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
+quora.com
 researchgate.net
 roku.com
 shein.com
+shopify.com
+simpli.fi
 sitescout.com
 sourceforge.net
+stackoverflow.com
+teamviewer.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -92,6 +99,7 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
+webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -157,7 +165,6 @@ onet.pl
 pbs.org
 primevideo.com
 rapid7.com
-realtor.com
 repubblica.it
 reuters.com
 segment.io
@@ -179,6 +186,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
