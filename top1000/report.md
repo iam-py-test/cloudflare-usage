@@ -1,4 +1,4 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 446 domains could not be tested.<br>
+1000 domains tested. 38.0% were behind nothing (620 were behind something). 448 domains could not be tested.<br>
 20 used akamai (2.0%):
 ```
 airbnb.com
@@ -38,7 +38,7 @@ b-cdn.net
 
 ```
 
-65 used cloudflare (6.5%):
+60 used cloudflare (6.0%):
 ```
 ancestry.com
 bluehost.com
@@ -51,13 +51,12 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+deepl.com
 discord.com
 discord.gg
 dribbble.com
-entrust.net
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -67,13 +66,9 @@ ibm.com
 indexww.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
-mmcdn.com
 myshopify.com
 networkadvertising.org
-okta.com
-optimizely.com
+onetrust.com
 oup.com
 ozon.ru
 pexels.com
@@ -81,16 +76,16 @@ pixabay.com
 princeton.edu
 prnewswire.com
 quantummetric.com
-quora.com
+quizlet.com
 researchgate.net
 roku.com
+sciencedirect.com
+sectigo.com
 shein.com
-shopify.com
 simpli.fi
 sitescout.com
 sourceforge.net
-stackoverflow.com
-teamviewer.com
+tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com

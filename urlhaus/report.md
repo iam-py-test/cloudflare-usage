@@ -1,4 +1,4 @@
-720 domains tested. 84.30555555555556% were behind nothing (113 were behind something). 75 domains could not be tested.<br>
+699 domains tested. 82.26037195994277% were behind nothing (124 were behind something). 89 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-36 used cloudflare (5.0%):
+32 used cloudflare (4.57796852646638%):
 ```
 100techhausa.com.ng
 angoraveteriner.com
@@ -27,13 +27,10 @@ api.baimless.com
 chashni.co
 china.dhabigroup.top
 chingman.net
-cipro.mx
 crackload.net
-demo.devswire.com
-dienmay01.maudemo.com
-dlink.caesarsgroup.top
-downloayxkemam.sbs
 egyptfurniture.org
+et3.ektpnc.com
+fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
 google-document.org
@@ -44,13 +41,12 @@ lombokoriginal.com
 nexskill.com
 objetivosexy.com
 pan.tenire.com
-paste-bin.xyz
 rodhigital.com
+rusticironstore.com
 shpilliwilli.com
 spacetrack.co.tz
 spices.com.sg
 spinnerhigh.com
-walkinglate.com
 wordpress.ductai.xyz
 www.agies.org
 www.geovanisantos.adv.br
@@ -79,10 +75,11 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.2777777777777778%):
+3 used sucuri (0.4291845493562232%):
 ```
 www.asterglobal.com
 www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):
