@@ -1,4 +1,4 @@
-1864 domains tested. 55.04291845493562% were behind nothing (838 were behind something). 228 domains could not be tested.<br>
+1864 domains tested. 53.862660944206006% were behind nothing (860 were behind something). 246 domains could not be tested.<br>
 247 used akamai (13.251072961373392%):
 ```
 1.www.s81c.com
@@ -135,6 +135,7 @@ hp.com
 ht.cdn.turner.com
 i.dell.com
 i.etsystatic.com
+i.pinimg.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
@@ -144,8 +145,7 @@ images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
-js.rbxcdn.com
-js.t.sinajs.cn
+ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -255,12 +255,14 @@ www8.hp.com
 
 ```
 
-4 used cachefly (0.2145922746781116%):
+6 used cachefly (0.3218884120171674%):
 ```
 css.rbxcdn.com
 images.rbxcdn.com
+js.rbxcdn.com
 roblox-css.cachefly.net
 roblox-images.cachefly.net
+roblox-js.cachefly.net
 ```
 
 7 used cdn77 (0.37553648068669526%):
@@ -328,7 +330,6 @@ qsc.cf2.quoracdn.net
 researchgate.net
 roblox-api.arkoselabs.com
 roblox-api.arkoselabs.com.cdn.cloudflare.net
-sciencedirect.com
 script.crazyegg.com
 script.crazyegg.com.cdn.cloudflare.net
 sdfestaticassets-us-east-1.sciencedirectassets.com
@@ -336,6 +337,7 @@ sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
 spankbang.com
+stackoverflow.com
 static.cloudflareinsights.com
 static.deepl.com
 static.zdassets.com
@@ -383,6 +385,7 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
+cdn.rollbar.com
 cdn.segment.io
 cdn.transcend.io
 cdnssl.clicktale.net
@@ -398,6 +401,7 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
+d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
@@ -451,7 +455,6 @@ i3.sndcdn.com
 i4.sndcdn.com
 images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 img-deviantart.wixmp.com
@@ -490,7 +493,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.parastorage.com
 static.snapchat.com
 static.twitchcdn.net
 static.yieldmo.com
@@ -529,7 +531,7 @@ abs.twimg.com
 cs510.wpc.edgecastcdn.net
 ```
 
-114 used fastly (6.115879828326181%):
+116 used fastly (6.223175965665236%):
 ```
 a.thumbs.redditmedia.com
 api.nextgen.guardianapps.co.uk
@@ -572,6 +574,7 @@ i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
+images-na.ssl-images-amazon.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
@@ -580,6 +583,7 @@ j.ophan.co.uk
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
 m.sni.global.fastly.net
+media.amazon.map.fastly.net
 mosaic.scdn.co
 n.sni.global.fastly.net
 nl.pinterest.com
