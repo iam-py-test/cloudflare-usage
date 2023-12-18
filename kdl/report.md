@@ -1,5 +1,5 @@
-1864 domains tested. 53.862660944206006% were behind nothing (860 were behind something). 246 domains could not be tested.<br>
-247 used akamai (13.251072961373392%):
+1865 domains tested. 54.74530831099196% were behind nothing (844 were behind something). 235 domains could not be tested.<br>
+247 used akamai (13.24396782841823%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -135,17 +135,17 @@ hp.com
 ht.cdn.turner.com
 i.dell.com
 i.etsystatic.com
-i.pinimg.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
+images-eu.ssl-images-amazon.com
+images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
-ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -175,7 +175,6 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
-res.cdn.office.net
 s.go-mpulse.net
 s20.tiktokcdn.com
 secure.ally.com
@@ -192,6 +191,7 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
+static.rbxcdn.com
 static3.avast.com
 staticview.msn.com
 stc.iqiyipic.com
@@ -255,17 +255,15 @@ www8.hp.com
 
 ```
 
-6 used cachefly (0.3218884120171674%):
+4 used cachefly (0.21447721179624668%):
 ```
 css.rbxcdn.com
-images.rbxcdn.com
 js.rbxcdn.com
 roblox-css.cachefly.net
-roblox-images.cachefly.net
 roblox-js.cachefly.net
 ```
 
-7 used cdn77 (0.37553648068669526%):
+7 used cdn77 (0.37533512064343166%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -276,9 +274,10 @@ static-cdn77.xnxx-cdn.com
 static-cdn77.xvideos-cdn.com
 ```
 
-78 used cloudflare (4.184549356223176%):
+78 used cloudflare (4.18230563002681%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
+4650993.fs1.hubspotusercontent-na1.net
 app-sj16.marketo.com
 as-sec.casalemedia.com
 as.casalemedia.com
@@ -300,7 +299,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 d2pj9rkatqbt38.cloudfront.net
-deepl.com
 deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
@@ -358,7 +356,7 @@ zendesk.com
 zoom.us
 ```
 
-158 used cloudfront (8.47639484978541%):
+155 used cloudfront (8.310991957104557%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -385,7 +383,6 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
-cdn.rollbar.com
 cdn.segment.io
 cdn.transcend.io
 cdnssl.clicktale.net
@@ -401,7 +398,6 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
-d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
@@ -453,7 +449,6 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -525,13 +520,13 @@ ychef.files.bbci.co.uk
 
 ```
 
-2 used edgecast (0.1072961373390558%):
+2 used edgecast (0.10723860589812334%):
 ```
 abs.twimg.com
 cs510.wpc.edgecastcdn.net
 ```
 
-116 used fastly (6.223175965665236%):
+116 used fastly (6.2198391420911525%):
 ```
 a.thumbs.redditmedia.com
 api.nextgen.guardianapps.co.uk

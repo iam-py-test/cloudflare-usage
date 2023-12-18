@@ -1,8 +1,9 @@
-1000 domains tested. 38.0% were behind nothing (620 were behind something). 447 domains could not be tested.<br>
-19 used akamai (1.9%):
+1000 domains tested. 37.5% were behind nothing (625 were behind something). 445 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
+avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -15,6 +16,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -37,8 +39,9 @@ b-cdn.net
 
 ```
 
-62 used cloudflare (6.2%):
+65 used cloudflare (6.5%):
 ```
+33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -50,9 +53,10 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
+discogs.com
 discord.com
 discord.gg
+dotomi.com
 fiverr.com
 genius.com
 heylink.me
@@ -62,31 +66,32 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
 mathtag.com
 mgid.com
+mmcdn.com
 myshopify.com
 networkadvertising.org
-okta.com
+onesignal.com
 onetrust.com
-optimizely.com
 ozon.ru
 pixabay.com
 plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
 sectigo.com
 shein.com
+simpli.fi
 sitescout.com
 sourceforge.net
 stackoverflow.com
-themeforest.net
+tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -103,7 +108,7 @@ zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -143,6 +148,7 @@ hbr.org
 healthline.com
 hipages.com.au
 hotjar.com
+ieee.org
 intercom.io
 intuit.com
 ipify.org
@@ -183,6 +189,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
