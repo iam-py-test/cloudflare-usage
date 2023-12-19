@@ -1,5 +1,5 @@
-1865 domains tested. 54.74530831099196% were behind nothing (844 were behind something). 235 domains could not be tested.<br>
-247 used akamai (13.24396782841823%):
+1866 domains tested. 54.12647374062165% were behind nothing (856 were behind something). 248 domains could not be tested.<br>
+246 used akamai (13.183279742765272%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -59,6 +59,7 @@ co.ebay.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
+css.rbxcdn.com
 d3.sina.com.cn
 dds.dell.com
 digitalasset.intuit.com
@@ -136,20 +137,18 @@ ht.cdn.turner.com
 i.dell.com
 i.etsystatic.com
 i.scdn.co
-i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
-images-eu.ssl-images-amazon.com
-images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
+js.rbxcdn.com
+js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
-m.media-amazon.com
 munchkin.marketo.net
 mx.ebay.com
 mybbc-analytics.files.bbci.co.uk
@@ -175,6 +174,7 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
+res.cdn.office.net
 s.go-mpulse.net
 s20.tiktokcdn.com
 secure.ally.com
@@ -191,7 +191,6 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
-static.rbxcdn.com
 static3.avast.com
 staticview.msn.com
 stc.iqiyipic.com
@@ -255,15 +254,13 @@ www8.hp.com
 
 ```
 
-4 used cachefly (0.21447721179624668%):
+2 used cachefly (0.10718113612004287%):
 ```
-css.rbxcdn.com
-js.rbxcdn.com
-roblox-css.cachefly.net
-roblox-js.cachefly.net
+images.rbxcdn.com
+roblox-images.cachefly.net
 ```
 
-7 used cdn77 (0.37533512064343166%):
+7 used cdn77 (0.37513397642015006%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -274,10 +271,9 @@ static-cdn77.xnxx-cdn.com
 static-cdn77.xvideos-cdn.com
 ```
 
-78 used cloudflare (4.18230563002681%):
+78 used cloudflare (4.180064308681672%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
-4650993.fs1.hubspotusercontent-na1.net
 app-sj16.marketo.com
 as-sec.casalemedia.com
 as.casalemedia.com
@@ -303,6 +299,7 @@ deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
 embed.cloudflarestream.com
+epicgames.com
 explore.zoom.us
 f.hubspotusercontent40.net
 fraiche.com.mx
@@ -325,6 +322,7 @@ powerad.ai
 privacy-policy.truste.com
 productreviews.shopifycdn.com
 qsc.cf2.quoracdn.net
+quora.com
 researchgate.net
 roblox-api.arkoselabs.com
 roblox-api.arkoselabs.com.cdn.cloudflare.net
@@ -335,7 +333,6 @@ sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
 spankbang.com
-stackoverflow.com
 static.cloudflareinsights.com
 static.deepl.com
 static.zdassets.com
@@ -356,7 +353,7 @@ zendesk.com
 zoom.us
 ```
 
-155 used cloudfront (8.310991957104557%):
+158 used cloudfront (8.467309753483388%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -383,6 +380,7 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
+cdn.rollbar.com
 cdn.segment.io
 cdn.transcend.io
 cdnssl.clicktale.net
@@ -398,6 +396,7 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
+d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
@@ -449,7 +448,9 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
+images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 img-deviantart.wixmp.com
@@ -509,7 +510,6 @@ www.deviantart.com
 www.dvidshub.net
 www.flickr.com
 www.flickrprints.com
-www.mi.co.id
 www.mozilla.org
 www.mozorg.moz.works
 ychef.files.bbci.co.uk
@@ -520,13 +520,13 @@ ychef.files.bbci.co.uk
 
 ```
 
-2 used edgecast (0.10723860589812334%):
+2 used edgecast (0.10718113612004287%):
 ```
 abs.twimg.com
 cs510.wpc.edgecastcdn.net
 ```
 
-116 used fastly (6.2198391420911525%):
+115 used fastly (6.162915326902465%):
 ```
 a.thumbs.redditmedia.com
 api.nextgen.guardianapps.co.uk
@@ -569,7 +569,6 @@ i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
-images-na.ssl-images-amazon.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
@@ -577,8 +576,8 @@ it.pinterest.com
 j.ophan.co.uk
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
+m.media-amazon.com
 m.sni.global.fastly.net
-media.amazon.map.fastly.net
 mosaic.scdn.co
 n.sni.global.fastly.net
 nl.pinterest.com

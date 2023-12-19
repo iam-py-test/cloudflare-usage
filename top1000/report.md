@@ -1,4 +1,4 @@
-1000 domains tested. 37.5% were behind nothing (625 were behind something). 445 domains could not be tested.<br>
+1000 domains tested. 37.5% were behind nothing (625 were behind something). 440 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,9 +39,8 @@ b-cdn.net
 
 ```
 
-65 used cloudflare (6.5%):
+69 used cloudflare (6.9%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -53,12 +52,12 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-discogs.com
 discord.com
 discord.gg
-dotomi.com
+epicgames.com
 fiverr.com
 genius.com
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -75,23 +74,27 @@ mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
+okta.com
 onesignal.com
-onetrust.com
+optimizely.com
 ozon.ru
+patreon.com
+pexels.com
 pixabay.com
+pixiv.net
 plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
+quora.com
 researchgate.net
 roku.com
 sectigo.com
 shein.com
-simpli.fi
 sitescout.com
 sourceforge.net
-stackoverflow.com
-tandfonline.com
+teamviewer.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -99,6 +102,7 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
 wayfair.com
 webmd.com
 who.int
@@ -127,6 +131,7 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
+chegg.com
 churchcenter.com
 clever.com
 coinmarketcap.com
@@ -189,7 +194,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -199,8 +203,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
