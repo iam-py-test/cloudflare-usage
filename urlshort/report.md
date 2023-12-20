@@ -1,5 +1,5 @@
-244 domains tested. 23.36065573770492% were behind nothing (187 were behind something). 129 domains could not be tested.<br>
-3 used akamai (1.2295081967213115%):
+245 domains tested. 26.53061224489796% were behind nothing (180 were behind something). 117 domains could not be tested.<br>
+3 used akamai (1.2244897959183674%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -21,9 +21,11 @@ go.microsoft.com
 
 ```
 
-43 used cloudflare (17.62295081967213%):
+47 used cloudflare (19.183673469387756%):
 ```
+adfoc.us
 ahscdn.com
+ceesty.com
 chilp.it
 echoz.com
 foot.wiki
@@ -33,6 +35,7 @@ gamergirl.pro
 gamingfun.me
 goo.su
 grabify.world
+ibf.tw
 imghost.pics
 joinmy.site
 linkbucks.com
@@ -55,6 +58,7 @@ shrekis.life
 smarturl.it
 stopify.co
 tinyurl.com
+track.canva.com
 upo.im
 uprot.net
 url1.io
@@ -68,7 +72,7 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.508196721311475%):
+11 used cloudfront (4.489795918367347%):
 ```
 bstore.smsb.co
 clicks.eventbrite.com
@@ -98,8 +102,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4098360655737705%):
+2 used sucuri (0.8163265306122449%):
 ```
+promo-visits.site
 wee.so
 ```
 
@@ -114,6 +119,11 @@ wee.so
 ```
 
 0 used leaseweb (0.0%):
+```
+
+```
+
+0 used deflect (0.0%):
 ```
 
 ```

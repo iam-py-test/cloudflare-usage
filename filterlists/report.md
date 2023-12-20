@@ -1,4 +1,4 @@
-214 domains tested. 49.532710280373834% were behind nothing (108 were behind something). 36 domains could not be tested.<br>
+214 domains tested. 50.93457943925234% were behind nothing (105 were behind something). 33 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -126,6 +126,11 @@ www.thedumbterminal.co.uk
 ```
 
 0 used leaseweb (0.0%):
+```
+
+```
+
+0 used deflect (0.0%):
 ```
 
 ```

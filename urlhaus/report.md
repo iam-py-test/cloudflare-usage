@@ -1,4 +1,4 @@
-737 domains tested. 86.43147896879239% were behind nothing (100 were behind something). 67 domains could not be tested.<br>
+947 domains tested. 86.58922914466737% were behind nothing (127 were behind something). 95 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,42 +19,39 @@
 
 ```
 
-28 used cloudflare (3.7991858887381276%):
+26 used cloudflare (2.7455121436114043%):
 ```
 angoraveteriner.com
 api.baimless.com
-chashni.co
 china.dhabigroup.top
-chingman.net
-cloudesign.in
 dlink.caesarsgroup.top
+drmikeexposervices.com
+edarululoom.com
+et3.ektpnc.com
 fbsolution.org
 fresh1.ironoreprod.top
+frezzyhook.com
 gomlgaming.dev
+gostudents.fr
 hostigram.xyz
 kathmanducentral.com
 leeziptv.com
 nestpest.in
-pan.tenire.com
+puffarena.co.uk
 rodhigital.com
 rusticironstore.com
-simnasfikpunhas.com
 spacetrack.co.tz
 spices.com.sg
 tecx.co.za
-vollfisioterapia.com.br
-walkinglate.com
-wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
 ```
 
-2 used cloudfront (0.27137042062415195%):
+1 used cloudfront (0.10559662090813093%):
 ```
 equity.haus
-yes-travel.info
 ```
 
 0 used ddosguard (0.0%):
@@ -72,9 +69,11 @@ yes-travel.info
 
 ```
 
-3 used sucuri (0.40705563093622793%):
+5 used sucuri (0.5279831045406547%):
 ```
+bluelotus.edu.au
 harmonytradingsystem.com
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
@@ -90,6 +89,11 @@ www.lasikofmichigan.com
 ```
 
 0 used leaseweb (0.0%):
+```
+
+```
+
+0 used deflect (0.0%):
 ```
 
 ```

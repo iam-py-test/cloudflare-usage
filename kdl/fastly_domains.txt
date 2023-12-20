@@ -1,8 +1,8 @@
 a.thumbs.redditmedia.com
+abs.twimg.com
 api.nextgen.guardianapps.co.uk
 api.shipt.com
 api.twitch.tv
-ar.pinterest.com
 assets.guim.co.uk
 b.thumbs.redditmedia.com
 br.pinterest.com
@@ -12,7 +12,6 @@ cdn.krxd.net
 cdn.polyfill.io
 cdn.taboola.com
 client-registry.mutinycdn.com
-co.pinterest.com
 ct.pinterest.com
 cz.pinterest.com
 d.sni.global.fastly.net
@@ -24,7 +23,6 @@ dualstack.reddit.map.fastly.net
 embed.acuityscheduling.com
 external-preview.redd.it
 f.vimeocdn.com
-fi.pinterest.com
 g1.nyt.com
 github.github.io
 github.io
@@ -39,6 +37,8 @@ i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
@@ -48,10 +48,9 @@ jsdelivr.map.fastly.net
 lineup-images.scdn.co
 m.media-amazon.com
 m.sni.global.fastly.net
+media.amazon.map.fastly.net
 mosaic.scdn.co
 n.sni.global.fastly.net
-nl.pinterest.com
-no.pinterest.com
 nytimes.map.fastly.net
 object-storage.shipt.com
 odb.outbrain.com
@@ -67,9 +66,7 @@ prod.pinterest.global.map.fastly.net
 publisher.liveperson.net
 ro.pinterest.com
 rss.nytimes.com
-ru.pinterest.com
 s.imgur.com
-s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 sk.pinterest.com
 sourcepoint.theguardian.com
@@ -84,7 +81,7 @@ styles.redditmedia.com
 support.theguardian.com
 tls13.taboola.map.fastly.net
 tls130rtt.spotifycdn.map.fastly.net
-tr.pinterest.com
+twimg.twitter.map.fastly.net
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
@@ -95,19 +92,11 @@ www.etsy.com
 www.fastly-insights.com
 www.forbes.com
 www.nytimes.com
-www.pinterest.cl
-www.pinterest.co.kr
 www.pinterest.co.uk
 www.pinterest.com
 www.pinterest.com.au
-www.pinterest.de
 www.pinterest.dk
 www.pinterest.es
-www.pinterest.fr
-www.pinterest.jp
-www.pinterest.nz
-www.pinterest.pt
-www.pinterest.se
 www.redditstatic.com
 www.shipt.com
 www.theguardian.com

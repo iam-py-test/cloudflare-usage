@@ -15,7 +15,6 @@ api.soundcloud.com
 assets-global.website-files.com
 assets.homeimprovementpages.com.au
 aws-us-east-1.amazon.com
-aws-us-west-2.amazon.com
 aws.amazon.com
 booking.com
 c.amazon-adsystem.com
@@ -23,7 +22,6 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
-cdn.rollbar.com
 cdn.segment.io
 cdn.transcend.io
 cdnssl.clicktale.net
@@ -39,7 +37,6 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
-d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
@@ -91,8 +88,6 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -132,6 +127,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
+static.parastorage.com
 static.snapchat.com
 static.twitchcdn.net
 static.yieldmo.com
@@ -153,6 +149,7 @@ www.deviantart.com
 www.dvidshub.net
 www.flickr.com
 www.flickrprints.com
+www.mi.co.id
 www.mozilla.org
 www.mozorg.moz.works
 ychef.files.bbci.co.uk

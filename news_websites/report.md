@@ -1,4 +1,4 @@
-172 domains tested. 58.720930232558146% were behind nothing (71 were behind something). 18 domains could not be tested.<br>
+172 domains tested. 59.883720930232556% were behind nothing (69 were behind something). 16 domains could not be tested.<br>
 2 used akamai (1.1627906976744187%):
 ```
 dailymail.co.uk
@@ -110,6 +110,11 @@ wsj.com
 ```
 
 0 used leaseweb (0.0%):
+```
+
+```
+
+0 used deflect (0.0%):
 ```
 
 ```
