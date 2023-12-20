@@ -1,4 +1,4 @@
-172 domains tested. 59.883720930232556% were behind nothing (69 were behind something). 16 domains could not be tested.<br>
+172 domains tested. 60.46511627906976% were behind nothing (68 were behind something). 16 domains could not be tested.<br>
 2 used akamai (1.1627906976744187%):
 ```
 dailymail.co.uk
@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-23 used cloudflare (13.372093023255813%):
+22 used cloudflare (12.790697674418606%):
 ```
 alarabiya.net
 altnews.in
@@ -35,7 +35,6 @@ mashable.com
 politico.com
 pravdareport.com
 propublica.org
-publicintegrity.org
 science.org
 startribune.com
 techdirt.com

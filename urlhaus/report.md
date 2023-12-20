@@ -1,4 +1,4 @@
-947 domains tested. 86.58922914466737% were behind nothing (127 were behind something). 95 domains could not be tested.<br>
+924 domains tested. 85.3896103896104% were behind nothing (135 were behind something). 102 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-26 used cloudflare (2.7455121436114043%):
+28 used cloudflare (3.0303030303030303%):
 ```
 angoraveteriner.com
 api.baimless.com
@@ -37,19 +37,21 @@ hostigram.xyz
 kathmanducentral.com
 leeziptv.com
 nestpest.in
+pan.tenire.com
 puffarena.co.uk
 rodhigital.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
 tecx.co.za
+walkinglate.com
+wordpress.ductai.xyz
 www.agies.org
-www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
 ```
 
-1 used cloudfront (0.10559662090813093%):
+1 used cloudfront (0.10822510822510822%):
 ```
 equity.haus
 ```
@@ -69,11 +71,10 @@ equity.haus
 
 ```
 
-5 used sucuri (0.5279831045406547%):
+4 used sucuri (0.4329004329004329%):
 ```
 bluelotus.edu.au
 harmonytradingsystem.com
-www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```

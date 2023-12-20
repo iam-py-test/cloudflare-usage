@@ -1,4 +1,4 @@
-1000 domains tested. 37.8% were behind nothing (622 were behind something). 436 domains could not be tested.<br>
+1000 domains tested. 37.9% were behind nothing (621 were behind something). 433 domains could not be tested.<br>
 19 used akamai (1.9%):
 ```
 airbnb.com
@@ -11,10 +11,10 @@ eepurl.com
 fda.gov
 fedex.com
 force.com
-godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -37,8 +37,9 @@ b-cdn.net
 
 ```
 
-71 used cloudflare (7.1%):
+75 used cloudflare (7.5%):
 ```
+allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -50,8 +51,11 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+deepl.com
+discogs.com
 discord.com
 discord.gg
+dotomi.com
 dribbble.com
 fiverr.com
 genius.com
@@ -62,20 +66,21 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
-mathtag.com
+mediafire.com
+medium.com
 mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
-okta.com
 onesignal.com
-optimizely.com
+onetrust.com
 oup.com
 ozon.ru
-pexels.com
+patreon.com
 pixabay.com
 pixiv.net
 plex.tv
@@ -84,16 +89,15 @@ princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
-quora.com
 researchgate.net
 roku.com
 sciencedirect.com
+sectigo.com
 shein.com
-simpli.fi
 sitescout.com
+skroutz.gr
 sourceforge.net
-stackoverflow.com
-tandfonline.com
+statcounter.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -112,7 +116,7 @@ zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -194,7 +198,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -204,9 +207,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
