@@ -193,6 +193,11 @@ def hascloudflare(url):
 				return "keycdn"
 			elif server_header.startswith("Sucuri"):
 				return "sucuri"
+		if "X-Server" in r.headers:
+			if r.headers["x-server"] not in server_headers:
+				server_headers.append(r.headers["x-server"])
+			if r.headers["x-server"] == "Deflect.ca (nginx)":
+				return "deflect"
 		if "CF-RAY" in r.headers or "CF-Cache-Status" in r.headers or "cf-mitigated" in r.headers or "Cf-Mitigated" in r.headers:
 			return "cloudflare"
 		if "x-77-age" in r.headers or "x-77-cache" in r.headers or "x-77-nzt" in r.headers or "x-77-nzt-ray" in r.headers or "x-77-pop" in r.headers:
@@ -217,6 +222,8 @@ def hascloudflare(url):
 			return "cloudfront"
 		if "X-Fastly-Request-ID" in r.headers:
 			return "fastly"
+		if "x-deflect-cache" in r.headers or "x-deflect-edge" in r.headers:
+			return "deflect"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -280,7 +287,11 @@ report_base = {
 		"leaseweb": {
 			"domains": [],
 			"ips": []
-		}
+		},
+		"deflect": {
+			"domains": [],
+			"ips": []
+		},
 	},
 	"has_nothing": 0,
 	"tested": 0,
