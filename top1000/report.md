@@ -1,8 +1,9 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 433 domains could not be tested.<br>
-19 used akamai (1.9%):
+1000 domains tested. 38.2% were behind nothing (618 were behind something). 413 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
+avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -11,6 +12,7 @@ eepurl.com
 fda.gov
 fedex.com
 force.com
+godaddy.com
 hp.com
 intel.com
 lowes.com
@@ -37,9 +39,9 @@ b-cdn.net
 
 ```
 
-75 used cloudflare (7.5%):
+88 used cloudflare (8.799999999999999%):
 ```
-allaboutcookies.org
+addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -51,39 +53,49 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+cookiedatabase.org
 deepl.com
 discogs.com
 discord.com
 discord.gg
 dotomi.com
-dribbble.com
+epicgames.com
 fiverr.com
 genius.com
+glance.net
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
+ietf.org
+indeed.com
 indexww.com
 innovid.com
+jotform.com
 jquery.com
 kickstarter.com
 life360.com
+loc.gov
+markmonitor.com
+mathtag.com
 mediafire.com
 medium.com
 mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
+okta.com
 onesignal.com
 onetrust.com
-oup.com
+optimizely.com
 ozon.ru
 patreon.com
+pexels.com
 pixabay.com
 pixiv.net
-plex.tv
 plos.org
 princeton.edu
 prnewswire.com
@@ -94,21 +106,24 @@ roku.com
 sciencedirect.com
 sectigo.com
 shein.com
+simpli.fi
 sitescout.com
 skroutz.gr
 sourceforge.net
 statcounter.com
+takeaway.com
+tandfonline.com
+teamviewer.com
+themeforest.net
 tinyurl.com
+truste.com
 udemy.com
 unpkg.com
 unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
-w3.org
 wayfair.com
-webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -116,11 +131,12 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.com.au
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -157,7 +173,6 @@ hbr.org
 healthline.com
 hipages.com.au
 hotjar.com
-ieee.org
 intercom.io
 intuit.com
 ipify.org
@@ -198,6 +213,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -207,8 +223,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```

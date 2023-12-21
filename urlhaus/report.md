@@ -1,4 +1,4 @@
-924 domains tested. 85.3896103896104% were behind nothing (135 were behind something). 102 domains could not be tested.<br>
+932 domains tested. 84.97854077253218% were behind nothing (140 were behind something). 100 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,17 @@
 
 ```
 
-28 used cloudflare (3.0303030303030303%):
+35 used cloudflare (3.755364806866953%):
 ```
+DCFSDFDS2FDHFGJ.SBS
 angoraveteriner.com
 api.baimless.com
+chashni.co
 china.dhabigroup.top
+demo.devswire.com
+dienmay01.maudemo.com
 dlink.caesarsgroup.top
 drmikeexposervices.com
-edarululoom.com
 et3.ektpnc.com
 fbsolution.org
 fresh1.ironoreprod.top
@@ -34,24 +37,28 @@ frezzyhook.com
 gomlgaming.dev
 gostudents.fr
 hostigram.xyz
+infolombok.net
+insidemoringa.com
 kathmanducentral.com
 leeziptv.com
-nestpest.in
+lightdigital-consult.cd
 pan.tenire.com
 puffarena.co.uk
-rodhigital.com
+puffarena.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
-tecx.co.za
+tempfiles.ninja
+vollfisioterapia.com.br
 walkinglate.com
 wordpress.ductai.xyz
 www.agies.org
+www.idpminic.org
 zang1.almashreaq.top
 zaofisa.net
 ```
 
-1 used cloudfront (0.10822510822510822%):
+1 used cloudfront (0.1072961373390558%):
 ```
 equity.haus
 ```
@@ -71,10 +78,10 @@ equity.haus
 
 ```
 
-4 used sucuri (0.4329004329004329%):
+4 used sucuri (0.4291845493562232%):
 ```
 bluelotus.edu.au
-harmonytradingsystem.com
+dimelabs.io
 www.bearware.org
 www.lasikofmichigan.com
 ```
