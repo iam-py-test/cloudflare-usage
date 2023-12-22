@@ -1,4 +1,4 @@
-932 domains tested. 84.97854077253218% were behind nothing (140 were behind something). 100 domains could not be tested.<br>
+772 domains tested. 84.19689119170984% were behind nothing (122 were behind something). 79 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,36 @@
 
 ```
 
-35 used cloudflare (3.755364806866953%):
+37 used cloudflare (4.792746113989637%):
 ```
+1QWQEWREWQWEQWRQE.SBS
 DCFSDFDS2FDHFGJ.SBS
+albarakagroupom.com
 angoraveteriner.com
 api.baimless.com
 chashni.co
 china.dhabigroup.top
-demo.devswire.com
+chingman.net
+cipro.mx
+crackload.net
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
+downloayxkemam.sbs
 drmikeexposervices.com
+edarululoom.com
 et3.ektpnc.com
-fbsolution.org
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
-gostudents.fr
 hostigram.xyz
-infolombok.net
 insidemoringa.com
-kathmanducentral.com
 leeziptv.com
 lightdigital-consult.cd
+medisupplywarehouse.com
 pan.tenire.com
 puffarena.co.uk
 puffarena.com
+rodhigital.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
@@ -54,13 +58,11 @@ walkinglate.com
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
-zang1.almashreaq.top
-zaofisa.net
 ```
 
-1 used cloudfront (0.1072961373390558%):
+0 used cloudfront (0.0%):
 ```
-equity.haus
+
 ```
 
 0 used ddosguard (0.0%):
@@ -78,10 +80,12 @@ equity.haus
 
 ```
 
-4 used sucuri (0.4291845493562232%):
+6 used sucuri (0.7772020725388601%):
 ```
-bluelotus.edu.au
+amaxtravel.com
+briopharmatech.com
 dimelabs.io
+sandiegoloanpro.com
 www.bearware.org
 www.lasikofmichigan.com
 ```

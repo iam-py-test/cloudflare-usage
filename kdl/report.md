@@ -1,5 +1,5 @@
-1869 domains tested. 54.842161583734615% were behind nothing (844 were behind something). 233 domains could not be tested.<br>
-252 used akamai (13.48314606741573%):
+1870 domains tested. 54.86631016042781% were behind nothing (844 were behind something). 237 domains could not be tested.<br>
+248 used akamai (13.262032085561499%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -60,7 +60,6 @@ consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
 css.rbxcdn.com
-d3.sina.com.cn
 dds.dell.com
 digitalasset.intuit.com
 do.ebay.com
@@ -135,20 +134,18 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
+i.ebayimg.com
 i.etsystatic.com
 i.pinimg.com
 i.scdn.co
-i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
-images-eu.ssl-images-amazon.com
 images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
-js.rbxcdn.com
 js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
@@ -158,6 +155,7 @@ munchkin.marketo.net
 mx.ebay.com
 mybbc-analytics.files.bbci.co.uk
 mybbc.files.bbci.co.uk
+n.sinaimg.cn
 nav.files.bbci.co.uk
 ni.ebay.com
 ow2.res.office365.com
@@ -178,9 +176,7 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
-res.cdn.office.net
 s.go-mpulse.net
-s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -260,12 +256,13 @@ www8.hp.com
 
 ```
 
-0 used cachefly (0.0%):
+2 used cachefly (0.10695187165775401%):
+```
+js.rbxcdn.com
+roblox-js.cachefly.net
 ```
 
-```
-
-7 used cdn77 (0.37453183520599254%):
+7 used cdn77 (0.37433155080213903%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -276,10 +273,9 @@ static-cdn77.xnxx-cdn.com
 static-cdn77.xvideos-cdn.com
 ```
 
-82 used cloudflare (4.387372926698769%):
+78 used cloudflare (4.171122994652406%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
-4650993.fs1.hubspotusercontent-na1.net
 app-sj16.marketo.com
 as-sec.casalemedia.com
 as.casalemedia.com
@@ -301,12 +297,10 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 d2pj9rkatqbt38.cloudfront.net
-deepl.com
 deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
 embed.cloudflarestream.com
-epicgames.com
 explore.zoom.us
 f.hubspotusercontent40.net
 fraiche.com.mx
@@ -316,7 +310,6 @@ glyph.medium.com
 hls-uranus.sb-cd.com
 i1.rgstatic.net
 ibm.com
-indeed.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 maxcdn.bootstrapcdn.com
@@ -362,7 +355,7 @@ zendesk.com
 zoom.us
 ```
 
-156 used cloudfront (8.346709470304976%):
+156 used cloudfront (8.342245989304812%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -380,6 +373,7 @@ api.flickr.com
 api.soundcloud.com
 assets-global.website-files.com
 assets.homeimprovementpages.com.au
+aws-us-east-1.amazon.com
 aws-us-west-2.amazon.com
 aws.amazon.com
 booking.com
@@ -454,7 +448,7 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-fe.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -494,7 +488,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.parastorage.com
 static.snapchat.com
 static.twitchcdn.net
 static.yieldmo.com
@@ -527,13 +520,13 @@ ychef.files.bbci.co.uk
 
 ```
 
-2 used edgecast (0.1070090957731407%):
+2 used edgecast (0.10695187165775401%):
 ```
 abs.twimg.com
 cs510.wpc.edgecastcdn.net
 ```
 
-112 used fastly (5.992509363295881%):
+114 used fastly (6.096256684491978%):
 ```
 a.thumbs.redditmedia.com
 api.nextgen.guardianapps.co.uk
@@ -576,6 +569,7 @@ i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
+images-fe.ssl-images-amazon.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
@@ -584,6 +578,7 @@ j.ophan.co.uk
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
 m.sni.global.fastly.net
+media.amazon.map.fastly.net
 mosaic.scdn.co
 n.sni.global.fastly.net
 nl.pinterest.com
