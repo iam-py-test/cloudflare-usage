@@ -1,4 +1,4 @@
-772 domains tested. 84.19689119170984% were behind nothing (122 were behind something). 79 domains could not be tested.<br>
+702 domains tested. 86.32478632478633% were behind nothing (96 were behind something). 55 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,23 @@
 
 ```
 
-37 used cloudflare (4.792746113989637%):
+35 used cloudflare (4.985754985754986%):
 ```
 1QWQEWREWQWEQWRQE.SBS
 DCFSDFDS2FDHFGJ.SBS
 albarakagroupom.com
 angoraveteriner.com
 api.baimless.com
+artemis.community
 chashni.co
 china.dhabigroup.top
 chingman.net
 cipro.mx
 crackload.net
+demo.devswire.com
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
 downloayxkemam.sbs
-drmikeexposervices.com
-edarululoom.com
-et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
@@ -46,18 +45,17 @@ leeziptv.com
 lightdigital-consult.cd
 medisupplywarehouse.com
 pan.tenire.com
-puffarena.co.uk
 puffarena.com
 rodhigital.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
 tempfiles.ninja
-vollfisioterapia.com.br
-walkinglate.com
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
+zang1.almashreaq.top
+zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -80,13 +78,13 @@ www.idpminic.org
 
 ```
 
-6 used sucuri (0.7772020725388601%):
+6 used sucuri (0.8547008547008548%):
 ```
 amaxtravel.com
 briopharmatech.com
 dimelabs.io
 sandiegoloanpro.com
-www.bearware.org
+www.asterglobal.com
 www.lasikofmichigan.com
 ```
 

@@ -1,5 +1,5 @@
-1000 domains tested. 37.3% were behind nothing (627 were behind something). 445 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.4% were behind nothing (626 were behind something). 447 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,7 +16,6 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
-macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -39,9 +38,8 @@ b-cdn.net
 
 ```
 
-69 used cloudflare (6.9%):
+65 used cloudflare (6.5%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -53,6 +51,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+creativecommons.org
 discord.com
 discord.gg
 fiverr.com
@@ -64,40 +63,33 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
-life360.com
-markmonitor.com
-mediafire.com
-medium.com
-mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
-onesignal.com
+onetrust.com
 optimizely.com
-oup.com
 ozon.ru
-patreon.com
-pexels.com
 pixabay.com
 pixiv.net
-plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
+quora.com
 researchgate.net
 roku.com
 sciencedirect.com
+sectigo.com
 shein.com
+simpli.fi
 sitescout.com
 sourceforge.net
-tandfonline.com
-teamviewer.com
 tinyurl.com
-trustarc.com
+trendyol.com
 truste.com
 udemy.com
 unpkg.com
@@ -105,14 +97,17 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
+w3.org
 wayfair.com
 who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -130,7 +125,6 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
-chegg.com
 churchcenter.com
 clever.com
 coinmarketcap.com
@@ -173,6 +167,7 @@ primevideo.com
 rapid7.com
 repubblica.it
 reuters.com
+robinhood.com
 segment.io
 shalltry.com
 sharethis.com
@@ -192,6 +187,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -201,8 +197,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
