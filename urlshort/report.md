@@ -1,4 +1,4 @@
-245 domains tested. 27.346938775510203% were behind nothing (178 were behind something). 118 domains could not be tested.<br>
+245 domains tested. 27.755102040816325% were behind nothing (177 were behind something). 115 domains could not be tested.<br>
 3 used akamai (1.2244897959183674%):
 ```
 eepurl.com
@@ -23,9 +23,9 @@ go.microsoft.com
 
 45 used cloudflare (18.367346938775512%):
 ```
-adfoc.us
 ahscdn.com
 chilp.it
+clk.sh
 echoz.com
 foot.wiki
 fortnight.space
@@ -70,8 +70,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.489795918367347%):
+12 used cloudfront (4.8979591836734695%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
@@ -100,8 +101,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.40816326530612246%):
+2 used sucuri (0.8163265306122449%):
 ```
+promo-visits.site
 wee.so
 ```
 

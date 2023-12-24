@@ -1,5 +1,5 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 447 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 37.1% were behind nothing (629 were behind something). 435 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,6 +16,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -38,8 +39,9 @@ b-cdn.net
 
 ```
 
-65 used cloudflare (6.5%):
+79 used cloudflare (7.9%):
 ```
+33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -52,10 +54,15 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 creativecommons.org
+deepl.com
+discogs.com
 discord.com
 discord.gg
+dotomi.com
 fiverr.com
 genius.com
+glance.net
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -66,30 +73,37 @@ indexww.com
 innovid.com
 jquery.com
 kickstarter.com
+life360.com
+mathtag.com
+medium.com
+mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
+onesignal.com
 onetrust.com
 optimizely.com
+oup.com
 ozon.ru
+patreon.com
+pexels.com
 pixabay.com
-pixiv.net
+plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
-quora.com
 researchgate.net
 roku.com
 sciencedirect.com
 sectigo.com
 shein.com
-simpli.fi
+shopify.com
 sitescout.com
+skroutz.gr
 sourceforge.net
+springserve.com
 tinyurl.com
-trendyol.com
 truste.com
 udemy.com
 unpkg.com
@@ -100,6 +114,7 @@ vimeo.com
 vungle.com
 w3.org
 wayfair.com
+webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -107,14 +122,17 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+airslate.com
+allianz.de
 amazonaws.com
 amazontrust.com
 amazonvideo.com
+amzn.to
 aniview.com
 atlassian.com
 biblegateway.com
@@ -139,7 +157,6 @@ espn.com
 eventbrite.com
 firefox.com
 flickr.com
-fortune.com
 getpocket.com
 go.com
 hbr.org
@@ -187,7 +204,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -197,9 +213,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```

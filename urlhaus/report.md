@@ -1,4 +1,4 @@
-702 domains tested. 86.32478632478633% were behind nothing (96 were behind something). 55 domains could not be tested.<br>
+536 domains tested. 86.19402985074626% were behind nothing (74 were behind something). 33 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-35 used cloudflare (4.985754985754986%):
+34 used cloudflare (6.343283582089552%):
 ```
 1QWQEWREWQWEQWRQE.SBS
 DCFSDFDS2FDHFGJ.SBS
@@ -32,25 +32,24 @@ china.dhabigroup.top
 chingman.net
 cipro.mx
 crackload.net
-demo.devswire.com
 dienmay01.maudemo.com
 dlink.caesarsgroup.top
 downloayxkemam.sbs
+et3.ektpnc.com
 fresh1.ironoreprod.top
 frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
-insidemoringa.com
 leeziptv.com
 lightdigital-consult.cd
-medisupplywarehouse.com
 pan.tenire.com
-puffarena.com
+paste-bin.xyz
 rodhigital.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
 tempfiles.ninja
+vollfisioterapia.com.br
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
@@ -78,13 +77,14 @@ zaofisa.net
 
 ```
 
-6 used sucuri (0.8547008547008548%):
+7 used sucuri (1.3059701492537312%):
 ```
 amaxtravel.com
 briopharmatech.com
 dimelabs.io
 sandiegoloanpro.com
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 

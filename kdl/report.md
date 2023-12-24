@@ -1,5 +1,5 @@
-1872 domains tested. 54.059829059829056% were behind nothing (860 were behind something). 249 domains could not be tested.<br>
-258 used akamai (13.782051282051283%):
+1873 domains tested. 54.19113721302723% were behind nothing (858 were behind something). 244 domains could not be tested.<br>
+244 used akamai (13.027229044313934%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -59,7 +59,6 @@ co.ebay.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-css.rbxcdn.com
 dds.dell.com
 digitalasset.intuit.com
 do.ebay.com
@@ -134,15 +133,13 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
+i.ebayimg.com
 i.etsystatic.com
-i.pinimg.com
 i.scdn.co
-i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -156,7 +153,6 @@ mybbc-analytics.files.bbci.co.uk
 mybbc.files.bbci.co.uk
 nav.files.bbci.co.uk
 ni.ebay.com
-nl.pinterest.com
 ow2.res.office365.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-useast2a.tiktokcdn.com
@@ -166,7 +162,6 @@ p16-va.tiktokcdn.com
 pa.ebay.com
 pages.ebay.com
 pe.ebay.com
-pl.pinterest.com
 players.brightcove.net
 pm.pstatic.net
 pmd.cdn.turner.com
@@ -177,8 +172,8 @@ query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
-ru.pinterest.com
 s.go-mpulse.net
+s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -186,7 +181,6 @@ secureir.ebaystatic.com
 service.maxymiser.net
 sf16-website-login.neutral.ttwstatic.com
 shell.cdn.office.net
-sk.pinterest.com
 ssl.pstatic.net
 staples.com
 static-global-s-msn-com.akamaized.net
@@ -237,13 +231,6 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
-www.pinterest.cl
-www.pinterest.co.kr
-www.pinterest.co.uk
-www.pinterest.com.au
-www.pinterest.fr
-www.pinterest.pt
-www.pinterest.se
 www.salesforce.com
 www.samsung.com
 www.staples.com
@@ -258,7 +245,6 @@ www.xerox.fr
 www.xerox.it
 www.xerox.nl
 www8.hp.com
-za.pinterest.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -266,15 +252,17 @@ za.pinterest.com
 
 ```
 
-4 used cachefly (0.2136752136752137%):
+6 used cachefly (0.32034169781099836%):
 ```
+css.rbxcdn.com
 images.rbxcdn.com
 js.rbxcdn.com
+roblox-css.cachefly.net
 roblox-images.cachefly.net
 roblox-js.cachefly.net
 ```
 
-7 used cdn77 (0.37393162393162394%):
+7 used cdn77 (0.37373198077949815%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -285,7 +273,7 @@ static-cdn77.xnxx-cdn.com
 static-cdn77.xvideos-cdn.com
 ```
 
-80 used cloudflare (4.273504273504273%):
+83 used cloudflare (4.431393486385478%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 app-sj16.marketo.com
@@ -310,6 +298,7 @@ cloudflare.com
 cloudflare.net
 creativecommons.org
 d2pj9rkatqbt38.cloudfront.net
+deepl.com
 deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
@@ -321,11 +310,13 @@ front.com
 geolocation.onetrust.com
 glyph.medium.com
 hls-uranus.sb-cd.com
+i.pinimg.com
 i1.rgstatic.net
 ibm.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 maxcdn.bootstrapcdn.com
+medium.com
 miro.medium.com
 myshopify.com
 optimizely-edge.salesforce.com
@@ -336,7 +327,6 @@ powerad.ai
 privacy-policy.truste.com
 productreviews.shopifycdn.com
 qsc.cf2.quoracdn.net
-quora.com
 researchgate.net
 roblox-api.arkoselabs.com
 roblox-api.arkoselabs.com.cdn.cloudflare.net
@@ -344,6 +334,7 @@ sciencedirect.com
 script.crazyegg.com
 script.crazyegg.com.cdn.cloudflare.net
 sdfestaticassets-us-east-1.sciencedirectassets.com
+shopify.com
 sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
@@ -369,7 +360,7 @@ zendesk.com
 zoom.us
 ```
 
-156 used cloudfront (8.333333333333332%):
+157 used cloudfront (8.382274426054458%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -475,6 +466,7 @@ kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 lp.datadoghq.com
+m.media-amazon.com
 m.soundcloud.com
 media.gnl-live.bbcverticals.com
 mediacache.homeimprovementpages.com.au
@@ -534,13 +526,13 @@ ychef.files.bbci.co.uk
 
 ```
 
-2 used edgecast (0.10683760683760685%):
+2 used edgecast (0.10678056593699946%):
 ```
 abs.twimg.com
 cs510.wpc.edgecastcdn.net
 ```
 
-104 used fastly (5.555555555555555%):
+115 used fastly (6.139882541377469%):
 ```
 a.thumbs.redditmedia.com
 api.nextgen.guardianapps.co.uk
@@ -583,6 +575,7 @@ i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 in.pinterest.com
 int.nyt.com
@@ -591,11 +584,11 @@ it.pinterest.com
 j.ophan.co.uk
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
-m.media-amazon.com
 m.sni.global.fastly.net
 media.amazon.map.fastly.net
 mosaic.scdn.co
 n.sni.global.fastly.net
+nl.pinterest.com
 no.pinterest.com
 nytimes.map.fastly.net
 object-storage.shipt.com
@@ -604,14 +597,17 @@ open.spotifycdn.com
 outbrain.map.fastly.net
 p19-sign.tiktokcdn-us.com
 pages.github.com
+pl.pinterest.com
 pl.scdn.co
 preview.redd.it
 prod.pinterest.global.map.fastly.net
 publisher.liveperson.net
 ro.pinterest.com
 rss.nytimes.com
+ru.pinterest.com
 s.imgur.com
 scdnco.spotify.map.fastly.net
+sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -635,17 +631,24 @@ www.etsy.com
 www.fastly-insights.com
 www.forbes.com
 www.nytimes.com
+www.pinterest.cl
+www.pinterest.co.kr
+www.pinterest.co.uk
 www.pinterest.com
+www.pinterest.com.au
 www.pinterest.de
 www.pinterest.dk
 www.pinterest.es
+www.pinterest.fr
 www.pinterest.jp
 www.pinterest.nz
-www.reddit.com
+www.pinterest.pt
+www.pinterest.se
 www.redditstatic.com
 www.shipt.com
 www.theguardian.com
 www.wix.com
+za.pinterest.com
 ```
 
 0 used sucuri (0.0%):
