@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-45 used cloudflare (18.367346938775512%):
+44 used cloudflare (17.959183673469386%):
 ```
 ahscdn.com
 chilp.it
@@ -56,7 +56,6 @@ shrekis.life
 smarturl.it
 stopify.co
 tinyurl.com
-track.canva.com
 upo.im
 uprot.net
 url1.io
@@ -70,8 +69,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.489795918367347%):
+12 used cloudfront (4.8979591836734695%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
