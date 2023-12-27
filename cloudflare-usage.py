@@ -58,7 +58,11 @@ already_checked = {
 	"cloudflare.com": "cloudflare",
 	"cloudflare-dns.com": "cloudflare",
 	"cloudflare.net": "cloudflare",
-	"cloudflareinsights.com": "cloudflare"
+	"cloudflareinsights.com": "cloudflare",
+	"amazonaws.com": "cloudfront",
+	"amazontrust.com": "cloudfront",
+	"amazonvideo.com": "cloudfront",
+	"amzn.to": "cloudfront"
 }
 known_cnames = {}
 
@@ -130,6 +134,20 @@ def hascloudflare(url):
 		domain = urllib.parse.urlparse(url).netloc
 		if domain in already_checked:
 			return already_checked[domain]
+
+		if domain.endswith(".fastly.net"):
+			return "fastly"
+		if domain.endswith(".edgecastcdn.net"):
+			return "edgecast"
+		if domain.endswith(".akamaiedge.net") or domain.endswith(".akamai.net") or domain.endswith(".akamaitech.net"):
+			return "akamai"
+		if domain.endswith(".pacloudflare.com") or domain.endswith(".cloudflare.com") or domain.endswith(".cloudflare.net"):
+			return "cloudflare"
+		if domain.endswith(".b-cdn.net"):
+			return "bunnycdn"
+		if domain.endswith(".cachefly.net"):
+			return "cachefly"
+		
 		ips = get_ip(domain)
 		if len(ips) == 0:
 			return None # don't do anything with domains which don't resolve
