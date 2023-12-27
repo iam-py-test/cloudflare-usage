@@ -1,4 +1,4 @@
-285 domains tested. 85.26315789473684% were behind nothing (42 were behind something). 12 domains could not be tested.<br>
+250 domains tested. 83.2% were behind nothing (42 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,36 +19,30 @@
 
 ```
 
-28 used cloudflare (9.824561403508772%):
+22 used cloudflare (8.799999999999999%):
 ```
 1QWQEWREWQWEQWRQE.SBS
-DCFSDFDS2FDHFGJ.SBS
 angoraveteriner.com
 api.baimless.com
 artemis.community
-chashni.co
-chingman.net
 cipro.mx
 crackload.net
-demo.devswire.com
-dienmay01.maudemo.com
+dcfsdfds2fdhfgj.sbs
 downloayxkemam.sbs
-et3.ektpnc.com
-frezzyhook.com
 gomlgaming.dev
+hostigram.xyz
 leeziptv.com
 pan.tenire.com
 paste-bin.xyz
 rodhigital.com
-rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
 tempfiles.ninja
+vollfisioterapia.com.br
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
 zang1.almashreaq.top
-zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -71,9 +65,10 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.7017543859649122%):
+3 used sucuri (1.2%):
 ```
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 
