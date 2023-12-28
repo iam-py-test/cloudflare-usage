@@ -1,5 +1,5 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 430 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 441 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,6 +16,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -38,11 +39,9 @@ b-cdn.net
 
 ```
 
-79 used cloudflare (7.9%):
+68 used cloudflare (6.800000000000001%):
 ```
-allaboutcookies.org
 ancestry.com
-bitdefender.com
 bluehost.com
 braze.com
 btloader.com
@@ -53,27 +52,23 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+cookiedatabase.org
+discogs.com
 discord.com
 discord.gg
-discordapp.com
-entrust.net
-epicgames.com
+dotomi.com
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-indeed.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
-mediafire.com
 medium.com
 mgid.com
 mmcdn.com
@@ -81,7 +76,6 @@ myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
-onetrust.com
 optimizely.com
 oup.com
 ozon.ru
@@ -93,16 +87,15 @@ princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
-quora.com
 researchgate.net
 roku.com
-sciencedirect.com
-sectigo.com
 shein.com
+simpli.fi
 sitescout.com
-skroutz.gr
 sourceforge.net
+teamviewer.com
 tinyurl.com
+trustarc.com
 truste.com
 udemy.com
 unpkg.com
@@ -110,10 +103,7 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
-w3.org
 wayfair.com
-webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -121,7 +111,7 @@ zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+84 used cloudfront (8.4%):
 ```
 3lift.com
 a-mo.net
@@ -171,7 +161,6 @@ marketwatch.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -210,8 +199,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
