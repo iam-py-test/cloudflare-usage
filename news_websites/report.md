@@ -1,5 +1,5 @@
-172 domains tested. 59.30232558139535% were behind nothing (70 were behind something). 17 domains could not be tested.<br>
-2 used akamai (1.1627906976744187%):
+173 domains tested. 58.95953757225434% were behind nothing (71 were behind something). 18 domains could not be tested.<br>
+2 used akamai (1.1560693641618496%):
 ```
 dailymail.co.uk
 news.sky.com
@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-23 used cloudflare (13.372093023255813%):
+23 used cloudflare (13.294797687861271%):
 ```
 alarabiya.net
 altnews.in
@@ -47,7 +47,7 @@ thewire.in
 washingtontimes.com
 ```
 
-28 used cloudfront (16.27906976744186%):
+28 used cloudfront (16.184971098265898%):
 ```
 abcnews.go.com
 andhrajyothy.com
