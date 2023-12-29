@@ -1,4 +1,4 @@
-285 domains tested. 87.71929824561403% were behind nothing (35 were behind something). 10 domains could not be tested.<br>
+254 domains tested. 86.22047244094489% were behind nothing (35 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-23 used cloudflare (8.070175438596491%):
+25 used cloudflare (9.84251968503937%):
 ```
 1QWQEWREWQWEQWRQE.SBS
 DCFSDFDS2FDHFGJ.SBS
@@ -37,10 +37,12 @@ frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
 leeziptv.com
+pan.tenire.com
 paste-bin.xyz
 rodhigital.com
+rusticironstore.com
 spacetrack.co.tz
-spices.com.sg
+wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
 zaofisa.net
@@ -66,8 +68,9 @@ zaofisa.net
 
 ```
 
-2 used sucuri (0.7017543859649122%):
+3 used sucuri (1.1811023622047243%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
