@@ -1,4 +1,4 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 433 domains could not be tested.<br>
+1000 domains tested. 38.3% were behind nothing (617 were behind something). 420 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -16,10 +16,10 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
-macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
+service-now.com
 staples.com
 wbx2.com
 ```
@@ -39,9 +39,8 @@ b-cdn.net
 
 ```
 
-73 used cloudflare (7.3%):
+81 used cloudflare (8.1%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -57,27 +56,35 @@ deepl.com
 discord.com
 discord.gg
 dotomi.com
+entrust.net
 epicgames.com
 fiverr.com
 genius.com
+glance.net
+globalsign.com
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
+ietf.org
+immunet.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
 life360.com
 mathtag.com
+mediafire.com
 medium.com
 mgid.com
+mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
+onetrust.com
 optimizely.com
 ozon.ru
 patreon.com
@@ -88,18 +95,19 @@ princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
-quora.com
 researchgate.net
 roku.com
-sciencedirect.com
-sectigo.com
 shein.com
 simpli.fi
 sitescout.com
 skroutz.gr
 sourceforge.net
 springserve.com
+statcounter.com
+takeaway.com
+themeforest.net
 tinyurl.com
+trustarc.com
 truste.com
 udemy.com
 unpkg.com
@@ -107,8 +115,8 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
 wayfair.com
+webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -116,13 +124,14 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 airslate.com
 allianz.de
+amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -142,6 +151,7 @@ coinmarketcap.com
 connatix.com
 datadoghq.com
 deviantart.com
+doi.org
 dreamhost.com
 elasticbeanstalk.com
 elpais.com
@@ -196,7 +206,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
