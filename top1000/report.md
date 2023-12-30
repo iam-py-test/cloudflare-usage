@@ -1,5 +1,5 @@
-1000 domains tested. 38.3% were behind nothing (617 were behind something). 420 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.7% were behind nothing (623 were behind something). 431 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,6 +16,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -39,10 +40,13 @@ b-cdn.net
 
 ```
 
-81 used cloudflare (8.1%):
+76 used cloudflare (7.6%):
 ```
+33across.com
+allaboutcookies.org
 ancestry.com
 bluehost.com
+branch.io
 braze.com
 btloader.com
 casalemedia.com
@@ -53,15 +57,13 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 deepl.com
+discogs.com
 discord.com
 discord.gg
 dotomi.com
-entrust.net
 epicgames.com
 fiverr.com
 genius.com
-glance.net
-globalsign.com
 gravitational.io
 heylink.me
 hostgator.com
@@ -69,17 +71,15 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-ietf.org
 immunet.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
 mathtag.com
-mediafire.com
 medium.com
 mgid.com
-mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
@@ -87,14 +87,11 @@ onesignal.com
 onetrust.com
 optimizely.com
 ozon.ru
-patreon.com
-pexels.com
 pixabay.com
 pixiv.net
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
 shein.com
@@ -102,12 +99,11 @@ simpli.fi
 sitescout.com
 skroutz.gr
 sourceforge.net
-springserve.com
-statcounter.com
 takeaway.com
+tandfonline.com
+teamviewer.com
 themeforest.net
 tinyurl.com
-trustarc.com
 truste.com
 udemy.com
 unpkg.com
@@ -115,8 +111,8 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
 wayfair.com
-webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -124,14 +120,13 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 airslate.com
 allianz.de
-amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -151,7 +146,6 @@ coinmarketcap.com
 connatix.com
 datadoghq.com
 deviantart.com
-doi.org
 dreamhost.com
 elasticbeanstalk.com
 elpais.com
@@ -206,6 +200,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com

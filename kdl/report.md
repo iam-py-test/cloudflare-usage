@@ -1,5 +1,5 @@
-1889 domains tested. 52.620434092112234% were behind nothing (895 were behind something). 219 domains could not be tested.<br>
-288 used akamai (15.24616199047115%):
+1889 domains tested. 51.085230280571736% were behind nothing (924 were behind something). 250 domains could not be tested.<br>
+289 used akamai (15.299100052938064%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -64,8 +64,8 @@ connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-css.rbxcdn.com
 ct.pinterest.com
+cz.pinterest.com
 d3.sina.com.cn
 dds.dell.com
 digitalasset.intuit.com
@@ -151,8 +151,8 @@ hu.pinterest.com
 i.dell.com
 i.ebayimg.com
 i.etsystatic.com
+i.pinimg.com
 i.scdn.co
-i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 id.pinterest.com
@@ -163,11 +163,11 @@ img-s-msn-com.akamaized.net
 in.pinterest.com
 inews.gtimg.com
 it.pinterest.com
-js.rbxcdn.com
 js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
+m.media-amazon.com
 munchkin.marketo.net
 mx.ebay.com
 mybbc-analytics.files.bbci.co.uk
@@ -196,9 +196,10 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
-res.cdn.office.net
+ro.pinterest.com
 ru.pinterest.com
 s.go-mpulse.net
+s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -206,6 +207,7 @@ secureir.ebaystatic.com
 service.maxymiser.net
 sf16-website-login.neutral.ttwstatic.com
 shell.cdn.office.net
+sk.pinterest.com
 ssl.pstatic.net
 staples.com
 static-global-s-msn-com.akamaized.net
@@ -214,14 +216,12 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
-static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
 staticview.msn.com
 stc.iqiyipic.com
 sv.ebay.com
 th.bing.com
-tr.pinterest.com
 uhf.microsoft.com
 use.typekit.net
 uy.ebay.com
@@ -234,6 +234,7 @@ www.apple.com
 www.apple.com.cn
 www.befr.ebay.be
 www.benl.ebay.be
+www.bing.com
 www.cafr.ebay.ca
 www.cisco.com
 www.dell.com
@@ -296,13 +297,16 @@ za.pinterest.com
 
 ```
 
-5 used cachefly (0.2646903123345686%):
+8 used cachefly (0.42350449973530974%):
 ```
+css.rbxcdn.com
 images.rbxcdn.com
+js.rbxcdn.com
 roblox-css.cachefly.net
 roblox-images.cachefly.net
 roblox-js.cachefly.net
 roblox-static.cachefly.net
+static.rbxcdn.com
 ```
 
 7 used cdn77 (0.37056643726839594%):
@@ -400,7 +404,7 @@ zendesk.com
 zoom.us
 ```
 
-157 used cloudfront (8.311275807305453%):
+154 used cloudfront (8.152461619904711%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -410,7 +414,6 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.com
 amazonaws.com
 amazontrust.com
 api-v2.soundcloud.com
@@ -494,8 +497,6 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -581,7 +582,7 @@ tesseract.imds-cdn.com
 vam-image.imds-cdn.com
 ```
 
-128 used fastly (6.776071995764956%):
+125 used fastly (6.617257808364214%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -600,7 +601,6 @@ cdn.speedcurve.com
 cdn.taboola.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
-cz.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
@@ -628,10 +628,11 @@ guardian.map.fastly.net
 hits-secure.theguardian.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 int.nyt.com
 interactive.guim.co.uk
@@ -639,7 +640,6 @@ ir.ebaystatic.com
 j.ophan.co.uk
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
-m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -666,13 +666,10 @@ reddit.map.fastly.net
 registry.api.cnn.io
 resources.digital-cloud-west.medallia.com
 resources.digital-cloud.medallia.eu
-ro.pinterest.com
 rss.nytimes.com
 s.imgur.com
-s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
-sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -686,6 +683,7 @@ support.theguardian.com
 t.paypal.com
 tls13.taboola.map.fastly.net
 tls130rtt.spotifycdn.map.fastly.net
+tr.pinterest.com
 twimg.twitter.map.fastly.net
 ui.trailhead.com
 uploads.guim.co.uk
