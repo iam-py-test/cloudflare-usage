@@ -1,5 +1,5 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 431 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 37.7% were behind nothing (623 were behind something). 438 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 airbnb.com
 arubanetworks.com
@@ -20,7 +20,6 @@ macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
-service-now.com
 staples.com
 wbx2.com
 ```
@@ -40,13 +39,12 @@ b-cdn.net
 
 ```
 
-76 used cloudflare (7.6%):
+70 used cloudflare (7.000000000000001%):
 ```
 33across.com
 allaboutcookies.org
 ancestry.com
 bluehost.com
-branch.io
 braze.com
 btloader.com
 casalemedia.com
@@ -56,53 +54,49 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
 discord.com
 discord.gg
-dotomi.com
 epicgames.com
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-immunet.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
 life360.com
-mathtag.com
-medium.com
-mgid.com
+mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
-onetrust.com
 optimizely.com
 ozon.ru
+patreon.com
+pexels.com
 pixabay.com
 pixiv.net
 princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
+sciencedirect.com
+sectigo.com
 shein.com
+shopify.com
 simpli.fi
 sitescout.com
-skroutz.gr
 sourceforge.net
-takeaway.com
-tandfonline.com
+springserve.com
+statcounter.com
 teamviewer.com
-themeforest.net
 tinyurl.com
 truste.com
 udemy.com
@@ -112,9 +106,8 @@ upwork.com
 verkada.com
 vimeo.com
 vungle.com
+w3.org
 wayfair.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
@@ -133,6 +126,7 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
+atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -200,7 +194,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
