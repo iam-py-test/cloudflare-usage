@@ -1,4 +1,4 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 438 domains could not be tested.<br>
+1000 domains tested. 38.0% were behind nothing (620 were behind something). 444 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -39,10 +39,8 @@ b-cdn.net
 
 ```
 
-70 used cloudflare (7.000000000000001%):
+62 used cloudflare (6.2%):
 ```
-33across.com
-allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -56,7 +54,7 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
-epicgames.com
+dotomi.com
 fiverr.com
 genius.com
 heylink.me
@@ -66,19 +64,19 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
 life360.com
+mathtag.com
+mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
+onetrust.com
 optimizely.com
 ozon.ru
-patreon.com
-pexels.com
 pixabay.com
 pixiv.net
 princeton.edu
@@ -90,13 +88,9 @@ roku.com
 sciencedirect.com
 sectigo.com
 shein.com
-shopify.com
-simpli.fi
 sitescout.com
+skroutz.gr
 sourceforge.net
-springserve.com
-statcounter.com
-teamviewer.com
 tinyurl.com
 truste.com
 udemy.com
@@ -105,8 +99,6 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
-w3.org
 wayfair.com
 xhamster.com
 zendesk.com
@@ -126,7 +118,6 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
-atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -194,6 +185,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -203,9 +195,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
