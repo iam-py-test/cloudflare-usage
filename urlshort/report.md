@@ -1,4 +1,4 @@
-247 domains tested. 28.74493927125506% were behind nothing (176 were behind something). 116 domains could not be tested.<br>
+247 domains tested. 28.34008097165992% were behind nothing (177 were behind something). 116 domains could not be tested.<br>
 3 used akamai (1.214574898785425%):
 ```
 eepurl.com
@@ -51,6 +51,7 @@ rotf.lol
 s.id
 screenshare.pics
 screenshot.best
+sh.st
 shorten.ee
 shrekis.life
 smarturl.it
@@ -58,7 +59,6 @@ stopify.co
 tinyurl.com
 track.canva.com
 uprot.net
-url1.io
 urlday.cc
 urlshortx.com
 usheethe.com
@@ -100,8 +100,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4048582995951417%):
+2 used sucuri (0.8097165991902834%):
 ```
+promo-visits.site
 wee.so
 ```
 
