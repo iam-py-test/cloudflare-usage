@@ -1,4 +1,4 @@
-1890 domains tested. 52.38095238095239% were behind nothing (900 were behind something). 231 domains could not be tested.<br>
+1890 domains tested. 52.116402116402114% were behind nothing (905 were behind something). 231 domains could not be tested.<br>
 256 used akamai (13.544973544973546%):
 ```
 1.www.s81c.com
@@ -141,18 +141,17 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.pinimg.com
+i.etsystatic.com
 i.scdn.co
+i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
-ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -181,6 +180,7 @@ py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
+res.cdn.office.net
 s.go-mpulse.net
 s.pinimg.com
 s20.tiktokcdn.com
@@ -287,7 +287,7 @@ static-cdn77.xnxx-cdn.com
 static-cdn77.xvideos-cdn.com
 ```
 
-77 used cloudflare (4.074074074074074%):
+80 used cloudflare (4.232804232804233%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 4650993.fs1.hubspotusercontent-na1.net
@@ -312,6 +312,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 d2pj9rkatqbt38.cloudfront.net
+deepl.com
 deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
@@ -329,6 +330,7 @@ ibm.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 maxcdn.bootstrapcdn.com
+medium.com
 miro.medium.com
 myshopify.com
 optimizely-edge.salesforce.com
@@ -358,6 +360,7 @@ us01st-cf.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
 vimeo.com
+who.int
 www.artfut.com
 www.cloudflare.com
 www.researchgate.net
@@ -532,7 +535,7 @@ ychef.files.bbci.co.uk
 
 ```
 
-12 used edgecast (0.6349206349206349%):
+11 used edgecast (0.582010582010582%):
 ```
 abs.twimg.com
 cs189.wpc.edgecastcdn.net
@@ -545,10 +548,9 @@ pbs.twimg.com
 portal-static.imds-cdn.com
 tesseract.imds-cdn.com
 vam-image.imds-cdn.com
-video.twimg.com
 ```
 
-154 used fastly (8.148148148148149%):
+157 used fastly (8.306878306878307%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -601,17 +603,19 @@ guardian.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 i.ebayimg.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
+i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 jsdelivr.map.fastly.net
@@ -670,6 +674,7 @@ ui.trailhead.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
+video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
