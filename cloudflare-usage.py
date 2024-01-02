@@ -147,6 +147,8 @@ def hascloudflare(url):
 			return "bunnycdn"
 		if domain.endswith(".cachefly.net"):
 			return "cachefly"
+		if domain.endswith(".cloudfront.net"):
+			return "cloudfront"
 		
 		ips = get_ip(domain)
 		if len(ips) == 0:
@@ -181,6 +183,9 @@ def hascloudflare(url):
 			if cname.endswith(".cachefly.net"):
 				already_checked[cname] = "cachefly"
 				return "cachefly"
+			if cname.endswith(".cloudfront.net"):
+				already_checked[cname] = "cloudfront"
+				return "cloudfront"
 
 		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
 		debugmsg("Request done!",r.headers)
