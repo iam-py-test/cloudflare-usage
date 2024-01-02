@@ -23,6 +23,7 @@ c.media-amazon.com
 cdn.adsafeprotected.com
 cdn.branch.io
 cdn.builder.io
+cdn.rollbar.com
 cdn.segment.io
 cdn.transcend.io
 cdnssl.clicktale.net
@@ -38,6 +39,7 @@ d10965qij0vo0t.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
+d1ftdm4q83us3q.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
@@ -49,6 +51,7 @@ d2c.aws.amazon.com
 d2daxcapcwhof6.cloudfront.net
 d2dz0a2zorjbnc.cloudfront.net
 d2es9cpp0lrwos.cloudfront.net
+d2pj9rkatqbt38.cloudfront.net
 d2x6me9oc9z55z.cloudfront.net
 d30r7cggsjvuek.cloudfront.net
 d36lkcxq7qra7v.cloudfront.net
@@ -89,9 +92,12 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.scanalert.com
 img-deviantart.wixmp.com
 img.hipages.com.au
 intuit.com
@@ -109,6 +115,7 @@ milanuncios.com
 mozilla.com
 mozilla.org
 passport.twitch.tv
+privacy-policy.truste.com
 prod.pa.cdn.uis.awsstatic.com
 public.tableau.com
 s0.awsstatic.com
@@ -129,6 +136,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
+static.parastorage.com
 static.snapchat.com
 static.twitchcdn.net
 static.yieldmo.com

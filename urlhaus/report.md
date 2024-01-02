@@ -1,4 +1,4 @@
-280 domains tested. 86.42857142857143% were behind nothing (38 were behind something). 8 domains could not be tested.<br>
+281 domains tested. 86.83274021352312% were behind nothing (37 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,12 @@
 
 ```
 
-27 used cloudflare (9.642857142857144%):
+24 used cloudflare (8.540925266903916%):
 ```
 1QWQEWREWQWEQWRQE.SBS
 DCFSDFDS2FDHFGJ.SBS
 angoraveteriner.com
 api.baimless.com
-artemis.community
 chashni.co
 cipro.mx
 crackload.net
@@ -43,11 +42,9 @@ rodhigital.com
 rusticironstore.com
 spacetrack.co.tz
 spices.com.sg
-vollfisioterapia.com.br
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
-zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -65,12 +62,12 @@ zaofisa.net
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.3558718861209964%):
+```
+paingta.xyz
 ```
 
-```
-
-3 used sucuri (1.0714285714285714%):
+3 used sucuri (1.0676156583629894%):
 ```
 www.asterglobal.com
 www.bearware.org
