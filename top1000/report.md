@@ -1,4 +1,4 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 428 domains could not be tested.<br>
+1000 domains tested. 38.7% were behind nothing (613 were behind something). 417 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 airbnb.com
@@ -14,9 +14,9 @@ fedex.com
 force.com
 godaddy.com
 hp.com
-ifood.com.br
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -39,7 +39,7 @@ b-cdn.net
 
 ```
 
-80 used cloudflare (8.0%):
+82 used cloudflare (8.200000000000001%):
 ```
 ancestry.com
 bluehost.com
@@ -57,10 +57,8 @@ discogs.com
 discord.com
 discord.gg
 dotomi.com
-entrust.net
 epicgames.com
 fiverr.com
-forter.com
 genius.com
 gravitational.io
 heylink.me
@@ -70,15 +68,14 @@ hubspot.com
 hugedomains.com
 ibm.com
 ietf.org
-immunet.com
-indeed.com
 indexww.com
 jquery.com
 kickstarter.com
 life360.com
+markmonitor.com
 mathtag.com
+mediafire.com
 medium.com
-mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
@@ -88,13 +85,14 @@ onetrust.com
 optimizely.com
 ozon.ru
 patreon.com
-pexels.com
 pixabay.com
 pixiv.net
+plex.tv
 princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
+quora.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -102,9 +100,12 @@ sectigo.com
 shein.com
 simpli.fi
 sitescout.com
-skroutz.gr
 sourceforge.net
+stackoverflow.com
+takeaway.com
+tandfonline.com
 teamviewer.com
+themeforest.net
 tinyurl.com
 trustarc.com
 truste.com
@@ -114,8 +115,9 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-watchguard.com
+vungle.com
 wayfair.com
+webmd.com
 who.int
 wiley.com
 xhamster.com
@@ -123,13 +125,14 @@ zendesk.com
 zoom.us
 ```
 
-84 used cloudfront (8.4%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 airslate.com
 allianz.de
+amazon.com.au
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -143,6 +146,7 @@ brave.com
 chartbeat.net
 chartboost.com
 checkpoint.com
+churnzero.net
 clever.com
 coinmarketcap.com
 connatix.com
@@ -211,9 +215,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```

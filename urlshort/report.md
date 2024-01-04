@@ -23,9 +23,9 @@ go.microsoft.com
 
 45 used cloudflare (18.218623481781375%):
 ```
+adfoc.us
 ahscdn.com
 chilp.it
-cutt.ly
 echoz.com
 foot.wiki
 fortnight.space
