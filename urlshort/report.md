@@ -1,4 +1,4 @@
-247 domains tested. 28.34008097165992% were behind nothing (177 were behind something). 117 domains could not be tested.<br>
+247 domains tested. 25.910931174089068% were behind nothing (183 were behind something). 118 domains could not be tested.<br>
 3 used akamai (1.214574898785425%):
 ```
 eepurl.com
@@ -21,8 +21,14 @@ go.microsoft.com
 
 ```
 
-44 used cloudflare (17.813765182186234%):
+49 used cloudflare (19.838056680161944%):
 ```
+1sta.com
+2fortune.com
+2freedom.com
+2no.co
+2truth.com
+2tunes.com
 ahscdn.com
 chilp.it
 echoz.com
@@ -56,7 +62,6 @@ shrekis.life
 smarturl.it
 stopify.co
 tinyurl.com
-track.canva.com
 uprot.net
 url1.io
 urlday.cc
