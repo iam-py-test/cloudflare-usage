@@ -1,5 +1,5 @@
-1000 domains tested. 38.3% were behind nothing (617 were behind something). 450 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.5% were behind nothing (625 were behind something). 459 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -19,7 +19,9 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
+service-now.com
 staples.com
 wbx2.com
 ```
@@ -39,7 +41,7 @@ b-cdn.net
 
 ```
 
-55 used cloudflare (5.5%):
+51 used cloudflare (5.1%):
 ```
 33across.com
 addtoany.com
@@ -47,6 +49,7 @@ ancestry.com
 bluehost.com
 braze.com
 btloader.com
+bugsnag.com
 casalemedia.com
 change.org
 chaturbate.com
@@ -58,30 +61,27 @@ discord.com
 discord.gg
 fiverr.com
 genius.com
-heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ibm.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
 myshopify.com
+onetrust.com
+optimizely.com
 ozon.ru
 pixabay.com
-princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
 shein.com
 sitescout.com
 sourceforge.net
+themeforest.net
 tinyurl.com
 truste.com
 udemy.com
@@ -91,20 +91,18 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-84 used cloudfront (8.4%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
-amazon.ca
+amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -177,6 +175,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
