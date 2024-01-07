@@ -1,4 +1,4 @@
-1000 domains tested. 38.0% were behind nothing (620 were behind something). 445 domains could not be tested.<br>
+1000 domains tested. 38.3% were behind nothing (617 were behind something). 445 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
@@ -40,12 +40,14 @@ b-cdn.net
 
 ```
 
-61 used cloudflare (6.1%):
+57 used cloudflare (5.7%):
 ```
 ancestry.com
 bluehost.com
+branch.io
 braze.com
 btloader.com
+bugsnag.com
 casalemedia.com
 change.org
 chaturbate.com
@@ -53,15 +55,10 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
 discord.com
 discord.gg
-dotomi.com
-epicgames.com
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -69,19 +66,17 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
-life360.com
-mathtag.com
 myshopify.com
-networkadvertising.org
-okta.com
-optimizely.com
+onetrust.com
 ozon.ru
+pexels.com
 pixabay.com
+pixiv.net
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -89,7 +84,6 @@ sectigo.com
 shein.com
 sitescout.com
 sourceforge.net
-stackoverflow.com
 tinyurl.com
 truste.com
 udemy.com
@@ -98,19 +92,23 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
 wayfair.com
 who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
+amazon.ca
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -154,7 +152,6 @@ marketwatch.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
