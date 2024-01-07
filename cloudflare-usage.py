@@ -229,7 +229,9 @@ def hascloudflare(url):
 			return "cachefly"
 		if "lswcdn_country_code" in r.headers:
 			return "leaseweb"
-		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers:
+		if "X-Sucuri-ID" in r.headers or "X-Sucuri-Cache" in r.headers or "x-sucuri-block" in r.headers:
+			if "x-sucuri-block" in r.headers:
+				print(dict(r.headers))
 			return "sucuri"
 		if "X-Cache" in r.headers:
 			if r.headers["X-Cache"].endswith(" from cloudfront"):
