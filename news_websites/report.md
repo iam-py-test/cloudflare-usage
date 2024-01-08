@@ -1,4 +1,4 @@
-179 domains tested. 59.77653631284916% were behind nothing (72 were behind something). 15 domains could not be tested.<br>
+179 domains tested. 57.54189944134078% were behind nothing (76 were behind something). 19 domains could not be tested.<br>
 2 used akamai (1.1173184357541899%):
 ```
 dailymail.co.uk
@@ -59,6 +59,7 @@ csmonitor.com
 elpais.com
 elpais.es
 espn.com
+fivethirtyeight.com
 fortune.com
 hbr.org
 infobae.com
@@ -78,7 +79,6 @@ sueddeutsche.de
 suntimes.com
 theglobeandmail.com
 theoutline.com
-thetimes.co.uk
 time.com
 wsj.com
 ```
