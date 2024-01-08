@@ -1,4 +1,4 @@
-1000 domains tested. 38.2% were behind nothing (618 were behind something). 451 domains could not be tested.<br>
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 459 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
@@ -40,9 +40,9 @@ b-cdn.net
 
 ```
 
-50 used cloudflare (5.0%):
+49 used cloudflare (4.9%):
 ```
-33across.com
+addtoany.com
 ancestry.com
 bluehost.com
 braze.com
@@ -54,8 +54,10 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+discogs.com
 discord.com
 discord.gg
+dotomi.com
 fiverr.com
 genius.com
 heylink.me
@@ -70,16 +72,13 @@ kickstarter.com
 myshopify.com
 ozon.ru
 pixabay.com
-princeton.edu
 prnewswire.com
 quantummetric.com
 researchgate.net
 roku.com
-sciencedirect.com
 shein.com
 sitescout.com
 sourceforge.net
-tandfonline.com
 tinyurl.com
 truste.com
 udemy.com
@@ -94,16 +93,13 @@ zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
-amazon.ca
-amazon.co.uk
-amazon.com
-amazon.com.au
+amazon.co.jp
 amazon.es
 amazonaws.com
 amazontrust.com
