@@ -1,5 +1,5 @@
-1000 domains tested. 38.0% were behind nothing (620 were behind something). 457 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 37.7% were behind nothing (623 were behind something). 459 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,6 +16,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -39,7 +40,7 @@ b-cdn.net
 
 ```
 
-49 used cloudflare (4.9%):
+51 used cloudflare (5.1%):
 ```
 33across.com
 ancestry.com
@@ -67,7 +68,8 @@ indexww.com
 jquery.com
 kickstarter.com
 myshopify.com
-okta.com
+networkadvertising.org
+onetrust.com
 ozon.ru
 pixabay.com
 princeton.edu
@@ -87,19 +89,18 @@ upwork.com
 verkada.com
 vimeo.com
 wayfair.com
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+84 used cloudfront (8.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
-amazon.co.uk
-amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
