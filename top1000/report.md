@@ -1,5 +1,5 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 459 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 22.900000000000002% were behind nothing (771 were behind something). 662 domains could not be tested.<br>
+16 used akamai (1.6%):
 ```
 airbnb.com
 arubanetworks.com
@@ -12,17 +12,11 @@ eepurl.com
 fda.gov
 fedex.com
 force.com
-godaddy.com
 hp.com
 intel.com
 lowes.com
 macys.com
-mysql.com
-news.com.au
 rakuten.co.jp
-service-now.com
-staples.com
-wbx2.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -40,9 +34,8 @@ b-cdn.net
 
 ```
 
-51 used cloudflare (5.1%):
+38 used cloudflare (3.8%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -65,37 +58,25 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
-myshopify.com
-networkadvertising.org
-onetrust.com
+life360.com
+markmonitor.com
+mdpi.com
+mediafire.com
+medium.com
+mgid.com
 ozon.ru
-pixabay.com
-princeton.edu
-prnewswire.com
-quantummetric.com
+pixiv.net
+quora.com
 researchgate.net
-roku.com
-shein.com
-sitescout.com
 sourceforge.net
-tinyurl.com
-truste.com
-udemy.com
-unpkg.com
-unrulymedia.com
-upwork.com
+takeaway.com
 verkada.com
-vimeo.com
-wayfair.com
-wiley.com
-xhamster.com
-zendesk.com
-zoom.us
 ```
 
-84 used cloudfront (8.4%):
+52 used cloudfront (5.2%):
 ```
 3lift.com
 a-mo.net
@@ -111,6 +92,7 @@ biblegateway.com
 binance.com
 booking.com
 brave.com
+chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -142,50 +124,16 @@ latimes.com
 lijit.com
 marketwatch.com
 merriam-webster.com
-mozilla.com
-mozilla.org
-nationalgeographic.com
-netgear.com
 noaa.gov
-onet.pl
-pbs.org
-primevideo.com
 rapid7.com
 repubblica.it
 reuters.com
-robinhood.com
-segment.io
-shalltry.com
-sharethis.com
-shutterstock.com
-soundcloud.com
-spot.im
-state.gov
-statuspage.io
-surveymonkey.com
-swrve.com
-synology.com
-time.com
-tp-link.com
-tradingview.com
-tremorhub.com
 trustpilot.com
-typeform.com
-ubnt.com
-ui.com
-un.org
 uol.com.br
-utorrent.com
-warnerbros.com
-wattpad.com
-worldbank.org
-wsj.com
-zillow.com
 ```
 
-2 used ddosguard (0.2%):
+1 used ddosguard (0.1%):
 ```
-netangels.ru
 pikabu.ru
 ```
 
@@ -194,11 +142,9 @@ pikabu.ru
 
 ```
 
-3 used fastly (0.3%):
+1 used fastly (0.1%):
 ```
 github.io
-speedtest.net
-www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -206,9 +152,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):

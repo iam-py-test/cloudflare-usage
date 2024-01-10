@@ -1,4 +1,4 @@
-247 domains tested. 27.93522267206478% were behind nothing (178 were behind something). 111 domains could not be tested.<br>
+247 domains tested. 27.93522267206478% were behind nothing (178 were behind something). 116 domains could not be tested.<br>
 3 used akamai (1.214574898785425%):
 ```
 eepurl.com
@@ -21,22 +21,15 @@ go.microsoft.com
 
 ```
 
-51 used cloudflare (20.647773279352226%):
+46 used cloudflare (18.62348178137652%):
 ```
 24ex.com
 2fortune.com
 2freedom.com
-2tunes.com
-2ya.com
-adfoc.us
+2hell.com
 ahscdn.com
-buff.ly
-ceesty.com
 chilp.it
-clk.asia
-cuty.io
 echoz.com
-ezstat.ru
 foot.wiki
 fortnight.space
 fortnitechat.site
@@ -66,7 +59,9 @@ shorten.ee
 shrekis.life
 smarturl.it
 stopify.co
-tinyurl.com
+uprot.net
+url1.io
+urlday.cc
 urlshortx.com
 usheethe.com
 v.gd
