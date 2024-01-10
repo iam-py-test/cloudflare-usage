@@ -1,4 +1,4 @@
-279 domains tested. 85.30465949820788% were behind nothing (41 were behind something). 12 domains could not be tested.<br>
+278 domains tested. 86.6906474820144% were behind nothing (37 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,24 @@
 
 ```
 
-25 used cloudflare (8.960573476702509%):
+23 used cloudflare (8.273381294964029%):
 ```
-angoraveteriner.com
+artemis.community
 chashni.co
 chingman.net
 cipro.mx
 crackload.net
-demo.devswire.com
 dienmay01.maudemo.com
-downloayxkemam.sbs
 dw.c4kdeliver.top
 et3.ektpnc.com
 frezzyhook.com
-gomlgaming.dev
 hostigram.xyz
 leeziptv.com
 mnoger.cf
-pan.tenire.com
+paste-bin.xyz
 prime.topendpower.top
 rusticironstore.com
+spacetrack.co.tz
 spices.com.sg
 trafuniq.space
 walkinglate.com
@@ -63,12 +61,12 @@ zaofisa.net
 
 ```
 
-1 used fastly (0.35842293906810035%):
+1 used fastly (0.3597122302158274%):
 ```
 paingta.xyz
 ```
 
-3 used sucuri (1.0752688172043012%):
+3 used sucuri (1.079136690647482%):
 ```
 www.asterglobal.com
 www.bearware.org

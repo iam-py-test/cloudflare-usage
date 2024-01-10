@@ -1,9 +1,10 @@
-214 domains tested. 47.66355140186916% were behind nothing (112 were behind something). 40 domains could not be tested.<br>
-3 used akamai (1.4018691588785046%):
+214 domains tested. 48.598130841121495% were behind nothing (110 were behind something). 37 domains could not be tested.<br>
+4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.ebates.com
+www.microsoft.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
