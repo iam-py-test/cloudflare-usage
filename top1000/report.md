@@ -1,4 +1,4 @@
-1000 domains tested. 38.3% were behind nothing (617 were behind something). 434 domains could not be tested.<br>
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 446 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
@@ -40,7 +40,7 @@ b-cdn.net
 
 ```
 
-67 used cloudflare (6.7%):
+63 used cloudflare (6.3%):
 ```
 allaboutcookies.org
 ancestry.com
@@ -56,6 +56,8 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
+dotomi.com
+epicgames.com
 fiverr.com
 genius.com
 gravitational.io
@@ -65,37 +67,32 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-ietf.org
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
-life360.com
+mediafire.com
 mmcdn.com
 myshopify.com
-networkadvertising.org
-okta.com
 onesignal.com
-onetrust.com
 optimizely.com
 ozon.ru
 patreon.com
+pexels.com
 pixabay.com
 pixiv.net
-plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
 researchgate.net
 roku.com
-sciencedirect.com
-sectigo.com
 shein.com
 sitescout.com
+skroutz.gr
 sourceforge.net
 themeforest.net
 tinyurl.com
+trustarc.com
 truste.com
 udemy.com
 unpkg.com
@@ -103,15 +100,14 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-w3.org
+vungle.com
 wayfair.com
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -162,7 +158,6 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
