@@ -1,4 +1,4 @@
-1000 domains tested. 38.3% were behind nothing (617 were behind something). 442 domains could not be tested.<br>
+1000 domains tested. 38.3% were behind nothing (617 were behind something). 434 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
@@ -40,7 +40,7 @@ b-cdn.net
 
 ```
 
-57 used cloudflare (5.7%):
+67 used cloudflare (6.7%):
 ```
 allaboutcookies.org
 ancestry.com
@@ -54,37 +54,47 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
 discord.com
 discord.gg
-epicgames.com
 fiverr.com
 genius.com
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
+ietf.org
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
+life360.com
+mmcdn.com
 myshopify.com
+networkadvertising.org
+okta.com
 onesignal.com
+onetrust.com
 optimizely.com
 ozon.ru
-pexels.com
+patreon.com
 pixabay.com
 pixiv.net
+plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
+sciencedirect.com
+sectigo.com
 shein.com
 sitescout.com
 sourceforge.net
-spankbang.com
+themeforest.net
 tinyurl.com
 truste.com
 udemy.com
@@ -101,15 +111,12 @@ zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
-amazon.com.au
-amazon.com.br
-amazon.fr
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -124,6 +131,7 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
+churchcenter.com
 churnzero.net
 clever.com
 coinmarketcap.com
@@ -144,16 +152,17 @@ hbr.org
 healthline.com
 hipages.com.au
 hotjar.com
+ieee.org
 intercom.io
 intuit.com
 ipify.org
 istockphoto.com
 latimes.com
 lijit.com
-marketwatch.com
 merriam-webster.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -193,9 +202,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
