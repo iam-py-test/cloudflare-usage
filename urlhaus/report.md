@@ -1,4 +1,4 @@
-270 domains tested. 85.92592592592592% were behind nothing (38 were behind something). 9 domains could not be tested.<br>
+294 domains tested. 84.01360544217688% were behind nothing (47 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-25 used cloudflare (9.25925925925926%):
+30 used cloudflare (10.204081632653061%):
 ```
+angoraveteriner.com
 api.baimless.com
 chashni.co
 chingman.net
@@ -32,20 +33,24 @@ downloayxkemam.sbs
 dw.c4kdeliver.top
 ecoproducts.com.my
 et3.ektpnc.com
+frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
 ji.alie3ksgbb.com
 leeziptv.com
 mnoger.cf
+pan.tenire.com
+paste-bin.xyz
 prime.topendpower.top
 rodhigital.com
-rusticironstore.com
 spacetrack.co.tz
+spices.com.sg
 spydezgame.com
 walkinglate.com
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
+zaofisa.net
 ```
 
 0 used cloudfront (0.0%):
@@ -63,12 +68,12 @@ www.idpminic.org
 
 ```
 
-1 used fastly (0.3703703703703704%):
+1 used fastly (0.3401360544217687%):
 ```
 paingta.xyz
 ```
 
-3 used sucuri (1.1111111111111112%):
+3 used sucuri (1.0204081632653061%):
 ```
 www.asterglobal.com
 www.lasikofmichigan.com
