@@ -1,4 +1,4 @@
-294 domains tested. 84.01360544217688% were behind nothing (47 were behind something). 13 domains could not be tested.<br>
+266 domains tested. 86.46616541353383% were behind nothing (36 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,34 +19,29 @@
 
 ```
 
-30 used cloudflare (10.204081632653061%):
+25 used cloudflare (9.398496240601503%):
 ```
 angoraveteriner.com
-api.baimless.com
 chashni.co
 chingman.net
 cipro.mx
 crackload.net
 demo.devswire.com
 dienmay01.maudemo.com
-downloayxkemam.sbs
 dw.c4kdeliver.top
 ecoproducts.com.my
-et3.ektpnc.com
 frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
 ji.alie3ksgbb.com
 leeziptv.com
 mnoger.cf
-pan.tenire.com
-paste-bin.xyz
 prime.topendpower.top
 rodhigital.com
 spacetrack.co.tz
 spices.com.sg
 spydezgame.com
-walkinglate.com
+vollfisioterapia.com.br
 wordpress.ductai.xyz
 www.agies.org
 www.idpminic.org
@@ -68,14 +63,15 @@ zaofisa.net
 
 ```
 
-1 used fastly (0.3401360544217687%):
-```
-paingta.xyz
+0 used fastly (0.0%):
 ```
 
-3 used sucuri (1.0204081632653061%):
+```
+
+4 used sucuri (1.5037593984962405%):
 ```
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
 ```

@@ -1,5 +1,5 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 430 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 436 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,7 +16,6 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
-macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -41,8 +40,9 @@ b-cdn.net
 
 ```
 
-73 used cloudflare (7.3%):
+69 used cloudflare (6.9%):
 ```
+allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -54,10 +54,12 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+discogs.com
 discord.com
 discord.gg
 fiverr.com
 genius.com
+gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -67,21 +69,18 @@ ibm.com
 indexww.com
 jquery.com
 kickstarter.com
-klaviyo.com
 life360.com
-markmonitor.com
-mediafire.com
-medium.com
+mdpi.com
+mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
+okta.com
 onesignal.com
-onetrust.com
 onlyfans.com
 optimizely.com
-oup.com
 ozon.ru
-pexels.com
+patreon.com
 pixabay.com
 pixiv.net
 plex.tv
@@ -89,16 +88,16 @@ princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
+quora.com
 researchgate.net
 roku.com
-sciencedirect.com
-sectigo.com
 shein.com
 sitescout.com
+skroutz.gr
 sourceforge.net
+stackoverflow.com
 takeaway.com
 tandfonline.com
-teamviewer.com
 themeforest.net
 tinyurl.com
 truste.com
@@ -108,22 +107,19 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
 wayfair.com
-webmd.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 allianz.de
+amazon.com.au
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -209,9 +205,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
