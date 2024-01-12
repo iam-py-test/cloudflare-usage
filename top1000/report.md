@@ -1,5 +1,5 @@
-1000 domains tested. 37.6% were behind nothing (624 were behind something). 446 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 38.3% were behind nothing (617 were behind something). 439 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -14,6 +14,7 @@ fedex.com
 force.com
 godaddy.com
 hp.com
+ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -40,9 +41,9 @@ b-cdn.net
 
 ```
 
-63 used cloudflare (6.3%):
+62 used cloudflare (6.2%):
 ```
-allaboutcookies.org
+33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -56,11 +57,8 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
-dotomi.com
-epicgames.com
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -68,15 +66,18 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 mediafire.com
 mmcdn.com
 myshopify.com
+networkadvertising.org
+okta.com
 onesignal.com
+onetrust.com
 optimizely.com
 ozon.ru
-patreon.com
 pexels.com
 pixabay.com
 pixiv.net
@@ -90,7 +91,6 @@ shein.com
 sitescout.com
 skroutz.gr
 sourceforge.net
-themeforest.net
 tinyurl.com
 trustarc.com
 truste.com
@@ -158,6 +158,7 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -187,7 +188,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com

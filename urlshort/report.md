@@ -1,4 +1,4 @@
-247 domains tested. 28.34008097165992% were behind nothing (177 were behind something). 117 domains could not be tested.<br>
+247 domains tested. 24.696356275303643% were behind nothing (186 were behind something). 125 domains could not be tested.<br>
 3 used akamai (1.214574898785425%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-44 used cloudflare (17.813765182186234%):
+45 used cloudflare (18.218623481781375%):
 ```
 ahscdn.com
 chilp.it
@@ -34,6 +34,7 @@ gamingfun.me
 goo.su
 grabify.world
 imghost.pics
+iplogger.com
 iplogger.org
 joinmy.site
 linkbucks.com
