@@ -1,4 +1,4 @@
-275 domains tested. 87.27272727272727% were behind nothing (35 were behind something). 6 domains could not be tested.<br>
+281 domains tested. 86.47686832740213% were behind nothing (38 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,11 @@
 
 ```
 
-25 used cloudflare (9.090909090909092%):
+28 used cloudflare (9.9644128113879%):
 ```
+angoraveteriner.com
 api.baimless.com
 chashni.co
-chingman.net
 cipro.mx
 crackload.net
 demo.devswire.com
@@ -33,19 +33,22 @@ dw.c4kdeliver.top
 ecoproducts.com.my
 et3.ektpnc.com
 frezzyhook.com
-gomlgaming.dev
 hostigram.xyz
 ji.alie3ksgbb.com
+ji.alie3ksgdd.com
 leeziptv.com
+link.blueyonderllc.top
 mnoger.cf
+pan.tenire.com
 paste-bin.xyz
 prime.topendpower.top
-rodhigital.com
 spacetrack.co.tz
 spices.com.sg
-spydezgame.com
 wordpress.ductai.xyz
+www.agies.org
 www.idpminic.org
+zaofisa.net
+zsin2.ebnsina.top
 ```
 
 0 used cloudfront (0.0%):
@@ -63,12 +66,12 @@ www.idpminic.org
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.3558718861209964%):
+```
+paingta.xyz
 ```
 
-```
-
-4 used sucuri (1.4545454545454546%):
+4 used sucuri (1.4234875444839856%):
 ```
 www.asterglobal.com
 www.bearware.org

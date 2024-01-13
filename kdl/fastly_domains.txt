@@ -3,7 +3,6 @@ a3.shared.global.fastly.net
 api.nextgen.guardianapps.co.uk
 api.shipt.com
 api.twitch.tv
-ar.pinterest.com
 assets.guim.co.uk
 atc.spotify.map.fastly.net
 b.thumbs.redditmedia.com
@@ -16,7 +15,6 @@ cdn.speedcurve.com
 cdn.taboola.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
-ct.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
@@ -45,9 +43,7 @@ guardian.map.fastly.net
 hits-secure.theguardian.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
-i.scdn.co
 i.vimeocdn.com
 imageio.forbes.com
 imgix.datadoghq.com
@@ -62,7 +58,6 @@ media.amazon.map.fastly.net
 media.cnn.com
 mosaic.scdn.co
 n.sni.global.fastly.net
-no.pinterest.com
 nytimes.map.fastly.net
 object-storage.shipt.com
 odb.outbrain.com
@@ -82,12 +77,10 @@ reddit.map.fastly.net
 registry.api.cnn.io
 resources.digital-cloud-west.medallia.com
 resources.digital-cloud.medallia.eu
-ro.pinterest.com
 rss.nytimes.com
 s.imgur.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
-sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -122,8 +115,7 @@ www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
 www.paypalobjects.com
-www.pinterest.fr
-www.pinterest.pt
+www.pinterest.co.kr
 www.reddit.com
 www.redditstatic.com
 www.shipt.com
