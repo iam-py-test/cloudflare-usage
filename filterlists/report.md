@@ -1,4 +1,4 @@
-214 domains tested. 48.598130841121495% were behind nothing (110 were behind something). 38 domains could not be tested.<br>
+214 domains tested. 49.06542056074766% were behind nothing (109 were behind something). 41 domains could not be tested.<br>
 4 used akamai (1.8691588785046727%):
 ```
 easylist-downloads.adblockplus.org
@@ -19,14 +19,13 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.46728971962616817%):
-```
-filters.adtidy.org
+0 used cdn77 (0.0%):
 ```
 
-47 used cloudflare (21.962616822429908%):
 ```
-1275.ru
+
+44 used cloudflare (20.5607476635514%):
+```
 abp.tt.codes
 abpvn.com
 adblock.mahakala.is
@@ -43,7 +42,6 @@ cdn.adblockcdn.com
 combinatronics.io
 dns-family.adguard.com
 dns.adguard.com
-easydutch.pages.dev
 easydutchcdn.pages.dev
 easylist.to
 family.cloudflare-dns.com
@@ -57,7 +55,6 @@ managedsentinel.com
 nonio.pt
 osint.bambenekconsulting.com
 pastebin.com
-phishing.army
 rawcdn.githack.com
 repo.andnixsh.com
 road.adblock.ro
