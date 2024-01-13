@@ -1,5 +1,5 @@
-1000 domains tested. 37.6% were behind nothing (624 were behind something). 445 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 38.0% were behind nothing (620 were behind something). 436 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -14,7 +14,6 @@ fedex.com
 force.com
 godaddy.com
 hp.com
-ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -42,9 +41,8 @@ b-cdn.net
 
 ```
 
-61 used cloudflare (6.1%):
+68 used cloudflare (6.800000000000001%):
 ```
-33across.com
 ancestry.com
 bluehost.com
 braze.com
@@ -56,43 +54,51 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+deepl.com
 discord.com
 discord.gg
 fiverr.com
 genius.com
-gravitational.io
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
+ietf.org
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
 mgid.com
-mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
 onetrust.com
 optimizely.com
+oup.com
 ozon.ru
-patreon.com
 pexels.com
 pixabay.com
 pixiv.net
+plex.tv
+princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 shein.com
+simpli.fi
 sitescout.com
 sourceforge.net
-themeforest.net
+stackoverflow.com
+statcounter.com
+tandfonline.com
 tinyurl.com
+trustarc.com
 udemy.com
 unpkg.com
 unrulymedia.com
@@ -107,7 +113,7 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -188,7 +194,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
