@@ -21,11 +21,12 @@ go.microsoft.com
 
 ```
 
-45 used cloudflare (18.218623481781375%):
+44 used cloudflare (17.813765182186234%):
 ```
 ahscdn.com
 chilp.it
 echoz.com
+ezstat.ru
 foot.wiki
 fortnight.space
 fortnitechat.site
@@ -57,9 +58,7 @@ shrekis.life
 smarturl.it
 stopify.co
 tinyurl.com
-track.canva.com
 uprot.net
-url1.io
 urlday.cc
 urlshortx.com
 usheethe.com
@@ -101,8 +100,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4048582995951417%):
+2 used sucuri (0.8097165991902834%):
 ```
+promo-visits.site
 wee.so
 ```
 
@@ -122,6 +122,11 @@ wee.so
 ```
 
 0 used deflect (0.0%):
+```
+
+```
+
+0 used ezoic (0.0%):
 ```
 
 ```

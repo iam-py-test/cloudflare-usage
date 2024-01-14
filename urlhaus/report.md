@@ -1,4 +1,4 @@
-279 domains tested. 86.73835125448028% were behind nothing (37 were behind something). 4 domains could not be tested.<br>
+262 domains tested. 87.02290076335878% were behind nothing (34 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,11 @@
 
 ```
 
-28 used cloudflare (10.03584229390681%):
+25 used cloudflare (9.541984732824428%):
 ```
 angoraveteriner.com
-api.baimless.com
 chashni.co
+chingman.net
 cipro.mx
 crackload.net
 demo.devswire.com
@@ -32,22 +32,19 @@ downloayxkemam.sbs
 dw.c4kdeliver.top
 ecoproducts.com.my
 et3.ektpnc.com
+frezzyhook.com
 gomlgaming.dev
 hostigram.xyz
 ji.alie3ksgbb.com
 ji.alie3ksgdd.com
 leeziptv.com
 link.blueyonderllc.top
-mnoger.cf
-pan.tenire.com
 paste-bin.xyz
 prime.topendpower.top
-spacetrack.co.tz
-walkinglate.com
-wordpress.ductai.xyz
-www.agies.org
+rodhigital.com
+rwcmm.com
+spices.com.sg
 www.idpminic.org
-zaofisa.net
 zsin2.ebnsina.top
 ```
 
@@ -66,14 +63,13 @@ zsin2.ebnsina.top
 
 ```
 
-1 used fastly (0.35842293906810035%):
-```
-paingta.xyz
+0 used fastly (0.0%):
 ```
 
-4 used sucuri (1.4336917562724014%):
 ```
-www.asterglobal.com
+
+3 used sucuri (1.1450381679389312%):
+```
 www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
@@ -95,6 +91,11 @@ youronestophalalshop.com
 ```
 
 0 used deflect (0.0%):
+```
+
+```
+
+0 used ezoic (0.0%):
 ```
 
 ```
