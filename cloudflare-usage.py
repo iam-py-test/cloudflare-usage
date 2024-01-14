@@ -249,6 +249,8 @@ def hascloudflare(url):
 			return "fastly"
 		if "x-deflect-cache" in r.headers or "x-deflect-edge" in r.headers:
 			return "deflect"
+		if "x-ezoic-cdn" in r.headers:
+				return "ezoic"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -314,6 +316,10 @@ report_base = {
 			"ips": []
 		},
 		"deflect": {
+			"domains": [],
+			"ips": []
+		},
+		"ezoic": {
 			"domains": [],
 			"ips": []
 		},
