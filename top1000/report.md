@@ -1,5 +1,5 @@
-1000 domains tested. 37.7% were behind nothing (623 were behind something). 437 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 434 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -12,6 +12,7 @@ eepurl.com
 fda.gov
 fedex.com
 force.com
+godaddy.com
 hp.com
 intel.com
 lowes.com
@@ -40,7 +41,7 @@ b-cdn.net
 
 ```
 
-70 used cloudflare (7.000000000000001%):
+71 used cloudflare (7.1%):
 ```
 33across.com
 allaboutcookies.org
@@ -55,10 +56,9 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
+discogs.com
 discord.com
 discord.gg
-epicgames.com
 fiverr.com
 genius.com
 heylink.me
@@ -71,34 +71,31 @@ indexww.com
 jquery.com
 kickstarter.com
 life360.com
-markmonitor.com
-mdpi.com
+loc.gov
 medium.com
+mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
-onesignal.com
 onetrust.com
 optimizely.com
 oup.com
 ozon.ru
 pexels.com
 pixabay.com
-pixiv.net
-plex.tv
 plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
+quora.com
 researchgate.net
 roku.com
 shein.com
-simpli.fi
 sitescout.com
-skroutz.gr
 sourceforge.net
+stackoverflow.com
 themeforest.net
 tinyurl.com
 udemy.com
@@ -107,8 +104,13 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
+w3.org
+watchguard.com
 wayfair.com
 webmd.com
+who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
