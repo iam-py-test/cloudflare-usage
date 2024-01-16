@@ -20,6 +20,7 @@ cfl.dropboxstatic.com.cdn.cloudflare.net
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
+deepl.com
 deliver.ptgncdn.com
 discord.com
 dsum-sec.casalemedia.com
@@ -28,6 +29,7 @@ explore.zoom.us
 f.hubspotusercontent40.net
 fraiche.com.mx
 front.com
+frontapp.com
 geolocation.onetrust.com
 glyph.medium.com
 hls-uranus.sb-cd.com
@@ -36,7 +38,6 @@ ibm.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 maxcdn.bootstrapcdn.com
-medium.com
 miro.medium.com
 myshopify.com
 optimizely-edge.salesforce.com
@@ -53,10 +54,10 @@ roblox-api.arkoselabs.com.cdn.cloudflare.net
 script.crazyegg.com
 script.crazyegg.com.cdn.cloudflare.net
 sdfestaticassets-us-east-1.sciencedirectassets.com
+shopify.com
 sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
-stackoverflow.com
 static.cloudflareinsights.com
 static.deepl.com
 static.zdassets.com
@@ -66,8 +67,6 @@ us01st-cf.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
 vimeo.com
-w3.org
-who.int
 www.artfut.com
 www.cloudflare.com
 www.researchgate.net

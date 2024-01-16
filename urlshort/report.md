@@ -21,9 +21,8 @@ go.microsoft.com
 
 ```
 
-45 used cloudflare (18.218623481781375%):
+44 used cloudflare (17.813765182186234%):
 ```
-adfoc.us
 ahscdn.com
 chilp.it
 echoz.com
@@ -101,8 +100,9 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4048582995951417%):
+2 used sucuri (0.8097165991902834%):
 ```
+promo-visits.site
 wee.so
 ```
 
