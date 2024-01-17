@@ -41,10 +41,9 @@ b-cdn.net
 
 ```
 
-65 used cloudflare (6.5%):
+64 used cloudflare (6.4%):
 ```
 33across.com
-allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -56,9 +55,9 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
 discord.com
 discord.gg
+dotomi.com
 fiverr.com
 genius.com
 heylink.me
@@ -68,21 +67,22 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
-mediafire.com
 mmcdn.com
 myshopify.com
+networkadvertising.org
 okta.com
 onesignal.com
 optimizely.com
 oup.com
 ozon.ru
+perfectdomain.com
 pexels.com
 pixabay.com
 pixiv.net
-plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
@@ -90,10 +90,9 @@ quizlet.com
 researchgate.net
 roku.com
 sciencedirect.com
+sectigo.com
 shein.com
-simpli.fi
 sitescout.com
-skroutz.gr
 sourceforge.net
 tinyurl.com
 udemy.com
@@ -110,7 +109,7 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -191,6 +190,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
