@@ -1,5 +1,5 @@
-1000 domains tested. 37.8% were behind nothing (622 were behind something). 432 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 37.4% were behind nothing (626 were behind something). 441 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 airbnb.com
 arubanetworks.com
@@ -11,6 +11,7 @@ ebay.de
 eepurl.com
 fda.gov
 fedex.com
+force.com
 godaddy.com
 hp.com
 intel.com
@@ -18,6 +19,7 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
 staples.com
@@ -40,10 +42,9 @@ b-cdn.net
 
 ```
 
-73 used cloudflare (7.3%):
+67 used cloudflare (6.7%):
 ```
 33across.com
-allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -55,38 +56,29 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
-discogs.com
+cookiedatabase.org
 discord.com
 discord.gg
-dotomi.com
 fiverr.com
-fontawesome.com
-frontapp.com
 genius.com
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ibm.com
 indexww.com
-jotform.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
-markmonitor.com
-mediafire.com
-mgid.com
 mmcdn.com
 myshopify.com
 networkadvertising.org
 okta.com
-onesignal.com
 onetrust.com
+onlyfans.com
 optimizely.com
 ozon.ru
-perfectdomain.com
 pexels.com
 pixabay.com
 pixiv.net
@@ -95,15 +87,15 @@ plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
-quora.com
 researchgate.net
 roku.com
+sciencedirect.com
 shein.com
-shopify.com
-simpli.fi
 sitescout.com
 sourceforge.net
+statcounter.com
+teamviewer.com
+themeforest.net
 tinyurl.com
 udemy.com
 unpkg.com
@@ -111,13 +103,17 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+watchguard.com
 wayfair.com
+webmd.com
+who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -128,7 +124,6 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
-atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -168,7 +163,6 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -199,6 +193,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
