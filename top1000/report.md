@@ -1,5 +1,5 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 441 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 442 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -19,7 +19,6 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 service-now.com
 staples.com
@@ -42,9 +41,10 @@ b-cdn.net
 
 ```
 
-67 used cloudflare (6.7%):
+65 used cloudflare (6.5%):
 ```
 33across.com
+allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -56,7 +56,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-cookiedatabase.org
+deepl.com
 discord.com
 discord.gg
 fiverr.com
@@ -65,37 +65,36 @@ heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
+hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
 life360.com
+mediafire.com
 mmcdn.com
 myshopify.com
-networkadvertising.org
 okta.com
-onetrust.com
-onlyfans.com
+onesignal.com
 optimizely.com
+oup.com
 ozon.ru
 pexels.com
 pixabay.com
 pixiv.net
-plex.tv
 plos.org
 princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 sciencedirect.com
 shein.com
+simpli.fi
 sitescout.com
+skroutz.gr
 sourceforge.net
-statcounter.com
-teamviewer.com
-themeforest.net
 tinyurl.com
 udemy.com
 unpkg.com
@@ -103,8 +102,6 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-watchguard.com
-wayfair.com
 webmd.com
 who.int
 wiley.com
@@ -163,6 +160,7 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -193,7 +191,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
