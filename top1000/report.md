@@ -1,5 +1,5 @@
-1000 domains tested. 37.6% were behind nothing (624 were behind something). 442 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 37.1% were behind nothing (629 were behind something). 465 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 airbnb.com
 arubanetworks.com
@@ -14,6 +14,7 @@ fedex.com
 force.com
 godaddy.com
 hp.com
+ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -41,7 +42,7 @@ b-cdn.net
 
 ```
 
-64 used cloudflare (6.4%):
+48 used cloudflare (4.8%):
 ```
 33across.com
 ancestry.com
@@ -57,7 +58,6 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
-dotomi.com
 fiverr.com
 genius.com
 heylink.me
@@ -70,27 +70,15 @@ indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-life360.com
-mmcdn.com
+markmonitor.com
 myshopify.com
-networkadvertising.org
-okta.com
-onesignal.com
-optimizely.com
-oup.com
 ozon.ru
-perfectdomain.com
-pexels.com
 pixabay.com
-pixiv.net
 princeton.edu
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
-sciencedirect.com
-sectigo.com
 shein.com
 sitescout.com
 sourceforge.net
@@ -101,15 +89,12 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-webmd.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
@@ -120,6 +105,7 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
+atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -159,7 +145,6 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -190,19 +175,16 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
-worldbank.org
 wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
