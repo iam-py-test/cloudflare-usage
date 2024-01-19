@@ -1,5 +1,5 @@
-247 domains tested. 28.34008097165992% were behind nothing (177 were behind something). 108 domains could not be tested.<br>
-3 used akamai (1.214574898785425%):
+248 domains tested. 26.209677419354836% were behind nothing (183 were behind something). 113 domains could not be tested.<br>
+3 used akamai (1.2096774193548387%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -21,12 +21,12 @@ go.microsoft.com
 
 ```
 
-52 used cloudflare (21.052631578947366%):
+53 used cloudflare (21.370967741935484%):
 ```
+2truth.com
+adfoc.us
 ahscdn.com
 chilp.it
-clk.sh
-clks.pro
 dommania.pl
 echoz.com
 foot.wiki
@@ -40,6 +40,7 @@ imghost.pics
 iplogger.com
 iplogger.org
 joinmy.site
+kingshortener.com
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
@@ -77,7 +78,7 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.8582995951417%):
+12 used cloudfront (4.838709677419355%):
 ```
 a.co
 bstore.smsb.co
@@ -108,7 +109,7 @@ zpr.io
 
 ```
 
-2 used sucuri (0.8097165991902834%):
+2 used sucuri (0.8064516129032258%):
 ```
 promo-visits.site
 wee.so

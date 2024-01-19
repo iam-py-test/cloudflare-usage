@@ -1,5 +1,5 @@
-1000 domains tested. 37.1% were behind nothing (629 were behind something). 465 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 37.8% were behind nothing (622 were behind something). 452 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -14,7 +14,6 @@ fedex.com
 force.com
 godaddy.com
 hp.com
-ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -42,9 +41,11 @@ b-cdn.net
 
 ```
 
-48 used cloudflare (4.8%):
+52 used cloudflare (5.2%):
 ```
 33across.com
+addtoany.com
+allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -67,14 +68,14 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
-markmonitor.com
+medium.com
+mgid.com
+mmcdn.com
 myshopify.com
 ozon.ru
 pixabay.com
-princeton.edu
 prnewswire.com
 quantummetric.com
 researchgate.net
@@ -89,12 +90,14 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -139,10 +142,10 @@ ieee.org
 intercom.io
 intuit.com
 ipify.org
-istockphoto.com
 latimes.com
 lijit.com
 merriam-webster.com
+mongodb.com
 mozilla.com
 mozilla.org
 nationalgeographic.com
@@ -175,16 +178,19 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
+worldbank.org
 wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
