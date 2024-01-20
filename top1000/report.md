@@ -1,4 +1,4 @@
-1000 domains tested. 37.8% were behind nothing (622 were behind something). 452 domains could not be tested.<br>
+1000 domains tested. 37.9% were behind nothing (621 were behind something). 438 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 airbnb.com
@@ -41,11 +41,9 @@ b-cdn.net
 
 ```
 
-52 used cloudflare (5.2%):
+66 used cloudflare (6.6000000000000005%):
 ```
 33across.com
-addtoany.com
-allaboutcookies.org
 ancestry.com
 bluehost.com
 braze.com
@@ -57,8 +55,10 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+discogs.com
 discord.com
 discord.gg
+entrust.net
 fiverr.com
 genius.com
 heylink.me
@@ -68,19 +68,31 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
-medium.com
-mgid.com
-mmcdn.com
 myshopify.com
+networkadvertising.org
+okta.com
+onesignal.com
+optimizely.com
+oup.com
 ozon.ru
+patreon.com
+perfectdomain.com
+pexels.com
 pixabay.com
+plos.org
+princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
+quora.com
 researchgate.net
 roku.com
 shein.com
+shopify.com
+simpli.fi
 sitescout.com
 sourceforge.net
 tinyurl.com
@@ -90,6 +102,8 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
+w3.org
 who.int
 wiley.com
 xhamster.com
@@ -97,7 +111,7 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -145,9 +159,9 @@ ipify.org
 latimes.com
 lijit.com
 merriam-webster.com
-mongodb.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -178,7 +192,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
