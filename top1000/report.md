@@ -1,4 +1,4 @@
-1000 domains tested. 37.9% were behind nothing (621 were behind something). 438 domains could not be tested.<br>
+1000 domains tested. 37.4% were behind nothing (626 were behind something). 451 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 airbnb.com
@@ -41,7 +41,7 @@ b-cdn.net
 
 ```
 
-66 used cloudflare (6.6000000000000005%):
+59 used cloudflare (5.8999999999999995%):
 ```
 33across.com
 ancestry.com
@@ -55,10 +55,9 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-discogs.com
+deepl.com
 discord.com
 discord.gg
-entrust.net
 fiverr.com
 genius.com
 heylink.me
@@ -68,30 +67,26 @@ hubspot.com
 hugedomains.com
 ibm.com
 indexww.com
-innovid.com
 jquery.com
 kickstarter.com
+life360.com
+mgid.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
+onetrust.com
 optimizely.com
-oup.com
 ozon.ru
-patreon.com
-perfectdomain.com
-pexels.com
 pixabay.com
+pixiv.net
 plos.org
-princeton.edu
 prnewswire.com
 quantummetric.com
 quizlet.com
-quora.com
 researchgate.net
 roku.com
 shein.com
-shopify.com
 simpli.fi
 sitescout.com
 sourceforge.net
@@ -102,8 +97,6 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
-w3.org
 who.int
 wiley.com
 xhamster.com
@@ -122,7 +115,6 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
-atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -138,6 +130,7 @@ coinmarketcap.com
 connatix.com
 datadoghq.com
 deviantart.com
+doi.org
 dreamhost.com
 elasticbeanstalk.com
 elpais.com
@@ -201,9 +194,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
