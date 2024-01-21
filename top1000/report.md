@@ -1,4 +1,4 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 451 domains could not be tested.<br>
+1000 domains tested. 37.5% were behind nothing (625 were behind something). 453 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 airbnb.com
@@ -41,10 +41,12 @@ b-cdn.net
 
 ```
 
-59 used cloudflare (5.8999999999999995%):
+57 used cloudflare (5.7%):
 ```
 33across.com
+allaboutcookies.org
 ancestry.com
+bidmachine.io
 bluehost.com
 braze.com
 btloader.com
@@ -55,7 +57,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-deepl.com
 discord.com
 discord.gg
 fiverr.com
@@ -70,24 +71,21 @@ indexww.com
 jquery.com
 kickstarter.com
 life360.com
-mgid.com
 myshopify.com
 networkadvertising.org
 okta.com
 onesignal.com
-onetrust.com
 optimizely.com
 ozon.ru
+pexels.com
 pixabay.com
 pixiv.net
 plos.org
 prnewswire.com
 quantummetric.com
-quizlet.com
 researchgate.net
 roku.com
 shein.com
-simpli.fi
 sitescout.com
 sourceforge.net
 tinyurl.com
@@ -104,7 +102,7 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+84 used cloudfront (8.4%):
 ```
 3lift.com
 a-mo.net
@@ -115,6 +113,7 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
+atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -130,7 +129,6 @@ coinmarketcap.com
 connatix.com
 datadoghq.com
 deviantart.com
-doi.org
 dreamhost.com
 elasticbeanstalk.com
 elpais.com
@@ -153,8 +151,6 @@ latimes.com
 lijit.com
 merriam-webster.com
 mozilla.com
-mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -194,8 +190,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
