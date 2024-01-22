@@ -1,5 +1,5 @@
-1000 domains tested. 37.5% were behind nothing (625 were behind something). 453 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 37.6% were behind nothing (624 were behind something). 454 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 airbnb.com
 arubanetworks.com
@@ -19,6 +19,7 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
 staples.com
@@ -41,12 +42,10 @@ b-cdn.net
 
 ```
 
-57 used cloudflare (5.7%):
+50 used cloudflare (5.0%):
 ```
 33across.com
-allaboutcookies.org
 ancestry.com
-bidmachine.io
 bluehost.com
 braze.com
 btloader.com
@@ -61,30 +60,27 @@ discord.com
 discord.gg
 fiverr.com
 genius.com
-heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ibm.com
 indexww.com
+innovid.com
 jquery.com
 kickstarter.com
 life360.com
+mgid.com
 myshopify.com
-networkadvertising.org
-okta.com
-onesignal.com
-optimizely.com
 ozon.ru
-pexels.com
+perfectdomain.com
 pixabay.com
 pixiv.net
-plos.org
+princeton.edu
 prnewswire.com
 quantummetric.com
 researchgate.net
 roku.com
+sciencedirect.com
 shein.com
 sitescout.com
 sourceforge.net
@@ -95,14 +91,12 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-84 used cloudfront (8.4%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -123,7 +117,6 @@ chartbeat.net
 chartboost.com
 checkpoint.com
 churchcenter.com
-churnzero.net
 clever.com
 coinmarketcap.com
 connatix.com
@@ -151,6 +144,8 @@ latimes.com
 lijit.com
 merriam-webster.com
 mozilla.com
+mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -181,12 +176,15 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
 worldbank.org
 wsj.com
+yahoo.com
+yahoo.net
 zillow.com
 ```
 
