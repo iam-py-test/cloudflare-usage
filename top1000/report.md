@@ -1,8 +1,12 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 458 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 59.199999999999996% were behind nothing (408 were behind something). 221 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
+accuweather.com
+adobe.com
+adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
@@ -17,13 +21,15 @@ hp.com
 intel.com
 lowes.com
 macys.com
+mysql.com
 news.com.au
-nike.com
+office365.com
 rakuten.co.jp
 service-now.com
 staples.com
 wbx2.com
 weforum.org
+windows.net
 ```
 
 1 used bunnycdn (0.1%):
@@ -41,10 +47,13 @@ b-cdn.net
 
 ```
 
-52 used cloudflare (5.2%):
+64 used cloudflare (6.4%):
 ```
 33across.com
+allaboutcookies.org
 ancestry.com
+applovin.com
+berkeley.edu
 bluehost.com
 braze.com
 btloader.com
@@ -57,34 +66,38 @@ cloudflare.net
 cloudflareinsights.com
 discord.com
 discord.gg
+docker.com
 fiverr.com
+forter.com
 genius.com
+heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
+hugedomains.com
 ibm.com
+immunet.com
+indeed.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-life360.com
+mmcdn.com
 myshopify.com
 networkadvertising.org
-onetrust.com
 ozon.ru
-pexels.com
 pixabay.com
-plex.tv
-plos.org
 prnewswire.com
 quantummetric.com
-quizlet.com
+quora.com
 researchgate.net
 roku.com
+sciencedirect.com
 shein.com
 sitescout.com
+skroutz.gr
 sourceforge.net
-teamviewer.com
+tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -92,6 +105,11 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+vungle.com
+w3.org
+webmd.com
+who.int
+wiley.com
 xhamster.com
 zendesk.com
 zoom.us
@@ -187,8 +205,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```

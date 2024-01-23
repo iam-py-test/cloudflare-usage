@@ -1,4 +1,4 @@
-248 domains tested. 29.435483870967744% were behind nothing (175 were behind something). 114 domains could not be tested.<br>
+248 domains tested. 34.67741935483871% were behind nothing (162 were behind something). 57 domains could not be tested.<br>
 3 used akamai (1.2096774193548387%):
 ```
 eepurl.com
@@ -21,40 +21,84 @@ go.microsoft.com
 
 ```
 
-45 used cloudflare (18.14516129032258%):
+89 used cloudflare (35.88709677419355%):
 ```
+02ip.ru
+1sta.com
+24ex.com
+2fortune.com
+2savvy.com
+2tunes.com
+2ya.com
+adf.ly
 ahscdn.com
+antiblog.com
+bc.vc
 chilp.it
+dealtap.com
+dommania.pl
 echoz.com
+exe.io
+filetap.com
 foot.wiki
 fortnight.space
 fortnitechat.site
 gamergirl.pro
 gamingfun.me
+goo.su
 grabify.world
+headplug.com
+hereweb.com
+ibf.tw
 imghost.pics
+ipgraber.ru
 iplogger.com
+iplogger.info
+iplogger.org
+iplogger.ru
+is.gd
 joinmy.site
+klclick.com
+klclick1.com
+link-center.net
+link.tnlink.in
 linkbucks.com
 links.e.malwarebytes.com
+linkspy.cc
+lyksoomu.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+ouo.io
 p.chilp.it
 photovault.pics
 pichost.pics
 picshost.pics
+prettylinks.com
 refererhider.com
 rotf.lol
 s.id
 screenshare.pics
 screenshot.best
+sh.st
+shorte.st
 shorten.ee
+shorten.is
+shorten.world
+shorter.cf
+shorturl.at
+shorturl.com
+shorturl.gg
+shre.su
 shrekis.life
+shrink.pe
+shrinkearn.com
+shrinkme.io
 smarturl.it
 snip.ly
 stfly.xyz
 stopify.co
+t.ly
 tii.la
 tinyurl.com
 track.canva.com
