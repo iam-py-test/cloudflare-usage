@@ -1,4 +1,4 @@
-274 domains tested. 86.4963503649635% were behind nothing (37 were behind something). 9 domains could not be tested.<br>
+280 domains tested. 85.71428571428571% were behind nothing (40 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,11 @@
 
 ```
 
-24 used cloudflare (8.75912408759124%):
+25 used cloudflare (8.928571428571429%):
 ```
 angoraveteriner.com
 cdn.nest.rip
-chingman.net
+chashni.co
 cipro.mx
 crackload.net
 demo.devswire.com
@@ -32,12 +32,13 @@ dw.c4kdeliver.top
 ecoproducts.com.my
 et3.ektpnc.com
 frezzyhook.com
+fvia.id.vn
 gomlgaming.dev
 hostigram.xyz
 leeziptv.com
-load.abadila.best
 paste-bin.xyz
 rodhigital.com
+spacetrack.co.tz
 spices.com.sg
 walkinglate.com
 wordpress.ductai.xyz
@@ -62,12 +63,12 @@ zsin2.ebnsina.top
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.35714285714285715%):
+```
+infinitycheats.org
 ```
 
-```
-
-4 used sucuri (1.4598540145985401%):
+4 used sucuri (1.4285714285714286%):
 ```
 www.asterglobal.com
 www.bearware.org

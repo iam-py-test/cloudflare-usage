@@ -1,5 +1,5 @@
-1000 domains tested. 37.4% were behind nothing (626 were behind something). 446 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 37.4% were behind nothing (626 were behind something). 458 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 airbnb.com
 arubanetworks.com
@@ -16,8 +16,9 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
-mysql.com
+macys.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
 staples.com
@@ -40,12 +41,10 @@ b-cdn.net
 
 ```
 
-63 used cloudflare (6.3%):
+52 used cloudflare (5.2%):
 ```
 33across.com
-allaboutcookies.org
 ancestry.com
-bidmachine.io
 bluehost.com
 braze.com
 btloader.com
@@ -60,36 +59,32 @@ discord.com
 discord.gg
 fiverr.com
 genius.com
-heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ibm.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
 life360.com
-mgid.com
-mmcdn.com
 myshopify.com
 networkadvertising.org
-okta.com
-onesignal.com
-onlyfans.com
+onetrust.com
 ozon.ru
-perfectdomain.com
+pexels.com
 pixabay.com
-princeton.edu
+plex.tv
+plos.org
 prnewswire.com
 quantummetric.com
+quizlet.com
 researchgate.net
 roku.com
 shein.com
 sitescout.com
 sourceforge.net
-themeforest.net
+teamviewer.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -97,17 +92,12 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
-vungle.com
-w3.org
-webmd.com
-who.int
-wiley.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+86 used cloudfront (8.6%):
 ```
 3lift.com
 a-mo.net
@@ -188,7 +178,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -198,9 +187,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```
