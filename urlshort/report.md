@@ -1,4 +1,4 @@
-248 domains tested. 29.03225806451613% were behind nothing (176 were behind something). 111 domains could not be tested.<br>
+248 domains tested. 28.62903225806452% were behind nothing (177 were behind something). 100 domains could not be tested.<br>
 3 used akamai (1.2096774193548387%):
 ```
 eepurl.com
@@ -21,24 +21,36 @@ go.microsoft.com
 
 ```
 
-48 used cloudflare (19.35483870967742%):
+60 used cloudflare (24.193548387096776%):
 ```
-2truth.com
+2freedom.com
+2hell.com
+2ya.com
+adfoc.us
 ahscdn.com
+alturl.com
 chilp.it
-cutt.ly
 echoz.com
+exe.io
+exee.app
 foot.wiki
 fortnight.space
 fortnitechat.site
 gamergirl.pro
 gamingfun.me
+goo.su
 grabify.world
 imghost.pics
 iplogger.com
+iplogger.org
 joinmy.site
+klclick1.com
+klclick2.com
+link-center.net
+link.sbstck.com
 linkbucks.com
 links.e.malwarebytes.com
+linkspy.cc
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
