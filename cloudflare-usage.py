@@ -47,7 +47,7 @@ except Exception as err:
 	topdomains = []
 debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
 useragent = random.choice(UA_CHOICES)
-headers = {"user-agent":useragent}
+headers = {"user-agent":useragent. "Connection": "keep-alive", "Sec-Fetch-Dest": "document"}
 running = 0
 done = 0
 started = 0
@@ -65,6 +65,7 @@ already_checked = {
 	"amzn.to": "cloudfront"
 }
 known_cnames = {}
+known_dead = []
 
 try:
 	stats_file = json.loads(open("stats.json").read())
@@ -107,6 +108,7 @@ def get_cname(domain):
 
 def get_ip(domain):
 	global ip_domain_map
+	global known_dead
 	if domain in do_not_resolve:
 		return []
 	if domain in ip_domain_map:
@@ -119,6 +121,7 @@ def get_ip(domain):
 			ips.append(ip.address)
 	except Exception as err:
 		print(err)
+		known_dead.append(domain)
 	ip_domain_map[domain] = ips
 	return ips
 
@@ -132,6 +135,8 @@ def hascloudflare(url):
 	total_domains_checked += 1
 	try:
 		domain = urllib.parse.urlparse(url).netloc
+		if domain in known_dead:
+			return False
 		if domain in already_checked:
 			return already_checked[domain]
 
@@ -186,8 +191,11 @@ def hascloudflare(url):
 			if cname.endswith(".cloudfront.net"):
 				already_checked[cname] = "cloudfront"
 				return "cloudfront"
-
-		r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
+		try:
+			r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT,headers=headers)
+		except:
+			print("Request failed, retrying")
+			r = requests.request(url=url,method=REQUEST_METHOD,timeout=REQUEST_TIMEOUT)
 		debugmsg("Request done!",r.headers)
 		if "Via" in r.headers:
 			if r.headers["Via"] not in via_headers:
@@ -337,8 +345,11 @@ cnames = []
 
 def save_statdata():
 	stat_data = open("stats.txt", 'w', encoding="UTF-8")
-	stat_data.write(f"{total_domains_checked} domains checked. {len(already_checked)} unique domains.")
+	stat_data.write(f"{total_domains_checked} domains checked. {len(already_checked)} unique domains. {len(known_dead)} dead (did not resolve).")
 	stat_data.close()
+	known_dead_out = open("dead.txt", 'w', encoding="UTF-8")
+	known_dead_out.write("\n".join(known_dead))
+	known_dead_out.close()
 def savecnames():
 	ipsfile = open("cnames.txt",'w',encoding="UTF-8")
 	ipsfile.write("\n".join(cnames))
