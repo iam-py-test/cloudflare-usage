@@ -47,7 +47,7 @@ except Exception as err:
 	topdomains = []
 debugmsg(f"Got {len(topdomains)} domains (out of {NUM_DOMAINS})")
 useragent = random.choice(UA_CHOICES)
-headers = {"user-agent":useragent. "Connection": "keep-alive", "Sec-Fetch-Dest": "document"}
+headers = {"user-agent":useragent, "Connection": "keep-alive", "Sec-Fetch-Dest": "document"}
 running = 0
 done = 0
 started = 0
@@ -339,9 +339,6 @@ report_base = {
 }
 full_report = {
 }
-via_headers = []
-server_headers = []
-cnames = []
 
 def save_statdata():
 	stat_data = open("stats.txt", 'w', encoding="UTF-8")
