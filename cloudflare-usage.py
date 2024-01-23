@@ -546,6 +546,11 @@ try:
 	check_domains(security, "security")
 except Exception as err:
 	print(err)
+try:
+	invidious = sorted(open("data/invidious.txt").read().replace("\r", "").split("\n"))
+	check_domains(invidious, "invidious")
+except Exception as err:
+	print(err)
 
 savereport()
 savecnames()
