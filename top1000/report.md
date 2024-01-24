@@ -1,4 +1,4 @@
-1000 domains tested. 59.199999999999996% were behind nothing (408 were behind something). 221 domains could not be tested.<br>
+1000 domains tested. 59.5% were behind nothing (405 were behind something). 219 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -23,13 +23,13 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 office365.com
 rakuten.co.jp
 service-now.com
 staples.com
 wbx2.com
 weforum.org
-windows.net
 ```
 
 1 used bunnycdn (0.1%):
@@ -47,7 +47,7 @@ b-cdn.net
 
 ```
 
-64 used cloudflare (6.4%):
+61 used cloudflare (6.1%):
 ```
 33across.com
 allaboutcookies.org
@@ -76,17 +76,15 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-immunet.com
 indeed.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-mmcdn.com
 myshopify.com
-networkadvertising.org
-ozon.ru
+oup.com
 pixabay.com
+princeton.edu
 prnewswire.com
 quantummetric.com
 quora.com
@@ -97,7 +95,6 @@ shein.com
 sitescout.com
 skroutz.gr
 sourceforge.net
-tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -115,7 +112,7 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -137,6 +134,7 @@ chartbeat.net
 chartboost.com
 checkpoint.com
 churchcenter.com
+churnzero.net
 clever.com
 coinmarketcap.com
 connatix.com
@@ -160,10 +158,10 @@ ieee.org
 intercom.io
 intuit.com
 ipify.org
+ironsrc.mobi
 latimes.com
 lijit.com
 merriam-webster.com
-mongodb.com
 mozilla.com
 mozilla.org
 nationalgeographic.com
@@ -196,6 +194,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com

@@ -1,4 +1,4 @@
-248 domains tested. 34.67741935483871% were behind nothing (162 were behind something). 57 domains could not be tested.<br>
+248 domains tested. 33.46774193548387% were behind nothing (165 were behind something). 84 domains could not be tested.<br>
 3 used akamai (1.2096774193548387%):
 ```
 eepurl.com
@@ -21,25 +21,14 @@ go.microsoft.com
 
 ```
 
-89 used cloudflare (35.88709677419355%):
+64 used cloudflare (25.806451612903224%):
 ```
-02ip.ru
-1sta.com
-24ex.com
-2fortune.com
-2savvy.com
-2tunes.com
-2ya.com
-adf.ly
+2truth.com
+adfoc.us
 ahscdn.com
-antiblog.com
-bc.vc
 chilp.it
-dealtap.com
-dommania.pl
+cutt.ly
 echoz.com
-exe.io
-filetap.com
 foot.wiki
 fortnight.space
 fortnitechat.site
@@ -47,29 +36,17 @@ gamergirl.pro
 gamingfun.me
 goo.su
 grabify.world
-headplug.com
-hereweb.com
-ibf.tw
 imghost.pics
 ipgraber.ru
 iplogger.com
-iplogger.info
 iplogger.org
-iplogger.ru
-is.gd
 joinmy.site
-klclick.com
-klclick1.com
-link-center.net
-link.tnlink.in
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
-lyksoomu.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
-ouo.io
 p.chilp.it
 photovault.pics
 pichost.pics
@@ -87,12 +64,10 @@ shorten.is
 shorten.world
 shorter.cf
 shorturl.at
-shorturl.com
 shorturl.gg
 shre.su
 shrekis.life
 shrink.pe
-shrinkearn.com
 shrinkme.io
 smarturl.it
 snip.ly
@@ -114,8 +89,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.435483870967742%):
+12 used cloudfront (4.838709677419355%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy

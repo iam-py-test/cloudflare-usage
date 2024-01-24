@@ -1,4 +1,4 @@
-360 domains tested. 56.666666666666664% were behind nothing (156 were behind something). 90 domains could not be tested.<br>
+360 domains tested. 57.49999999999999% were behind nothing (153 were behind something). 88 domains could not be tested.<br>
 18 used akamai (5.0%):
 ```
 amtrak.com
@@ -51,7 +51,7 @@ tva.com
 uscirf.gov
 ```
 
-36 used cloudfront (10.0%):
+35 used cloudfront (9.722222222222223%):
 ```
 alabama.gov
 archives.gov
@@ -72,7 +72,6 @@ mcc.gov
 minorityhealth.hhs.gov
 msha.gov
 nationalparks.org
-ncd.gov
 nlm.nih.gov
 noaa.gov
 nps.gov
