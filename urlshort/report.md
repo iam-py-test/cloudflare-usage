@@ -1,5 +1,5 @@
-248 domains tested. 33.46774193548387% were behind nothing (165 were behind something). 84 domains could not be tested.<br>
-3 used akamai (1.2096774193548387%):
+249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 81 domains could not be tested.<br>
+3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -21,13 +21,12 @@ go.microsoft.com
 
 ```
 
-64 used cloudflare (25.806451612903224%):
+68 used cloudflare (27.309236947791167%):
 ```
-2truth.com
-adfoc.us
 ahscdn.com
 chilp.it
-cutt.ly
+cleanuri.com
+cuty.io
 echoz.com
 foot.wiki
 fortnight.space
@@ -37,16 +36,18 @@ gamingfun.me
 goo.su
 grabify.world
 imghost.pics
-ipgraber.ru
 iplogger.com
 iplogger.org
 joinmy.site
+link.tnlink.in
+link1s.com
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
+ouo.io
 p.chilp.it
 photovault.pics
 pichost.pics
@@ -64,13 +65,16 @@ shorten.is
 shorten.world
 shorter.cf
 shorturl.at
+shorturl.com
 shorturl.gg
 shre.su
 shrekis.life
 shrink.pe
+shrinkearn.com
 shrinkme.io
 smarturl.it
 snip.ly
+sor.bz
 stfly.xyz
 stopify.co
 t.ly
@@ -89,9 +93,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.838709677419355%):
+11 used cloudfront (4.417670682730924%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
@@ -120,7 +123,7 @@ zpr.io
 
 ```
 
-2 used sucuri (0.8064516129032258%):
+2 used sucuri (0.8032128514056224%):
 ```
 promo-visits.site
 wee.so
