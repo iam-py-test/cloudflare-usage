@@ -1,4 +1,4 @@
-249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 81 domains could not be tested.<br>
+249 domains tested. 34.53815261044177% were behind nothing (163 were behind something). 15 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,29 +21,92 @@ go.microsoft.com
 
 ```
 
-68 used cloudflare (27.309236947791167%):
+131 used cloudflare (52.610441767068274%):
 ```
+02ip.ru
+1sta.com
+24ex.com
+2fear.com
+2fortune.com
+2freedom.com
+2hell.com
+2no.co
+2savvy.com
+2truth.com
+2tunes.com
+2ya.com
+adf.ly
+adfoc.us
+adshrink.it
 ahscdn.com
+alturl.com
+antiblog.com
+bc.vc
+bigbig.com
+buff.ly
+ceesty.com
 chilp.it
 cleanuri.com
+cli.re
+clk.asia
+clk.sh
+clks.pro
+corneey.com
+cutt.ly
 cuty.io
+dealtap.com
+destyy.com
+direct-link.net
+dommania.pl
+ebored.com
 echoz.com
+exe.io
+exee.app
+ezstat.ru
+fc-lc.com
+fc.lc
+filetap.com
 foot.wiki
 fortnight.space
 fortnitechat.site
+funurl.com
 gamergirl.pro
 gamingfun.me
 goo.su
+grabify.link
 grabify.world
+headplug.com
+hereweb.com
+hitart.com
+ibf.tw
 imghost.pics
+ipgraber.ru
+iplogger.co
 iplogger.com
+iplogger.info
 iplogger.org
+iplogger.ru
+is.gd
 joinmy.site
+kingshortener.com
+klclick.com
+klclick1.com
+klclick2.com
+klclick3.com
+link-center.net
+link-split.com
+link.sbstck.com
 link.tnlink.in
 link1s.com
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
+linkvertise.com
+linkvertise.net
+ln.run
+lyksoomu.com
+mgnet.xyz
+mirrorz.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -93,8 +156,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.417670682730924%):
+12 used cloudfront (4.819277108433735%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy

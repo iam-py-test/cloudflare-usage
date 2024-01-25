@@ -1,7 +1,8 @@
-1000 domains tested. 59.599999999999994% were behind nothing (404 were behind something). 222 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 59.4% were behind nothing (406 were behind something). 218 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
+adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
@@ -27,6 +28,7 @@ service-now.com
 staples.com
 wbx2.com
 weforum.org
+windows.net
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +46,7 @@ b-cdn.net
 
 ```
 
-62 used cloudflare (6.2%):
+68 used cloudflare (6.800000000000001%):
 ```
 33across.com
 allaboutcookies.org
@@ -62,6 +64,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+discogs.com
 discord.com
 discord.gg
 docker.com
@@ -79,16 +82,21 @@ indexww.com
 innovid.com
 jquery.com
 kickstarter.com
+loc.gov
+mdpi.com
+mgid.com
+mmcdn.com
 myshopify.com
 ozon.ru
+patreon.com
 pixabay.com
+plos.org
 prnewswire.com
 quantummetric.com
-quizlet.com
-quora.com
 researchgate.net
 roku.com
 sciencedirect.com
+sectigo.com
 shein.com
 sitescout.com
 skroutz.gr
@@ -110,7 +118,7 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
@@ -130,7 +138,6 @@ chartbeat.net
 chartboost.com
 checkpoint.com
 churchcenter.com
-churnzero.net
 clever.com
 coinmarketcap.com
 connatix.com
@@ -200,9 +207,8 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
-1c.ru
 netangels.ru
 pikabu.ru
 ```

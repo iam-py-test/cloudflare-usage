@@ -1,4 +1,4 @@
-327 domains tested. 92.96636085626912% were behind nothing (23 were behind something). 6 domains could not be tested.<br>
+316 domains tested. 93.35443037974683% were behind nothing (21 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,14 @@
 
 ```
 
-13 used cloudflare (3.9755351681957185%):
+11 used cloudflare (3.481012658227848%):
 ```
 amassmodel.top
 anonhost.in
 cdn.nest.rip
-crackload.net
-fvia.id.vn
+ecoproducts.com.my
 leeziptv.com
 pan.tenire.com
-rodhigital.com
 sante.cd
 spices.com.sg
 walkinglate.com
@@ -51,17 +49,16 @@ www.idpminic.org
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.31645569620253167%):
+```
+infinitycheats.org
 ```
 
-```
-
-4 used sucuri (1.2232415902140672%):
+3 used sucuri (0.949367088607595%):
 ```
 allcarephh.com
 www.asterglobal.com
 www.lasikofmichigan.com
-youronestophalalshop.com
 ```
 
 0 used myracloud (0.0%):
