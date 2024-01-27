@@ -1,4 +1,4 @@
-1000 domains tested. 59.5% were behind nothing (405 were behind something). 210 domains could not be tested.<br>
+1000 domains tested. 59.5% were behind nothing (405 were behind something). 218 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -46,14 +46,13 @@ b-cdn.net
 
 ```
 
-73 used cloudflare (7.3%):
+64 used cloudflare (6.4%):
 ```
 33across.com
 allaboutcookies.org
 ancestry.com
 applovin.com
 berkeley.edu
-bidmachine.io
 bluehost.com
 braze.com
 btloader.com
@@ -67,8 +66,6 @@ cloudflareinsights.com
 discord.com
 discord.gg
 docker.com
-dotomi.com
-epicgames.com
 fiverr.com
 forter.com
 genius.com
@@ -78,24 +75,19 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-immunet.com
 indeed.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-loc.gov
+mgid.com
 myshopify.com
-okta.com
-optimizely.com
 ozon.ru
-pexels.com
 pixabay.com
-pixiv.net
 plex.tv
 prnewswire.com
 quantummetric.com
-quizlet.com
+quora.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -103,7 +95,6 @@ shein.com
 sitescout.com
 skroutz.gr
 sourceforge.net
-statcounter.com
 tandfonline.com
 themeforest.net
 tinyurl.com
@@ -123,7 +114,7 @@ zendesk.com
 zoom.us
 ```
 
-86 used cloudfront (8.6%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -135,6 +126,7 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
+atlassian.net
 biblegateway.com
 binance.com
 booking.com

@@ -1,4 +1,4 @@
-350 domains tested. 91.42857142857143% were behind nothing (30 were behind something). 9 domains could not be tested.<br>
+352 domains tested. 91.19318181818183% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,16 @@
 
 ```
 
-16 used cloudflare (4.571428571428571%):
+17 used cloudflare (4.829545454545454%):
 ```
 amassmodel.top
 anonhost.in
-cdn.nest.rip
 crackload.net
+ecoproducts.com.my
 fvia.id.vn
 ixirix.com
 leeziptv.com
+octocrabs.com
 pan.tenire.com
 rocheholding.top
 rodhigital.com
@@ -54,12 +55,12 @@ www.idpminic.org
 
 ```
 
-1 used fastly (0.2857142857142857%):
+1 used fastly (0.2840909090909091%):
 ```
 infinitycheats.org
 ```
 
-4 used sucuri (1.1428571428571428%):
+4 used sucuri (1.1363636363636365%):
 ```
 allcarephh.com
 www.bearware.org
