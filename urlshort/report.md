@@ -1,4 +1,4 @@
-249 domains tested. 34.93975903614458% were behind nothing (162 were behind something). 70 domains could not be tested.<br>
+249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 51 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,18 +21,31 @@ go.microsoft.com
 
 ```
 
-75 used cloudflare (30.120481927710845%):
+97 used cloudflare (38.95582329317269%):
 ```
 02ip.ru
-2fear.com
+24ex.com
 2no.co
+2savvy.com
+adf.ly
+adshrink.it
 ahscdn.com
 antiblog.com
-buff.ly
+bigbig.com
 chilp.it
+cleanuri.com
+cli.re
+clk.sh
 corneey.com
+cutt.ly
 cuty.io
+destyy.com
+ebored.com
 echoz.com
+exe.io
+ezstat.ru
+fc.lc
+filetap.com
 foot.wiki
 fortnight.space
 fortnitechat.site
@@ -40,19 +53,27 @@ gamergirl.pro
 gamingfun.me
 goo.su
 grabify.world
-headplug.com
+hereweb.com
+hitart.com
 imghost.pics
 ipgraber.ru
+iplogger.co
 iplogger.com
 iplogger.info
 iplogger.org
 iplogger.ru
 is.gd
 joinmy.site
-link-split.com
+klclick.com
+klclick1.com
+link-center.net
+link.tnlink.in
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
+linkvertise.com
+ln.run
+mgnet.xyz
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -87,6 +108,7 @@ stfly.xyz
 stopify.co
 t.ly
 tii.la
+tinyurl.com
 track.canva.com
 uprot.net
 url1.io

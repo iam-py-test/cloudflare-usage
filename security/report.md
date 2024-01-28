@@ -1,4 +1,4 @@
-33 domains tested. 57.57575757575758% were behind nothing (14 were behind something). 1 domains could not be tested.<br>
+33 domains tested. 54.54545454545454% were behind nothing (15 were behind something). 2 domains could not be tested.<br>
 1 used akamai (3.0303030303030303%):
 ```
 avira.com
