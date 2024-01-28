@@ -1,10 +1,9 @@
-214 domains tested. 60.280373831775705% were behind nothing (85 were behind something). 11 domains could not be tested.<br>
-4 used akamai (1.8691588785046727%):
+214 domains tested. 59.813084112149525% were behind nothing (86 were behind something). 12 domains could not be tested.<br>
+3 used akamai (1.4018691588785046%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.ebates.com
-www.microsoft.com
 ```
 
 3 used bunnycdn (1.4018691588785046%):
@@ -24,7 +23,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-49 used cloudflare (22.897196261682243%):
+50 used cloudflare (23.364485981308412%):
 ```
 1275.ru
 abp.tt.codes
@@ -32,6 +31,7 @@ abpvn.com
 adblock.mahakala.is
 adp.magnobiet.com
 ads-for-open-source.readthedocs.io
+anonymousposter.gitlab.io
 anti-ad.net
 assets.windscribe.com
 azorult-tracker.net

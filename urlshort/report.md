@@ -1,4 +1,4 @@
-249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 80 domains could not be tested.<br>
+249 domains tested. 34.93975903614458% were behind nothing (162 were behind something). 70 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,14 +21,18 @@ go.microsoft.com
 
 ```
 
-68 used cloudflare (27.309236947791167%):
+75 used cloudflare (30.120481927710845%):
 ```
-2hell.com
+02ip.ru
+2fear.com
+2no.co
 ahscdn.com
+antiblog.com
+buff.ly
 chilp.it
-cutt.ly
+corneey.com
+cuty.io
 echoz.com
-exe.io
 foot.wiki
 fortnight.space
 fortnitechat.site
@@ -36,17 +40,19 @@ gamergirl.pro
 gamingfun.me
 goo.su
 grabify.world
+headplug.com
 imghost.pics
+ipgraber.ru
 iplogger.com
+iplogger.info
 iplogger.org
+iplogger.ru
+is.gd
 joinmy.site
-klclick1.com
-klclick3.com
-link.tnlink.in
+link-split.com
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
-linkvertise.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -68,10 +74,12 @@ shorten.world
 shorter.cf
 shorturl.at
 shorturl.com
+shorturl.gg
 shre.su
 shrekis.life
 shrink.pe
 shrinkearn.com
+shrinkme.io
 smarturl.it
 snip.ly
 sor.bz
@@ -79,7 +87,6 @@ stfly.xyz
 stopify.co
 t.ly
 tii.la
-tinyurl.com
 track.canva.com
 uprot.net
 url1.io

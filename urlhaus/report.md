@@ -1,4 +1,4 @@
-352 domains tested. 91.19318181818183% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
+330 domains tested. 90.9090909090909% were behind nothing (30 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-17 used cloudflare (4.829545454545454%):
+15 used cloudflare (4.545454545454546%):
 ```
 amassmodel.top
 anonhost.in
-crackload.net
 ecoproducts.com.my
 fvia.id.vn
 ixirix.com
@@ -35,7 +34,6 @@ rodhigital.com
 sante.cd
 sinopecllc.top
 spices.com.sg
-spydezgame.com
 www.agies.org
 www.idpminic.org
 ```
@@ -55,17 +53,16 @@ www.idpminic.org
 
 ```
 
-1 used fastly (0.2840909090909091%):
-```
-infinitycheats.org
+0 used fastly (0.0%):
 ```
 
-4 used sucuri (1.1363636363636365%):
 ```
-allcarephh.com
+
+3 used sucuri (0.9090909090909091%):
+```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
-youronestophalalshop.com
 ```
 
 0 used myracloud (0.0%):
