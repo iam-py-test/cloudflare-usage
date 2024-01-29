@@ -1,5 +1,5 @@
-1000 domains tested. 59.199999999999996% were behind nothing (408 were behind something). 225 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 59.699999999999996% were behind nothing (403 were behind something). 212 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -24,7 +24,6 @@ mysql.com
 news.com.au
 office365.com
 rakuten.co.jp
-redhat.com
 service-now.com
 staples.com
 wbx2.com
@@ -46,13 +45,14 @@ b-cdn.net
 
 ```
 
-63 used cloudflare (6.3%):
+68 used cloudflare (6.800000000000001%):
 ```
 33across.com
 allaboutcookies.org
 ancestry.com
 applovin.com
 berkeley.edu
+bidmachine.io
 bluehost.com
 braze.com
 btloader.com
@@ -63,6 +63,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+creativecommons.org
 discogs.com
 discord.com
 discord.gg
@@ -82,16 +83,19 @@ indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-maricopa.gov
+klaviyo.com
+life360.com
+mmcdn.com
 myshopify.com
+onesignal.com
 ozon.ru
 pixabay.com
+plex.tv
 prnewswire.com
 quantummetric.com
 researchgate.net
 roku.com
 sciencedirect.com
-sectigo.com
 shein.com
 sitescout.com
 skroutz.gr
@@ -113,7 +117,7 @@ zendesk.com
 zoom.us
 ```
 
-85 used cloudfront (8.5%):
+88 used cloudfront (8.799999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -163,6 +167,7 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -178,6 +183,7 @@ segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
+smartthings.com
 soundcloud.com
 spot.im
 state.gov
@@ -193,6 +199,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -202,8 +209,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```

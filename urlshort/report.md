@@ -1,4 +1,4 @@
-249 domains tested. 34.53815261044177% were behind nothing (163 were behind something). 61 domains could not be tested.<br>
+249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 79 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,22 +21,12 @@ go.microsoft.com
 
 ```
 
-86 used cloudflare (34.53815261044177%):
+69 used cloudflare (27.710843373493976%):
 ```
 02ip.ru
-2fear.com
-2no.co
-2savvy.com
-2truth.com
-adf.ly
-adshrink.it
+2freedom.com
 ahscdn.com
-alturl.com
-antiblog.com
-bc.vc
-ceesty.com
 chilp.it
-clk.sh
 cuty.io
 direct-link.net
 echoz.com
@@ -50,19 +40,12 @@ grabify.link
 grabify.world
 imghost.pics
 ipgraber.ru
-iplogger.co
 iplogger.com
 iplogger.org
-iplogger.ru
-is.gd
-itsssl.com
 joinmy.site
-klclick1.com
-link-center.net
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
-lyksoomu.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -111,8 +94,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-11 used cloudfront (4.417670682730924%):
+12 used cloudfront (4.819277108433735%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
