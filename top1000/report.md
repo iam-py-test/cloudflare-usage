@@ -1,4 +1,4 @@
-1000 domains tested. 59.599999999999994% were behind nothing (404 were behind something). 219 domains could not be tested.<br>
+1000 domains tested. 59.199999999999996% were behind nothing (408 were behind something). 225 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -68,6 +68,7 @@ discord.com
 discord.gg
 docker.com
 fiverr.com
+fontawesome.com
 forter.com
 genius.com
 heylink.me
@@ -76,14 +77,12 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
-immunet.com
 indeed.com
 indexww.com
 innovid.com
 jquery.com
 kickstarter.com
-klaviyo.com
-markmonitor.com
+maricopa.gov
 myshopify.com
 ozon.ru
 pixabay.com
@@ -92,6 +91,7 @@ quantummetric.com
 researchgate.net
 roku.com
 sciencedirect.com
+sectigo.com
 shein.com
 sitescout.com
 skroutz.gr
@@ -113,7 +113,7 @@ zendesk.com
 zoom.us
 ```
 
-87 used cloudfront (8.7%):
+85 used cloudfront (8.5%):
 ```
 3lift.com
 a-mo.net
@@ -125,7 +125,6 @@ amazonvideo.com
 amzn.to
 aniview.com
 atlassian.com
-atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -194,7 +193,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com

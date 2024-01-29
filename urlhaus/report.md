@@ -1,4 +1,4 @@
-233 domains tested. 89.27038626609442% were behind nothing (25 were behind something). 11 domains could not be tested.<br>
+242 domains tested. 91.73553719008265% were behind nothing (20 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,17 @@
 
 ```
 
-12 used cloudflare (5.150214592274678%):
+11 used cloudflare (4.545454545454546%):
 ```
 anonhost.in
-crackload.net
 ecoproducts.com.my
+fvia.id.vn
+iamjustasimplelink.com
 leeziptv.com
-octocrabs.com
 pan.tenire.com
-rocheholding.top
 rodhigital.com
-sinopecllc.top
 spices.com.sg
+spydezgame.com
 www.agies.org
 www.idpminic.org
 ```
@@ -55,8 +54,10 @@ www.idpminic.org
 
 ```
 
-2 used sucuri (0.8583690987124464%):
+4 used sucuri (1.6528925619834711%):
 ```
+www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
 ```

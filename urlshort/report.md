@@ -1,4 +1,4 @@
-249 domains tested. 33.734939759036145% were behind nothing (165 were behind something). 51 domains could not be tested.<br>
+249 domains tested. 34.53815261044177% were behind nothing (163 were behind something). 61 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,59 +21,48 @@ go.microsoft.com
 
 ```
 
-97 used cloudflare (38.95582329317269%):
+86 used cloudflare (34.53815261044177%):
 ```
 02ip.ru
-24ex.com
+2fear.com
 2no.co
 2savvy.com
+2truth.com
 adf.ly
 adshrink.it
 ahscdn.com
+alturl.com
 antiblog.com
-bigbig.com
+bc.vc
+ceesty.com
 chilp.it
-cleanuri.com
-cli.re
 clk.sh
-corneey.com
-cutt.ly
 cuty.io
-destyy.com
-ebored.com
+direct-link.net
 echoz.com
-exe.io
-ezstat.ru
-fc.lc
-filetap.com
 foot.wiki
 fortnight.space
 fortnitechat.site
 gamergirl.pro
 gamingfun.me
 goo.su
+grabify.link
 grabify.world
-hereweb.com
-hitart.com
 imghost.pics
 ipgraber.ru
 iplogger.co
 iplogger.com
-iplogger.info
 iplogger.org
 iplogger.ru
 is.gd
+itsssl.com
 joinmy.site
-klclick.com
 klclick1.com
 link-center.net
-link.tnlink.in
 linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
-linkvertise.com
-ln.run
-mgnet.xyz
+lyksoomu.com
 myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
@@ -122,9 +111,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.819277108433735%):
+11 used cloudfront (4.417670682730924%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
