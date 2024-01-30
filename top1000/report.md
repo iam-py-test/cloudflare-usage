@@ -1,4 +1,4 @@
-1000 domains tested. 59.699999999999996% were behind nothing (403 were behind something). 212 domains could not be tested.<br>
+1000 domains tested. 59.4% were behind nothing (406 were behind something). 208 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-68 used cloudflare (6.800000000000001%):
+76 used cloudflare (7.6%):
 ```
 33across.com
 allaboutcookies.org
@@ -63,13 +63,12 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-creativecommons.org
-discogs.com
 discord.com
 discord.gg
+discordapp.com
 docker.com
+dotomi.com
 fiverr.com
-fontawesome.com
 forter.com
 genius.com
 heylink.me
@@ -81,18 +80,26 @@ ibm.com
 indeed.com
 indexww.com
 innovid.com
+jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
 life360.com
-mmcdn.com
+mgid.com
 myshopify.com
-onesignal.com
+okta.com
+onetrust.com
+optimizely.com
 ozon.ru
+perfectdomain.com
 pixabay.com
+plesk.com
 plex.tv
+princeton.edu
 prnewswire.com
 quantummetric.com
+quizlet.com
+quora.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -100,6 +107,7 @@ shein.com
 sitescout.com
 skroutz.gr
 sourceforge.net
+tandfonline.com
 tinyurl.com
 udemy.com
 unpkg.com
@@ -117,7 +125,7 @@ zendesk.com
 zoom.us
 ```
 
-88 used cloudfront (8.799999999999999%):
+87 used cloudfront (8.7%):
 ```
 3lift.com
 a-mo.net
@@ -167,7 +175,6 @@ lijit.com
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov

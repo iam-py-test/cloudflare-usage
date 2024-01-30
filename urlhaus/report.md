@@ -1,4 +1,4 @@
-236 domains tested. 90.67796610169492% were behind nothing (22 were behind something). 5 domains could not be tested.<br>
+230 domains tested. 89.13043478260869% were behind nothing (25 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-13 used cloudflare (5.508474576271186%):
+15 used cloudflare (6.521739130434782%):
 ```
 anonhost.in
 crackload.net
@@ -27,11 +27,13 @@ ecoproducts.com.my
 fvia.id.vn
 iamjustasimplelink.com
 kalnet.top
+kingkongreplacer.net
 leeziptv.com
+magic.poisontoolz.com
+nab.blueyonderllc.top
 pan.tenire.com
 rodhigital.com
-spices.com.sg
-spydezgame.com
+vollfisioterapia.com.br
 www.agies.org
 www.idpminic.org
 ```
@@ -56,9 +58,8 @@ www.idpminic.org
 
 ```
 
-4 used sucuri (1.694915254237288%):
+3 used sucuri (1.3043478260869565%):
 ```
-www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
