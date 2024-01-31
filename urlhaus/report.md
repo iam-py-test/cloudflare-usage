@@ -1,4 +1,4 @@
-230 domains tested. 89.13043478260869% were behind nothing (25 were behind something). 7 domains could not be tested.<br>
+239 domains tested. 87.86610878661088% were behind nothing (29 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,10 @@
 
 ```
 
-15 used cloudflare (6.521739130434782%):
+16 used cloudflare (6.694560669456067%):
 ```
-anonhost.in
-crackload.net
+allstarprivate.net
+brodbeckconsulting.com
 ecoproducts.com.my
 fvia.id.vn
 iamjustasimplelink.com
@@ -33,8 +33,9 @@ magic.poisontoolz.com
 nab.blueyonderllc.top
 pan.tenire.com
 rodhigital.com
-vollfisioterapia.com.br
-www.agies.org
+sinopecllc.top
+spices.com.sg
+spydezgame.com
 www.idpminic.org
 ```
 
@@ -58,8 +59,9 @@ www.idpminic.org
 
 ```
 
-3 used sucuri (1.3043478260869565%):
+4 used sucuri (1.6736401673640167%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
