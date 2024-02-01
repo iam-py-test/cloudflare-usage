@@ -1,4 +1,4 @@
-195 domains tested. 64.61538461538461% were behind nothing (69 were behind something). 3 domains could not be tested.<br>
+195 domains tested. 64.61538461538461% were behind nothing (69 were behind something). 4 domains could not be tested.<br>
 2 used akamai (1.0256410256410255%):
 ```
 dailymail.co.uk
@@ -52,13 +52,12 @@ thewire.in
 washingtontimes.com
 ```
 
-36 used cloudfront (18.461538461538463%):
+35 used cloudfront (17.94871794871795%):
 ```
 abcnews.go.com
 andhrajyothy.com
 ap.org
 bostonglobe.com
-chicagotribune.com
 csmonitor.com
 economist.com
 economist.com
