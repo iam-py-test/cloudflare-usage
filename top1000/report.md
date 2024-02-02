@@ -1,5 +1,5 @@
-1000 domains tested. 67.4% were behind nothing (326 were behind something). 60 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 67.5% were behind nothing (325 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -17,12 +17,11 @@ fedex.com
 force.com
 godaddy.com
 hp.com
+ifood.com.br
 intel.com
 lowes.com
-macys.com
 mysql.com
 news.com.au
-nike.com
 office365.com
 rakuten.co.jp
 service-now.com
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+123 used cloudflare (12.3%):
 ```
 2gis.com
 33across.com
@@ -56,7 +55,6 @@ ancestry.com
 appier.net
 applovin.com
 berkeley.edu
-bidmachine.io
 bitdefender.com
 bluehost.com
 bootstrapcdn.com
@@ -78,7 +76,6 @@ cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
 coingecko.com
-constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -123,12 +120,12 @@ mgid.com
 myshopify.com
 n-able.com
 networkadvertising.org
+notion.so
 okta.com
 onesignal.com
 onetrust.com
 online.net
 optimizely.com
-ozon.ru
 patreon.com
 perfectdomain.com
 pexels.com
@@ -150,6 +147,7 @@ shopify.com
 sitescout.com
 skroutz.gr
 sourceforge.net
+spamhaus.org
 spankbang.com
 sportskeeda.com
 stackoverflow.com
@@ -174,20 +172,21 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
