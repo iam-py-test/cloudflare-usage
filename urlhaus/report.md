@@ -1,4 +1,4 @@
-250 domains tested. 86.8% were behind nothing (33 were behind something). 9 domains could not be tested.<br>
+213 domains tested. 89.2018779342723% were behind nothing (23 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,17 @@
 
 ```
 
-20 used cloudflare (8.0%):
+13 used cloudflare (6.103286384976526%):
 ```
-allstarprivate.net
 blueyonderllc.top
-brodbeckconsulting.com
-chashni.co
 crackload.net
-ecoproducts.com.my
 ecox.pt
-fvia.id.vn
 hentaicapture.com
 kalnet.top
-magic.poisontoolz.com
-pan.tenire.com
+power.poisontoolz.com
 rodhigital.com
 sayhellotomalware.shop
 sinopecllc.top
-sistema-xyz.online
 spices.com.sg
 spydezgame.com
 www.agies.org
@@ -63,7 +56,7 @@ www.idpminic.org
 
 ```
 
-4 used sucuri (1.6%):
+4 used sucuri (1.8779342723004695%):
 ```
 www.asterglobal.com
 www.bearware.org
