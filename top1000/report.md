@@ -1,5 +1,5 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 63 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 67.80000000000001% were behind nothing (322 were behind something). 61 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -7,7 +7,6 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
-avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -20,6 +19,7 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 office365.com
@@ -28,7 +28,6 @@ service-now.com
 staples.com
 wbx2.com
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -77,6 +76,7 @@ cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
 coingecko.com
+constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -142,7 +142,6 @@ quora.com
 researchgate.net
 roku.com
 sciencedirect.com
-sectigo.com
 shein.com
 shopify.com
 sitescout.com
@@ -173,20 +172,17 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
-amazon.de
+amazon.com.au
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -273,6 +269,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
