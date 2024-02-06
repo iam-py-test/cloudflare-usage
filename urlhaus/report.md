@@ -1,4 +1,4 @@
-235 domains tested. 90.63829787234042% were behind nothing (22 were behind something). 6 domains could not be tested.<br>
+212 domains tested. 92.9245283018868% were behind nothing (15 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,13 @@
 
 ```
 
-13 used cloudflare (5.531914893617021%):
+6 used cloudflare (2.8301886792452833%):
 ```
 brazilanimalshelp.com
-brodbeckconsulting.com
-crackload.net
 ecoproducts.com.my
-ecox.pt
-fvia.id.vn
+kalnet.top
 lilitisback.com
-pan.tenire.com
-power.poisontoolz.com
-rodhigital.com
 spices.com.sg
-www.agies.org
 www.idpminic.org
 ```
 
@@ -56,10 +49,10 @@ www.idpminic.org
 
 ```
 
-3 used sucuri (1.276595744680851%):
+3 used sucuri (1.4150943396226416%):
 ```
 www.asterglobal.com
-www.bearware.org
+www.lasikofmichigan.com
 youronestophalalshop.com
 ```
 

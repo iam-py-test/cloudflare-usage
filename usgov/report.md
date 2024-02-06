@@ -1,4 +1,4 @@
-360 domains tested. 62.5% were behind nothing (135 were behind something). 52 domains could not be tested.<br>
+360 domains tested. 63.05555555555556% were behind nothing (133 were behind something). 49 domains could not be tested.<br>
 18 used akamai (5.0%):
 ```
 amtrak.com
@@ -124,9 +124,9 @@ usun.usmission.gov
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.2777777777777778%):
 ```
-
+jusfc.gov
 ```
 
 0 used myracloud (0.0%):

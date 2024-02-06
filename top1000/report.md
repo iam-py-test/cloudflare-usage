@@ -1,4 +1,4 @@
-1000 domains tested. 67.80000000000001% were behind nothing (322 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 67.9% were behind nothing (321 were behind something). 61 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -22,10 +22,10 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 office365.com
 rakuten.co.jp
 service-now.com
-staples.com
 wbx2.com
 weforum.org
 ```
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+122 used cloudflare (12.2%):
 ```
 2gis.com
 33across.com
@@ -119,7 +119,6 @@ mediafire.com
 medium.com
 mgid.com
 myshopify.com
-n-able.com
 networkadvertising.org
 notion.so
 okta.com
@@ -178,10 +177,11 @@ zoom.us
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
-amazon.es
+amazon.com.br
+amazon.de
 amazon.fr
 amazon.it
 amazonaws.com
@@ -269,7 +269,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
