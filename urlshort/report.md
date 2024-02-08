@@ -1,4 +1,4 @@
-249 domains tested. 36.94779116465863% were behind nothing (157 were behind something). 10 domains could not be tested.<br>
+249 domains tested. 36.54618473895582% were behind nothing (158 were behind something). 12 domains could not be tested.<br>
 3 used akamai (1.2048192771084338%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-131 used cloudflare (52.610441767068274%):
+130 used cloudflare (52.208835341365464%):
 ```
 02ip.ru
 1sta.com
@@ -127,7 +127,6 @@ shorte.st
 shorten.ee
 shorten.is
 shorten.world
-shorter.cf
 shorturl.at
 shorturl.com
 shre.su
