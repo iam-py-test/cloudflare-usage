@@ -1,5 +1,5 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 62 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 67.5% were behind nothing (325 were behind something). 63 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -18,6 +18,7 @@ fedex.com
 force.com
 godaddy.com
 hp.com
+ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -172,7 +173,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -181,10 +182,8 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
-amazon.es
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -257,7 +256,6 @@ shalltry.com
 sharethis.com
 shutterstock.com
 soundcloud.com
-spot.im
 state.gov
 statuspage.io
 surveymonkey.com
@@ -273,7 +271,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
