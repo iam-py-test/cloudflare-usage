@@ -6,6 +6,7 @@ adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+att.com
 autodesk.com
 avira.com
 dailymail.co.uk
@@ -18,7 +19,6 @@ fedex.com
 force.com
 godaddy.com
 hp.com
-ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -179,12 +179,11 @@ zoom.us
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.au
+amazon.com.br
 amazon.de
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -242,6 +241,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nicovideo.jp
 noaa.gov
 onet.pl
 pbs.org
