@@ -259,6 +259,12 @@ def hascloudflare(url):
 			return "deflect"
 		if "x-ezoic-cdn" in r.headers:
 				return "ezoic"
+		if "x-cdn" in r.headers:
+			print(r.headers["x-cdn"])
+			if r.headers["x-cdn"] == "Imperva"
+				return "imperva"
+		if "x-incap-sess-cookie-hdr" in r.headers or "x-iinfo" in r.headers:
+			return "imperva"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -328,6 +334,10 @@ report_base = {
 			"ips": []
 		},
 		"ezoic": {
+			"domains": [],
+			"ips": []
+		},
+		"incapsula": {
 			"domains": [],
 			"ips": []
 		},
