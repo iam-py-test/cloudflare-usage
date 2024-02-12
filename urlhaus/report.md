@@ -1,4 +1,4 @@
-325 domains tested. 91.6923076923077% were behind nothing (27 were behind something). 11 domains could not be tested.<br>
+246 domains tested. 89.83739837398373% were behind nothing (25 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,17 @@
 
 ```
 
-13 used cloudflare (4.0%):
+13 used cloudflare (5.284552845528456%):
 ```
 294fashionably.sbs
-allstarprivate.net
+brazilanimalshelp.com
 brodbeckconsulting.com
 crackload.net
 ecoproducts.com.my
 fvia.id.vn
-icvpartners.com
 liteshade.org
 pan.tenire.com
+power.poisontoolz.com
 rodhigital.com
 spices.com.sg
 www.agies.org
@@ -56,11 +56,10 @@ www.idpminic.org
 
 ```
 
-3 used sucuri (0.9230769230769231%):
+2 used sucuri (0.8130081300813009%):
 ```
-www.asterglobal.com
 www.bearware.org
-www.lasikofmichigan.com
+youronestophalalshop.com
 ```
 
 0 used myracloud (0.0%):
