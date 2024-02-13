@@ -1,5 +1,5 @@
-1000 domains tested. 66.9% were behind nothing (331 were behind something). 64 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 67.7% were behind nothing (323 were behind something). 61 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -20,10 +20,8 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
-macys.com
 mysql.com
 news.com.au
-nike.com
 office365.com
 rakuten.co.jp
 service-now.com
@@ -96,7 +94,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -128,6 +125,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
+optimizely.com
 patreon.com
 pexels.com
 pixabay.com
@@ -171,21 +169,19 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -337,8 +333,7 @@ php.net
 
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-tapad.com
 ```

@@ -1,4 +1,4 @@
-33 domains tested. 57.57575757575758% were behind nothing (14 were behind something). 1 domains could not be tested.<br>
+33 domains tested. 57.57575757575758% were behind nothing (14 were behind something). 0 domains could not be tested.<br>
 1 used akamai (3.0303030303030303%):
 ```
 avira.com
@@ -19,7 +19,7 @@ avira.com
 
 ```
 
-11 used cloudflare (33.33333333333333%):
+12 used cloudflare (36.36363636363637%):
 ```
 abuseipdb.com
 any.run
@@ -28,6 +28,7 @@ clamav.net
 crowdstrike.com
 emsisoft.com
 gridinsoft.com
+haveibeenpwned.com
 hybrid-analysis.com
 id-ransomware.malwarehunterteam.com
 netcraft.com
