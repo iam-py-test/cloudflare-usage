@@ -142,3 +142,8 @@ www.thedumbterminal.co.uk
 ```
 
 ```
+
+0 used incapsula (0.0%):
+```
+
+```

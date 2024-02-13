@@ -1,4 +1,4 @@
-246 domains tested. 89.83739837398373% were behind nothing (25 were behind something). 10 domains could not be tested.<br>
+263 domains tested. 87.07224334600761% were behind nothing (34 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,24 @@
 
 ```
 
-13 used cloudflare (5.284552845528456%):
+16 used cloudflare (6.083650190114068%):
 ```
 294fashionably.sbs
+allstarprivate.net
+beerfear.net
 brazilanimalshelp.com
 brodbeckconsulting.com
-crackload.net
 ecoproducts.com.my
 fvia.id.vn
-liteshade.org
-pan.tenire.com
 power.poisontoolz.com
 rodhigital.com
 spices.com.sg
+spydezgame.com
+vollfisioterapia.com.br
 www.agies.org
 www.idpminic.org
+www.mystictesting.com
+www.s0s.xyz
 ```
 
 0 used cloudfront (0.0%):
@@ -56,9 +59,11 @@ www.idpminic.org
 
 ```
 
-2 used sucuri (0.8130081300813009%):
+4 used sucuri (1.520912547528517%):
 ```
+www.asterglobal.com
 www.bearware.org
+www.lasikofmichigan.com
 youronestophalalshop.com
 ```
 
@@ -83,6 +88,11 @@ youronestophalalshop.com
 ```
 
 0 used ezoic (0.0%):
+```
+
+```
+
+0 used incapsula (0.0%):
 ```
 
 ```

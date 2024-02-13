@@ -1,5 +1,5 @@
-1000 domains tested. 67.9% were behind nothing (321 were behind something). 58 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.9% were behind nothing (331 were behind something). 64 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -20,8 +20,10 @@ godaddy.com
 hp.com
 intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
+nike.com
 office365.com
 rakuten.co.jp
 service-now.com
@@ -44,7 +46,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+121 used cloudflare (12.1%):
 ```
 2gis.com
 33across.com
@@ -79,6 +81,7 @@ constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
+deepintent.com
 digitalocean.com
 discogs.com
 discord.com
@@ -125,9 +128,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
-optimizely.com
 patreon.com
-perfectdomain.com
 pexels.com
 pixabay.com
 pixiv.net
@@ -148,7 +149,6 @@ skroutz.gr
 sourceforge.net
 spamhaus.org
 spankbang.com
-sportskeeda.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -171,17 +171,19 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.fr
+amazon.es
 amazon.in
 amazon.it
 amazonaws.com
@@ -328,4 +330,15 @@ php.net
 0 used ezoic (0.0%):
 ```
 
+```
+
+0 used incapsula (0.0%):
+```
+
+```
+
+2 used imperva (0.2%):
+```
+digicert.com
+tapad.com
 ```

@@ -1,4 +1,4 @@
-360 domains tested. 62.5% were behind nothing (135 were behind something). 50 domains could not be tested.<br>
+360 domains tested. 62.77777777777778% were behind nothing (134 were behind something). 47 domains could not be tested.<br>
 19 used akamai (5.277777777777778%):
 ```
 amtrak.com
@@ -153,4 +153,15 @@ jusfc.gov
 0 used ezoic (0.0%):
 ```
 
+```
+
+0 used incapsula (0.0%):
+```
+
+```
+
+2 used imperva (0.5555555555555556%):
+```
+fjc.gov
+state.nj.us
 ```
