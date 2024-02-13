@@ -261,7 +261,7 @@ def hascloudflare(url):
 				return "ezoic"
 		if "x-cdn" in r.headers:
 			print(r.headers["x-cdn"])
-			if r.headers["x-cdn"] == "Imperva"
+			if r.headers["x-cdn"] == "Imperva":
 				return "imperva"
 		if "x-incap-sess-cookie-hdr" in r.headers or "x-iinfo" in r.headers:
 			return "imperva"
