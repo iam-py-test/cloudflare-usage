@@ -1,5 +1,5 @@
 1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 63 domains could not be tested.<br>
-27 used akamai (2.7%):
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ news.com.au
 office365.com
 rakuten.co.jp
 service-now.com
+usnews.com
 wbx2.com
 weforum.org
 ```
@@ -45,7 +46,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+123 used cloudflare (12.3%):
 ```
 2gis.com
 33across.com
@@ -95,7 +96,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -178,13 +178,13 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
-amazon.co.jp
-amazon.co.uk
+amazon.ca
 amazon.com
 amazon.com.br
 amazon.de
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
