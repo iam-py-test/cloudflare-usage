@@ -1,4 +1,4 @@
-258 domains tested. 90.31007751937985% were behind nothing (25 were behind something). 10 domains could not be tested.<br>
+266 domains tested. 83.45864661654136% were behind nothing (44 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,25 @@
 
 ```
 
-12 used cloudflare (4.651162790697675%):
+20 used cloudflare (7.518796992481203%):
 ```
 allstarprivate.net
+aluminprodu.top
 beerfear.net
 brazilanimalshelp.com
-brodbeckconsulting.com
+crackload.net
+dlink.metallc.top
 ecoproducts.com.my
 fvia.id.vn
+heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
+power.poisontoolz.com
+rodhigital.com
+soundata.top
+soundbase.top
+spices.com.sg
 spydezgame.com
-www.agies.org
+universalmovies.top
 www.idpminic.org
 www.mystictesting.com
 www.s0s.xyz
@@ -55,8 +63,9 @@ www.s0s.xyz
 
 ```
 
-3 used sucuri (1.1627906976744187%):
+4 used sucuri (1.5037593984962405%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com

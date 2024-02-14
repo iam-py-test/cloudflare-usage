@@ -3,13 +3,12 @@ a3.shared.global.fastly.net
 api.nextgen.guardianapps.co.uk
 api.shipt.com
 api.twitch.tv
-ar.pinterest.com
 assets.guim.co.uk
 at.pinterest.com
 atc.spotify.map.fastly.net
 b.thumbs.redditmedia.com
 bbc.map.fastly.net
-br.pinterest.com
+ca.pinterest.com
 cdn.intellimize.co
 cdn.jsdelivr.net
 cdn.krxd.net
@@ -21,6 +20,7 @@ client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
 co.pinterest.com
 ct.pinterest.com
+cz.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
@@ -49,8 +49,6 @@ gql.twitch.tv
 gr.pinterest.com
 guardian.map.fastly.net
 hits-secure.theguardian.com
-hu.pinterest.com
-i.ebayimg.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
@@ -61,7 +59,6 @@ imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
 jsdelivr.map.fastly.net
@@ -73,6 +70,7 @@ media.cnn.com
 mosaic.scdn.co
 mx.pinterest.com
 n.sni.global.fastly.net
+nl.pinterest.com
 no.pinterest.com
 nytimes.map.fastly.net
 object-storage.shipt.com
@@ -84,7 +82,6 @@ pages.github.com
 paypal-dynamic-2.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
-pbs.twimg.com
 ph.pinterest.com
 pl.pinterest.com
 pl.scdn.co
@@ -100,8 +97,10 @@ ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 s.imgur.com
+s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
+sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -138,10 +137,18 @@ www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
 www.paypalobjects.com
+www.pinterest.cl
 www.pinterest.co.kr
 www.pinterest.co.uk
+www.pinterest.com
+www.pinterest.com.au
+www.pinterest.de
 www.pinterest.dk
+www.pinterest.es
 www.pinterest.fr
+www.pinterest.jp
+www.pinterest.nz
+www.pinterest.se
 www.reddit.com
 www.redditstatic.com
 www.shipt.com
