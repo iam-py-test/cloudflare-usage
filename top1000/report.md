@@ -1,4 +1,4 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 63 domains could not be tested.<br>
+1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 62 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -46,7 +46,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -96,6 +96,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -150,6 +151,7 @@ skroutz.gr
 sourceforge.net
 spamhaus.org
 spankbang.com
+sportskeeda.com
 stackoverflow.com
 statcounter.com
 takeaway.com
@@ -173,15 +175,15 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.br
-amazon.de
 amazon.fr
 amazon.in
 amazon.it
@@ -231,7 +233,6 @@ imdb.com
 intercom.io
 intuit.com
 ipify.org
-ironsrc.mobi
 latimes.com
 lijit.com
 line.me
