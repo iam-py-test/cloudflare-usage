@@ -1,4 +1,4 @@
-242 domains tested. 86.36363636363636% were behind nothing (33 were behind something). 10 domains could not be tested.<br>
+244 domains tested. 88.11475409836066% were behind nothing (29 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,27 @@
 
 ```
 
-18 used cloudflare (7.43801652892562%):
+19 used cloudflare (7.786885245901639%):
 ```
-294diesel-propelled.sbs
+allstarprivate.net
 aluminprodu.top
+beerfear.net
 brazilanimalshelp.com
-dnccomputers.com
+brodbeckconsulting.com
+crackload.net
 ecoproducts.com.my
 eercs.com
 fvia.id.vn
 heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
-rodhigital.com
+power.poisontoolz.com
 soundata.top
 soundbase.top
 soundline.top
 spices.com.sg
-universalmovies.top
+spydezgame.com
 www.agies.org
 www.idpminic.org
-www.s0s.xyz
 ```
 
 0 used cloudfront (0.0%):
@@ -46,9 +47,9 @@ www.s0s.xyz
 
 ```
 
-1 used ddosguard (0.4132231404958678%):
+0 used ddosguard (0.0%):
 ```
-wishmd.com
+
 ```
 
 0 used edgecast (0.0%):
@@ -61,12 +62,11 @@ wishmd.com
 
 ```
 
-4 used sucuri (1.6528925619834711%):
+3 used sucuri (1.2295081967213115%):
 ```
 www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
-youronestophalalshop.com
 ```
 
 0 used myracloud (0.0%):
