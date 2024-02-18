@@ -1,4 +1,4 @@
-1000 domains tested. 67.80000000000001% were behind nothing (322 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 68.0% were behind nothing (320 were behind something). 58 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -151,7 +151,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -164,6 +163,7 @@ unrulymedia.com
 upwork.com
 verkada.com
 vimeo.com
+visa.com
 vungle.com
 w3.org
 webmd.com
@@ -179,13 +179,12 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
-amazon.co.jp
+amazon.ca
 amazon.co.uk
+amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -271,6 +270,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
