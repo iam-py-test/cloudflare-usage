@@ -1,4 +1,4 @@
-257 domains tested. 88.715953307393% were behind nothing (29 were behind something). 5 domains could not be tested.<br>
+235 domains tested. 88.08510638297872% were behind nothing (28 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,23 @@
 
 ```
 
-20 used cloudflare (7.782101167315175%):
+16 used cloudflare (6.808510638297872%):
 ```
+allstarprivate.net
 aluminprodu.top
 beerfear.net
-brazilanimalshelp.com
 brodbeckconsulting.com
 crackload.net
 ecoproducts.com.my
 eercs.com
-fvia.id.vn
 heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
-power.poisontoolz.com
 rodhigital.com
 soundata.top
 soundbase.top
 soundline.top
 spices.com.sg
 spydezgame.com
-vollfisioterapia.com.br
-www.agies.org
 www.idpminic.org
 ```
 
@@ -63,12 +59,11 @@ www.idpminic.org
 
 ```
 
-4 used sucuri (1.556420233463035%):
+3 used sucuri (1.276595744680851%):
 ```
 www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
-youronestophalalshop.com
 ```
 
 0 used myracloud (0.0%):
