@@ -1,9 +1,8 @@
-197 domains tested. 65.98984771573603% were behind nothing (67 were behind something). 1 domains could not be tested.<br>
-3 used akamai (1.5228426395939088%):
+197 domains tested. 65.48223350253807% were behind nothing (68 were behind something). 3 domains could not be tested.<br>
+2 used akamai (1.015228426395939%):
 ```
 dailymail.co.uk
 news.sky.com
-usnews.com
 ```
 
 0 used bunnycdn (0.0%):
