@@ -1,5 +1,5 @@
-249 domains tested. 35.7429718875502% were behind nothing (160 were behind something). 14 domains could not be tested.<br>
-3 used akamai (1.2048192771084338%):
+252 domains tested. 37.698412698412696% were behind nothing (157 were behind something). 9 domains could not be tested.<br>
+3 used akamai (1.1904761904761905%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-130 used cloudflare (52.208835341365464%):
+132 used cloudflare (52.38095238095239%):
 ```
 02ip.ru
 1sta.com
@@ -48,6 +48,7 @@ ceesty.com
 chilp.it
 cleanuri.com
 cli.re
+click.discord.com
 clk.asia
 clk.sh
 clks.pro
@@ -77,6 +78,7 @@ grabify.link
 grabify.world
 headplug.com
 hereweb.com
+heylink.me
 hitart.com
 ibf.tw
 imghost.pics
@@ -155,7 +157,7 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.819277108433735%):
+12 used cloudfront (4.761904761904762%):
 ```
 a.co
 bstore.smsb.co
@@ -186,7 +188,7 @@ zpr.io
 
 ```
 
-1 used sucuri (0.4016064257028112%):
+1 used sucuri (0.3968253968253968%):
 ```
 wee.so
 ```
