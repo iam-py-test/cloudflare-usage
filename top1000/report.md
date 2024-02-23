@@ -1,4 +1,4 @@
-1000 domains tested. 67.5% were behind nothing (325 were behind something). 62 domains could not be tested.<br>
+1000 domains tested. 67.7% were behind nothing (323 were behind something). 61 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -46,7 +46,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+123 used cloudflare (12.3%):
 ```
 2gis.com
 33across.com
@@ -137,7 +137,6 @@ plesk.com
 plex.tv
 princeton.edu
 prnewswire.com
-quantummetric.com
 quizlet.com
 quora.com
 researchgate.net
@@ -179,9 +178,9 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
