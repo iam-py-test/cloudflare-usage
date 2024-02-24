@@ -1,4 +1,4 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 62 domains could not be tested.<br>
+1000 domains tested. 67.60000000000001% were behind nothing (324 were behind something). 60 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -126,7 +126,6 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
-onlyfans.com
 optimizely.com
 ozon.ru
 patreon.com
