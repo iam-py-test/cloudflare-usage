@@ -1,5 +1,5 @@
-1000 domains tested. 67.7% were behind nothing (323 were behind something). 61 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 62 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -28,7 +28,6 @@ rakuten.co.jp
 service-now.com
 wbx2.com
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -127,6 +126,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
+onlyfans.com
 optimizely.com
 ozon.ru
 patreon.com
@@ -149,6 +149,7 @@ skroutz.gr
 sourceforge.net
 spamhaus.org
 spankbang.com
+sportskeeda.com
 stackoverflow.com
 statcounter.com
 takeaway.com
@@ -173,14 +174,16 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
