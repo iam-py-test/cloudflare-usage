@@ -569,6 +569,11 @@ try:
 	check_domains(invidious, "invidious")
 except Exception as err:
 	print(err)
+try:
+	mastodon = sorted(open("data/mastodon.txt").read().replace("\r", "").split("\n"))
+	check_domains(mastodon, "mastodon")
+except Exception as err:
+	print(err)
 
 savereport()
 savecnames()
