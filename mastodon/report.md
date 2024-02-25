@@ -1,4 +1,4 @@
-103 domains tested. 86.40776699029125% were behind nothing (14 were behind something). 2 domains could not be tested.<br>
+103 domains tested. 85.43689320388349% were behind nothing (15 were behind something). 1 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,13 @@
 
 ```
 
-12 used cloudflare (11.650485436893204%):
+14 used cloudflare (13.592233009708737%):
 ```
 better.boston
 journa.host
 kolektiva.social
+mas.to
+mastodon.scot
 me.dm
 mstdn.ca
 mstdn.io

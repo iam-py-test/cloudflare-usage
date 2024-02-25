@@ -1,4 +1,4 @@
-254 domains tested. 88.58267716535433% were behind nothing (29 were behind something). 8 domains could not be tested.<br>
+262 domains tested. 87.78625954198473% were behind nothing (32 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,22 @@
 
 ```
 
-18 used cloudflare (7.086614173228346%):
+16 used cloudflare (6.106870229007633%):
 ```
 ahsanadigital.com
-aluminprodu.top
 brazilanimalshelp.com
-brodbeckconsulting.com
+checkpoint.up4download.xyz
 crackload.net
 dnccomputers.com
 ecoproducts.com.my
 eercs.com
-freedownloadmanage.org
 heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
 power.poisontoolz.com
 rodhigital.com
 spices.com.sg
 spydezgame.com
-teliallc.top
+valowaves.com
 www.agies.org
 www.idpminic.org
 ```
@@ -61,9 +59,10 @@ www.idpminic.org
 
 ```
 
-3 used sucuri (1.1811023622047243%):
+4 used sucuri (1.5267175572519083%):
 ```
 www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
 ```
