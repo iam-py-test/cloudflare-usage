@@ -1,5 +1,5 @@
-1000 domains tested. 67.10000000000001% were behind nothing (329 were behind something). 70 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 67.7% were behind nothing (323 were behind something). 65 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -18,7 +18,6 @@ fedex.com
 force.com
 godaddy.com
 hp.com
-ifood.com.br
 intel.com
 lowes.com
 macys.com
@@ -96,7 +95,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -149,6 +147,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 takeaway.com
@@ -178,10 +177,9 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
-amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -268,6 +266,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com
