@@ -1,4 +1,4 @@
-249 domains tested. 88.35341365461848% were behind nothing (29 were behind something). 10 domains could not be tested.<br>
+240 domains tested. 86.66666666666667% were behind nothing (32 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,21 @@
 
 ```
 
-15 used cloudflare (6.024096385542169%):
+15 used cloudflare (6.25%):
 ```
-294down-river.sbs
 aluminprodu.top
 brazilanimalshelp.com
-brodbeckconsulting.com
-dnccomputers.com
+crackload.net
+ecoproducts.com.my
 eercs.com
 heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
 reboot.show
+ricohltd.top
 rodhigital.com
 spices.com.sg
 valowaves.com
-vollfisioterapia.com.br
+vauxhall.top
 www.agies.org
 www.idpminic.org
 ```
@@ -58,7 +58,7 @@ www.idpminic.org
 
 ```
 
-4 used sucuri (1.6064257028112447%):
+4 used sucuri (1.6666666666666667%):
 ```
 www.asterglobal.com
 www.bearware.org

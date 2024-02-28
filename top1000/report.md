@@ -1,8 +1,7 @@
-1000 domains tested. 67.7% were behind nothing (323 were behind something). 65 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 77.2% were behind nothing (228 were behind something). 49 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 accuweather.com
-adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
@@ -15,8 +14,6 @@ ebay.de
 eepurl.com
 fda.gov
 fedex.com
-force.com
-godaddy.com
 hp.com
 intel.com
 lowes.com
@@ -24,11 +21,6 @@ macys.com
 mysql.com
 news.com.au
 office365.com
-rakuten.co.jp
-redhat.com
-service-now.com
-wbx2.com
-weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -46,7 +38,7 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+79 used cloudflare (7.9%):
 ```
 2gis.com
 33across.com
@@ -95,6 +87,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -112,7 +105,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 loc.gov
-maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -123,61 +115,22 @@ n-able.com
 networkadvertising.org
 notion.so
 okta.com
-onesignal.com
-onetrust.com
-online.net
-optimizely.com
-ozon.ru
 patreon.com
-pexels.com
-pixabay.com
-pixiv.net
-plesk.com
-plex.tv
-princeton.edu
-prnewswire.com
-quizlet.com
-quora.com
-researchgate.net
-roku.com
-sciencedirect.com
-shein.com
-shopify.com
-sitescout.com
-skroutz.gr
-sourceforge.net
-spamhaus.org
-spankbang.com
-stackoverflow.com
-statcounter.com
-takeaway.com
-tandfonline.com
-teamviewer.com
 themeforest.net
 tinyurl.com
-udemy.com
 unpkg.com
-unrulymedia.com
-upwork.com
-verkada.com
-vimeo.com
-visa.com
-vungle.com
-w3.org
-webmd.com
-who.int
-wiley.com
-xhamster.com
-zendesk.com
-zoom.us
 ```
 
-100 used cloudfront (10.0%):
+75 used cloudfront (7.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -238,42 +191,13 @@ name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
-onet.pl
-pbs.org
 primevideo.com
-rapid7.com
-rayjump.com
-repubblica.it
-reuters.com
-robinhood.com
-segment.io
-shalltry.com
-sharethis.com
-shutterstock.com
 soundcloud.com
-state.gov
-statuspage.io
-surveymonkey.com
-swrve.com
-synology.com
-t-online.de
 thesun.co.uk
 time.com
 tp-link.com
 tradingview.com
-tremorhub.com
-trustpilot.com
-typeform.com
-ubnt.com
 ui.com
-un.org
-uol.com.br
-utorrent.com
-warnerbros.com
-wattpad.com
-worldbank.org
-wsj.com
-zillow.com
 ```
 
 2 used ddosguard (0.2%):
@@ -287,11 +211,9 @@ netangels.ru
 
 ```
 
-3 used fastly (0.3%):
+1 used fastly (0.1%):
 ```
 github.io
-speedtest.net
-www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -299,9 +221,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):
