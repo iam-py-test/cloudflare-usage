@@ -1,4 +1,4 @@
-1000 domains tested. 67.60000000000001% were behind nothing (324 were behind something). 65 domains could not be tested.<br>
+1000 domains tested. 67.4% were behind nothing (326 were behind something). 66 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -6,7 +6,6 @@ adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
@@ -17,12 +16,13 @@ fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 office365.com
 rakuten.co.jp
-redhat.com
 service-now.com
 wbx2.com
 weforum.org
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -73,6 +73,7 @@ cloudflare.com
 cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
+constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -177,10 +178,11 @@ a-mo.net
 academia.edu
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
-amazon.fr
+amazon.es
 amazon.in
 amazon.it
 amazonaws.com
@@ -199,7 +201,6 @@ chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
-classdojo.com
 clever.com
 coinmarketcap.com
 connatix.com

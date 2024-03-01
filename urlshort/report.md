@@ -1,4 +1,4 @@
-253 domains tested. 37.15415019762846% were behind nothing (159 were behind something). 16 domains could not be tested.<br>
+253 domains tested. 37.94466403162055% were behind nothing (157 were behind something). 9 domains could not be tested.<br>
 3 used akamai (1.185770750988142%):
 ```
 eepurl.com
@@ -21,15 +21,17 @@ go.microsoft.com
 
 ```
 
-127 used cloudflare (50.19762845849802%):
+133 used cloudflare (52.569169960474305%):
 ```
 02ip.ru
 1sta.com
 24ex.com
+2fear.com
 2fortune.com
 2freedom.com
 2hell.com
 2no.co
+2savvy.com
 2truth.com
 2tunes.com
 2ya.com
@@ -38,6 +40,7 @@ adfoc.us
 adshrink.it
 ahscdn.com
 alturl.com
+antiblog.com
 bc.vc
 bigbig.com
 buff.ly
@@ -56,6 +59,7 @@ dealtap.com
 destyy.com
 direct-link.net
 dommania.pl
+ebored.com
 echoz.com
 exe.io
 exee.app
@@ -72,6 +76,8 @@ gamingfun.me
 goo.su
 grabify.link
 grabify.world
+headplug.com
+hereweb.com
 heylink.me
 hitart.com
 ibf.tw
@@ -152,9 +158,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.743083003952568%):
+11 used cloudfront (4.3478260869565215%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy
