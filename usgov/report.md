@@ -1,5 +1,5 @@
-360 domains tested. 62.22222222222222% were behind nothing (136 were behind something). 48 domains could not be tested.<br>
-19 used akamai (5.277777777777778%):
+360 domains tested. 67.5% were behind nothing (117 were behind something). 46 domains could not be tested.<br>
+15 used akamai (4.166666666666666%):
 ```
 amtrak.com
 bea.gov
@@ -16,10 +16,6 @@ maritime.dot.gov
 npin.cdc.gov
 railroads.dot.gov
 sec.gov
-stats.bls.gov
-studentaid.gov
-transit.dot.gov
-usfa.fema.gov
 ```
 
 0 used bunnycdn (0.0%):
@@ -37,7 +33,7 @@ usfa.fema.gov
 
 ```
 
-27 used cloudflare (7.5%):
+25 used cloudflare (6.944444444444445%):
 ```
 aoc.gov
 bjs.gov
@@ -64,11 +60,9 @@ nij.ojp.gov
 ojp.gov
 peacecorps.gov
 srbc.net
-tva.com
-uscirf.gov
 ```
 
-39 used cloudfront (10.833333333333334%):
+29 used cloudfront (8.055555555555555%):
 ```
 ahrq.gov
 alabama.gov
@@ -98,16 +92,6 @@ noaa.gov
 nps.gov
 onrr.gov
 sba.gov
-sss.gov
-state.gov
-usa.gov
-usgs.gov
-ushmm.org
-usmint.gov
-uspto.gov
-ustaxcourt.gov
-ustda.gov
-ustr.gov
 usun.usmission.gov
 ```
 
@@ -161,8 +145,7 @@ jusfc.gov
 
 ```
 
-2 used imperva (0.5555555555555556%):
+1 used imperva (0.2777777777777778%):
 ```
 fjc.gov
-state.nj.us
 ```
