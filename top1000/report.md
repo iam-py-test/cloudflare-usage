@@ -1,5 +1,5 @@
-1000 domains tested. 78.2% were behind nothing (218 were behind something). 45 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 67.4% were behind nothing (326 were behind something). 67 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -22,6 +22,11 @@ lowes.com
 macys.com
 mysql.com
 news.com.au
+office365.com
+rakuten.co.jp
+service-now.com
+wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -39,7 +44,7 @@ b-cdn.net
 
 ```
 
-81 used cloudflare (8.1%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -117,25 +122,69 @@ myshopify.com
 n-able.com
 networkadvertising.org
 notion.so
+okta.com
+onesignal.com
+onetrust.com
+online.net
+optimizely.com
+ozon.ru
+patreon.com
+pexels.com
+pixabay.com
+pixiv.net
+plesk.com
+plex.tv
 princeton.edu
+prnewswire.com
+quizlet.com
+quora.com
+researchgate.net
+roku.com
 sciencedirect.com
+shein.com
+shopify.com
+sitescout.com
+skroutz.gr
+sourceforge.net
+spamhaus.org
+spankbang.com
+sportskeeda.com
+stackoverflow.com
+statcounter.com
+tandfonline.com
+teamviewer.com
+themeforest.net
+tinyurl.com
+udemy.com
+unpkg.com
+unrulymedia.com
+upwork.com
+verkada.com
+vimeo.com
 visa.com
+vungle.com
 w3.org
+webmd.com
+who.int
+wiley.com
 xhamster.com
+zendesk.com
+zoom.us
 ```
 
-66 used cloudfront (6.6000000000000005%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -179,7 +228,6 @@ ieee.org
 imdb.com
 intercom.io
 intuit.com
-ipify.org
 latimes.com
 lijit.com
 line.me
@@ -191,7 +239,42 @@ name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
+onet.pl
+pbs.org
+primevideo.com
+rapid7.com
+rayjump.com
+repubblica.it
+reuters.com
+robinhood.com
+segment.io
+shalltry.com
+sharethis.com
+shutterstock.com
+soundcloud.com
+state.gov
+statuspage.io
+surveymonkey.com
+swrve.com
+synology.com
+t-online.de
+thesun.co.uk
+time.com
+tp-link.com
+tradingview.com
+tremorhub.com
+trustpilot.com
+typeform.com
+ubnt.com
+ui.com
+un.org
+uol.com.br
+utorrent.com
+warnerbros.com
 wattpad.com
+worldbank.org
+wsj.com
+zillow.com
 ```
 
 2 used ddosguard (0.2%):
@@ -205,9 +288,11 @@ netangels.ru
 
 ```
 
-1 used fastly (0.1%):
+3 used fastly (0.3%):
 ```
 github.io
+speedtest.net
+www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -215,9 +300,9 @@ github.io
 
 ```
 
-0 used myracloud (0.0%):
+1 used myracloud (0.1%):
 ```
-
+php.net
 ```
 
 0 used keycdn (0.0%):
