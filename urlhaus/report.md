@@ -1,4 +1,4 @@
-254 domains tested. 88.58267716535433% were behind nothing (29 were behind something). 11 domains could not be tested.<br>
+250 domains tested. 90.0% were behind nothing (25 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,20 @@
 
 ```
 
-14 used cloudflare (5.511811023622047%):
+14 used cloudflare (5.6000000000000005%):
 ```
 acenitive.shop
 aluminprodu.top
 brazilanimalshelp.com
 crackload.net
+ecoproducts.com.my
 eercs.com
 fvia.id.vn
-heygirlisheeverythingyouwantedinaman.com
 pan.tenire.com
 sharetext.me
 spices.com.sg
+trypokemon.com
 universalmovies.top
-valowaves.com
 www.agies.org
 www.idpminic.org
 ```
@@ -57,7 +57,7 @@ www.idpminic.org
 
 ```
 
-4 used sucuri (1.574803149606299%):
+4 used sucuri (1.6%):
 ```
 www.asterglobal.com
 www.bearware.org
