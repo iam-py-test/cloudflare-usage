@@ -1,4 +1,4 @@
-232 domains tested. 90.94827586206897% were behind nothing (21 were behind something). 5 domains could not be tested.<br>
+250 domains tested. 90.4% were behind nothing (24 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,15 @@
 
 ```
 
-13 used cloudflare (5.603448275862069%):
+14 used cloudflare (5.6000000000000005%):
 ```
 acenitive.shop
 brazilanimalshelp.com
 crackload.net
+ecoproducts.com.my
+eercs.com
 fvia.id.vn
 licocojambamarketplace.com
-pan.tenire.com
 sharetext.me
 spices.com.sg
 tmpfiles.org
@@ -56,9 +57,9 @@ www.idpminic.org
 
 ```
 
-3 used sucuri (1.293103448275862%):
+3 used sucuri (1.2%):
 ```
-www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 youronestophalalshop.com
 ```
