@@ -1,4 +1,4 @@
-198 domains tested. 65.65656565656566% were behind nothing (68 were behind something). 2 domains could not be tested.<br>
+198 domains tested. 65.15151515151516% were behind nothing (69 were behind something). 3 domains could not be tested.<br>
 2 used akamai (1.0101010101010102%):
 ```
 dailymail.co.uk
