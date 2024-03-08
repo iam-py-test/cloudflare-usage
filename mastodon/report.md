@@ -1,4 +1,4 @@
-103 domains tested. 84.46601941747572% were behind nothing (16 were behind something). 1 domains could not be tested.<br>
+103 domains tested. 85.43689320388349% were behind nothing (15 were behind something). 1 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-15 used cloudflare (14.563106796116504%):
+14 used cloudflare (13.592233009708737%):
 ```
 better.boston
 journa.host
@@ -35,7 +35,6 @@ tapbots.social
 techhub.social
 universeodon.com
 vivaldi.net
-wanderingwires.net
 ```
 
 0 used cloudfront (0.0%):
