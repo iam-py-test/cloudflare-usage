@@ -1,10 +1,9 @@
-214 domains tested. 61.6822429906542% were behind nothing (82 were behind something). 6 domains could not be tested.<br>
-4 used akamai (1.8691588785046727%):
+214 domains tested. 62.149532710280376% were behind nothing (81 were behind something). 6 domains could not be tested.<br>
+3 used akamai (1.4018691588785046%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.ebates.com
-www.microsoft.com
 ```
 
 4 used bunnycdn (1.8691588785046727%):
@@ -25,7 +24,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-50 used cloudflare (23.364485981308412%):
+51 used cloudflare (23.83177570093458%):
 ```
 1275.ru
 abp.tt.codes
@@ -42,6 +41,7 @@ blocklist.cyberthreatcoalition.org
 blocklist.palemoon.org
 blokada.org
 cdn.adblockcdn.com
+cdn.jsdelivr.net
 combinatronics.io
 dns-family.adguard.com
 dns.adguard.com
@@ -94,12 +94,11 @@ isc.sans.edu
 
 ```
 
-16 used fastly (7.476635514018691%):
+15 used fastly (7.009345794392523%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
 easydutch-ubo.github.io
