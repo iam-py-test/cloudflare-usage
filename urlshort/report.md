@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-131 used cloudflare (51.77865612648221%):
+132 used cloudflare (52.17391304347826%):
 ```
 02ip.ru
 1sta.com
@@ -144,6 +144,7 @@ stopify.co
 streak-link.com
 t.ly
 tii.la
+tinyurl.com
 track.canva.com
 uprot.net
 urlday.cc
@@ -156,9 +157,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.743083003952568%):
+11 used cloudfront (4.3478260869565215%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 rb.gy

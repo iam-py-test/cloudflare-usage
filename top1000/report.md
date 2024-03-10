@@ -1,26 +1,32 @@
-1000 domains tested. 76.5% were behind nothing (235 were behind something). 51 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 68.0% were behind nothing (320 were behind something). 63 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
 news.com.au
 office365.com
+rakuten.co.jp
+service-now.com
 wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -38,7 +44,7 @@ b-cdn.net
 
 ```
 
-87 used cloudflare (8.7%):
+122 used cloudflare (12.2%):
 ```
 33across.com
 addtoany.com
@@ -67,7 +73,6 @@ cloudflare.com
 cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
-constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -117,31 +122,67 @@ networkadvertising.org
 nordvpn.com
 notion.so
 okta.com
+onesignal.com
+onetrust.com
+online.net
+optimizely.com
+ozon.ru
+patreon.com
+pexels.com
+pixabay.com
 pixiv.net
+plesk.com
+plex.tv
+princeton.edu
+prnewswire.com
+quizlet.com
+quora.com
 researchgate.net
+roku.com
+sciencedirect.com
+shein.com
+shopify.com
+sitescout.com
+skroutz.gr
 sourceforge.net
+spamhaus.org
+spankbang.com
+sportskeeda.com
+stackoverflow.com
+statcounter.com
+tandfonline.com
+teamviewer.com
+themeforest.net
+tinyurl.com
 udemy.com
 unpkg.com
 unrulymedia.com
 upwork.com
 vimeo.com
 visa.com
+vungle.com
+w3.org
+webmd.com
 who.int
+wiley.com
+xhamster.com
+zendesk.com
+zoom.us
 ```
 
-72 used cloudfront (7.199999999999999%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -195,12 +236,41 @@ name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
+onet.pl
+pbs.org
+primevideo.com
+rapid7.com
 rayjump.com
+realtor.com
+repubblica.it
+reuters.com
 robinhood.com
+segment.io
+shalltry.com
 sharethis.com
+shutterstock.com
+soundcloud.com
+state.gov
+statuspage.io
+surveymonkey.com
+swrve.com
+synology.com
+t-online.de
+thesun.co.uk
+time.com
+tp-link.com
+tradingview.com
+tremorhub.com
+trustpilot.com
+typeform.com
+ubnt.com
+ui.com
+un.org
 uol.com.br
 utorrent.com
+warnerbros.com
 wattpad.com
+worldbank.org
 wsj.com
 zillow.com
 ```
@@ -216,9 +286,11 @@ netangels.ru
 
 ```
 
-1 used fastly (0.1%):
+3 used fastly (0.3%):
 ```
 github.io
+speedtest.net
+www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -226,9 +298,9 @@ github.io
 
 ```
 
-0 used myracloud (0.0%):
+1 used myracloud (0.1%):
 ```
-
+php.net
 ```
 
 0 used keycdn (0.0%):
