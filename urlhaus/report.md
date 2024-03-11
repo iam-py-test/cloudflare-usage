@@ -1,4 +1,4 @@
-237 domains tested. 91.56118143459916% were behind nothing (20 were behind something). 7 domains could not be tested.<br>
+255 domains tested. 91.37254901960785% were behind nothing (22 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,20 @@
 
 ```
 
-11 used cloudflare (4.641350210970464%):
+12 used cloudflare (4.705882352941177%):
 ```
 aluminprodu.top
 amassmodel.top
 brazilanimalshelp.com
+checkpoint.up4download.xyz
 crazyco.re
 dukeenergyltd.top
-expeditionbuilders.com
-fvia.id.vn
+ecoproducts.com.my
 licocojambamarketplace.com
 pan.tenire.com
 spices.com.sg
 tmpfiles.org
+valowaves.com
 ```
 
 0 used cloudfront (0.0%):
@@ -54,8 +55,9 @@ tmpfiles.org
 
 ```
 
-2 used sucuri (0.8438818565400843%):
+3 used sucuri (1.1764705882352942%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```
