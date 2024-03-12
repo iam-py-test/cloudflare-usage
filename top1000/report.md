@@ -1,5 +1,5 @@
-1000 domains tested. 68.7% were behind nothing (313 were behind something). 62 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 68.30000000000001% were behind nothing (317 were behind something). 65 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -16,8 +16,10 @@ fedex.com
 godaddy.com
 hp.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
+office365.com
 rakuten.co.jp
 service-now.com
 wbx2.com
@@ -44,9 +46,11 @@ b-cdn.net
 addtoany.com
 allaboutcookies.org
 ancestry.com
+apnews.com
 appier.net
 applovin.com
 berkeley.edu
+bidmachine.io
 bitdefender.com
 bluehost.com
 bootstrapcdn.com
@@ -86,7 +90,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 grserver.gr
 heylink.me
 hostgator.com
@@ -140,7 +143,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 sportskeeda.com
 stackoverflow.com
 statcounter.com
@@ -164,17 +166,16 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -223,7 +224,6 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
-mongodb.com
 mozilla.com
 mozilla.org
 name.com
@@ -236,6 +236,7 @@ primevideo.com
 rapid7.com
 rayjump.com
 realtor.com
+redfin.com
 repubblica.it
 reuters.com
 robinhood.com
@@ -246,6 +247,7 @@ shutterstock.com
 soundcloud.com
 state.gov
 statuspage.io
+supercell.com
 surveymonkey.com
 swrve.com
 synology.com
@@ -259,7 +261,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com

@@ -1,4 +1,4 @@
-200 domains tested. 64.5% were behind nothing (71 were behind something). 3 domains could not be tested.<br>
+200 domains tested. 64.5% were behind nothing (71 were behind something). 2 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 dailymail.co.uk
@@ -20,11 +20,12 @@ news.sky.com
 
 ```
 
-31 used cloudflare (15.5%):
+32 used cloudflare (16.0%):
 ```
 972mag.com
 alarabiya.net
 altnews.in
+apnews.com
 axios.com
 bleepingcomputer.com
 businessden.com
