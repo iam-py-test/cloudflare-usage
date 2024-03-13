@@ -20,11 +20,12 @@ news.sky.com
 
 ```
 
-32 used cloudflare (16.0%):
+33 used cloudflare (16.5%):
 ```
 972mag.com
 alarabiya.net
 altnews.in
+ap.org
 apnews.com
 axios.com
 bleepingcomputer.com
@@ -56,11 +57,10 @@ thewire.in
 washingtontimes.com
 ```
 
-35 used cloudfront (17.5%):
+34 used cloudfront (17.0%):
 ```
 abcnews.go.com
 andhrajyothy.com
-ap.org
 bostonglobe.com
 csmonitor.com
 economist.com

@@ -1,4 +1,4 @@
-253 domains tested. 35.96837944664031% were behind nothing (162 were behind something). 14 domains could not be tested.<br>
+253 domains tested. 37.94466403162055% were behind nothing (157 were behind something). 9 domains could not be tested.<br>
 3 used akamai (1.185770750988142%):
 ```
 eepurl.com
@@ -37,7 +37,6 @@ go.microsoft.com
 2ya.com
 adf.ly
 adfoc.us
-adshrink.it
 ahscdn.com
 alturl.com
 antiblog.com
@@ -146,6 +145,7 @@ tii.la
 tinyurl.com
 track.canva.com
 uprot.net
+url1.io
 urlday.cc
 urlshortx.com
 usheethe.com

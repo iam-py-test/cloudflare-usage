@@ -1,4 +1,4 @@
-1000 domains tested. 68.30000000000001% were behind nothing (317 were behind something). 65 domains could not be tested.<br>
+1000 domains tested. 68.30000000000001% were behind nothing (317 were behind something). 60 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
@@ -40,7 +40,7 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+123 used cloudflare (12.3%):
 ```
 33across.com
 addtoany.com
@@ -71,7 +71,6 @@ cloudflare.com
 cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
-constantcontact.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -90,6 +89,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 grserver.gr
 heylink.me
 hostgator.com
@@ -143,6 +143,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 sportskeeda.com
 stackoverflow.com
 statcounter.com
@@ -166,14 +167,16 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.fr
 amazon.in
@@ -240,6 +243,7 @@ redfin.com
 repubblica.it
 reuters.com
 robinhood.com
+ryanair.com
 segment.io
 shalltry.com
 sharethis.com
@@ -261,6 +265,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 uol.com.br
 utorrent.com
 warnerbros.com

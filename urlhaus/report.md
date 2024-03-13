@@ -1,4 +1,4 @@
-249 domains tested. 91.56626506024097% were behind nothing (21 were behind something). 8 domains could not be tested.<br>
+218 domains tested. 89.90825688073394% were behind nothing (22 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,19 @@
 
 ```
 
-10 used cloudflare (4.016064257028113%):
+11 used cloudflare (5.045871559633028%):
 ```
-aluminprodu.top
+02ip.ru
 amassmodel.top
 brazilanimalshelp.com
+crackload.net
 crazyco.re
+dnccomputers.com
 ecoproducts.com.my
+eercs.com
 fvia.id.vn
 licocojambamarketplace.com
-pan.tenire.com
 spices.com.sg
-valowaves.com
 ```
 
 0 used cloudfront (0.0%):
@@ -53,7 +54,7 @@ valowaves.com
 
 ```
 
-3 used sucuri (1.2048192771084338%):
+3 used sucuri (1.3761467889908259%):
 ```
 www.asterglobal.com
 www.bearware.org
