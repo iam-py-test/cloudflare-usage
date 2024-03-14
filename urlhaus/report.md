@@ -1,4 +1,4 @@
-218 domains tested. 89.90825688073394% were behind nothing (22 were behind something). 8 domains could not be tested.<br>
+238 domains tested. 92.01680672268907% were behind nothing (19 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-11 used cloudflare (5.045871559633028%):
+11 used cloudflare (4.621848739495799%):
 ```
 02ip.ru
 amassmodel.top
-brazilanimalshelp.com
 crackload.net
 crazyco.re
 dnccomputers.com
@@ -32,6 +31,7 @@ eercs.com
 fvia.id.vn
 licocojambamarketplace.com
 spices.com.sg
+valowaves.com
 ```
 
 0 used cloudfront (0.0%):
@@ -54,10 +54,9 @@ spices.com.sg
 
 ```
 
-3 used sucuri (1.3761467889908259%):
+2 used sucuri (0.8403361344537815%):
 ```
 www.asterglobal.com
-www.bearware.org
 www.lasikofmichigan.com
 ```
 
