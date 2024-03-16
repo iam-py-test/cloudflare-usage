@@ -1,4 +1,4 @@
-238 domains tested. 90.75630252100841% were behind nothing (22 were behind something). 9 domains could not be tested.<br>
+236 domains tested. 90.67796610169492% were behind nothing (22 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,13 @@
 
 ```
 
-12 used cloudflare (5.042016806722689%):
+8 used cloudflare (3.389830508474576%):
 ```
-aluminprodu.top
-brazilanimalshelp.com
 crackload.net
 crazyco.re
-dnccomputers.com
-ecoproducts.com.my
 eercs.com
 fvia.id.vn
-spices.com.sg
+licocojambamarketplace.com
 uri.ac
 valowaves.com
 vauxhall.top
@@ -55,8 +51,10 @@ vauxhall.top
 
 ```
 
-1 used sucuri (0.42016806722689076%):
+3 used sucuri (1.2711864406779663%):
 ```
+www.asterglobal.com
+www.bearware.org
 www.lasikofmichigan.com
 ```
 

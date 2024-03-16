@@ -1,20 +1,23 @@
-1000 domains tested. 68.5% were behind nothing (315 were behind something). 62 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 67.60000000000001% were behind nothing (324 were behind something). 66 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
@@ -23,6 +26,7 @@ office365.com
 rakuten.co.jp
 service-now.com
 wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -40,7 +44,7 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+121 used cloudflare (12.1%):
 ```
 33across.com
 addtoany.com
@@ -89,7 +93,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 grserver.gr
 heylink.me
 hostgator.com
@@ -97,6 +100,7 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ibm.com
+identrust.com
 ietf.org
 immunet.com
 indeed.com
@@ -143,7 +147,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -166,15 +169,17 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
 amazon.co.jp
+amazon.com
 amazon.com.br
-amazon.es
+amazon.de
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
