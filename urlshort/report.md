@@ -1,4 +1,4 @@
-253 domains tested. 37.54940711462451% were behind nothing (158 were behind something). 11 domains could not be tested.<br>
+253 domains tested. 37.94466403162055% were behind nothing (157 were behind something). 9 domains could not be tested.<br>
 3 used akamai (1.185770750988142%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-129 used cloudflare (50.988142292490124%):
+130 used cloudflare (51.38339920948617%):
 ```
 02ip.ru
 1sta.com
@@ -88,6 +88,7 @@ iplogger.info
 iplogger.org
 iplogger.ru
 is.gd
+itsssl.com
 joinmy.site
 kingshortener.com
 klclick.com
