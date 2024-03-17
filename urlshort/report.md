@@ -1,4 +1,4 @@
-253 domains tested. 36.75889328063241% were behind nothing (160 were behind something). 12 domains could not be tested.<br>
+253 domains tested. 39.130434782608695% were behind nothing (154 were behind something). 11 domains could not be tested.<br>
 3 used akamai (1.185770750988142%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-130 used cloudflare (51.38339920948617%):
+125 used cloudflare (49.40711462450593%):
 ```
 02ip.ru
 1sta.com
@@ -43,7 +43,6 @@ antiblog.com
 bc.vc
 bigbig.com
 buff.ly
-ceesty.com
 chilp.it
 cleanuri.com
 cli.re
@@ -51,11 +50,9 @@ click.discord.com
 clk.asia
 clk.sh
 clks.pro
-corneey.com
 cutt.ly
 cuty.io
 dealtap.com
-destyy.com
 direct-link.net
 dommania.pl
 ebored.com
@@ -122,8 +119,6 @@ rotf.lol
 s.id
 screenshare.pics
 screenshot.best
-sh.st
-shorte.st
 shorten.ee
 shorten.is
 shorten.world

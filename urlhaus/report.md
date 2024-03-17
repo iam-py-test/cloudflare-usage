@@ -1,4 +1,4 @@
-236 domains tested. 90.67796610169492% were behind nothing (22 were behind something). 11 domains could not be tested.<br>
+228 domains tested. 92.10526315789474% were behind nothing (18 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,13 @@
 
 ```
 
-8 used cloudflare (3.389830508474576%):
+7 used cloudflare (3.070175438596491%):
 ```
-crackload.net
+brazilanimalshelp.com
 crazyco.re
 eercs.com
 fvia.id.vn
-licocojambamarketplace.com
-uri.ac
+spices.com.sg
 valowaves.com
 vauxhall.top
 ```
@@ -51,10 +50,9 @@ vauxhall.top
 
 ```
 
-3 used sucuri (1.2711864406779663%):
+2 used sucuri (0.8771929824561403%):
 ```
 www.asterglobal.com
-www.bearware.org
 www.lasikofmichigan.com
 ```
 
