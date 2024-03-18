@@ -1,4 +1,4 @@
-228 domains tested. 92.10526315789474% were behind nothing (18 were behind something). 9 domains could not be tested.<br>
+248 domains tested. 92.33870967741935% were behind nothing (19 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,18 @@
 
 ```
 
-7 used cloudflare (3.070175438596491%):
+10 used cloudflare (4.032258064516129%):
 ```
+blackhattoolz.com
 brazilanimalshelp.com
-crazyco.re
+crackload.net
+ecoproducts.com.my
 eercs.com
 fvia.id.vn
+licocojambamarketplace.com
 spices.com.sg
 valowaves.com
-vauxhall.top
+www.blackhattoolz.com
 ```
 
 0 used cloudfront (0.0%):
@@ -50,9 +53,8 @@ vauxhall.top
 
 ```
 
-2 used sucuri (0.8771929824561403%):
+1 used sucuri (0.4032258064516129%):
 ```
-www.asterglobal.com
 www.lasikofmichigan.com
 ```
 

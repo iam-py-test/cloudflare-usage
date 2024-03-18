@@ -1,20 +1,22 @@
-1000 domains tested. 68.5% were behind nothing (315 were behind something). 61 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 68.10000000000001% were behind nothing (319 were behind something). 64 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
-ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
@@ -23,6 +25,7 @@ office365.com
 rakuten.co.jp
 service-now.com
 wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -90,7 +93,6 @@ forter.com
 genius.com
 gitlab.com
 globalsign.com
-grserver.gr
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -144,6 +146,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -166,17 +169,16 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-amazon.ca
-amazon.co.uk
-amazon.de
+amazon.co.jp
+amazon.com
+amazon.com.br
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -263,7 +265,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
