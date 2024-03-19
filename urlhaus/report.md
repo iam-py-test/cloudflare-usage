@@ -1,4 +1,4 @@
-248 domains tested. 92.33870967741935% were behind nothing (19 were behind something). 8 domains could not be tested.<br>
+240 domains tested. 90.83333333333333% were behind nothing (22 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,15 @@
 
 ```
 
-10 used cloudflare (4.032258064516129%):
+9 used cloudflare (3.75%):
 ```
 blackhattoolz.com
 brazilanimalshelp.com
+broadcomllc.top
 crackload.net
+dnccomputers.com
 ecoproducts.com.my
 eercs.com
-fvia.id.vn
-licocojambamarketplace.com
-spices.com.sg
 valowaves.com
 www.blackhattoolz.com
 ```
@@ -53,8 +52,9 @@ www.blackhattoolz.com
 
 ```
 
-1 used sucuri (0.4032258064516129%):
+2 used sucuri (0.8333333333333334%):
 ```
+www.bearware.org
 www.lasikofmichigan.com
 ```
 

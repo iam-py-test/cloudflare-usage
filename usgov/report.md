@@ -1,5 +1,5 @@
-361 domains tested. 62.04986149584487% were behind nothing (137 were behind something). 48 domains could not be tested.<br>
-18 used akamai (4.986149584487535%):
+361 domains tested. 62.04986149584487% were behind nothing (137 were behind something). 47 domains could not be tested.<br>
+19 used akamai (5.263157894736842%):
 ```
 bea.gov
 cic.ndu.edu
@@ -13,6 +13,7 @@ investor.gov
 jfsc.ndu.edu
 maritime.dot.gov
 npin.cdc.gov
+nsa.gov
 railroads.dot.gov
 sec.gov
 stats.bls.gov
