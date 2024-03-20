@@ -1,4 +1,4 @@
-253 domains tested. 39.920948616600796% were behind nothing (152 were behind something). 9 domains could not be tested.<br>
+253 domains tested. 39.920948616600796% were behind nothing (152 were behind something). 10 domains could not be tested.<br>
 3 used akamai (1.185770750988142%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-125 used cloudflare (49.40711462450593%):
+124 used cloudflare (49.01185770750988%):
 ```
 02ip.ru
 1sta.com
@@ -109,7 +109,6 @@ myprivate.pics
 noodshare.pics
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 ouo.io
-p.chilp.it
 photovault.pics
 pichost.pics
 picshost.pics
