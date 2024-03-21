@@ -1,5 +1,5 @@
-1000 domains tested. 68.8% were behind nothing (312 were behind something). 62 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 68.5% were behind nothing (315 were behind something). 63 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -7,6 +7,8 @@ adobe.net
 airbnb.com
 arubanetworks.com
 dailymail.co.uk
+ebay.co.uk
+ebay.com
 ebay.de
 eepurl.com
 expedia.com
@@ -168,10 +170,8 @@ zoom.us
 3lift.com
 a-mo.net
 academia.edu
-amazon.ca
 amazon.co.uk
 amazon.com.br
-amazon.de
 amazon.fr
 amazon.in
 amazon.it
@@ -259,6 +259,8 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
