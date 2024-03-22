@@ -1,4 +1,4 @@
-258 domains tested. 88.75968992248062% were behind nothing (29 were behind something). 12 domains could not be tested.<br>
+277 domains tested. 88.08664259927798% were behind nothing (33 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-15 used cloudflare (5.813953488372093%):
+14 used cloudflare (5.054151624548736%):
 ```
 blackhattoolz.com
 brazilanimalshelp.com
-carthewasher.net
 crackload.net
 crazyco.re
 dnccomputers.com
@@ -33,9 +32,9 @@ licocojambamarketplace.com
 namecloudvideo.org
 pan.tenire.com
 spices.com.sg
-sty.ink
 valowaves.com
 www.blackhattoolz.com
+www.rec4.tv
 ```
 
 0 used cloudfront (0.0%):
@@ -58,10 +57,11 @@ www.blackhattoolz.com
 
 ```
 
-2 used sucuri (0.7751937984496124%):
+3 used sucuri (1.083032490974729%):
 ```
 www.asterglobal.com
 www.bearware.org
+www.lasikofmichigan.com
 ```
 
 0 used myracloud (0.0%):

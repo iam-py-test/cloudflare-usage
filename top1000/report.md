@@ -1,20 +1,22 @@
-1000 domains tested. 68.5% were behind nothing (315 were behind something). 63 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 67.5% were behind nothing (325 were behind something). 66 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
-ebay.com
 ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
@@ -23,6 +25,7 @@ office365.com
 rakuten.co.jp
 service-now.com
 wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -154,10 +157,10 @@ unpkg.com
 unrulymedia.com
 upwork.com
 vimeo.com
-visa.com
 vungle.com
 w3.org
 webmd.com
+weebly.com
 who.int
 wiley.com
 xhamster.com
@@ -165,13 +168,18 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+amazon.ca
+amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -242,6 +250,7 @@ segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
+si.com
 soundcloud.com
 state.gov
 statuspage.io
@@ -259,7 +268,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 uol.com.br
 utorrent.com
 warnerbros.com
@@ -322,8 +330,7 @@ php.net
 
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-redislabs.com
 ```
