@@ -1,5 +1,5 @@
-253 domains tested. 37.94466403162055% were behind nothing (157 were behind something). 14 domains could not be tested.<br>
-3 used akamai (1.185770750988142%):
+255 domains tested. 39.6078431372549% were behind nothing (154 were behind something). 10 domains could not be tested.<br>
+3 used akamai (1.1764705882352942%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-125 used cloudflare (49.40711462450593%):
+126 used cloudflare (49.411764705882355%):
 ```
 02ip.ru
 1sta.com
@@ -108,6 +108,7 @@ mgnet.xyz
 mirrorz.com
 myprivate.pics
 noodshare.pics
+nyl.as
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 ouo.io
 photovault.pics
@@ -150,7 +151,7 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-14 used cloudfront (5.533596837944664%):
+14 used cloudfront (5.490196078431373%):
 ```
 a.co
 bstore.smsb.co
@@ -183,7 +184,7 @@ zpr.io
 
 ```
 
-1 used sucuri (0.3952569169960474%):
+1 used sucuri (0.39215686274509803%):
 ```
 wee.so
 ```

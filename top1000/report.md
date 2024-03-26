@@ -1,35 +1,12 @@
-1000 domains tested. 68.5% were behind nothing (315 were behind something). 64 domains could not be tested.<br>
-24 used akamai (2.4%):
-```
-accuweather.com
-adobe.com
-adobe.net
-airbnb.com
-arubanetworks.com
-autodesk.com
-dailymail.co.uk
-ebay.de
-eepurl.com
-expedia.com
-fda.gov
-fedex.com
-godaddy.com
-hp.com
-intel.com
-lowes.com
-macys.com
-mysql.com
-news.com.au
-office365.com
-rakuten.co.jp
-service-now.com
-wbx2.com
-weforum.org
+1000 domains tested. 20.5% were behind nothing (795 were behind something). 762 domains could not be tested.<br>
+0 used akamai (0.0%):
 ```
 
-1 used bunnycdn (0.1%):
 ```
-b-cdn.net
+
+0 used bunnycdn (0.0%):
+```
+
 ```
 
 0 used cachefly (0.0%):
@@ -42,237 +19,79 @@ b-cdn.net
 
 ```
 
-120 used cloudflare (12.0%):
+27 used cloudflare (2.7%):
 ```
-33across.com
-addtoany.com
-allaboutcookies.org
 ancestry.com
-apnews.com
-appier.net
-applovin.com
-berkeley.edu
-bidmachine.io
-bitdefender.com
+
 bluehost.com
-bootstrapcdn.com
-box.com
-branch.io
+
 braze.com
-britannica.com
+
 btloader.com
-bugsnag.com
-cambridge.org
-canva.com
-casalemedia.com
+
 change.org
-character.ai
+
 chaturbate.com
+
 cloudflare-dns.com
+
 cloudflare.com
+
 cloudflare.net
-cloudflareclient.com
+
 cloudflareinsights.com
-cookiedatabase.org
-cookielaw.org
-creativecommons.org
-deepintent.com
-digitalocean.com
-discogs.com
+
 discord.com
+
 discord.gg
-discordapp.com
-docker.com
-dotomi.com
-entrust.net
-epicgames.com
+
 fiverr.com
-fontawesome.com
-forter.com
-genius.com
-gitlab.com
-globalsign.com
-heylink.me
-hostgator.com
-hostgator.com.br
+
 hubspot.com
-hugedomains.com
-ibm.com
-identrust.com
-ietf.org
-immunet.com
-indeed.com
-indexww.com
-innovid.com
-jotform.com
+
 jquery.com
+
 kickstarter.com
-klaviyo.com
-life360.com
-loc.gov
-maricopa.gov
-markmonitor.com
-mdpi.com
-mediafire.com
-medium.com
-mgid.com
-myshopify.com
-networkadvertising.org
-nordvpn.com
-notion.so
-okta.com
-onesignal.com
-onetrust.com
-online.net
-optimizely.com
+
 ozon.ru
-patreon.com
-pexels.com
+
 pixabay.com
-pixiv.net
-plesk.com
-plex.tv
-princeton.edu
+
 prnewswire.com
-quizlet.com
-quora.com
+
 researchgate.net
+
 roku.com
-sciencedirect.com
-shein.com
-shopify.com
-sitescout.com
+
 sourceforge.net
-spamhaus.org
-stackoverflow.com
-statcounter.com
-tandfonline.com
-teamviewer.com
-themeforest.net
+
 tinyurl.com
+
 udemy.com
+
 unpkg.com
-unrulymedia.com
+
 upwork.com
+
 vimeo.com
-vungle.com
-w3.org
-webmd.com
-weebly.com
-who.int
-wiley.com
-xhamster.com
-zendesk.com
-zoom.us
+
 ```
 
-99 used cloudfront (9.9%):
+4 used cloudfront (0.4%):
 ```
-3lift.com
-a-mo.net
-academia.edu
-amazon.com
-amazon.com.br
-amazon.es
-amazon.in
 amazonaws.com
+
 amazontrust.com
+
 amazonvideo.com
+
 amzn.to
-aniview.com
-atlassian.com
-atlassian.net
-biblegateway.com
-binance.com
-booking.com
-brave.com
-calendly.com
-chartbeat.com
-chartbeat.net
-chartboost.com
-checkpoint.com
-clever.com
-coinmarketcap.com
-connatix.com
-datadoghq.com
-deviantart.com
-doi.org
-dreamhost.com
-economist.com
-elasticbeanstalk.com
-elisa.fi
-elpais.com
-epa.gov
-espn.com
-europa.eu
-eventbrite.com
-firefox.com
-flickr.com
-go.com
-hbr.org
-healthline.com
-hipages.com.au
-hotjar.com
-ieee.org
-imdb.com
-intercom.io
-intuit.com
-latimes.com
-lijit.com
-line.me
-merriam-webster.com
-mozilla.com
-mozilla.org
-name.com
-nationalgeographic.com
-netgear.com
-noaa.gov
-onet.pl
-pbs.org
-primevideo.com
-rapid7.com
-rayjump.com
-realtor.com
-redfin.com
-repubblica.it
-reuters.com
-robinhood.com
-ryanair.com
-segment.io
-shalltry.com
-sharethis.com
-shutterstock.com
-si.com
-soundcloud.com
-state.gov
-statuspage.io
-supercell.com
-surveymonkey.com
-swrve.com
-synology.com
-t-online.de
-thesun.co.uk
-time.com
-tp-link.com
-tradingview.com
-tremorhub.com
-trustpilot.com
-typeform.com
-ubnt.com
-ui.com
-un.org
-utorrent.com
-warnerbros.com
-wattpad.com
-worldbank.org
-wsj.com
-zillow.com
+
 ```
 
-2 used ddosguard (0.2%):
+0 used ddosguard (0.0%):
 ```
-1c.ru
-netangels.ru
+
 ```
 
 0 used edgecast (0.0%):
@@ -280,11 +99,12 @@ netangels.ru
 
 ```
 
-3 used fastly (0.3%):
+2 used fastly (0.2%):
 ```
-github.io
 speedtest.net
+
 www.gov.uk
+
 ```
 
 0 used sucuri (0.0%):
@@ -292,9 +112,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):
@@ -320,9 +140,4 @@ php.net
 0 used incapsula (0.0%):
 ```
 
-```
-
-1 used imperva (0.1%):
-```
-digicert.com
 ```
