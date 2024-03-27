@@ -1,4 +1,4 @@
-200 domains tested. 64.0% were behind nothing (72 were behind something). 3 domains could not be tested.<br>
+200 domains tested. 64.5% were behind nothing (71 were behind something). 2 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 dailymail.co.uk
@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-33 used cloudflare (16.5%):
+32 used cloudflare (16.0%):
 ```
 972mag.com
 alarabiya.net
@@ -53,11 +53,10 @@ themarshallproject.org
 thenextweb.com
 therecord.media
 theregister.com
-thewire.in
 washingtontimes.com
 ```
 
-34 used cloudfront (17.0%):
+35 used cloudfront (17.5%):
 ```
 abcnews.go.com
 andhrajyothy.com
@@ -90,6 +89,7 @@ suntimes.com
 theglobeandmail.com
 theoutline.com
 thetimes.co.uk
+thewire.in
 time.com
 wsj.com
 wweek.com
