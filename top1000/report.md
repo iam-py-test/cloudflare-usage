@@ -1,4 +1,4 @@
-1000 domains tested. 20.599999999999998% were behind nothing (794 were behind something). 761 domains could not be tested.<br>
+1000 domains tested. 20.7% were behind nothing (793 were behind something). 761 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-27 used cloudflare (2.7%):
+26 used cloudflare (2.6%):
 ```
 ancestry.com
 
@@ -46,8 +46,6 @@ discord.com
 discord.gg
 
 fiverr.com
-
-hubspot.com
 
 jquery.com
 
