@@ -1,4 +1,4 @@
-1000 domains tested. 20.8% were behind nothing (792 were behind something). 761 domains could not be tested.<br>
+1000 domains tested. 20.599999999999998% were behind nothing (794 were behind something). 764 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-25 used cloudflare (2.5%):
+24 used cloudflare (2.4%):
 ```
 ancestry.com
 
@@ -64,8 +64,6 @@ sourceforge.net
 tinyurl.com
 
 udemy.com
-
-unpkg.com
 
 upwork.com
 
