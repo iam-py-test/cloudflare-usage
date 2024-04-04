@@ -10,7 +10,6 @@ atc.spotify.map.fastly.net
 b.thumbs.redditmedia.com
 bbc.map.fastly.net
 br.pinterest.com
-ca.pinterest.com
 cdn.intellimize.co
 cdn.jsdelivr.net
 cdn.speedcurve.com
@@ -19,7 +18,6 @@ ch.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
 co.pinterest.com
-ct.pinterest.com
 cz.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
@@ -27,7 +25,6 @@ data.api.cnn.io
 data.cnn.com
 design-cdn.shipt.com
 devforce.map.fastly.net
-dk.pinterest.com
 dsom-imager-prod.shipt.com
 dualstack.com.imgix.map.fastly.net
 dualstack.gandi.map.fastly.net
@@ -53,7 +50,6 @@ guardian.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 i.ebayimg.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
 i.pinimg.com
@@ -62,23 +58,21 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
 jsdelivr.map.fastly.net
 lineup-images.scdn.co
+m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
 media.cnn.com
 mosaic.scdn.co
-mx.pinterest.com
 n.sni.global.fastly.net
 nl.pinterest.com
 no.pinterest.com
@@ -109,7 +103,6 @@ ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 s.imgur.com
-s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 sk.pinterest.com
@@ -149,7 +142,6 @@ www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
 www.paypalobjects.com
-www.pinterest.cl
 www.pinterest.co.kr
 www.pinterest.co.uk
 www.pinterest.com
@@ -159,7 +151,6 @@ www.pinterest.dk
 www.pinterest.es
 www.pinterest.fr
 www.pinterest.jp
-www.pinterest.nz
 www.pinterest.pt
 www.pinterest.se
 www.reddit.com

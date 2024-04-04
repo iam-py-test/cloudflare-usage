@@ -1,12 +1,11 @@
-1000 domains tested. 68.10000000000001% were behind nothing (319 were behind something). 64 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 68.2% were behind nothing (318 were behind something). 64 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-att.com
 autodesk.com
 dailymail.co.uk
 ebay.co.uk
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-119 used cloudflare (11.899999999999999%):
+120 used cloudflare (12.0%):
 ```
 33across.com
 addtoany.com
@@ -94,6 +93,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -145,6 +145,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -153,7 +154,6 @@ themeforest.net
 tinyurl.com
 udemy.com
 unpkg.com
-unrulymedia.com
 upwork.com
 vimeo.com
 vungle.com
@@ -167,7 +167,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -175,7 +175,6 @@ academia.edu
 amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.fr
 amazon.in
 amazon.it
@@ -264,7 +263,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
+unrulymedia.com
 warnerbros.com
 wattpad.com
 worldbank.org
