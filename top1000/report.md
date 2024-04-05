@@ -1,5 +1,5 @@
-1000 domains tested. 68.2% were behind nothing (318 were behind something). 64 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 68.2% were behind nothing (318 were behind something). 65 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -9,7 +9,6 @@ arubanetworks.com
 autodesk.com
 dailymail.co.uk
 ebay.co.uk
-ebay.com
 ebay.de
 eepurl.com
 expedia.com
@@ -43,7 +42,7 @@ b-cdn.net
 
 ```
 
-120 used cloudflare (12.0%):
+119 used cloudflare (11.899999999999999%):
 ```
 33across.com
 addtoany.com
@@ -93,7 +92,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -120,7 +118,6 @@ medium.com
 mgid.com
 myshopify.com
 networkadvertising.org
-nordvpn.com
 notion.so
 okta.com
 onesignal.com
@@ -132,6 +129,7 @@ pexels.com
 pixabay.com
 pixiv.net
 plesk.com
+plex.tv
 princeton.edu
 prnewswire.com
 quizlet.com
@@ -167,14 +165,16 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.de
 amazon.fr
 amazon.in
 amazon.it
@@ -238,7 +238,6 @@ realtor.com
 redfin.com
 repubblica.it
 reuters.com
-robinhood.com
 ryanair.com
 segment.io
 shalltry.com
@@ -262,8 +261,8 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 worldbank.org
