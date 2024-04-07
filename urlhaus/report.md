@@ -1,4 +1,4 @@
-246 domains tested. 87.39837398373984% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
+236 domains tested. 87.28813559322035% were behind nothing (30 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,24 @@
 
 ```
 
-20 used cloudflare (8.130081300813007%):
+17 used cloudflare (7.203389830508475%):
 ```
 blackhattoolz.com
 brazilanimalshelp.com
-covid19help.top
 crazyco.re
 dnccomputers.com
 ecoproducts.com.my
 eercs.com
 file-drop.cc
+insomniahack.fun
 jonathantwo.com
+junglethomas.com
 licocojambamarketplace.com
-notlion.co
 pan.tenire.com
 r2.ohyoulookstupid.win
-realdeepai.org
-skateboys.org
 spices.com.sg
 telegram.ninja
-tmpfiles.org
-vw-volkswagenag.com
+valowaves.com
 www.blackhattoolz.com
 ```
 
@@ -63,8 +60,9 @@ www.blackhattoolz.com
 
 ```
 
-2 used sucuri (0.8130081300813009%):
+3 used sucuri (1.2711864406779663%):
 ```
+www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
 ```

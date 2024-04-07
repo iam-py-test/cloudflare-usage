@@ -1,23 +1,20 @@
-1000 domains tested. 67.9% were behind nothing (321 were behind something). 65 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 68.8% were behind nothing (312 were behind something). 62 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 eepurl.com
 expedia.com
-fda.gov
 fedex.com
 godaddy.com
 hp.com
-intel.com
 lowes.com
 macys.com
 mysql.com
@@ -25,7 +22,7 @@ news.com.au
 rakuten.co.jp
 service-now.com
 wbx2.com
-weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,7 +40,7 @@ b-cdn.net
 
 ```
 
-120 used cloudflare (12.0%):
+121 used cloudflare (12.1%):
 ```
 33across.com
 addtoany.com
@@ -146,6 +143,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+squareup.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -167,7 +165,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -175,12 +173,10 @@ academia.edu
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
-amazon.it
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -262,10 +258,8 @@ tradingview.com
 tremorhub.com
 trustpilot.com
 typeform.com
-ubnt.com
 ui.com
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 worldbank.org
