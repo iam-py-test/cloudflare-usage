@@ -9,6 +9,7 @@ account.samsung.com
 aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -38,7 +39,6 @@ combo.staticflickr.com
 consent.dropbox.com
 consent.trustarc.com
 consent.truste.com
-css.rbxcdn.com
 cvp.twitch.tv
 d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
@@ -54,9 +54,11 @@ d1kpbbfl4rco16.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
 d1u08w08on97dm.cloudfront.net
 d1ykf07e75w7ss.cloudfront.net
+d1zdtmglxggpu8.cloudfront.net
 d278netuvpt9qo.cloudfront.net
 d27f3qgc9anoq2.cloudfront.net
 d29id7n8587nnz.cloudfront.net
+d2a12jsx2jznj5.cloudfront.net
 d2c.aws.amazon.com
 d2daxcapcwhof6.cloudfront.net
 d2dz0a2zorjbnc.cloudfront.net
@@ -66,8 +68,10 @@ d2x6me9oc9z55z.cloudfront.net
 d30r7cggsjvuek.cloudfront.net
 d34u8crftukxnk.cloudfront.net
 d36lkcxq7qra7v.cloudfront.net
+d39xvdj9d5ntm1.cloudfront.net
 d3ag4hukkh62yn.cloudfront.net
 d3dhabnalkqjcp.cloudfront.net
+d3dr97o1ua1xvx.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 d3f7zc5bbfci5.cloudfront.net
 d3j7xsc0vda5xv.cloudfront.net
@@ -110,19 +114,15 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
-images.rbxcdn.com
 images.scanalert.com
 img-deviantart.wixmp.com
 img.hipages.com.au
 intuit.com
 js.adsrvr.org
 js.media-lab.ai
-js.rbxcdn.com
 kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
@@ -143,6 +143,7 @@ sb.scorecardresearch.com
 sdk.sharethrough.com
 search.nih.gov
 siemens.com
+site-nav.ring.com
 snapengage.dropbox.com
 soundcloud.com
 st.deviantart.net
@@ -155,7 +156,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.rbxcdn.com
+static.ring.com
 static.snapchat.com
 static.twitchcdn.net
 static.yieldmo.com
