@@ -1,4 +1,4 @@
-234 domains tested. 88.03418803418803% were behind nothing (28 were behind something). 9 domains could not be tested.<br>
+241 domains tested. 86.30705394190872% were behind nothing (33 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,25 @@
 
 ```
 
-18 used cloudflare (7.6923076923076925%):
+18 used cloudflare (7.468879668049793%):
 ```
+benhvienthanglong.vn
 blackhattoolz.com
 brazilanimalshelp.com
+covid19help.top
 crazyco.re
 dnccomputers.com
-ecoproducts.com.my
 eercs.com
 file-drop.cc
 files.offshore.cat
+game-hack.shop
 hitman-pro.ru
-insomniahack.fun
-jonathantwo.com
-junglethomas.com
 licocojambamarketplace.com
-notlion.co
 pan.tenire.com
+r2.ohyoulookstupid.win
 spices.com.sg
 telegram.ninja
+universalmovies.top
 www.blackhattoolz.com
 ```
 
@@ -61,7 +61,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used sucuri (0.4273504273504274%):
+1 used sucuri (0.4149377593360996%):
 ```
 www.bearware.org
 ```

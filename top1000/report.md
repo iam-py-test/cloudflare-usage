@@ -1,24 +1,33 @@
-1000 domains tested. 69.0% were behind nothing (310 were behind something). 63 domains could not be tested.<br>
-18 used akamai (1.7999999999999998%):
+1000 domains tested. 67.9% were behind nothing (321 were behind something). 63 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+att.com
+autodesk.com
 dailymail.co.uk
+ebay.co.uk
+ebay.com
+ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
 wbx2.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -36,7 +45,7 @@ b-cdn.net
 
 ```
 
-121 used cloudflare (12.1%):
+122 used cloudflare (12.2%):
 ```
 33across.com
 addtoany.com
@@ -120,6 +129,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
+onlyfans.com
 optimizely.com
 patreon.com
 pexels.com
@@ -161,18 +171,18 @@ zendesk.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+agora.io
+amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.de
+amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -207,6 +217,7 @@ firefox.com
 flickr.com
 fortune.com
 go.com
+gumgum.com
 hbr.org
 healthline.com
 hotjar.com
@@ -238,7 +249,6 @@ segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
-si.com
 soundcloud.com
 state.gov
 statuspage.io
@@ -257,6 +267,7 @@ typeform.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 worldbank.org
