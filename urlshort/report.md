@@ -1,4 +1,4 @@
-258 domains tested. 37.5968992248062% were behind nothing (161 were behind something). 16 domains could not be tested.<br>
+258 domains tested. 37.2093023255814% were behind nothing (162 were behind something). 17 domains could not be tested.<br>
 3 used akamai (1.1627906976744187%):
 ```
 eepurl.com
@@ -119,7 +119,6 @@ picshost.pics
 prettylinks.com
 refererhider.com
 rotf.lol
-s.id
 screenshare.pics
 screenshot.best
 shorten.ee
@@ -131,6 +130,7 @@ shre.su
 shrekis.life
 shrink.pe
 shrinkearn.com
+shrinkme.io
 smarturl.it
 snip.ly
 sor.bz
