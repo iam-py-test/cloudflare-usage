@@ -1,5 +1,5 @@
-1000 domains tested. 68.30000000000001% were behind nothing (317 were behind something). 64 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 67.7% were behind nothing (323 were behind something). 66 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -7,20 +7,25 @@ adobe.net
 airbnb.com
 arubanetworks.com
 att.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
+ebay.com
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
 godaddy.com
 hp.com
+intel.com
 lowes.com
+macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
-redhat.com
 service-now.com
 wbx2.com
+weforum.org
 windows.com
 ```
 
@@ -39,7 +44,7 @@ b-cdn.net
 
 ```
 
-121 used cloudflare (12.1%):
+123 used cloudflare (12.3%):
 ```
 33across.com
 addtoany.com
@@ -48,6 +53,7 @@ ancestry.com
 apnews.com
 appier.net
 applovin.com
+auvik.com
 berkeley.edu
 bidmachine.io
 bitdefender.com
@@ -91,7 +97,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -110,6 +115,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -122,6 +128,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
+onlyfans.com
 optimizely.com
 ozon.ru
 patreon.com
@@ -164,18 +171,15 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -226,6 +230,7 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
+mongodb.com
 mozilla.com
 mozilla.org
 name.com
@@ -262,7 +267,6 @@ trustpilot.com
 typeform.com
 ui.com
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 worldbank.org
