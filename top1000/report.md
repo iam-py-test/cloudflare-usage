@@ -1,25 +1,29 @@
-1000 domains tested. 68.0% were behind nothing (320 were behind something). 65 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 67.5% were behind nothing (325 were behind something). 64 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
-ebay.co.uk
-ebay.com
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
 news.com.au
 rakuten.co.jp
+redhat.com
 service-now.com
 wbx2.com
+weforum.org
 windows.com
 ```
 
@@ -38,7 +42,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+125 used cloudflare (12.5%):
 ```
 33across.com
 addtoany.com
@@ -47,6 +51,7 @@ ancestry.com
 apnews.com
 appier.net
 applovin.com
+auvik.com
 berkeley.edu
 bidmachine.io
 bitdefender.com
@@ -130,6 +135,7 @@ pexels.com
 pixabay.com
 pixiv.net
 plesk.com
+plex.tv
 princeton.edu
 prnewswire.com
 quizlet.com
@@ -171,13 +177,13 @@ zoom.us
 a-mo.net
 academia.edu
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
