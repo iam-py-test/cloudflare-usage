@@ -1,12 +1,12 @@
-1000 domains tested. 68.30000000000001% were behind nothing (317 were behind something). 62 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 67.60000000000001% were behind nothing (324 were behind something). 63 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-att.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -15,15 +15,19 @@ eepurl.com
 expedia.com
 fda.gov
 fedex.com
+godaddy.com
 hp.com
+intel.com
 lowes.com
 macys.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
+unity3d.com
 wbx2.com
-windows.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -41,8 +45,9 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+123 used cloudflare (12.3%):
 ```
+33across.com
 addtoany.com
 allaboutcookies.org
 ancestry.com
@@ -92,7 +97,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -142,6 +146,7 @@ roku.com
 sciencedirect.com
 shein.com
 shopify.com
+sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
@@ -167,7 +172,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -176,7 +181,9 @@ amazon.ca
 amazon.co.jp
 amazon.com
 amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -213,7 +220,6 @@ firefox.com
 flickr.com
 fortune.com
 go.com
-gumgum.com
 hbr.org
 healthline.com
 hotjar.com

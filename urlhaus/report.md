@@ -1,4 +1,4 @@
-245 domains tested. 86.12244897959184% were behind nothing (34 were behind something). 11 domains could not be tested.<br>
+226 domains tested. 84.51327433628319% were behind nothing (35 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,11 @@
 
 ```
 
-20 used cloudflare (8.16326530612245%):
+19 used cloudflare (8.4070796460177%):
 ```
-benhvienthanglong.vn
+02ip.ru
 blackhattoolz.com
+brazilanimalshelp.com
 covid19help.top
 crazyco.re
 dukeenergyltd.top
@@ -31,13 +32,11 @@ ergeyo.xyz
 file-drop.cc
 files.offshore.cat
 hitman-pro.ru
-jonathantwo.com
-junglethomas.com
 kebabcheats.ru
 licocojambamarketplace.com
 pan.tenire.com
+plesiosauroid.sbs
 spices.com.sg
-telegram.ninja
 universalmovies.top
 valoxxx.net
 www.blackhattoolz.com
@@ -63,7 +62,7 @@ www.blackhattoolz.com
 
 ```
 
-3 used sucuri (1.2244897959183674%):
+3 used sucuri (1.3274336283185841%):
 ```
 www.asterglobal.com
 www.bearware.org
