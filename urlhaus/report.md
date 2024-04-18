@@ -1,4 +1,4 @@
-226 domains tested. 84.51327433628319% were behind nothing (35 were behind something). 13 domains could not be tested.<br>
+227 domains tested. 82.37885462555066% were behind nothing (40 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,32 @@
 
 ```
 
-19 used cloudflare (8.4070796460177%):
+24 used cloudflare (10.572687224669604%):
 ```
 02ip.ru
 blackhattoolz.com
-brazilanimalshelp.com
 covid19help.top
 crazyco.re
 dukeenergyltd.top
-ecoproducts.com.my
-ergeyo.xyz
 file-drop.cc
 files.offshore.cat
 hitman-pro.ru
+iespppomabamba.edu.pe
 kebabcheats.ru
 licocojambamarketplace.com
+palberryslicker.sbs
 pan.tenire.com
 plesiosauroid.sbs
+prominencedigiworld.com
+ricohltd.top
 spices.com.sg
+telegram.ninja
 universalmovies.top
+valowaves.com
 valoxxx.net
 www.blackhattoolz.com
+www.mlmigration.com
+www.prottahobarta.com
 ```
 
 0 used cloudfront (0.0%):
@@ -62,8 +67,9 @@ www.blackhattoolz.com
 
 ```
 
-3 used sucuri (1.3274336283185841%):
+4 used sucuri (1.762114537444934%):
 ```
+bishopberrian.com
 www.asterglobal.com
 www.bearware.org
 www.lasikofmichigan.com
