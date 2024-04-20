@@ -1,4 +1,4 @@
-218 domains tested. 83.4862385321101% were behind nothing (36 were behind something). 16 domains could not be tested.<br>
+199 domains tested. 82.91457286432161% were behind nothing (34 were behind something). 15 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,16 @@
 
 ```
 
-17 used cloudflare (7.79816513761468%):
+17 used cloudflare (8.542713567839195%):
 ```
 blackhattoolz.com
 covid19help.top
 crazyco.re
 dukeenergyltd.top
+file-drop.cc
 files.offshore.cat
 gihibml.org
-hitman-pro.ru
 jonathantwo.com
-kebabcheats.ru
 licocojambamarketplace.com
 palberryslicker.sbs
 pan.tenire.com
@@ -37,7 +36,8 @@ ricohltd.top
 telegram.ninja
 universalmovies.top
 www.blackhattoolz.com
-www.prottahobarta.com
+www.file-drop.cc
+yawwacorp.uk
 ```
 
 0 used cloudfront (0.0%):
@@ -60,10 +60,9 @@ www.prottahobarta.com
 
 ```
 
-3 used sucuri (1.3761467889908259%):
+2 used sucuri (1.0050251256281406%):
 ```
 bishopberrian.com
-www.asterglobal.com
 www.lasikofmichigan.com
 ```
 
