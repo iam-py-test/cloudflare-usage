@@ -1,12 +1,11 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 65 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 67.10000000000001% were behind nothing (329 were behind something). 66 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-att.com
 autodesk.com
 dailymail.co.uk
 ebay.co.uk
@@ -26,7 +25,6 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +42,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+123 used cloudflare (12.3%):
 ```
 33across.com
 addtoany.com
@@ -117,7 +115,6 @@ liftoff.io
 loc.gov
 maricopa.gov
 markmonitor.com
-mathtag.com
 mdpi.com
 mediafire.com
 medium.com
@@ -150,7 +147,6 @@ shopify.com
 sitescout.com
 skroutz.gr
 sourceforge.net
-spamhaus.org
 squareup.com
 stackoverflow.com
 statcounter.com
@@ -173,22 +169,26 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
 aniview.com
+anydesk.com
 atlassian.com
 atlassian.net
 biblegateway.com
@@ -252,6 +252,7 @@ ryanair.com
 segment.io
 shalltry.com
 sharethis.com
+sharethrough.com
 shutterstock.com
 soundcloud.com
 state.gov
