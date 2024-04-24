@@ -1,4 +1,4 @@
-176 domains tested. 85.22727272727273% were behind nothing (26 were behind something). 7 domains could not be tested.<br>
+184 domains tested. 85.32608695652173% were behind nothing (27 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,29 @@
 
 ```
 
-18 used cloudflare (10.227272727272728%):
+18 used cloudflare (9.782608695652174%):
 ```
 blackhattoolz.com
-brazilanimalshelp.com
+cheatroom.shop
+cloudnetworkverify.com
+covid19help.top
 crazyco.re
 dukeenergyltd.top
-factorylifes.net
 file-drop.cc
 imtoken8.cc
 jonathantwo.com
 kebabcheats.ru
 licocojambamarketplace.com
-m1744435.096096.xyz
-pan.tenire.com
 redirectdata.com
-spices.com.sg
 sportvision.app
 telegram.ninja
+universalmovies.top
+valowaves.com
 www.blackhattoolz.com
 www.file-drop.cc
 ```
 
-1 used cloudfront (0.5681818181818182%):
+1 used cloudfront (0.5434782608695652%):
 ```
 d2.tokendl001.com
 ```
@@ -61,9 +61,9 @@ d2.tokendl001.com
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.5434782608695652%):
 ```
-
+www.asterglobal.com
 ```
 
 0 used myracloud (0.0%):
