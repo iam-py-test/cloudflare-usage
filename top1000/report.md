@@ -1,4 +1,4 @@
-1000 domains tested. 67.7% were behind nothing (323 were behind something). 64 domains could not be tested.<br>
+1000 domains tested. 67.0% were behind nothing (330 were behind something). 62 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -24,10 +24,10 @@ macys.com
 marriott.com
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 service-now.com
 weforum.org
+zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,14 +45,14 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+126 used cloudflare (12.6%):
 ```
 2gis.com
+33across.com
 addtoany.com
 allaboutcookies.org
 ancestry.com
 apnews.com
-appier.net
 applovin.com
 berkeley.edu
 bidmachine.io
@@ -80,6 +80,7 @@ coingecko.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
+datto.com
 deepintent.com
 delfi.lt
 delfi.lv
@@ -90,6 +91,8 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
+dribbble.com
+ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -98,6 +101,7 @@ forter.com
 genius.com
 gitlab.com
 glance.net
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -136,7 +140,6 @@ pexels.com
 pixabay.com
 pixiv.net
 plesk.com
-plex.tv
 princeton.edu
 prnewswire.com
 quizlet.com
@@ -149,6 +152,7 @@ shopify.com
 sitescout.com
 skroutz.gr
 sourceforge.net
+spankbang.com
 squareup.com
 stackoverflow.com
 statcounter.com
@@ -171,15 +175,17 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+adsafeprotected.com
 agora.io
 amazon.ca
 amazon.com
-amazon.in
+amazon.com.br
+amazon.de
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -238,6 +244,7 @@ nationalgeographic.com
 netgear.com
 noaa.gov
 nubank.com.br
+olx.ua
 onet.pl
 pbs.org
 primevideo.com
@@ -258,6 +265,7 @@ statuspage.io
 supercell.com
 surveymonkey.com
 swrve.com
+synology.com
 t-online.de
 thesun.co.uk
 time.com
@@ -276,10 +284,11 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
 1c.ru
 netangels.ru
+pikabu.ru
 ```
 
 0 used edgecast (0.0%):
