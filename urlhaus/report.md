@@ -1,4 +1,4 @@
-171 domains tested. 85.38011695906432% were behind nothing (25 were behind something). 8 domains could not be tested.<br>
+218 domains tested. 83.94495412844036% were behind nothing (35 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,33 @@
 
 ```
 
-17 used cloudflare (9.941520467836257%):
+25 used cloudflare (11.46788990825688%):
 ```
-blackhattoolz.com
-cloudnetworkverify.com
-covid19help.top
+antvietnam.com
 crazyco.re
 dukeenergyltd.top
 factorylifes.net
 file-drop.cc
 hitman-pro.ru
+ideosphere.in
+imtoken8.cc
+imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
-redirectdata.com
+pgdm.my
+phs124168.com
+reyadtours.com
 spices.com.sg
 sportvision.app
 telegram.ninja
+thayhoicoffee.com
 universalmovies.top
+upr.lk
+valowaves.com
 www.blackhattoolz.com
 www.file-drop.cc
+www.pansy-dz.com
+yahyacarpet.com
 ```
 
 0 used cloudfront (0.0%):

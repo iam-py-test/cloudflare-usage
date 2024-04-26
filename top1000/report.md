@@ -1,5 +1,5 @@
-1000 domains tested. 67.0% were behind nothing (330 were behind something). 62 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 67.2% were behind nothing (328 were behind something). 65 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -10,8 +10,6 @@ autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
-ebay.com
-ebay.de
 eepurl.com
 expedia.com
 fda.gov
@@ -27,7 +25,6 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,7 +42,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -53,6 +50,7 @@ addtoany.com
 allaboutcookies.org
 ancestry.com
 apnews.com
+appier.net
 applovin.com
 berkeley.edu
 bidmachine.io
@@ -91,8 +89,6 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
-dribbble.com
-ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -140,6 +136,7 @@ pexels.com
 pixabay.com
 pixiv.net
 plesk.com
+plex.tv
 princeton.edu
 prnewswire.com
 quizlet.com
@@ -152,7 +149,6 @@ shopify.com
 sitescout.com
 skroutz.gr
 sourceforge.net
-spankbang.com
 squareup.com
 stackoverflow.com
 statcounter.com
@@ -183,10 +179,11 @@ academia.edu
 adsafeprotected.com
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
-amazon.it
+amazon.fr
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -244,7 +241,6 @@ nationalgeographic.com
 netgear.com
 noaa.gov
 nubank.com.br
-olx.ua
 onet.pl
 pbs.org
 primevideo.com
@@ -284,11 +280,10 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 1c.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
