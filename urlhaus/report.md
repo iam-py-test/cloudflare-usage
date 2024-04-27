@@ -1,4 +1,4 @@
-218 domains tested. 83.94495412844036% were behind nothing (35 were behind something). 10 domains could not be tested.<br>
+225 domains tested. 82.22222222222221% were behind nothing (40 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,13 @@
 
 ```
 
-25 used cloudflare (11.46788990825688%):
+30 used cloudflare (13.333333333333334%):
 ```
+2mo.com
 antvietnam.com
+blackhattoolz.com
+brazilanimalshelp.com
+covid19help.top
 crazyco.re
 dukeenergyltd.top
 factorylifes.net
@@ -32,9 +36,10 @@ imtoken8.cc
 imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
+metrobasket.in
 pgdm.my
-phs124168.com
 reyadtours.com
+rjjewelpk.com
 spices.com.sg
 sportvision.app
 telegram.ninja
@@ -43,9 +48,9 @@ universalmovies.top
 upr.lk
 valowaves.com
 www.blackhattoolz.com
-www.file-drop.cc
 www.pansy-dz.com
 yahyacarpet.com
+zhngxie.wf
 ```
 
 0 used cloudfront (0.0%):
