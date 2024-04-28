@@ -1,4 +1,4 @@
-225 domains tested. 82.22222222222221% were behind nothing (40 were behind something). 10 domains could not be tested.<br>
+180 domains tested. 82.77777777777777% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-30 used cloudflare (13.333333333333334%):
+22 used cloudflare (12.222222222222221%):
 ```
 2mo.com
 antvietnam.com
@@ -28,28 +28,20 @@ brazilanimalshelp.com
 covid19help.top
 crazyco.re
 dukeenergyltd.top
+evangelized.sbs
 factorylifes.net
 file-drop.cc
 hitman-pro.ru
-ideosphere.in
 imtoken8.cc
 imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
 metrobasket.in
-pgdm.my
-reyadtours.com
 rjjewelpk.com
-spices.com.sg
 sportvision.app
 telegram.ninja
-thayhoicoffee.com
 universalmovies.top
-upr.lk
-valowaves.com
 www.blackhattoolz.com
-www.pansy-dz.com
-yahyacarpet.com
 zhngxie.wf
 ```
 

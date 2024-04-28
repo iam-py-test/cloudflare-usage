@@ -1,16 +1,15 @@
-1000 domains tested. 67.10000000000001% were behind nothing (329 were behind something). 64 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.8% were behind nothing (332 were behind something). 66 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
 arubanetworks.com
-att.com
 autodesk.com
 avira.com
 dailymail.co.uk
-ebay.co.uk
+ebay.de
 eepurl.com
 expedia.com
 fda.gov
@@ -20,13 +19,13 @@ hp.com
 intel.com
 lowes.com
 macys.com
+marriott.com
 mysql.com
 news.com.au
 rakuten.co.jp
 service-now.com
-unity3d.com
 weforum.org
-windows.com
+zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -173,13 +172,15 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
+agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com.br
 amazon.de

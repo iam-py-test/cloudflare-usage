@@ -1,4 +1,4 @@
-258 domains tested. 37.2093023255814% were behind nothing (162 were behind something). 16 domains could not be tested.<br>
+258 domains tested. 37.98449612403101% were behind nothing (160 were behind something). 15 domains could not be tested.<br>
 3 used akamai (1.1627906976744187%):
 ```
 eepurl.com
@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-127 used cloudflare (49.224806201550386%):
+126 used cloudflare (48.837209302325576%):
 ```
 02ip.ru
 1sta.com
@@ -95,7 +95,6 @@ klclick1.com
 klclick2.com
 klclick3.com
 link-center.net
-link-split.com
 link.sbstck.com
 link.tnlink.in
 link1s.com
