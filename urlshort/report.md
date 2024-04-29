@@ -21,7 +21,7 @@ go.microsoft.com
 
 ```
 
-126 used cloudflare (48.837209302325576%):
+127 used cloudflare (49.224806201550386%):
 ```
 02ip.ru
 1sta.com
@@ -125,6 +125,7 @@ shorten.is
 shorten.world
 shorturl.at
 shorturl.com
+shorturl.gg
 shre.su
 shrekis.life
 shrink.pe
@@ -151,9 +152,8 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-15 used cloudfront (5.813953488372093%):
+14 used cloudfront (5.426356589147287%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 linkbucks.com

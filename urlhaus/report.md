@@ -1,4 +1,4 @@
-180 domains tested. 82.77777777777777% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
+166 domains tested. 85.54216867469879% were behind nothing (24 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,23 @@
 
 ```
 
-22 used cloudflare (12.222222222222221%):
+16 used cloudflare (9.63855421686747%):
 ```
-2mo.com
-antvietnam.com
 blackhattoolz.com
-brazilanimalshelp.com
 covid19help.top
 crazyco.re
-dukeenergyltd.top
 evangelized.sbs
 factorylifes.net
 file-drop.cc
 hitman-pro.ru
 imtoken8.cc
 imtokeon.com
-kebabcheats.ru
-licocojambamarketplace.com
-metrobasket.in
-rjjewelpk.com
+myfile.neverlose.pl
+spices.com.sg
 sportvision.app
 telegram.ninja
-universalmovies.top
 www.blackhattoolz.com
+www.file-drop.cc
 zhngxie.wf
 ```
 
