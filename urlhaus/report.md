@@ -1,4 +1,4 @@
-166 domains tested. 85.54216867469879% were behind nothing (24 were behind something). 8 domains could not be tested.<br>
+197 domains tested. 84.26395939086294% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,23 @@
 
 ```
 
-16 used cloudflare (9.63855421686747%):
+22 used cloudflare (11.16751269035533%):
 ```
 blackhattoolz.com
 covid19help.top
 crazyco.re
-evangelized.sbs
+download.gghxyy.club
+dukeenergyltd.top
 factorylifes.net
 file-drop.cc
+herioscheats.xyz
 hitman-pro.ru
+hrwejtrgrsdfg.top
 imtoken8.cc
 imtokeon.com
+joccupationalscience.org
+kebabcheats.ru
+licocojambamarketplace.com
 myfile.neverlose.pl
 spices.com.sg
 sportvision.app
