@@ -1,4 +1,4 @@
-197 domains tested. 84.26395939086294% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
+342 domains tested. 83.33333333333334% were behind nothing (57 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,28 +19,40 @@
 
 ```
 
-22 used cloudflare (11.16751269035533%):
+34 used cloudflare (9.941520467836257%):
 ```
+99homes.co
+alsiga.com
 blackhattoolz.com
+contractnerds.com
 covid19help.top
 crazyco.re
+djibg.eu
 download.gghxyy.club
 dukeenergyltd.top
-factorylifes.net
 file-drop.cc
-herioscheats.xyz
-hitman-pro.ru
+files.offshore.cat
+hakelectromechanical.com
 hrwejtrgrsdfg.top
+hunarghar.org.pk
 imtoken8.cc
 imtokeon.com
+infojobone.com
+ivtmarkets.com
 joccupationalscience.org
+joshiwater.com
+kartsiotis.net
 kebabcheats.ru
+ladakhescapades.com
 licocojambamarketplace.com
 myfile.neverlose.pl
-spices.com.sg
 sportvision.app
+summerlanddogtraining.com
 telegram.ninja
+universalmovies.top
+valowaves.com
 www.blackhattoolz.com
+www.darkknight-media.com
 www.file-drop.cc
 zhngxie.wf
 ```
@@ -90,9 +102,9 @@ zhngxie.wf
 
 ```
 
-0 used ezoic (0.0%):
+1 used ezoic (0.29239766081871343%):
 ```
-
+mozkraty.org
 ```
 
 0 used incapsula (0.0%):
