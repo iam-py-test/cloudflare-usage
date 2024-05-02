@@ -1,5 +1,5 @@
-1000 domains tested. 68.10000000000001% were behind nothing (319 were behind something). 57 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 67.10000000000001% were behind nothing (329 were behind something). 59 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -7,6 +7,7 @@ adobe.net
 airbnb.com
 arubanetworks.com
 att.com
+autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
@@ -14,13 +15,20 @@ ebay.com
 ebay.de
 eepurl.com
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
 hp.com
+intel.com
 lowes.com
+macys.com
+marriott.com
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 service-now.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -38,7 +46,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -71,6 +79,7 @@ cloudflare.net
 cloudflareclient.com
 cloudflareinsights.com
 coingecko.com
+columbia.edu
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -110,7 +119,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -124,6 +132,7 @@ onesignal.com
 onetrust.com
 online.net
 onlyfans.com
+openai.com
 optimizely.com
 ozon.ru
 patreon.com
@@ -166,7 +175,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -175,11 +184,10 @@ adsafeprotected.com
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.com
-amazon.com.br
+amazon.co.uk
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
