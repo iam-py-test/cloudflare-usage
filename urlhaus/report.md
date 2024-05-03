@@ -1,4 +1,4 @@
-355 domains tested. 83.38028169014085% were behind nothing (59 were behind something). 20 domains could not be tested.<br>
+230 domains tested. 77.39130434782608% were behind nothing (52 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,45 +19,45 @@
 
 ```
 
-38 used cloudflare (10.704225352112676%):
+38 used cloudflare (16.52173913043478%):
 ```
-alealealpargatas.com
+68tiyu.cc
+68tiyu.net
+68tiyu.tv
+68tiyu.vip
 alphaumi.com
-alsiga.com
+bcshopfe.com
 blackhattoolz.com
 carthewasher.net
-contractnerds.com
 covid19help.top
 crazyco.re
 cs.proxy1.bf
 disk.hostz1.com
-djibg.eu
-download.gghxyy.club
-dsengineer.in
+dl.aginjector.com
 dukeenergyltd.top
 enelltd.top
 factorylifes.net
 file-drop.cc
 files.offshore.cat
-hakelectromechanical.com
-hunarghar.org.pk
 imtoken8.cc
 imtokeon.com
-infojobone.com
-ivtmarkets.com
-joccupationalscience.org
-kartsiotis.net
+kebabcheats.ru
 licocojambamarketplace.com
+m.68tiyu.cc
+m.68tiyu.net
+m.68tiyu.tv
+m.68tiyu.vip
 myfile.neverlose.pl
 pop.tg
 sportvision.app
-summerlanddogtraining.com
 telegram.ninja
 thequirkyartman.co.uk
 universalmovies.top
-valowaves.com
+www.68tiyu.cc
+www.68tiyu.net
+www.68tiyu.tv
+www.68tiyu.vip
 www.blackhattoolz.com
-www.darkknight-media.com
 www.file-drop.cc
 ```
 
@@ -106,9 +106,9 @@ www.file-drop.cc
 
 ```
 
-1 used ezoic (0.28169014084507044%):
+0 used ezoic (0.0%):
 ```
-mozkraty.org
+
 ```
 
 0 used incapsula (0.0%):
