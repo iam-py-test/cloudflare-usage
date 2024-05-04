@@ -1,5 +1,5 @@
-1000 domains tested. 67.0% were behind nothing (330 were behind something). 62 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.7% were behind nothing (333 were behind something). 63 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,7 @@ hp.com
 intel.com
 lowes.com
 macys.com
+marriott.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -82,7 +83,6 @@ cookielaw.org
 creativecommons.org
 datto.com
 deepintent.com
-delfi.lv
 digitalocean.com
 discogs.com
 discord.com
@@ -133,6 +133,7 @@ onlyfans.com
 openai.com
 optimizely.com
 ozon.ru
+pages.dev
 patreon.com
 pexels.com
 pixabay.com
@@ -173,19 +174,21 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
+amazon.es
+amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -277,7 +280,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 worldbank.org
