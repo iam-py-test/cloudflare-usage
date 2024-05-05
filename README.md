@@ -16,6 +16,7 @@ This project looks for:
 - leaseweb
 - deflect
 - ezoic CDN
+- Netlify
 
 Not all these CDNs are as bad as CloudFlare.
 

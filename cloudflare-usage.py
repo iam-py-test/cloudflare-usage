@@ -84,6 +84,7 @@ if start_time not in stats_file["date_reports"]:
 server_headers = []
 via_headers = []
 x_served_by = []
+cache_data = []
 total_domains_checked = 0
 
 def get_cname(domain):
@@ -131,6 +132,7 @@ def hascloudflare(url):
 	global x_served_by
 	global already_checked
 	global total_domains_checked
+	global cache_data
 
 	total_domains_checked += 1
 	try:
@@ -206,7 +208,7 @@ def hascloudflare(url):
 			server_header = r.headers["Server"]
 			if server_header not in server_headers and server_header != None and server_header != "":
 				server_headers.append(server_header)
-			if server_header == None or server_header == "":
+			if server_header == None or server_header == "" or type(server_header) != str:
 				pass
 			elif server_header.lower() == "cloudflare" or server_header == "cloudflare-nginx":
 				return "cloudflare"
@@ -224,11 +226,20 @@ def hascloudflare(url):
 				return "keycdn"
 			elif server_header.startswith("Sucuri"):
 				return "sucuri"
+			elif server_header.lower() == "netlify":
+				return "netlify"
+			elif server_header == "Fastly":
+				return "fastly"
 		if "X-Server" in r.headers:
 			if r.headers["x-server"] not in server_headers:
 				server_headers.append(r.headers["x-server"])
 			if r.headers["x-server"] == "Deflect.ca (nginx)":
 				return "deflect"
+		if "cache-status" in r.headers:
+			if r.headers["cache-status"] not in cache_data:
+				cache_data.append(r.headers['cache-status'])
+			if "Netlify" in r.headers["cache-status"]:
+				return "netlify"
 		if "CF-RAY" in r.headers or "CF-Cache-Status" in r.headers or "cf-mitigated" in r.headers or "Cf-Mitigated" in r.headers:
 			return "cloudflare"
 		if "x-77-age" in r.headers or "x-77-cache" in r.headers or "x-77-nzt" in r.headers or "x-77-nzt-ray" in r.headers or "x-77-pop" in r.headers:
@@ -242,6 +253,8 @@ def hascloudflare(url):
 				print(dict(r.headers))
 			return "sucuri"
 		if "X-Cache" in r.headers:
+			if r.headers['X-Cache'] not in cache_data:
+				cache_data.append(r.headers['X-Cache'])
 			if r.headers["X-Cache"].endswith(" from cloudfront"):
 				return "cloudfront"
 		if "X-Served-By" in r.headers:
@@ -265,6 +278,8 @@ def hascloudflare(url):
 				return "imperva"
 		if "x-incap-sess-cookie-hdr" in r.headers or "x-iinfo" in r.headers:
 			return "imperva"
+		if "x-nf-request-id" in r.headers:
+			return "netlify"
 	except Exception as err:
 		print("Got error while making request: ",err)
 		return None
@@ -338,6 +353,10 @@ report_base = {
 			"ips": []
 		},
 		"incapsula": {
+			"domains": [],
+			"ips": []
+		},
+		"netlify": {
 			"domains": [],
 			"ips": []
 		},
