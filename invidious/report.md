@@ -78,3 +78,8 @@ invidious.perennialte.ch
 ```
 
 ```
+
+0 used netlify (0.0%):
+```
+
+```

@@ -1,4 +1,4 @@
-241 domains tested. 77.59336099585063% were behind nothing (54 were behind something). 20 domains could not be tested.<br>
+191 domains tested. 85.34031413612566% were behind nothing (28 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,42 +19,20 @@
 
 ```
 
-34 used cloudflare (14.107883817427386%):
+12 used cloudflare (6.282722513089005%):
 ```
-68tiyu.cc
-68tiyu.net
-68tiyu.tv
-68tiyu.vip
-bcshopfe.com
-blackhattoolz.com
 covid19help.top
 cs.proxy1.bf
 dl.aginjector.com
-dukeenergyltd.top
-enelltd.top
-factorylifes.net
-file-drop.cc
-files.offshore.cat
-hitman-pro.ru
 imtoken8.cc
+imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
 linktoxic34.com
-m.68tiyu.cc
-m.68tiyu.net
-m.68tiyu.tv
-m.68tiyu.vip
 myfile.neverlose.pl
 sportvision.app
-telegram.ninja
 thequirkyartman.co.uk
-universalmovies.top
-www.68tiyu.cc
-www.68tiyu.net
-www.68tiyu.tv
-www.68tiyu.vip
 www.blackhattoolz.com
-www.file-drop.cc
 ```
 
 0 used cloudfront (0.0%):
@@ -108,6 +86,11 @@ www.file-drop.cc
 ```
 
 0 used incapsula (0.0%):
+```
+
+```
+
+0 used netlify (0.0%):
 ```
 
 ```

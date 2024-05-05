@@ -1,5 +1,5 @@
-1000 domains tested. 66.7% were behind nothing (333 were behind something). 63 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 75.8% were behind nothing (242 were behind something). 41 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -24,8 +24,6 @@ macys.com
 marriott.com
 mysql.com
 news.com.au
-rakuten.co.jp
-service-now.com
 weforum.org
 ```
 
@@ -44,7 +42,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+94 used cloudflare (9.4%):
 ```
 2gis.com
 33across.com
@@ -136,58 +134,22 @@ ozon.ru
 pages.dev
 patreon.com
 pexels.com
-pixabay.com
-pixiv.net
 plesk.com
-plex.tv
-princeton.edu
-prnewswire.com
-quizlet.com
-quora.com
-researchgate.net
-roku.com
-sciencedirect.com
-shein.com
-shopify.com
-sitescout.com
-skroutz.gr
 sourceforge.net
-squareup.com
-stackoverflow.com
-statcounter.com
-tandfonline.com
-teamviewer.com
 themeforest.net
-tinyurl.com
-udemy.com
-unpkg.com
-upwork.com
-vimeo.com
-vungle.com
-w3.org
-webmd.com
-weebly.com
-who.int
 wiley.com
-xhamster.com
-zendesk.com
-zoom.us
 ```
 
-109 used cloudfront (10.9%):
+74 used cloudfront (7.3999999999999995%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
-amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -250,41 +212,10 @@ noaa.gov
 nubank.com.br
 onet.pl
 pbs.org
-primevideo.com
-rapid7.com
-realtor.com
-redfin.com
 repubblica.it
-reuters.com
 ryanair.com
-segment.io
-shalltry.com
 sharethis.com
-shutterstock.com
-soundcloud.com
-state.gov
-statista.com
-supercell.com
-surveymonkey.com
-swrve.com
-synology.com
-t-online.de
-thesun.co.uk
-time.com
-tp-link.com
-tradingview.com
-tremorhub.com
-trustpilot.com
-typeform.com
-ubnt.com
-ui.com
-un.org
-unrulymedia.com
-warnerbros.com
 wattpad.com
-worldbank.org
-wsj.com
-zillow.com
 ```
 
 2 used ddosguard (0.2%):
@@ -298,11 +229,9 @@ netangels.ru
 
 ```
 
-3 used fastly (0.3%):
+1 used fastly (0.1%):
 ```
 github.io
-speedtest.net
-www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -310,9 +239,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):
@@ -340,8 +269,15 @@ php.net
 
 ```
 
-2 used imperva (0.2%):
+4 used netlify (0.4%):
+```
+ampproject.org
+launchdarkly.com
+lencr.org
+livechatinc.com
+```
+
+1 used imperva (0.1%):
 ```
 digicert.com
-redislabs.com
 ```

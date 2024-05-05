@@ -1,4 +1,4 @@
-34 domains tested. 55.88235294117647% were behind nothing (15 were behind something). 0 domains could not be tested.<br>
+34 domains tested. 52.94117647058824% were behind nothing (16 were behind something). 0 domains could not be tested.<br>
 2 used akamai (5.88235294117647%):
 ```
 alienvault.com
@@ -89,4 +89,9 @@ opswat.com
 0 used incapsula (0.0%):
 ```
 
+```
+
+1 used netlify (2.941176470588235%):
+```
+f-secure.com
 ```
