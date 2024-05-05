@@ -1,4 +1,4 @@
-191 domains tested. 85.34031413612566% were behind nothing (28 were behind something). 16 domains could not be tested.<br>
+192 domains tested. 84.375% were behind nothing (30 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,14 @@
 
 ```
 
-12 used cloudflare (6.282722513089005%):
+16 used cloudflare (8.333333333333332%):
 ```
-covid19help.top
+blackhattoolz.com
+brazilanimalshelp.com
 cs.proxy1.bf
 dl.aginjector.com
+factorylifes.net
+files.offshore.cat
 imtoken8.cc
 imtokeon.com
 kebabcheats.ru
@@ -31,6 +34,7 @@ licocojambamarketplace.com
 linktoxic34.com
 myfile.neverlose.pl
 sportvision.app
+telegram.ninja
 thequirkyartman.co.uk
 www.blackhattoolz.com
 ```
