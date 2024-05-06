@@ -1,9 +1,8 @@
-258 domains tested. 36.82170542635659% were behind nothing (163 were behind something). 15 domains could not be tested.<br>
-3 used akamai (1.1627906976744187%):
+258 domains tested. 36.82170542635659% were behind nothing (163 were behind something). 16 domains could not be tested.<br>
+2 used akamai (0.7751937984496124%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
-go.microsoft.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -103,11 +102,11 @@ linkspy.cc
 linkvertise.com
 linkvertise.net
 ln.run
-lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
 myprivate.pics
+n9.cl
 noodshare.pics
 nyl.as
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo

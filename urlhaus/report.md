@@ -1,4 +1,4 @@
-192 domains tested. 84.375% were behind nothing (30 were behind something). 14 domains could not be tested.<br>
+180 domains tested. 85.55555555555556% were behind nothing (26 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,21 @@
 
 ```
 
-16 used cloudflare (8.333333333333332%):
+17 used cloudflare (9.444444444444445%):
 ```
+bcshopfe.com
 blackhattoolz.com
-brazilanimalshelp.com
+covid19help.top
 cs.proxy1.bf
 dl.aginjector.com
-factorylifes.net
+dukeenergyltd.top
 files.offshore.cat
 imtoken8.cc
 imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
 linktoxic34.com
-myfile.neverlose.pl
+spices.com.sg
 sportvision.app
 telegram.ninja
 thequirkyartman.co.uk
@@ -59,9 +60,9 @@ www.blackhattoolz.com
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.5555555555555556%):
 ```
-
+bishopberrian.com
 ```
 
 0 used myracloud (0.0%):
