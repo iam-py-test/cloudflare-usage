@@ -1,4 +1,4 @@
-193 domains tested. 83.41968911917098% were behind nothing (32 were behind something). 8 domains could not be tested.<br>
+191 domains tested. 84.29319371727748% were behind nothing (30 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,14 @@
 
 ```
 
-23 used cloudflare (11.917098445595855%):
+20 used cloudflare (10.471204188481675%):
 ```
-apt.daili778.org
-bcshopfe.com
 blackhattoolz.com
 covid19help.top
 cs.proxy1.bf
 dl.aginjector.com
 dukeenergyltd.top
 enelltd.top
-factorylifes.net
-files.offshore.cat
 firstfirecar.com
 hitman-pro.ru
 imtoken8.cc
@@ -40,10 +36,11 @@ jonathantwo.com
 junglethomas.com
 kebabcheats.ru
 licocojambamarketplace.com
+linktoxic34.com
 spices.com.sg
 sportvision.app
-telegram.ninja
 www.blackhattoolz.com
+zanzibarpivo.com
 ```
 
 0 used cloudfront (0.0%):
@@ -66,7 +63,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used sucuri (0.5181347150259068%):
+1 used sucuri (0.5235602094240838%):
 ```
 bishopberrian.com
 ```
