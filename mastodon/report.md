@@ -1,4 +1,4 @@
-103 domains tested. 86.40776699029125% were behind nothing (14 were behind something). 0 domains could not be tested.<br>
+103 domains tested. 85.43689320388349% were behind nothing (15 were behind something). 0 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-14 used cloudflare (13.592233009708737%):
+15 used cloudflare (14.563106796116504%):
 ```
 better.boston
+eigenmagic.net
 journa.host
 kolektiva.social
 mas.to
