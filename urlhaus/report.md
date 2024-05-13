@@ -1,4 +1,4 @@
-207 domains tested. 85.99033816425121% were behind nothing (29 were behind something). 5 domains could not be tested.<br>
+188 domains tested. 85.63829787234043% were behind nothing (27 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,28 @@
 
 ```
 
-23 used cloudflare (11.11111111111111%):
+20 used cloudflare (10.638297872340425%):
 ```
 blackhattoolz.com
-brazilanimalshelp.com
 covid19help.top
 cs.proxy1.bf
 dl.aginjector.com
-dokdo.in
 dukeenergyltd.top
-enelltd.top
-factorylifes.net
 files.offshore.cat
+hitman-pro.ru
+homebrew.cx
 imtoken8.cc
 imtokeon.com
 kebabcheats.ru
 licocojambamarketplace.com
-linktoxic34.com
-lovehub.com.tr
 mooncheats.shop
 smbeckwithlaw.com
 spices.com.sg
-sportvision.app
+telegram.ninja
 universalmovies.top
 workspacin.cloud
 www.blackhattoolz.com
+xmindlern.com
 ```
 
 0 used cloudfront (0.0%):
@@ -66,9 +63,9 @@ www.blackhattoolz.com
 
 ```
 
-1 used sucuri (0.4830917874396135%):
+0 used sucuri (0.0%):
 ```
-bishopberrian.com
+
 ```
 
 0 used myracloud (0.0%):
