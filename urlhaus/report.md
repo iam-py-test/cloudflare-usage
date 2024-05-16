@@ -1,4 +1,4 @@
-185 domains tested. 83.24324324324324% were behind nothing (31 were behind something). 7 domains could not be tested.<br>
+190 domains tested. 83.15789473684211% were behind nothing (32 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-24 used cloudflare (12.972972972972974%):
+26 used cloudflare (13.684210526315791%):
 ```
 blackhattoolz.com
 bmcm.pw
@@ -29,16 +29,18 @@ cs.proxy1.bf
 dl.aginjector.com
 dukeenergyltd.top
 enelltd.top
+files.offshore.cat
 graupery.com.uy
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
-licocojambamarketplace.com
+joccupationalscience.org
 linktoxic34.com
 mooncheats.shop
+nanoshield.pro
 page.wedl3.com
+polatfamilyengine.com
 smbeckwithlaw.com
-spices.com.sg
 sportvision.app
 telegram.ninja
 universalmovies.top
