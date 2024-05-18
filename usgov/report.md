@@ -1,4 +1,4 @@
-361 domains tested. 61.772853185595565% were behind nothing (138 were behind something). 46 domains could not be tested.<br>
+361 domains tested. 62.32686980609419% were behind nothing (136 were behind something). 44 domains could not be tested.<br>
 21 used akamai (5.8171745152354575%):
 ```
 amtrak.com

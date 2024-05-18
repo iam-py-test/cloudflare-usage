@@ -1,5 +1,5 @@
-1000 domains tested. 66.8% were behind nothing (332 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.4% were behind nothing (336 were behind something). 63 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -12,6 +12,7 @@ dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
+eepurl.com
 expedia.com
 fda.gov
 fedex.com
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -128,7 +129,6 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
-onlyfans.com
 openai.com
 optimizely.com
 ozon.ru
@@ -179,11 +179,11 @@ zoom.us
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.co.uk
+amazon.ca
+amazon.co.jp
 amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -244,6 +244,7 @@ netgear.com
 nginx.com
 noaa.gov
 onet.pl
+onlyfans.com
 pbs.org
 primevideo.com
 rapid7.com
@@ -273,7 +274,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
