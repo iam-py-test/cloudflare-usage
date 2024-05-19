@@ -1,4 +1,4 @@
-192 domains tested. 82.29166666666666% were behind nothing (34 were behind something). 10 domains could not be tested.<br>
+187 domains tested. 79.67914438502673% were behind nothing (38 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-24 used cloudflare (12.5%):
+30 used cloudflare (16.0427807486631%):
 ```
 blackhattoolz.com
 bmcm.pw
@@ -29,20 +29,26 @@ down.furnitureoptimal.com
 dukeenergyltd.top
 enelltd.top
 factorylifes.net
-files.eintim.me
 files.offshore.cat
 hitman-pro.ru
 homebrew.cx
 ibllt.com
 imtoken8.cc
 imtokeon.com
+joccupationalscience.org
 kebabcheats.ru
+kebfuzeswiglet.sbs
 licocojambamarketplace.com
+linktoxic34.com
 mooncheats.shop
 nanoshield.pro
 page.wedl3.com
 polatfamilyengine.com
+smbeckwithlaw.com
+spices.com.sg
 telegram.ninja
+universalmovies.top
+washdaywoosungmolinia.sbs
 www.blackhattoolz.com
 xmindlern.com
 ```

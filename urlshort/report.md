@@ -109,7 +109,6 @@ mgnet.xyz
 mirrorz.com
 myprivate.pics
 n9.cl
-noodshare.pics
 nyl.as
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 ouo.io
@@ -136,6 +135,7 @@ shrinkme.io
 smarturl.it
 snip.ly
 sor.bz
+spoo.me
 stfly.xyz
 stopify.co
 streak-link.com
