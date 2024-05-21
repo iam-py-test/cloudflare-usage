@@ -1,4 +1,4 @@
-181 domains tested. 79.00552486187846% were behind nothing (38 were behind something). 11 domains could not be tested.<br>
+181 domains tested. 79.55801104972376% were behind nothing (37 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -26,26 +26,26 @@ api.ewfiles.su
 blackhattoolz.com
 bmcm.pw
 covid19help.top
-dl.aginjector.com
-down.furnitureoptimal.com
 dukeenergyltd.top
 enelltd.top
 factorylifes.net
-files.offshore.cat
 hitman-pro.ru
 homebrew.cx
 ibllt.com
+imtoken8.cc
 imtokeon.com
 joccupationalscience.org
 kebabcheats.ru
-kebfuzeswiglet.sbs
 licocojambamarketplace.com
 linktoxic34.com
-mooncheats.shop
 nanoshield.pro
+page.wedl3.com
 polatfamilyengine.com
+smbeckwithlaw.com
+spices.com.sg
+sportvision.app
 universalmovies.top
-washdaywoosungmolinia.sbs
+wqdqwdqwqwddqw.top
 www.blackhattoolz.com
 xmindlern.com
 ```

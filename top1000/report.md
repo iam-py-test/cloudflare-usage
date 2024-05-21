@@ -1,5 +1,5 @@
-1000 domains tested. 66.7% were behind nothing (333 were behind something). 62 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -52,7 +53,6 @@ addtoany.com
 allaboutcookies.org
 ancestry.com
 apnews.com
-appier.net
 applovin.com
 berkeley.edu
 bidmachine.io
@@ -173,7 +173,7 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -181,9 +181,10 @@ academia.edu
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.br
-amazon.de
+amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -272,6 +273,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -282,8 +284,9 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
+1c.ru
 netangels.ru
 pikabu.ru
 ```
