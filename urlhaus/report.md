@@ -1,4 +1,4 @@
-181 domains tested. 79.55801104972376% were behind nothing (37 were behind something). 10 domains could not be tested.<br>
+180 domains tested. 78.88888888888889% were behind nothing (38 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-27 used cloudflare (14.917127071823206%):
+28 used cloudflare (15.555555555555555%):
 ```
 advising-receipts.com
 api.ewfiles.su
@@ -28,7 +28,6 @@ bmcm.pw
 covid19help.top
 dukeenergyltd.top
 enelltd.top
-factorylifes.net
 hitman-pro.ru
 homebrew.cx
 ibllt.com
@@ -36,6 +35,7 @@ imtoken8.cc
 imtokeon.com
 joccupationalscience.org
 kebabcheats.ru
+laurabingham.org
 licocojambamarketplace.com
 linktoxic34.com
 nanoshield.pro
@@ -44,6 +44,7 @@ polatfamilyengine.com
 smbeckwithlaw.com
 spices.com.sg
 sportvision.app
+telegram.ninja
 universalmovies.top
 wqdqwdqwqwddqw.top
 www.blackhattoolz.com
