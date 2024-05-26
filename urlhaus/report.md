@@ -1,4 +1,4 @@
-186 domains tested. 82.25806451612904% were behind nothing (33 were behind something). 7 domains could not be tested.<br>
+183 domains tested. 84.15300546448088% were behind nothing (29 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,16 @@
 
 ```
 
-26 used cloudflare (13.978494623655912%):
+25 used cloudflare (13.661202185792352%):
 ```
 advising-receipts.com
 api.ewfiles.su
-asdsdgsdgdfbsfd.cam
 blackhattoolz.com
 bmcm.pw
+covid19help.top
 dl.aginjector.com
 enelltd.top
 factorylifes.net
-hitman-pro.ru
 homebrew.cx
 ibllt.com
 imtoken8.cc
@@ -41,10 +40,10 @@ licocojambamarketplace.com
 nanoshield.pro
 page.wedl3.com
 polatfamilyengine.com
+postaipay.top
 server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru
 spices.com.sg
 sportvision.app
-telegram.ninja
 universalmovies.top
 www.blackhattoolz.com
 ```
