@@ -1,4 +1,4 @@
-259 domains tested. 37.83783783783784% were behind nothing (161 were behind something). 17 domains could not be tested.<br>
+259 domains tested. 37.06563706563706% were behind nothing (163 were behind something). 16 domains could not be tested.<br>
 2 used akamai (0.7722007722007722%):
 ```
 eepurl.com
@@ -20,15 +20,17 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-125 used cloudflare (48.26254826254826%):
+129 used cloudflare (49.80694980694981%):
 ```
 02ip.ru
 1sta.com
 24ex.com
+2fear.com
 2fortune.com
 2freedom.com
 2hell.com
 2no.co
+2savvy.com
 2truth.com
 2tunes.com
 2tw.in
@@ -38,6 +40,7 @@ adfoc.us
 adshrink.it
 ahscdn.com
 alturl.com
+antiblog.com
 appurl.io
 bc.vc
 bigbig.com
@@ -54,6 +57,7 @@ cuty.io
 dealtap.com
 direct-link.net
 dommania.pl
+ebored.com
 echoz.com
 exe.io
 exee.app
@@ -70,6 +74,7 @@ gamingfun.me
 goo.su
 grabify.link
 grabify.world
+hereweb.com
 heylink.me
 hitart.com
 ibf.tw
@@ -136,7 +141,6 @@ stopify.co
 streak-link.com
 t.ly
 tii.la
-tinyurl.com
 track.canva.com
 uprot.net
 url1.io
@@ -149,9 +153,8 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-15 used cloudfront (5.7915057915057915%):
+14 used cloudfront (5.405405405405405%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 linkbucks.com

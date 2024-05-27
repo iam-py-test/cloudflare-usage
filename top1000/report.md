@@ -1,5 +1,5 @@
-1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 59 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 76.4% were behind nothing (236 were behind something). 41 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -8,7 +8,6 @@ airbnb.com
 arubanetworks.com
 autodesk.com
 avira.com
-businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -25,10 +24,6 @@ macys.com
 marriott.com
 mysql.com
 news.com.au
-rakuten.co.jp
-service-now.com
-weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -46,7 +41,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+91 used cloudflare (9.1%):
 ```
 2gis.com
 33across.com
@@ -54,7 +49,6 @@ addtoany.com
 allaboutcookies.org
 ancestry.com
 apnews.com
-appier.net
 applovin.com
 berkeley.edu
 bidmachine.io
@@ -123,6 +117,7 @@ mdpi.com
 mediafire.com
 medium.com
 mgid.com
+mlb.com
 myshopify.com
 networkadvertising.org
 notion.so
@@ -136,56 +131,22 @@ optimizely.com
 ozon.ru
 pages.dev
 patreon.com
-perfectdomain.com
-pexels.com
-pixabay.com
-pixiv.net
-plesk.com
-princeton.edu
-prnewswire.com
-quizlet.com
-quora.com
-researchgate.net
-roku.com
-sciencedirect.com
-shein.com
-shopify.com
-sitescout.com
-skroutz.gr
-sourceforge.net
-spamhaus.org
-spankbang.com
-stackoverflow.com
-tandfonline.com
 teamviewer.com
-themeforest.net
-tinyurl.com
-udemy.com
-unpkg.com
-upwork.com
-vimeo.com
-vungle.com
-w3.org
 webmd.com
-weebly.com
-who.int
 wiley.com
-xhamster.com
-zendesk.com
-zoom.us
 ```
 
-107 used cloudfront (10.7%):
+72 used cloudfront (7.199999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.co.jp
-amazon.co.uk
-amazon.com
+amazon.ca
+amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -223,6 +184,7 @@ europa.eu
 eventbrite.com
 firefox.com
 flickr.com
+fortune.com
 go.com
 gumgum.com
 hbr.org
@@ -246,50 +208,14 @@ netgear.com
 nginx.com
 noaa.gov
 onet.pl
-pbs.org
-primevideo.com
-rapid7.com
-realtor.com
-redfin.com
-repubblica.it
-reuters.com
-ryanair.com
-segment.io
-shalltry.com
-sharethis.com
-shutterstock.com
-soundcloud.com
-state.gov
-statista.com
-supercell.com
-surveymonkey.com
-swrve.com
-synology.com
-t-online.de
-thesun.co.uk
-time.com
-tp-link.com
-tradingview.com
-tremorhub.com
 trustpilot.com
-typeform.com
-ubnt.com
-ui.com
-un.org
-unrulymedia.com
-uol.com.br
-utorrent.com
 warnerbros.com
-wattpad.com
-worldbank.org
-wsj.com
-zillow.com
 ```
 
 2 used ddosguard (0.2%):
 ```
+1c.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -297,11 +223,9 @@ pikabu.ru
 
 ```
 
-3 used fastly (0.3%):
+1 used fastly (0.1%):
 ```
 github.io
-speedtest.net
-www.gov.uk
 ```
 
 0 used sucuri (0.0%):
@@ -309,9 +233,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):
@@ -339,18 +263,15 @@ php.net
 
 ```
 
-6 used netlify (0.6%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
 livechatinc.com
-pvp.net
-splashtop.com
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-redislabs.com
 ```
