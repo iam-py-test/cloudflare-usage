@@ -1,4 +1,4 @@
-103 domains tested. 84.46601941747572% were behind nothing (16 were behind something). 2 domains could not be tested.<br>
+103 domains tested. 84.46601941747572% were behind nothing (16 were behind something). 1 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-14 used cloudflare (13.592233009708737%):
+15 used cloudflare (14.563106796116504%):
 ```
 better.boston
 eigenmagic.net
@@ -31,6 +31,7 @@ me.dm
 mstdn.ca
 mstdn.io
 noagendasocial.com
+pixelfed.social
 tapbots.social
 techhub.social
 universeodon.com
