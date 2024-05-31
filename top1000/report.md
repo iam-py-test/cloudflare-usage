@@ -1,4 +1,4 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 59 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -12,7 +12,6 @@ dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
-eepurl.com
 expedia.com
 fda.gov
 fedex.com
@@ -27,6 +26,7 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+127 used cloudflare (12.7%):
 ```
 2gis.com
 33across.com
@@ -159,6 +159,7 @@ tandfonline.com
 teamviewer.com
 themeforest.net
 tinyurl.com
+trendyol.com
 udemy.com
 unpkg.com
 upwork.com
@@ -181,9 +182,10 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.uk
+amazon.co.jp
+amazon.com
 amazon.com.br
-amazon.es
+amazon.de
 amazon.fr
 amazon.in
 amazon.it
@@ -243,7 +245,6 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
-nginx.com
 noaa.gov
 nubank.com.br
 onet.pl
