@@ -1,4 +1,4 @@
-164 domains tested. 84.7560975609756% were behind nothing (25 were behind something). 4 domains could not be tested.<br>
+159 domains tested. 82.38993710691824% were behind nothing (28 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-21 used cloudflare (12.804878048780488%):
+23 used cloudflare (14.465408805031446%):
 ```
 advising-receipts.com
 api.ewfiles.su
@@ -32,6 +32,7 @@ hitman-pro.ru
 homebrew.cx
 ibllt.com
 imtoken8.cc
+imtokeon.com
 joccupationalscience.org
 licocojambamarketplace.com
 nanoshield.pro
@@ -40,6 +41,7 @@ postaipay.top
 server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru
 spices.com.sg
 sportvision.app
+telegram.ninja
 universalmovies.top
 www.blackhattoolz.com
 ```
@@ -49,9 +51,9 @@ www.blackhattoolz.com
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.628930817610063%):
 ```
-
+saitraif.ru
 ```
 
 0 used edgecast (0.0%):

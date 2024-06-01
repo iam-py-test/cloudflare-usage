@@ -8,7 +8,7 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -19,6 +19,7 @@ api.flickr.com
 api.soundcloud.com
 assets-global.website-files.com
 assets.homeimprovementpages.com.au
+assets.twitch.tv
 aws-us-east-1.amazon.com
 aws-us-west-2.amazon.com
 aws.amazon.com
@@ -43,6 +44,7 @@ d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
 d143j4fdqe1jki.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
+d186rixkn5ruba.cloudfront.net
 d1cklgu5sscvp0.cloudfront.net
 d1d395kgk3q1uk.cloudfront.net
 d1epqfzld01eon.cloudfront.net
@@ -53,6 +55,7 @@ d1hcxlifzhxzha.cloudfront.net
 d1kpbbfl4rco16.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
 d1u08w08on97dm.cloudfront.net
+d1v8493p60f7at.cloudfront.net
 d1ykf07e75w7ss.cloudfront.net
 d1zdtmglxggpu8.cloudfront.net
 d278netuvpt9qo.cloudfront.net
@@ -117,12 +120,8 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
-images.rbxcdn.com
 images.scanalert.com
 img-deviantart.wixmp.com
 img.hipages.com.au
@@ -130,11 +129,11 @@ intuit.com
 js-cdn.dynatrace.com
 js.adsrvr.org
 js.media-lab.ai
-js.rbxcdn.com
 kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 lp.datadoghq.com
+m.media-amazon.com
 m.soundcloud.com
 media.gnl-live.bbcverticals.com
 mediacache.homeimprovementpages.com.au
@@ -164,7 +163,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
@@ -185,6 +183,7 @@ warnerbros.com
 webtools.europa.eu
 widgets.q4app.com
 wis.sndcdn.com
+www.amazon.com
 www.datadoghq.com
 www.deviantart.com
 www.dvidshub.net
