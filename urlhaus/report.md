@@ -1,4 +1,4 @@
-159 domains tested. 82.38993710691824% were behind nothing (28 were behind something). 4 domains could not be tested.<br>
+145 domains tested. 84.13793103448276% were behind nothing (23 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,12 @@
 
 ```
 
-23 used cloudflare (14.465408805031446%):
+19 used cloudflare (13.10344827586207%):
 ```
 advising-receipts.com
-api.ewfiles.su
 blackhattoolz.com
 covid19help.top
-dl.aginjector.com
-dukeenergyltd.top
-enelltd.top
+factorylifes.net
 hitman-pro.ru
 homebrew.cx
 ibllt.com
@@ -40,7 +37,6 @@ polatfamilyengine.com
 postaipay.top
 server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru
 spices.com.sg
-sportvision.app
 telegram.ninja
 universalmovies.top
 www.blackhattoolz.com
@@ -51,7 +47,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.628930817610063%):
+1 used ddosguard (0.6896551724137931%):
 ```
 saitraif.ru
 ```
