@@ -1,4 +1,4 @@
-145 domains tested. 84.13793103448276% were behind nothing (23 were behind something). 3 domains could not be tested.<br>
+160 domains tested. 85.625% were behind nothing (23 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,26 @@
 
 ```
 
-19 used cloudflare (13.10344827586207%):
+19 used cloudflare (11.875%):
 ```
-advising-receipts.com
-blackhattoolz.com
+api.ewfiles.su
 covid19help.top
+dl.aginjector.com
+drhhmarketing.com
 factorylifes.net
 hitman-pro.ru
-homebrew.cx
 ibllt.com
 imtoken8.cc
 imtokeon.com
 joccupationalscience.org
 licocojambamarketplace.com
 nanoshield.pro
-polatfamilyengine.com
 postaipay.top
-server.qxej27mv7hud1uk03kj438ggzby0v7a8mgwwnmky2n9vn1tmcn1qpm8kax84ymn.ru
 spices.com.sg
 telegram.ninja
+testdomain123123.shop
 universalmovies.top
+wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
@@ -47,9 +47,9 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.6896551724137931%):
+0 used ddosguard (0.0%):
 ```
-saitraif.ru
+
 ```
 
 0 used edgecast (0.0%):
