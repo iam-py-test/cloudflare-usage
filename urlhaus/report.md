@@ -1,4 +1,4 @@
-160 domains tested. 85.625% were behind nothing (23 were behind something). 4 domains could not be tested.<br>
+163 domains tested. 80.98159509202453% were behind nothing (31 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,25 @@
 
 ```
 
-19 used cloudflare (11.875%):
+22 used cloudflare (13.496932515337424%):
 ```
 api.ewfiles.su
+blackhattoolz.com
 covid19help.top
 dl.aginjector.com
 drhhmarketing.com
-factorylifes.net
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
-imtokeon.com
 joccupationalscience.org
 licocojambamarketplace.com
 nanoshield.pro
+polatfamilyengine.com
 postaipay.top
+reusable-flex.com
+server.cnc-kovey.ru
 spices.com.sg
+sportvision.app
 telegram.ninja
 testdomain123123.shop
 universalmovies.top
