@@ -1,4 +1,4 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 62 domains could not be tested.<br>
+1000 domains tested. 66.3% were behind nothing (337 were behind something). 63 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -8,7 +8,6 @@ airbnb.com
 arubanetworks.com
 autodesk.com
 avira.com
-businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -21,6 +20,7 @@ hp.com
 intel.com
 lowes.com
 macys.com
+marriott.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -128,7 +128,6 @@ online.net
 onlyfans.com
 openai.com
 optimizely.com
-ozon.ru
 pages.dev
 patreon.com
 perfectdomain.com
@@ -172,7 +171,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -180,13 +179,12 @@ academia.edu
 adsafeprotected.com
 agora.io
 amazon.ca
-amazon.co.uk
-amazon.com
+amazon.co.jp
 amazon.com.br
-amazon.de
+amazon.com.mx
 amazon.es
-amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -274,7 +272,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -305,9 +302,9 @@ speedtest.net
 www.gov.uk
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.1%):
 ```
-
+sonobi.com
 ```
 
 1 used myracloud (0.1%):
