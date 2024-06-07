@@ -1,4 +1,4 @@
-174 domains tested. 83.33333333333334% were behind nothing (29 were behind something). 7 domains could not be tested.<br>
+176 domains tested. 84.6590909090909% were behind nothing (27 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,24 @@
 
 ```
 
-22 used cloudflare (12.643678160919542%):
+20 used cloudflare (11.363636363636363%):
 ```
 advising-receipts.com
 api.ewfiles.su
 blackhattoolz.com
 covid19help.top
 dl.aginjector.com
+hitman-pro.ru
 ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
-nanoshield.pro
 polatfamilyengine.com
-postaipay.top
 prntsc.pro
 reusable-flex.com
 server.cnc-kovey.ru
 spices.com.sg
 sportvision.app
-telegram.ninja
 testdomain123123.shop
 universalmovies.top
 wondershare-filmora.top
