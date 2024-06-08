@@ -1,4 +1,4 @@
-176 domains tested. 84.6590909090909% were behind nothing (27 were behind something). 7 domains could not be tested.<br>
+175 domains tested. 88.0% were behind nothing (21 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,11 @@
 
 ```
 
-20 used cloudflare (11.363636363636363%):
+18 used cloudflare (10.285714285714285%):
 ```
 advising-receipts.com
 api.ewfiles.su
 blackhattoolz.com
-covid19help.top
 dl.aginjector.com
 hitman-pro.ru
 ibllt.com
@@ -32,14 +31,13 @@ imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
 polatfamilyengine.com
-prntsc.pro
+postaipay.top
 reusable-flex.com
 server.cnc-kovey.ru
 spices.com.sg
 sportvision.app
-testdomain123123.shop
+telegram.ninja
 universalmovies.top
-wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
