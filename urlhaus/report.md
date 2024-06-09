@@ -1,4 +1,4 @@
-175 domains tested. 88.0% were behind nothing (21 were behind something). 3 domains could not be tested.<br>
+176 domains tested. 86.36363636363636% were behind nothing (24 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-18 used cloudflare (10.285714285714285%):
+21 used cloudflare (11.931818181818182%):
 ```
 advising-receipts.com
 api.ewfiles.su
@@ -37,7 +37,10 @@ server.cnc-kovey.ru
 spices.com.sg
 sportvision.app
 telegram.ninja
+testdomain123123.shop
 universalmovies.top
+viejolekecikarici.com
+wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
