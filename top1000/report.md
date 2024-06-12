@@ -1,33 +1,22 @@
-1000 domains tested. 66.5% were behind nothing (335 were behind something). 61 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 67.7% were behind nothing (323 were behind something). 59 domains could not be tested.<br>
+16 used akamai (1.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
-arubanetworks.com
-autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
 hp.com
-intel.com
 lowes.com
-macys.com
-marriott.com
 mysql.com
-news.com.au
-nike.com
 rakuten.co.jp
 service-now.com
-weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,7 +34,7 @@ b-cdn.net
 
 ```
 
-122 used cloudflare (12.2%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -69,6 +58,7 @@ canva.com
 casalemedia.com
 change.org
 character.ai
+chatgpt.com
 chaturbate.com
 cloudflare-dns.com
 cloudflare.com
@@ -150,6 +140,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -171,18 +162,17 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 agora.io
-amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.com.br
+amazon.com.mx
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -202,7 +192,6 @@ calendly.com
 chartbeat.net
 chartboost.com
 checkpoint.com
-chegg.com
 clever.com
 coinmarketcap.com
 connatix.com
@@ -231,6 +220,7 @@ imdb.com
 intercom.io
 intuit.com
 istockphoto.com
+kargo.com
 latimes.com
 lijit.com
 line.me
