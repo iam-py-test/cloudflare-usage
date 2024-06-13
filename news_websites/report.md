@@ -1,6 +1,7 @@
-200 domains tested. 63.5% were behind nothing (73 were behind something). 3 domains could not be tested.<br>
-2 used akamai (1.0%):
+200 domains tested. 62.5% were behind nothing (75 were behind something). 4 domains could not be tested.<br>
+3 used akamai (1.5%):
 ```
+anandabazar.com
 dailymail.co.uk
 news.sky.com
 ```
@@ -83,7 +84,6 @@ onet.pl
 repubblica.it
 reuters.com
 salon.com
-sandiegouniontribune.com
 slashgear.com
 sueddeutsche.de
 suntimes.com
@@ -92,6 +92,7 @@ theoutline.com
 thetimes.co.uk
 thewire.in
 time.com
+vanityfair.com
 wsj.com
 wweek.com
 ```

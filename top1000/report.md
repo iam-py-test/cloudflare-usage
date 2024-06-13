@@ -1,22 +1,32 @@
-1000 domains tested. 67.7% were behind nothing (323 were behind something). 59 domains could not be tested.<br>
-16 used akamai (1.6%):
+1000 domains tested. 66.0% were behind nothing (340 were behind something). 62 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 airbnb.com
+arubanetworks.com
+autodesk.com
 avira.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
 hp.com
+intel.com
 lowes.com
+macys.com
+marriott.com
 mysql.com
+news.com.au
 rakuten.co.jp
 service-now.com
+weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -34,7 +44,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+123 used cloudflare (12.3%):
 ```
 2gis.com
 33across.com
@@ -140,7 +150,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -162,15 +171,18 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 agora.io
+amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.mx
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -189,6 +201,7 @@ binance.com
 booking.com
 brave.com
 calendly.com
+chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -225,6 +238,7 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
+mongodb.com
 mozilla.com
 mozilla.org
 name.com
