@@ -1,4 +1,4 @@
-246 domains tested. 90.2439024390244% were behind nothing (24 were behind something). 6 domains could not be tested.<br>
+262 domains tested. 92.36641221374046% were behind nothing (20 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-18 used cloudflare (7.317073170731707%):
+17 used cloudflare (6.488549618320611%):
 ```
-adjxmex.website
 advising-receipts.com
 blackhattoolz.com
 covid19help.top
@@ -35,9 +34,9 @@ licocojambamarketplace.com
 polatfamilyengine.com
 reusable-flex.com
 server.kovey-net.ru
+sportvision.app
 telegram.ninja
-victorisport.shop
-wondershare-filmora.top
+testdomain123123.shop
 www.blackhattoolz.com
 ```
 
