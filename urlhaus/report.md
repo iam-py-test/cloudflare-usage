@@ -1,4 +1,4 @@
-262 domains tested. 92.36641221374046% were behind nothing (20 were behind something). 3 domains could not be tested.<br>
+234 domains tested. 90.17094017094017% were behind nothing (23 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-17 used cloudflare (6.488549618320611%):
+20 used cloudflare (8.547008547008547%):
 ```
 advising-receipts.com
 blackhattoolz.com
@@ -32,11 +32,14 @@ imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
 polatfamilyengine.com
+postaipay.top
 reusable-flex.com
 server.kovey-net.ru
 sportvision.app
 telegram.ninja
 testdomain123123.shop
+victorisport.shop
+wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
