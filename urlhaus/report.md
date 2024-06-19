@@ -1,4 +1,4 @@
-199 domains tested. 88.44221105527639% were behind nothing (23 were behind something). 4 domains could not be tested.<br>
+197 domains tested. 89.34010152284264% were behind nothing (21 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-19 used cloudflare (9.547738693467336%):
+16 used cloudflare (8.121827411167512%):
 ```
 advising-receipts.com
+atsegypt.com
 blackhattoolz.com
 businessdownloads.ltd
 covid19help.top
@@ -31,13 +32,9 @@ imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
 polatfamilyengine.com
-postaipay.top
 reusable-flex.com
-server.kovey-net.ru
 sportvision.app
-telegram.ninja
 testdomain123123.shop
-universalmovies.top
 wondershare-filmora.top
 www.blackhattoolz.com
 ```
