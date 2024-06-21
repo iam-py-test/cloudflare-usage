@@ -1,4 +1,4 @@
-186 domains tested. 87.63440860215054% were behind nothing (23 were behind something). 5 domains could not be tested.<br>
+174 domains tested. 87.93103448275862% were behind nothing (21 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,22 @@
 
 ```
 
-18 used cloudflare (9.67741935483871%):
+15 used cloudflare (8.620689655172415%):
 ```
 advising-receipts.com
-atsegypt.com
-blackhattoolz.com
 covid19help.top
 dl.aginjector.com
 dl.poupli.net
 hitman-pro.ru
-ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
 polatfamilyengine.com
-reusable-flex.com
-tdecu.top
 telegram.ninja
 test.kovey-net.ru
 testdomain123123.shop
+universalmovies.top
+wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
@@ -96,7 +93,7 @@ www.blackhattoolz.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.5747126436781609%):
 ```
-
+damnedplay.com.br
 ```
