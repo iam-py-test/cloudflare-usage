@@ -1,4 +1,4 @@
-174 domains tested. 87.93103448275862% were behind nothing (21 were behind something). 5 domains could not be tested.<br>
+204 domains tested. 86.76470588235294% were behind nothing (27 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,23 @@
 
 ```
 
-15 used cloudflare (8.620689655172415%):
+21 used cloudflare (10.294117647058822%):
 ```
 advising-receipts.com
 covid19help.top
 dl.aginjector.com
-dl.poupli.net
+dukeenergyltd.top
+files.rblxshaders.com
 hitman-pro.ru
+ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
+penisware.com
 polatfamilyengine.com
+postaipay.top
+reusable-flex.com
+sportvision.app
 telegram.ninja
 test.kovey-net.ru
 testdomain123123.shop
@@ -93,7 +99,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used netlify (0.5747126436781609%):
+1 used netlify (0.49019607843137253%):
 ```
 damnedplay.com.br
 ```
