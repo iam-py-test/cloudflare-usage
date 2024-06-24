@@ -1,4 +1,4 @@
-187 domains tested. 88.77005347593582% were behind nothing (21 were behind something). 3 domains could not be tested.<br>
+187 domains tested. 90.37433155080214% were behind nothing (18 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,21 @@
 
 ```
 
-18 used cloudflare (9.62566844919786%):
+15 used cloudflare (8.02139037433155%):
 ```
-advising-receipts.com
-boredombusters.online
 dl.aginjector.com
-dukeenergyltd.top
 files.rblxshaders.com
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
-penisware.com
-polatfamilyengine.com
+postaipay.top
 reusable-flex.com
 sportvision.app
 telegram.ninja
-test.kovey-net.ru
+testdomain123123.shop
+universalmovies.top
 wondershare-filmora.top
 www.blackhattoolz.com
 ```
