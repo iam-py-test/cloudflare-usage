@@ -1,5 +1,5 @@
-1000 domains tested. 66.4% were behind nothing (336 were behind something). 62 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.5% were behind nothing (335 were behind something). 63 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+123 used cloudflare (12.3%):
 ```
 33across.com
 addtoany.com
@@ -84,7 +85,6 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
-ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -92,7 +92,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -181,10 +180,9 @@ adsafeprotected.com
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.mx
+amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -200,7 +198,6 @@ binance.com
 booking.com
 brave.com
 calendly.com
-chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -212,6 +209,7 @@ deviantart.com
 doi.org
 dreamhost.com
 economist.com
+elasticbeanstalk.com
 elisa.fi
 elpais.com
 epa.gov
@@ -221,6 +219,7 @@ eventbrite.com
 f5.com
 firefox.com
 flickr.com
+fortune.com
 go.com
 grammarly.com
 gumgum.com
@@ -337,14 +336,13 @@ php.net
 
 ```
 
-6 used netlify (0.6%):
+5 used netlify (0.5%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
 livechatinc.com
 pvp.net
-splashtop.com
 ```
 
 2 used imperva (0.2%):

@@ -1,4 +1,4 @@
-215 domains tested. 60.0% were behind nothing (86 were behind something). 12 domains could not be tested.<br>
+215 domains tested. 60.93023255813953% were behind nothing (84 were behind something). 11 domains could not be tested.<br>
 4 used akamai (1.8604651162790697%):
 ```
 easylist-downloads.adblockplus.org
@@ -76,9 +76,8 @@ www.stopforumspam.com
 zonefiles.io
 ```
 
-2 used cloudfront (0.9302325581395349%):
+1 used cloudfront (0.46511627906976744%):
 ```
-bitbucket.org
 isc.sans.edu
 ```
 
