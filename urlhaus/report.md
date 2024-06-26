@@ -1,4 +1,4 @@
-217 domains tested. 84.33179723502305% were behind nothing (34 were behind something). 3 domains could not be tested.<br>
+221 domains tested. 84.16289592760181% were behind nothing (35 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,30 @@
 
 ```
 
-31 used cloudflare (14.285714285714285%):
+30 used cloudflare (13.574660633484163%):
 ```
 0yjipr61l4hff6u.jhsa1gggqgdjpe.ru
 1eaj9ewzewxmkzqvqrr.0nakp8reflkbc2s.ru
 c4musqgiix.zvmdyjjavbo9au.ru
+covid19help.top
 dl.aginjector.com
 e32wdnmr.wgjghqu6k.ru
 eupaxg3qnc.zvmdyjjavbo9au.ru
 files.kovey-net.ru
 ftocmcwayyukkdgsc.bbwizxq4prat.ru
 hitman-pro.ru
-ibllt.com
 imtoken8.cc
 joccupationalscience.org
 kes1ljwb7u.cv2qil2savvgpk.ru
 licocojambamarketplace.com
 lvvc83e3atjwffje.mgaq996t7hh6bn2.ru
 pes8edr5g.hvstcyzsdd.ru
+polatfamilyengine.com
 postaipay.top
 reusable-flex.com
 sfipgnixygv.a4dbezwb3na.ru
 sportvision.app
-telegram.ninja
-testdomain123123.shop
-universalmovies.top
+threemanshop.com
 vg9uaonmlovvvey0ym.bezkngteaqr.ru
 wondershare-filmora.top
 www.blackhattoolz.com

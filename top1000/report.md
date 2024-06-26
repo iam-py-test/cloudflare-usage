@@ -1,5 +1,5 @@
-1000 domains tested. 66.5% were behind nothing (335 were behind something). 63 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.3% were behind nothing (337 were behind something). 64 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -26,7 +26,6 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+125 used cloudflare (12.5%):
 ```
 33across.com
 addtoany.com
@@ -85,6 +84,7 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
+ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -118,6 +118,7 @@ medium.com
 mgid.com
 mlb.com
 myshopify.com
+name.com
 networkadvertising.org
 notion.so
 okta.com
@@ -178,12 +179,12 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.br
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -198,6 +199,7 @@ binance.com
 booking.com
 brave.com
 calendly.com
+chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -209,7 +211,6 @@ deviantart.com
 doi.org
 dreamhost.com
 economist.com
-elasticbeanstalk.com
 elisa.fi
 elpais.com
 epa.gov
@@ -237,7 +238,6 @@ line.me
 merriam-webster.com
 mozilla.com
 mozilla.org
-name.com
 nationalgeographic.com
 netgear.com
 nginx.com
@@ -271,6 +271,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
