@@ -1,4 +1,4 @@
-1000 domains tested. 66.3% were behind nothing (337 were behind something). 64 domains could not be tested.<br>
+1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 64 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+124 used cloudflare (12.4%):
 ```
 33across.com
 addtoany.com
@@ -84,7 +84,6 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
-ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -97,6 +96,7 @@ hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
+identrust.com
 ietf.org
 immunet.com
 indeed.com
@@ -118,7 +118,6 @@ medium.com
 mgid.com
 mlb.com
 myshopify.com
-name.com
 networkadvertising.org
 notion.so
 okta.com
@@ -172,19 +171,16 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
-amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
+amazon.com.mx
 amazon.es
-amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -238,6 +234,7 @@ line.me
 merriam-webster.com
 mozilla.com
 mozilla.org
+name.com
 nationalgeographic.com
 netgear.com
 nginx.com
@@ -273,10 +270,10 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
+wired.com
 worldbank.org
 wsj.com
 zillow.com
