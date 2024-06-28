@@ -1,4 +1,4 @@
-217 domains tested. 81.10599078341014% were behind nothing (41 were behind something). 10 domains could not be tested.<br>
+229 domains tested. 86.02620087336244% were behind nothing (32 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,39 +19,23 @@
 
 ```
 
-31 used cloudflare (14.285714285714285%):
+15 used cloudflare (6.550218340611353%):
 ```
-0yjipr61l4hff6u.jhsa1gggqgdjpe.ru
-1eaj9ewzewxmkzqvqrr.0nakp8reflkbc2s.ru
-c4musqgiix.zvmdyjjavbo9au.ru
+advising-receipts.com
 covid19help.top
 dl.aginjector.com
-e32wdnmr.wgjghqu6k.ru
-eupaxg3qnc.zvmdyjjavbo9au.ru
 files.kovey-net.ru
-ftocmcwayyukkdgsc.bbwizxq4prat.ru
 hitman-pro.ru
-ibllt.com
 imtoken8.cc
 iojhfyughnklnjb.shop
 joccupationalscience.org
-kes1ljwb7u.cv2qil2savvgpk.ru
 licocojambamarketplace.com
-lvvc83e3atjwffje.mgaq996t7hh6bn2.ru
-pes8edr5g.hvstcyzsdd.ru
 polatfamilyengine.com
 reusable-flex.com
-sfipgnixygv.a4dbezwb3na.ru
+sportvision.app
 telegram.ninja
-threemanshop.com
-vg9uaonmlovvvey0ym.bezkngteaqr.ru
 wondershare-filmora.top
 www.blackhattoolz.com
-wyfahwr92ethixzvj1.iooey4moqjlvcpu.ru
-yrv5cccb.2jjepju42.ru
-z0h5zwqcnshucs3mbk.ppyqeptelvilg7o.ru
-zj1gop8a7taggs.hgrpxnjs.ru
-zjnaodxjdddaca1zts.he8lcxaow2z60y2.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -59,9 +43,19 @@ zjnaodxjdddaca1zts.he8lcxaow2z60y2.ru
 
 ```
 
-0 used ddosguard (0.0%):
+11 used ddosguard (4.8034934497816595%):
 ```
-
+agov-access.com
+agov-access.net
+agov-ch.net
+hd.hdweb2.pw
+tv.surebettr.com
+tv.yayins.com
+www.agov-access.com
+www.agov-access.net
+www.agov-ch.com
+www.agov-ch.net
+www.register-agov.com
 ```
 
 0 used edgecast (0.0%):

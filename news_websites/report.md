@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-33 used cloudflare (16.5%):
+32 used cloudflare (16.0%):
 ```
 972mag.com
 alarabiya.net
@@ -34,7 +34,6 @@ businessden.com
 canarymedia.com
 coloradopolitics.com
 dexerto.com
-drudgereport.com
 flatwaterfreepress.org
 freedom.press
 kyivpost.com
@@ -58,12 +57,13 @@ theregister.com
 washingtontimes.com
 ```
 
-37 used cloudfront (18.5%):
+38 used cloudfront (19.0%):
 ```
 abcnews.go.com
 andhrajyothy.com
 bostonglobe.com
 csmonitor.com
+drudgereport.com
 economist.com
 economist.com
 elpais.com
