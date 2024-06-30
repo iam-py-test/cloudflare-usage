@@ -1,4 +1,4 @@
-238 domains tested. 81.5126050420168% were behind nothing (44 were behind something). 12 domains could not be tested.<br>
+182 domains tested. 78.02197802197803% were behind nothing (40 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,11 @@
 
 ```
 
-19 used cloudflare (7.9831932773109235%):
+17 used cloudflare (9.340659340659341%):
 ```
 advising-receipts.com
 contur2fa.recipeupdates.rest
 covid19help.top
-dl.aginjector.com
-files.kovey-net.ru
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
@@ -47,7 +45,7 @@ www.blackhattoolz.com
 
 ```
 
-13 used ddosguard (5.46218487394958%):
+13 used ddosguard (7.142857142857142%):
 ```
 agov-access.com
 agov-access.net
