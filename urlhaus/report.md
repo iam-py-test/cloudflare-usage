@@ -1,4 +1,4 @@
-182 domains tested. 78.02197802197803% were behind nothing (40 were behind something). 10 domains could not be tested.<br>
+162 domains tested. 87.65432098765432% were behind nothing (20 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,23 +19,20 @@
 
 ```
 
-17 used cloudflare (9.340659340659341%):
+14 used cloudflare (8.641975308641975%):
 ```
 advising-receipts.com
-contur2fa.recipeupdates.rest
-covid19help.top
+dl.aginjector.com
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
-ip.tvguzel.com
 joccupationalscience.org
 licocojambamarketplace.com
-lnkz.at
-nexoproducciones.cl
 polatfamilyengine.com
 reusable-flex.com
 sportvision.app
 telegram.ninja
+test.mysticsmp.lol
 wondershare-filmora.top
 www.blackhattoolz.com
 ```
@@ -45,21 +42,9 @@ www.blackhattoolz.com
 
 ```
 
-13 used ddosguard (7.142857142857142%):
+0 used ddosguard (0.0%):
 ```
-agov-access.com
-agov-access.net
-agov-ch.com
-agov-ch.net
-hd.hdweb2.pw
-register-agov.com
-tv.surebettr.com
-tv.yayins.com
-www.agov-access.com
-www.agov-access.net
-www.agov-ch.com
-www.agov-ch.net
-www.register-agov.com
+
 ```
 
 0 used edgecast (0.0%):
