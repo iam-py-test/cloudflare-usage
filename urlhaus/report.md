@@ -1,4 +1,4 @@
-321 domains tested. 91.58878504672897% were behind nothing (27 were behind something). 10 domains could not be tested.<br>
+342 domains tested. 89.18128654970761% were behind nothing (37 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,13 @@
 
 ```
 
-16 used cloudflare (4.984423676012461%):
+18 used cloudflare (5.263157894736842%):
 ```
 advising-receipts.com
 covid19help.top
 dl.aginjector.com
 hitman-pro.ru
+ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
@@ -32,6 +33,7 @@ pcapi-server.com
 polatfamilyengine.com
 processosdigital.com
 reusable-flex.com
+riell.top
 solutionhub.cc
 sportvision.app
 telegram.ninja
@@ -39,7 +41,7 @@ wondershare-filmora.top
 www.blackhattoolz.com
 ```
 
-1 used cloudfront (0.3115264797507788%):
+1 used cloudfront (0.29239766081871343%):
 ```
 s3r.io
 ```
