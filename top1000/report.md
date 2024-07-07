@@ -1,4 +1,4 @@
-1000 domains tested. 66.5% were behind nothing (335 were behind something). 63 domains could not be tested.<br>
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 64 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -22,10 +22,10 @@ macys.com
 marriott.com
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -76,6 +76,7 @@ columbia.edu
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
+cultureenpleinchamp.fr
 deepintent.com
 digitalocean.com
 discogs.com
@@ -91,6 +92,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -109,7 +111,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-maricopa.gov
 markmonitor.com
 mathtag.com
 mdpi.com
@@ -132,7 +133,6 @@ patreon.com
 perfectdomain.com
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 poki.com
 princeton.edu
@@ -171,20 +171,20 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
 amazon.es
-amazon.it
+amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -227,6 +227,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hindustantimes.com
 hotjar.com
 ieee.org
 imdb.com
@@ -271,6 +272,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com

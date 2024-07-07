@@ -1,4 +1,4 @@
-445 domains tested. 88.53932584269663% were behind nothing (51 were behind something). 34 domains could not be tested.<br>
+412 domains tested. 93.68932038834951% were behind nothing (26 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,17 @@
 
 ```
 
-17 used cloudflare (3.8202247191011236%):
+15 used cloudflare (3.640776699029126%):
 ```
 advising-receipts.com
 boredombusters.online
-covid19help.top
 dl.aginjector.com
+dmyxmv.notasdigitalmax.com
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
-polatfamilyengine.com
-processosdigital.com
 reusable-flex.com
 riell.top
 sportvision.app
