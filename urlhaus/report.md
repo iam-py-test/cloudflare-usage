@@ -1,4 +1,4 @@
-412 domains tested. 93.68932038834951% were behind nothing (26 were behind something). 11 domains could not be tested.<br>
+418 domains tested. 94.01913875598086% were behind nothing (25 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,12 @@
 
 ```
 
-15 used cloudflare (3.640776699029126%):
+17 used cloudflare (4.0669856459330145%):
 ```
+9507c272a51ce8cefc8761591b2c50e6.fit
 advising-receipts.com
 boredombusters.online
+covid19help.top
 dl.aginjector.com
 dmyxmv.notasdigitalmax.com
 hitman-pro.ru
@@ -30,8 +32,8 @@ ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
+love-odyssey.com
 reusable-flex.com
-riell.top
 sportvision.app
 telegram.ninja
 wondershare-filmora.top

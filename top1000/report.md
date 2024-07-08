@@ -1,5 +1,5 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 64 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.7% were behind nothing (333 were behind something). 63 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -7,6 +7,7 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
+businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -19,13 +20,11 @@ hp.com
 intel.com
 lowes.com
 macys.com
-marriott.com
 mysql.com
 news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -111,6 +110,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+maricopa.gov
 markmonitor.com
 mathtag.com
 mdpi.com
@@ -148,7 +148,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 tandfonline.com
@@ -171,20 +170,20 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -221,7 +220,6 @@ express.co.uk
 f5.com
 firefox.com
 flickr.com
-fortune.com
 go.com
 grammarly.com
 gumgum.com
@@ -272,9 +270,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
