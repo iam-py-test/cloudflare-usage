@@ -1,4 +1,4 @@
-418 domains tested. 94.01913875598086% were behind nothing (25 were behind something). 8 domains could not be tested.<br>
+417 domains tested. 90.88729016786571% were behind nothing (38 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,12 @@
 
 ```
 
-17 used cloudflare (4.0669856459330145%):
+15 used cloudflare (3.597122302158273%):
 ```
 9507c272a51ce8cefc8761591b2c50e6.fit
 advising-receipts.com
-boredombusters.online
-covid19help.top
+bundle-offer.click
 dl.aginjector.com
-dmyxmv.notasdigitalmax.com
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
