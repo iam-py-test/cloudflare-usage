@@ -266,7 +266,7 @@ def hascloudflare(url):
 			return "akamai"
 		if "X-Amz-Cf-Pop" in r.headers or "X-Amz-Cf-Id" in r.headers:
 			return "cloudfront"
-		if "X-Fastly-Request-ID" in r.headers:
+		if "X-Fastly-Request-ID" in r.headers or "fastly-restarts" in r.headers:
 			return "fastly"
 		if "x-deflect-cache" in r.headers or "x-deflect-edge" in r.headers:
 			return "deflect"
