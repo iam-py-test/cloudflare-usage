@@ -1,4 +1,4 @@
-259 domains tested. 35.907335907335906% were behind nothing (166 were behind something). 16 domains could not be tested.<br>
+259 domains tested. 35.521235521235525% were behind nothing (167 were behind something). 24 domains could not be tested.<br>
 2 used akamai (0.7722007722007722%):
 ```
 eepurl.com
@@ -20,16 +20,14 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (50.57915057915058%):
+124 used cloudflare (47.87644787644788%):
 ```
-02ip.ru
 1sta.com
 24ex.com
 2fear.com
 2fortune.com
 2freedom.com
 2hell.com
-2no.co
 2savvy.com
 2truth.com
 2tunes.com
@@ -61,7 +59,6 @@ ebored.com
 echoz.com
 exe.io
 exee.app
-ezstat.ru
 fc-lc.com
 fc.lc
 filetap.com
@@ -80,12 +77,8 @@ heylink.me
 hitart.com
 ibf.tw
 imghost.pics
-ipgraber.ru
 iplogger.co
 iplogger.com
-iplogger.info
-iplogger.org
-iplogger.ru
 is.gd
 itsssl.com
 joinmy.site

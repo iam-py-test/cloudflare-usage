@@ -1,4 +1,4 @@
-372 domains tested. 89.24731182795699% were behind nothing (40 were behind something). 25 domains could not be tested.<br>
+369 domains tested. 90.5149051490515% were behind nothing (35 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,14 @@
 
 ```
 
-15 used cloudflare (4.032258064516129%):
+16 used cloudflare (4.336043360433604%):
 ```
 advising-receipts.com
 ampol.top
 dl.aginjector.com
 fellzobr.com
 hitman-pro.ru
+ibllt.com
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
