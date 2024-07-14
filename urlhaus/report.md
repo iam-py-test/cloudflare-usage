@@ -1,4 +1,4 @@
-330 domains tested. 93.93939393939394% were behind nothing (20 were behind something). 5 domains could not be tested.<br>
+301 domains tested. 94.6843853820598% were behind nothing (16 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,15 @@
 
 ```
 
-15 used cloudflare (4.545454545454546%):
+12 used cloudflare (3.9867109634551494%):
 ```
 advising-receipts.com
-covid19help.top
 dl.aginjector.com
 fellzobr.com
 hitman-pro.ru
 ibllt.com
 imtoken8.cc
-joccupationalscience.org
 licocojambamarketplace.com
-love-odyssey.com
 reusable-flex.com
 sportvision.app
 telegram.ninja
