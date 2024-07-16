@@ -1,4 +1,4 @@
-259 domains tested. 36.293436293436294% were behind nothing (165 were behind something). 16 domains could not be tested.<br>
+259 domains tested. 37.45173745173745% were behind nothing (162 were behind something). 12 domains could not be tested.<br>
 2 used akamai (0.7722007722007722%):
 ```
 eepurl.com
@@ -154,11 +154,12 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-15 used cloudfront (5.7915057915057915%):
+16 used cloudfront (6.177606177606178%):
 ```
-a.co
 bstore.smsb.co
+ceesty.com
 clicks.eventbrite.com
+corneey.com
 linkbucks.com
 qrs.ly
 rb.gy

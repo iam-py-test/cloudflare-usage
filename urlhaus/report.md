@@ -1,4 +1,4 @@
-212 domains tested. 82.0754716981132% were behind nothing (38 were behind something). 22 domains could not be tested.<br>
+205 domains tested. 89.75609756097562% were behind nothing (21 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,21 @@
 
 ```
 
-16 used cloudflare (7.547169811320755%):
+15 used cloudflare (7.317073170731707%):
 ```
-advising-receipts.com
 dl.aginjector.com
+foodupdates.shop
 galacticoman.com
-hitman-pro.ru
 ibllt.com
 imtoken8.cc
 infowiki.wiki
 joccupationalscience.org
 licocojambamarketplace.com
 love-odyssey.com
+panel.spynote.us
 reusable-flex.com
 sportvision.app
-telegram.ninja
-voucher-01-static.com
+testyregerglegrjerg.top
 wondershare-filmora.top
 www.blackhattoolz.com
 ```
