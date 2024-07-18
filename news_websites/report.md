@@ -58,7 +58,7 @@ theregister.com
 washingtontimes.com
 ```
 
-39 used cloudfront (19.5%):
+38 used cloudfront (19.0%):
 ```
 abcnews.go.com
 andhrajyothy.com
@@ -92,7 +92,6 @@ sueddeutsche.de
 suntimes.com
 theglobeandmail.com
 theoutline.com
-thetimes.co.uk
 thewire.in
 vanityfair.com
 wired.com
@@ -111,11 +110,12 @@ wweek.com
 
 ```
 
-3 used fastly (1.5%):
+4 used fastly (2.0%):
 ```
 bbc.com
 bbc.com
 bloomberg.com
+forbes.com
 ```
 
 0 used sucuri (0.0%):
