@@ -1,4 +1,4 @@
-205 domains tested. 92.19512195121952% were behind nothing (16 were behind something). 6 domains could not be tested.<br>
+207 domains tested. 85.5072463768116% were behind nothing (30 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,23 @@
 
 ```
 
-10 used cloudflare (4.878048780487805%):
+20 used cloudflare (9.66183574879227%):
 ```
+contadorweb.pro
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
-joccupationalscience.org
 licocojambamarketplace.com
+melapp10.buzz
+melapphi4.buzz
+melappie2.buzz
+melappil8.buzz
+melappki3.buzz
+melapple6.buzz
+melappli5.buzz
+melappna7.buzz
+melappop9.buzz
+melappsi1.buzz
 reusable-flex.com
 sportvision.app
 telegram.ninja
