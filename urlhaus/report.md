@@ -1,4 +1,4 @@
-207 domains tested. 85.5072463768116% were behind nothing (30 were behind something). 10 domains could not be tested.<br>
+202 domains tested. 85.14851485148515% were behind nothing (30 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,14 @@
 
 ```
 
-20 used cloudflare (9.66183574879227%):
+22 used cloudflare (10.891089108910892%):
 ```
 contadorweb.pro
 dl.aginjector.com
+fssists.site
 hitman-pro.ru
 imtoken8.cc
+joccupationalscience.org
 licocojambamarketplace.com
 melapp10.buzz
 melapphi4.buzz
