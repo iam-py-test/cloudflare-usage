@@ -1,5 +1,5 @@
-2318 domains tested. 54.2709232096635% were behind nothing (1060 were behind something). 249 domains could not be tested.<br>
-301 used akamai (12.985332182916306%):
+2318 domains tested. 54.0120793787748% were behind nothing (1066 were behind something). 252 domains could not be tested.<br>
+308 used akamai (13.287316652286455%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -176,7 +176,10 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
+i.etsystatic.com
+i.pinimg.com
 i.scdn.co
+i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
@@ -187,6 +190,7 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 js.rbxcdn.com
+js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -195,6 +199,7 @@ munchkin.marketo.net
 mx.ebay.com
 mybbc-analytics.files.bbci.co.uk
 mybbc.files.bbci.co.uk
+n.sinaimg.cn
 nav.files.bbci.co.uk
 ni.ebay.com
 ow2.res.office365.com
@@ -211,6 +216,7 @@ pm.pstatic.net
 pmd.cdn.turner.com
 pr.ebay.com
 pt.ebay.com
+publisher.liveperson.net
 py.ebay.com
 query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
@@ -234,7 +240,6 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
-static.licdn.com
 static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
@@ -252,8 +257,10 @@ ve.ebay.com
 widgets.outbrain.com
 www.adobe.com
 www.ally.com
+www.amazon.com
 www.apple.com
 www.apple.com.cn
+www.appsflyer.com
 www.att.com
 www.befr.ebay.be
 www.benl.ebay.be
@@ -427,7 +434,7 @@ zendesk.com
 zoom.us
 ```
 
-200 used cloudfront (8.628127696289905%):
+197 used cloudfront (8.498705780845556%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -438,7 +445,6 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.in
@@ -449,6 +455,7 @@ api-v2.soundcloud.com
 api.company-target.com
 api.flickr.com
 api.soundcloud.com
+appsflyer.com
 assets-global.website-files.com
 assets.homeimprovementpages.com.au
 assets.twitch.tv
@@ -554,7 +561,6 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images.ctfassets.net
@@ -619,8 +625,6 @@ warnerbros.com
 webtools.europa.eu
 widgets.q4app.com
 wis.sndcdn.com
-www.amazon.com
-www.appsflyer.com
 www.datadoghq.com
 www.deviantart.com
 www.dvidshub.net
@@ -636,7 +640,7 @@ ychef.files.bbci.co.uk
 
 ```
 
-10 used edgecast (0.4314063848144953%):
+11 used edgecast (0.4745470232959448%):
 ```
 abs.twimg.com
 cs189.wpc.edgecastcdn.net
@@ -645,12 +649,13 @@ cs510.wpc.edgecastcdn.net
 cs531.wpc.edgecastcdn.net
 cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
+pbs.twimg.com
 portal-static.imds-cdn.com
 tesseract.imds-cdn.com
 vam-image.imds-cdn.com
 ```
 
-190 used fastly (8.19672131147541%):
+188 used fastly (8.11044003451251%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -700,7 +705,6 @@ ebayimg.map.fastly.net
 ebaystatic.ebay.map.fastly.net
 embed.acuityscheduling.com
 es.pinterest.com
-etsy.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
@@ -717,15 +721,14 @@ guardian.map.fastly.net
 h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
@@ -761,7 +764,6 @@ paypal-dynamic-2.map.fastly.net
 paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
-pbs.twimg.com
 ph.pinterest.com
 pl.pinterest.com
 pl.scdn.co
@@ -820,6 +822,7 @@ www.gandi.net
 www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
+www.paypalobjects.com
 www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
