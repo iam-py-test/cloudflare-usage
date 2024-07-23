@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 64 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.3% were behind nothing (337 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -15,6 +15,7 @@ expedia.com
 fda.gov
 fedex.com
 godaddy.com
+hm.com
 hp.com
 intel.com
 lowes.com
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+126 used cloudflare (12.6%):
 ```
 33across.com
 addtoany.com
@@ -130,7 +131,6 @@ openai.com
 openstreetmap.org
 optimizely.com
 pages.dev
-partypoker.com
 patreon.com
 perfectdomain.com
 pexels.com
@@ -139,6 +139,7 @@ plesk.com
 poki.com
 princeton.edu
 prnewswire.com
+quizlet.com
 quora.com
 researchgate.net
 roku.com
@@ -161,6 +162,7 @@ umich.edu
 unpkg.com
 upwork.com
 vimeo.com
+vmware.com
 vungle.com
 w3.org
 webmd.com
@@ -172,16 +174,14 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
 amazon.co.uk
-amazon.com
-amazon.de
+amazon.com.br
 amazon.fr
 amazon.in
 amazon.it
@@ -199,7 +199,6 @@ binance.com
 booking.com
 brave.com
 calendly.com
-chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -255,6 +254,7 @@ ryanair.com
 segment.io
 shalltry.com
 sharethis.com
+sharethrough.com
 shutterstock.com
 soundcloud.com
 state.gov
@@ -270,6 +270,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -294,10 +295,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
+etsy.com
 forbes.com
 github.io
 jimdo.com
