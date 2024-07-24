@@ -1,5 +1,5 @@
-1000 domains tested. 66.3% were behind nothing (337 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 63 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -14,7 +14,6 @@ ebay.de
 expedia.com
 fda.gov
 fedex.com
-godaddy.com
 hm.com
 hp.com
 intel.com
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+127 used cloudflare (12.7%):
 ```
 33across.com
 addtoany.com
@@ -87,6 +86,7 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
+ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -112,7 +112,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -132,6 +131,7 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
+pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
@@ -181,10 +181,11 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.co.uk
+amazon.com
 amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
-amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -199,6 +200,7 @@ binance.com
 booking.com
 brave.com
 calendly.com
+chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -254,7 +256,6 @@ ryanair.com
 segment.io
 shalltry.com
 sharethis.com
-sharethrough.com
 shutterstock.com
 soundcloud.com
 state.gov
@@ -272,7 +273,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -295,12 +295,10 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
-etsy.com
 forbes.com
 github.io
 jimdo.com

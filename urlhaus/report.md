@@ -1,4 +1,4 @@
-208 domains tested. 92.78846153846155% were behind nothing (15 were behind something). 5 domains could not be tested.<br>
+192 domains tested. 90.10416666666666% were behind nothing (19 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-10 used cloudflare (4.807692307692308%):
+9 used cloudflare (4.6875%):
 ```
 dl.aginjector.com
 hitman-pro.ru
@@ -29,7 +29,6 @@ licocojambamarketplace.com
 reusable-flex.com
 sportvision.app
 telegram.ninja
-wasabiwallet.is
 www.blackhattoolz.com
 ```
 
