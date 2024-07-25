@@ -1,4 +1,4 @@
-192 domains tested. 90.10416666666666% were behind nothing (19 were behind something). 10 domains could not be tested.<br>
+182 domains tested. 89.56043956043956% were behind nothing (19 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-9 used cloudflare (4.6875%):
+9 used cloudflare (4.945054945054945%):
 ```
 dl.aginjector.com
 hitman-pro.ru
