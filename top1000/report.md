@@ -1,5 +1,5 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 61 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.3% were behind nothing (337 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ rakuten.co.jp
 sap.com
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+127 used cloudflare (12.7%):
 ```
 33across.com
 addtoany.com
@@ -87,6 +88,7 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
+ecosia.org
 entrust.net
 epicgames.com
 fiverr.com
@@ -94,6 +96,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -139,7 +142,6 @@ plesk.com
 poki.com
 princeton.edu
 prnewswire.com
-quizlet.com
 quora.com
 researchgate.net
 roku.com
@@ -174,18 +176,17 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -244,7 +245,6 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
-nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -273,7 +273,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 utorrent.com
 warnerbros.com
@@ -297,11 +296,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 jimdo.com
