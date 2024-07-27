@@ -1,4 +1,4 @@
-266 domains tested. 92.10526315789474% were behind nothing (21 were behind something). 11 domains could not be tested.<br>
+278 domains tested. 91.72661870503596% were behind nothing (23 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,18 @@
 
 ```
 
-10 used cloudflare (3.7593984962406015%):
+13 used cloudflare (4.676258992805756%):
 ```
+darpexllc.top
 dl.aginjector.com
 hitman-pro.ru
 horus-protector.pro
 imtoken8.cc
 joccupationalscience.org
 licocojambamarketplace.com
+meridianresourcellc.top
 reusable-flex.com
+sportvision.app
 telegram.ninja
 www.blackhattoolz.com
 www.horus-protector.pro
