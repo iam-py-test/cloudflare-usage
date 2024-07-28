@@ -1,11 +1,12 @@
-1000 domains tested. 65.9% were behind nothing (341 were behind something). 63 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 60 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
-businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -19,6 +20,7 @@ hp.com
 intel.com
 lowes.com
 macys.com
+marriott.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -44,6 +46,7 @@ b-cdn.net
 
 126 used cloudflare (12.6%):
 ```
+33across.com
 addtoany.com
 allaboutcookies.org
 alphonso.tv
@@ -135,7 +138,6 @@ perfectdomain.com
 pexels.com
 pixabay.com
 plesk.com
-poki.com
 princeton.edu
 prnewswire.com
 quora.com
@@ -172,7 +174,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -181,9 +183,9 @@ adsafeprotected.com
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -242,7 +244,6 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
-nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -296,11 +297,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 jimdo.com
