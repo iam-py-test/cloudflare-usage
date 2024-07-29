@@ -1,10 +1,9 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 62 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-airbnb.com
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+127 used cloudflare (12.7%):
 ```
 33across.com
 addtoany.com
@@ -140,6 +139,7 @@ pixabay.com
 plesk.com
 princeton.edu
 prnewswire.com
+quizlet.com
 quora.com
 researchgate.net
 roku.com
@@ -174,18 +174,16 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.co.jp
 amazon.co.uk
-amazon.com
+amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -216,7 +214,6 @@ economist.com
 elasticbeanstalk.com
 elisa.fi
 elpais.com
-epa.gov
 espn.com
 europa.eu
 eventbrite.com
@@ -244,6 +241,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -270,11 +268,11 @@ tradingview.com
 tremorhub.com
 trustpilot.com
 typeform.com
+ubi.com
 ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

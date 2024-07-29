@@ -1,4 +1,4 @@
-276 domains tested. 93.11594202898551% were behind nothing (19 were behind something). 5 domains could not be tested.<br>
+398 domains tested. 91.20603015075378% were behind nothing (35 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,16 @@
 
 ```
 
-14 used cloudflare (5.072463768115942%):
+14 used cloudflare (3.5175879396984926%):
 ```
+115kidney.buzz
+c9asdsdsf8.app-wallet-download.app
 cdn-edge-node.com
 darpexllc.top
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
-joccupationalscience.org
 licocojambamarketplace.com
-meridianresourcellc.top
 postaipay.top
 reusable-flex.com
 selfmicrosofrtenabletrue.top

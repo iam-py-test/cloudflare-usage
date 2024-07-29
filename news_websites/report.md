@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-33 used cloudflare (16.5%):
+32 used cloudflare (16.0%):
 ```
 972mag.com
 alarabiya.net
@@ -52,17 +52,15 @@ techdirt.com
 theappeal.org
 thehindu.com
 themarshallproject.org
-thenextweb.com
 therecord.media
 theregister.com
 washingtontimes.com
 ```
 
-38 used cloudfront (19.0%):
+37 used cloudfront (18.5%):
 ```
 abcnews.go.com
 andhrajyothy.com
-bostonglobe.com
 csmonitor.com
 drudgereport.com
 economist.com
@@ -110,11 +108,13 @@ wweek.com
 
 ```
 
-3 used fastly (1.5%):
+5 used fastly (2.5%):
 ```
 bbc.com
 bbc.com
 forbes.com
+kfor.com
+thehill.com
 ```
 
 0 used sucuri (0.0%):
