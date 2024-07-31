@@ -1,4 +1,4 @@
-415 domains tested. 84.33734939759037% were behind nothing (65 were behind something). 15 domains could not be tested.<br>
+388 domains tested. 93.04123711340206% were behind nothing (27 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,58 +19,23 @@
 
 ```
 
-50 used cloudflare (12.048192771084338%):
+15 used cloudflare (3.865979381443299%):
 ```
-112kinship.buzz
-115kidney.buzz
-116killer.buzz
+31.filelu.com
 abcbrasilembalagens.net
-c9asdsdsf8.app-wallet-download.app
 cryptomac.dev
 darpexllc.top
 dl.aginjector.com
 dl.jiposter.com
+dows.enigmacn.top
 hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
-mail.melatisapp2.buzz
-mail.melatisweb10.buzz
-mail.meltaotdl5.buzz
-mail.meltaothat6.buzz
-mail.meltaotzai11.buzz
-maltede2.buzz
-mehatapk1.buzz
-mehatman9.buzz
-mehatsai11.buzz
-mehatsfr16.buzz
-melatisweb10.buzz
-meltaoapp2.buzz
-meltaobit9.buzz
-meltaobnk1.buzz
-meltaosite3.buzz
-meltaotbit3.buzz
-meltaotdl5.buzz
-meltaothat6.buzz
-meltaotios7.buzz
-meltaotpay8.buzz
-meltaotzai11.buzz
-meltaotzco13.buzz
-meltaotzde14.buzz
-meltaotzes15.buzz
-meltaoweb4.buzz
-mildbattlefield4.buzz
-selfmicrosofrtenabletrueget.top
+postaipay.top
+sportvision.app
 telegram.ninja
 two-root.com
 www.blackhattoolz.com
-www.melatisweb10.buzz
-www.meltaoapp2.buzz
-www.meltaobnk1.buzz
-www.meltaosite3.buzz
-www.meltaotdl5.buzz
-www.meltaothat6.buzz
-www.meltaotzai11.buzz
-www.meltaoweb4.buzz
 ```
 
 0 used cloudfront (0.0%):

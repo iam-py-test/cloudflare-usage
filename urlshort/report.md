@@ -53,6 +53,7 @@ clk.asia
 clk.sh
 clks.pro
 cutt.ly
+cuty.io
 dealtap.com
 direct-link.net
 dommania.pl
@@ -79,7 +80,6 @@ heylink.me
 hitart.com
 ibf.tw
 imghost.pics
-ipgraber.ru
 iplogger.co
 iplogger.com
 iplogger.info
