@@ -1,4 +1,4 @@
-200 domains tested. 61.0% were behind nothing (78 were behind something). 3 domains could not be tested.<br>
+200 domains tested. 62.5% were behind nothing (75 were behind something). 3 domains could not be tested.<br>
 3 used akamai (1.5%):
 ```
 anandabazar.com
@@ -56,7 +56,7 @@ theregister.com
 washingtontimes.com
 ```
 
-36 used cloudfront (18.0%):
+35 used cloudfront (17.5%):
 ```
 abcnews.go.com
 andhrajyothy.com
@@ -93,7 +93,6 @@ vanityfair.com
 wired.com
 wired.com
 wsj.com
-wweek.com
 ```
 
 0 used ddosguard (0.0%):
@@ -106,13 +105,11 @@ wweek.com
 
 ```
 
-5 used fastly (2.5%):
+3 used fastly (1.5%):
 ```
 bbc.com
 bbc.com
 forbes.com
-kfor.com
-thehill.com
 ```
 
 0 used sucuri (0.0%):

@@ -1,4 +1,4 @@
-388 domains tested. 93.04123711340206% were behind nothing (27 were behind something). 12 domains could not be tested.<br>
+241 domains tested. 90.04149377593362% were behind nothing (24 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,8 @@
 
 ```
 
-15 used cloudflare (3.865979381443299%):
+11 used cloudflare (4.564315352697095%):
 ```
-31.filelu.com
-abcbrasilembalagens.net
-cryptomac.dev
-darpexllc.top
 dl.aginjector.com
 dl.jiposter.com
 dows.enigmacn.top
@@ -32,9 +28,9 @@ hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
 postaipay.top
+showpiecekennelmating.com
 sportvision.app
 telegram.ninja
-two-root.com
 www.blackhattoolz.com
 ```
 
