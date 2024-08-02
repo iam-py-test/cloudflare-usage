@@ -1,4 +1,4 @@
-1000 domains tested. 66.3% were behind nothing (337 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 61 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -180,12 +180,11 @@ zoom.us
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
-amazon.com
-amazon.de
-amazon.es
+amazon.co.jp
+amazon.co.uk
+amazon.com.br
 amazon.fr
-amazon.it
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -242,6 +241,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -296,10 +296,11 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+etsy.com
 forbes.com
 github.io
 jimdo.com
