@@ -60,7 +60,6 @@ dommania.pl
 ebored.com
 echoz.com
 exe.io
-exee.app
 ezstat.ru
 fc-lc.com
 fc.lc
@@ -80,6 +79,7 @@ heylink.me
 hitart.com
 ibf.tw
 imghost.pics
+ipgraber.ru
 iplogger.co
 iplogger.com
 iplogger.info

@@ -1,4 +1,4 @@
-242 domains tested. 89.6694214876033% were behind nothing (25 were behind something). 12 domains could not be tested.<br>
+263 domains tested. 88.59315589353612% were behind nothing (30 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,23 +19,23 @@
 
 ```
 
-12 used cloudflare (4.958677685950414%):
+12 used cloudflare (4.562737642585551%):
 ```
 betpg.one
 dl.aginjector.com
-dl.jiposter.com
 hitman-pro.ru
 imtoken8.cc
 kuralyok.com.tr
 licocojambamarketplace.com
 postaipay.top
-showpiecekennelmating.com
+sportvision.app
 telegram.ninja
 url.ccv.lat
 www.blackhattoolz.com
+www.postb.in
 ```
 
-1 used cloudfront (0.4132231404958678%):
+1 used cloudfront (0.38022813688212925%):
 ```
 9a88ieibbk.com
 ```
