@@ -1,5 +1,5 @@
-1000 domains tested. 65.9% were behind nothing (341 were behind something). 63 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 61 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ rakuten.co.jp
 sap.com
 service-now.com
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-127 used cloudflare (12.7%):
+126 used cloudflare (12.6%):
 ```
 33across.com
 addtoany.com
@@ -94,7 +95,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -139,7 +139,6 @@ pixabay.com
 plesk.com
 princeton.edu
 prnewswire.com
-quizlet.com
 quora.com
 researchgate.net
 roku.com
@@ -170,12 +169,13 @@ webmd.com
 weebly.com
 who.int
 wiley.com
+wyzecam.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -183,7 +183,7 @@ academia.edu
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
-amazon.co.uk
+amazon.com
 amazon.de
 amazon.es
 amazon.fr
@@ -274,7 +274,9 @@ typeform.com
 ubi.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
