@@ -104,8 +104,8 @@ wsj.com
 ```
 bbc.com
 bbc.com
+bloomberg.com
 forbes.com
-thehill.com
 ```
 
 0 used sucuri (0.0%):

@@ -1,5 +1,5 @@
-2328 domains tested. 54.29553264604811% were behind nothing (1064 were behind something). 249 domains could not be tested.<br>
-305 used akamai (13.101374570446737%):
+2328 domains tested. 54.20962199312714% were behind nothing (1066 were behind something). 253 domains could not be tested.<br>
+308 used akamai (13.23024054982818%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -176,13 +176,15 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.etsystatic.com
+i.pinimg.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-na.ssl-images-amazon.com
+images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
@@ -192,6 +194,7 @@ js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
+m.media-amazon.com
 media.mcafeeassets.com
 munchkin.marketo.net
 mx.ebay.com
@@ -209,6 +212,8 @@ p16-va.tiktokcdn.com
 pa.ebay.com
 pages.ebay.com
 pe.ebay.com
+ph.pinterest.com
+pl.pinterest.com
 players.brightcove.net
 pm.pstatic.net
 pmd.cdn.turner.com
@@ -252,7 +257,6 @@ uy.ebay.com
 v16.tiktokcdn.com
 ve.ebay.com
 widgets.outbrain.com
-windows.com
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -260,7 +264,6 @@ www.apple.com.cn
 www.att.com
 www.befr.ebay.be
 www.benl.ebay.be
-www.bing.com
 www.cafr.ebay.ca
 www.cisco.com
 www.dell.com
@@ -432,7 +435,7 @@ zendesk.com
 zoom.us
 ```
 
-201 used cloudfront (8.6340206185567%):
+198 used cloudfront (8.505154639175258%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -444,8 +447,8 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -560,10 +563,7 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images.ctfassets.net
-images.rbxcdn.com
 images.scanalert.com
 img.hipages.com.au
 intuit.com
@@ -642,7 +642,7 @@ ychef.files.bbci.co.uk
 
 ```
 
-11 used edgecast (0.4725085910652921%):
+10 used edgecast (0.429553264604811%):
 ```
 abs.twimg.com
 cs189.wpc.edgecastcdn.net
@@ -654,10 +654,9 @@ cs986.wpc.edgecastcdn.net
 portal-static.imds-cdn.com
 tesseract.imds-cdn.com
 vam-image.imds-cdn.com
-video.twimg.com
 ```
 
-187 used fastly (8.032646048109966%):
+186 used fastly (7.989690721649484%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -723,26 +722,26 @@ guardian.map.fastly.net
 h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
-i.ebayimg.com
+i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
 jsdelivr.map.fastly.net
 kr.pinterest.com
 lineup-images.scdn.co
-m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -768,8 +767,6 @@ paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
 pbs.twimg.com
-ph.pinterest.com
-pl.pinterest.com
 pl.scdn.co
 play.vidyard.com
 preview.redd.it
@@ -809,6 +806,7 @@ ui.trailhead.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
+video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
