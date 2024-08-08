@@ -1,4 +1,4 @@
-271 domains tested. 92.619926199262% were behind nothing (20 were behind something). 13 domains could not be tested.<br>
+250 domains tested. 88.4% were behind nothing (29 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,19 @@
 
 ```
 
-7 used cloudflare (2.5830258302583027%):
+11 used cloudflare (4.3999999999999995%):
 ```
+dhl123.motorcycles
 dl.aginjector.com
+fedexz.top
 funcaptcha.ru
 hitman-pro.ru
-imtoken8.cc
 licocojambamarketplace.com
+postbir.xyz
 telegram.ninja
+wtrxaxq.org
 www.blackhattoolz.com
+xn--en1b51xdyf.com
 ```
 
 0 used cloudfront (0.0%):
@@ -85,7 +89,7 @@ www.blackhattoolz.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.4%):
 ```
-
+mysticduelist.com
 ```
