@@ -1,4 +1,4 @@
-306 domains tested. 91.83006535947712% were behind nothing (25 were behind something). 14 domains could not be tested.<br>
+293 domains tested. 89.419795221843% were behind nothing (31 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,15 @@
 
 ```
 
-11 used cloudflare (3.594771241830065%):
+7 used cloudflare (2.3890784982935154%):
 ```
-240808160122177.shi.jtii79.top
-apocalypsecheats.xyz
-bflow-musico.fun
+240810152539140.shi.jtii79.top
 dl.aginjector.com
 hitman-pro.ru
-install.twil4.id.vn
+imtoken8.cc
 licocojambamarketplace.com
-resourcehub.mom
 telegram.ninja
 www.blackhattoolz.com
-xakep.dad
 ```
 
 0 used cloudfront (0.0%):
@@ -39,9 +35,9 @@ xakep.dad
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.3412969283276451%):
 ```
-
+welcomsplus.ru
 ```
 
 0 used edgecast (0.0%):
