@@ -1,8 +1,9 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 64 domains could not be tested.<br>
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 62 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
@@ -26,7 +27,6 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-128 used cloudflare (12.8%):
+131 used cloudflare (13.100000000000001%):
 ```
 33across.com
 addtoany.com
@@ -80,6 +80,7 @@ cookiedatabase.org
 cookielaw.org
 creativecommons.org
 deepintent.com
+delfi.lt
 digitalocean.com
 discogs.com
 discord.com
@@ -136,6 +137,7 @@ patreon.com
 pendo.io
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -147,6 +149,7 @@ sciencedirect.com
 shein.com
 shopify.com
 sitescout.com
+skroutz.gr
 sourceforge.net
 spamhaus.org
 spankbang.com
@@ -176,18 +179,20 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
+amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -202,7 +207,6 @@ binance.com
 booking.com
 brave.com
 calendly.com
-chartbeat.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -223,6 +227,7 @@ express.co.uk
 f5.com
 firefox.com
 flickr.com
+fortune.com
 go.com
 grammarly.com
 gumgum.com
@@ -242,6 +247,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -252,7 +258,6 @@ redfin.com
 repubblica.it
 reuters.com
 ryanair.com
-segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
@@ -270,7 +275,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -295,10 +299,11 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+etsy.com
 forbes.com
 github.io
 jimdo.com
@@ -341,12 +346,11 @@ php.net
 
 ```
 
-5 used netlify (0.5%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-mparticle.com
 pvp.net
 ```
 

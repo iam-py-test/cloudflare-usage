@@ -1,4 +1,4 @@
-293 domains tested. 89.419795221843% were behind nothing (31 were behind something). 23 domains could not be tested.<br>
+271 domains tested. 88.56088560885608% were behind nothing (31 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-7 used cloudflare (2.3890784982935154%):
+7 used cloudflare (2.5830258302583027%):
 ```
 240810152539140.shi.jtii79.top
 dl.aginjector.com
@@ -35,9 +35,9 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.3412969283276451%):
+0 used ddosguard (0.0%):
 ```
-welcomsplus.ru
+
 ```
 
 0 used edgecast (0.0%):
