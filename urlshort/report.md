@@ -1,4 +1,4 @@
-260 domains tested. 38.46153846153847% were behind nothing (160 were behind something). 26 domains could not be tested.<br>
+260 domains tested. 37.30769230769231% were behind nothing (163 were behind something). 14 domains could not be tested.<br>
 2 used akamai (0.7692307692307693%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-115 used cloudflare (44.230769230769226%):
+130 used cloudflare (50.0%):
 ```
 02ip.ru
 1sta.com
@@ -64,7 +64,12 @@ ezstat.ru
 fc-lc.com
 fc.lc
 filetap.com
+foot.wiki
+fortnight.space
+fortnitechat.site
 funurl.com
+gamergirl.pro
+gamingfun.me
 goo.su
 grabify.link
 grabify.world
@@ -73,6 +78,7 @@ hereweb.com
 heylink.me
 hitart.com
 ibf.tw
+imghost.pics
 ipgraber.ru
 iplogger.co
 iplogger.com
@@ -81,6 +87,7 @@ iplogger.org
 iplogger.ru
 is.gd
 itsssl.com
+joinmy.site
 kingshortener.com
 klclick.com
 klclick1.com
@@ -100,14 +107,20 @@ ln.run
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
+myprivate.pics
 n9.cl
 nyl.as
 o0o0oooooooo0oooooo00oo0oooo0o0oooooo0o0oooooooo0oooooo0.ooo
 ouo.io
+photovault.pics
+pichost.pics
+picshost.pics
 prettylinks.com
 refererhider.com
 rotf.lol
 s.id
+screenshare.pics
+screenshot.best
 shorten.ee
 shorten.is
 shorten.world
@@ -115,6 +128,7 @@ shorturl.at
 shorturl.com
 shorturl.gg
 shre.su
+shrekis.life
 shrink.pe
 shrinkearn.com
 shrinkme.io
@@ -123,6 +137,7 @@ smarturl.it
 snip.ly
 sor.bz
 stfly.xyz
+stopify.co
 streak-link.com
 t.ly
 tii.la
