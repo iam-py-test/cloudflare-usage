@@ -1,4 +1,4 @@
-264 domains tested. 91.28787878787878% were behind nothing (23 were behind something). 17 domains could not be tested.<br>
+267 domains tested. 91.38576779026218% were behind nothing (23 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,18 @@
 
 ```
 
-6 used cloudflare (2.272727272727273%):
+10 used cloudflare (3.7453183520599254%):
 ```
+bookreading2024.net
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
+ir.cx
+jiourl.com
 licocojambamarketplace.com
 telegram.ninja
 www.blackhattoolz.com
+www2.dawxmlpdfs.com
 ```
 
 0 used cloudfront (0.0%):

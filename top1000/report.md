@@ -1,5 +1,5 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 63 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 78.4% were behind nothing (216 were behind something). 34 domains could not be tested.<br>
+19 used akamai (1.9%):
 ```
 accuweather.com
 adobe.com
@@ -19,14 +19,7 @@ hm.com
 hp.com
 intel.com
 lowes.com
-macys.com
-marriott.com
-mobile.de
-mysql.com
-news.com.au
-rakuten.co.jp
-service-now.com
-weforum.org
+nike.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +37,7 @@ b-cdn.net
 
 ```
 
-131 used cloudflare (13.100000000000001%):
+78 used cloudflare (7.8%):
 ```
 33across.com
 addtoany.com
@@ -96,7 +89,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -111,83 +103,32 @@ jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
-life360.com
-liftoff.io
-loc.gov
-maricopa.gov
-markmonitor.com
-mdpi.com
-mediafire.com
-medium.com
-mgid.com
-mlb.com
-myshopify.com
 networkadvertising.org
 notion.so
 okta.com
-onesignal.com
-onetrust.com
 online.net
-onlyfans.com
 openai.com
 openstreetmap.org
-optimizely.com
-pages.dev
-patreon.com
-pendo.io
-pexels.com
-pixabay.com
 pixiv.net
-plesk.com
-princeton.edu
-prnewswire.com
-quizlet.com
-quora.com
-researchgate.net
-roku.com
-sciencedirect.com
-shein.com
-shopify.com
-sitescout.com
-skroutz.gr
 sourceforge.net
 spamhaus.org
 spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
-tandfonline.com
-teamviewer.com
-themeforest.net
-tinyurl.com
 uber.com
-udemy.com
-umich.edu
-unpkg.com
-upwork.com
-vimeo.com
-vmware.com
-vungle.com
-w3.org
-webmd.com
-weebly.com
-who.int
-wiley.com
-wyzecam.com
-xhamster.com
-zendesk.com
-zoom.us
 ```
 
-100 used cloudfront (10.0%):
+69 used cloudfront (6.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -238,57 +179,23 @@ intercom.io
 intuit.com
 kargo.com
 latimes.com
-lijit.com
-line.me
-mozilla.com
 mozilla.org
-name.com
-nationalgeographic.com
-netgear.com
-nginx.com
-noaa.gov
-onet.pl
-pbs.org
-primevideo.com
-rapid7.com
-realtor.com
-redfin.com
-repubblica.it
-reuters.com
-ryanair.com
-shalltry.com
-sharethis.com
 shutterstock.com
 soundcloud.com
 state.gov
 statista.com
-supercell.com
 surveymonkey.com
-synology.com
-t-online.de
-tp-link.com
 tradingview.com
 tremorhub.com
-trustpilot.com
 typeform.com
-ubnt.com
-ui.com
-unrulymedia.com
-utorrent.com
-warnerbros.com
-wattpad.com
 wired.com
 worldbank.org
-wsj.com
-zillow.com
 ```
 
-4 used ddosguard (0.4%):
+2 used ddosguard (0.2%):
 ```
 1c.ru
 crpt.ru
-netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -296,16 +203,15 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
+bloomberg.com
 forbes.com
 github.io
 jimdo.com
 speedtest.net
-www.gov.uk
 ```
 
 1 used sucuri (0.1%):
@@ -343,12 +249,11 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-pvp.net
 ```
 
 1 used imperva (0.1%):
