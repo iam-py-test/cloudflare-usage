@@ -1,7 +1,9 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 61 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 62 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
@@ -177,19 +179,19 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
+amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -272,7 +274,9 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -295,11 +299,10 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 etsy.com
 forbes.com
 github.io
