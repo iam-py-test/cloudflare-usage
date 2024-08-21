@@ -1,4 +1,4 @@
-278 domains tested. 94.24460431654677% were behind nothing (16 were behind something). 9 domains could not be tested.<br>
+298 domains tested. 93.95973154362416% were behind nothing (18 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,9 @@
 
 ```
 
-7 used cloudflare (2.5179856115107913%):
+7 used cloudflare (2.348993288590604%):
 ```
-240812161425945.tyr.zont16.com
+2x.si
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
@@ -35,9 +35,9 @@ www.blackhattoolz.com
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.33557046979865773%):
 ```
-
+0xf20b415.ru
 ```
 
 0 used edgecast (0.0%):
