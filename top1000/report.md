@@ -1,5 +1,5 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 64 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 65 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -28,7 +28,6 @@ news.com.au
 rakuten.co.jp
 service-now.com
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+129 used cloudflare (12.9%):
 ```
 33across.com
 addtoany.com
@@ -153,7 +152,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -189,6 +187,7 @@ adsafeprotected.com
 amazon.ca
 amazon.co.jp
 amazon.com
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -274,7 +273,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -299,11 +297,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 jimdo.com
