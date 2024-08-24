@@ -1,4 +1,4 @@
-276 domains tested. 87.68115942028986% were behind nothing (34 were behind something). 22 domains could not be tested.<br>
+272 domains tested. 88.23529411764706% were behind nothing (32 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,15 @@
 
 ```
 
-10 used cloudflare (3.6231884057971016%):
+10 used cloudflare (3.6764705882352944%):
 ```
-2x.si
 chainfarmgpt-downloading.org
-crossback.cl
 dl.aginjector.com
 hitman-pro.ru
+imtoken8.cc
 licocojambamarketplace.com
-nexipay-app.icu
+mysecureserveronlinefolder.com
+sharecloud.is
 telegram.ninja
 www.blackhattoolz.com
 xn--6dbahb0bc0ax0b.xyz
@@ -38,7 +38,7 @@ xn--6dbahb0bc0ax0b.xyz
 
 ```
 
-1 used ddosguard (0.36231884057971014%):
+1 used ddosguard (0.3676470588235294%):
 ```
 0xf20b415.ru
 ```
@@ -93,7 +93,7 @@ xn--6dbahb0bc0ax0b.xyz
 
 ```
 
-1 used imperva (0.36231884057971014%):
+1 used imperva (0.3676470588235294%):
 ```
 aquadelta.net
 ```
