@@ -1,5 +1,5 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 61 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 64 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -7,6 +7,7 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
+businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -45,7 +46,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+128 used cloudflare (12.8%):
 ```
 33across.com
 addtoany.com
@@ -123,7 +124,6 @@ mgid.com
 mlb.com
 myshopify.com
 networkadvertising.org
-notion.so
 okta.com
 onesignal.com
 onetrust.com
@@ -152,7 +152,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -179,7 +178,7 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -189,10 +188,8 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -247,6 +244,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nginx.com
 noaa.gov
 onet.pl
 pbs.org
