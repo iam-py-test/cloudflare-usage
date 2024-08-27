@@ -1,10 +1,9 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 62 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 62 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-airbnb.com
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -25,9 +24,7 @@ marriott.com
 mobile.de
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
-service-now.com
 weforum.org
 windows.com
 ```
@@ -47,7 +44,7 @@ b-cdn.net
 
 ```
 
-129 used cloudflare (12.9%):
+128 used cloudflare (12.8%):
 ```
 33across.com
 addtoany.com
@@ -91,7 +88,6 @@ discord.gg
 discordapp.com
 docker.com
 dotomi.com
-entrust.net
 epicgames.com
 fiverr.com
 fontawesome.com
@@ -180,17 +176,18 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
-amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -274,7 +271,9 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -297,11 +296,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 jimdo.com
