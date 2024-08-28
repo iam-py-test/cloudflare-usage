@@ -1,4 +1,4 @@
-261 domains tested. 39.46360153256705% were behind nothing (158 were behind something). 10 domains could not be tested.<br>
+261 domains tested. 38.31417624521073% were behind nothing (161 were behind something). 11 domains could not be tested.<br>
 2 used akamai (0.7662835249042145%):
 ```
 eepurl.com
@@ -20,13 +20,14 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (49.42528735632184%):
+132 used cloudflare (50.57471264367817%):
 ```
 02ip.ru
 1sta.com
 24ex.com
 2fear.com
 2fortune.com
+2freedom.com
 2hell.com
 2no.co
 2savvy.com
@@ -141,6 +142,7 @@ stopify.co
 streak-link.com
 t.ly
 tii.la
+tinyurl.com
 track.canva.com
 uprot.net
 url1.io
@@ -151,9 +153,10 @@ v.gd
 vze.com
 www.bl.ink
 www.jdoqocy.com
+www.linkbucks.com
 ```
 
-15 used cloudfront (5.747126436781609%):
+14 used cloudfront (5.363984674329502%):
 ```
 a.co
 bstore.smsb.co
@@ -168,7 +171,6 @@ trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
-www.linkbucks.com
 zpr.io
 ```
 

@@ -1,15 +1,27 @@
-361 domains tested. 71.19113573407202% were behind nothing (104 were behind something). 42 domains could not be tested.<br>
-9 used akamai (2.4930747922437675%):
+361 domains tested. 62.04986149584487% were behind nothing (137 were behind something). 47 domains could not be tested.<br>
+21 used akamai (5.8171745152354575%):
 ```
+amtrak.com
 cic.ndu.edu
 clerk.house.gov
+dea.gov
+dni.gov
 fcc.gov
+fda.gov
 highways.dot.gov
 investor.gov
 jfsc.ndu.edu
 maritime.dot.gov
 npin.cdc.gov
+nsa.gov
 railroads.dot.gov
+rfa.org
+sec.gov
+stats.bls.gov
+studentaid.gov
+transit.dot.gov
+ttb.gov
+usfa.fema.gov
 ```
 
 0 used bunnycdn (0.0%):
@@ -27,7 +39,7 @@ railroads.dot.gov
 
 ```
 
-27 used cloudflare (7.479224376731302%):
+31 used cloudflare (8.587257617728532%):
 ```
 aoc.gov
 bjs.gov
@@ -50,15 +62,19 @@ freddiemac.com
 gpo.gov
 juvenilecouncil.ojp.gov
 kennedy-center.org
+loc.gov
 mbda.gov
 nga.gov
 nij.ojp.gov
 ntsb.gov
 ojp.gov
 peacecorps.gov
+srbc.net
+tva.com
+uscirf.gov
 ```
 
-24 used cloudfront (6.64819944598338%):
+35 used cloudfront (9.695290858725762%):
 ```
 ahrq.gov
 alabama.gov
@@ -80,10 +96,21 @@ nationalparks.org
 nccih.nih.gov
 ncd.gov
 nlm.nih.gov
+noaa.gov
 nps.gov
 onrr.gov
 sba.gov
+sss.gov
+state.gov
+usa.gov
+usgs.gov
 ushmm.org
+usmint.gov
+uspto.gov
+ustaxcourt.gov
+ustda.gov
+ustr.gov
+usun.usmission.gov
 ```
 
 0 used ddosguard (0.0%):
@@ -141,7 +168,8 @@ jusfc.gov
 
 ```
 
-1 used imperva (0.2770083102493075%):
+2 used imperva (0.554016620498615%):
 ```
 fjc.gov
+state.nj.us
 ```
