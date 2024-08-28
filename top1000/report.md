@@ -1,32 +1,16 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 62 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 80.30000000000001% were behind nothing (197 were behind something). 32 domains could not be tested.<br>
+10 used akamai (1.0%):
 ```
 accuweather.com
-adobe.com
-adobe.net
-arubanetworks.com
-autodesk.com
+airbnb.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
-lowes.com
-macys.com
-marriott.com
-mobile.de
-mysql.com
-news.com.au
-rakuten.co.jp
-weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +28,7 @@ b-cdn.net
 
 ```
 
-128 used cloudflare (12.8%):
+78 used cloudflare (7.8%):
 ```
 33across.com
 addtoany.com
@@ -111,72 +95,22 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-loc.gov
-maricopa.gov
-markmonitor.com
-mdpi.com
 mediafire.com
-medium.com
-mgid.com
-mlb.com
-myshopify.com
-networkadvertising.org
-okta.com
-onesignal.com
 onetrust.com
-online.net
 onlyfans.com
-openai.com
-openstreetmap.org
-optimizely.com
-pages.dev
 patreon.com
 pendo.io
-pexels.com
-pixabay.com
 pixiv.net
 plesk.com
-princeton.edu
-prnewswire.com
-quizlet.com
 quora.com
-researchgate.net
-roku.com
-sciencedirect.com
-shein.com
-shopify.com
 sitescout.com
-skroutz.gr
-sourceforge.net
-spamhaus.org
-spankbang.com
-stackoverflow.com
-statcounter.com
-substack.com
-tandfonline.com
 teamviewer.com
-themeforest.net
-tinyurl.com
-uber.com
-udemy.com
-umich.edu
-unpkg.com
-upwork.com
-vimeo.com
 vmware.com
-vungle.com
-w3.org
-webmd.com
-weebly.com
 who.int
-wiley.com
-wyzecam.com
-xhamster.com
 zendesk.com
-zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+64 used cloudfront (6.4%):
 ```
 3lift.com
 a-mo.net
@@ -184,10 +118,9 @@ academia.edu
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
 amazon.com.br
-amazon.de
+amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -239,56 +172,16 @@ latimes.com
 lijit.com
 line.me
 mozilla.com
-mozilla.org
-name.com
-nationalgeographic.com
-netgear.com
-nginx.com
-noaa.gov
-onet.pl
-pbs.org
 primevideo.com
-rapid7.com
-realtor.com
-redfin.com
-repubblica.it
-reuters.com
-ryanair.com
-shalltry.com
-sharethis.com
-shutterstock.com
-soundcloud.com
-state.gov
-statista.com
-supercell.com
-surveymonkey.com
-synology.com
-t-online.de
-tp-link.com
-tradingview.com
 tremorhub.com
-trustpilot.com
-typeform.com
-ubnt.com
 ui.com
 un.org
-unrulymedia.com
-uol.com.br
-utorrent.com
-warnerbros.com
-wattpad.com
-wired.com
-worldbank.org
-wsj.com
-zillow.com
 ```
 
-4 used ddosguard (0.4%):
+2 used ddosguard (0.2%):
 ```
 1c.ru
 crpt.ru
-netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -296,25 +189,24 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 forbes.com
 github.io
 jimdo.com
-speedtest.net
-www.gov.uk
 ```
 
-1 used sucuri (0.1%):
-```
-sonobi.com
+0 used sucuri (0.0%):
 ```
 
-1 used myracloud (0.1%):
 ```
-php.net
+
+0 used myracloud (0.0%):
+```
+
 ```
 
 0 used keycdn (0.0%):
@@ -342,12 +234,11 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-pvp.net
 ```
 
 1 used imperva (0.1%):
