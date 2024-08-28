@@ -19,10 +19,11 @@ for pre in stats["cat_precents"]:
 		y = np.array(pre_arr)
 		
 		# plotting
-		plt.title(f"Usage of {company}") 
-		plt.xlabel("Check number") 
-		plt.ylabel("Number of domains") 
-		plt.plot(x, y, color ="green") 
+		plt.minorticks_off()
+		plt.title(f"Usage of {company}")
+		plt.xlabel("Check number")
+		plt.ylabel("Number of domains")
+		plt.plot(x, y, color ="green")
 		plt.savefig(f"{pre}/img/{company}.png")
 		plt.clf()
 	plt.title("Usage of all companies")
