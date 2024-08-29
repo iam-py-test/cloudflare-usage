@@ -1,4 +1,4 @@
-269 domains tested. 91.44981412639405% were behind nothing (23 were behind something). 11 domains could not be tested.<br>
+248 domains tested. 91.53225806451613% were behind nothing (21 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,17 @@
 
 ```
 
-11 used cloudflare (4.089219330855019%):
+10 used cloudflare (4.032258064516129%):
 ```
+240802190315192.shi.jtii79.top
 adf6.adf6.com
-cdn.spoof.su
+apocalypsecheats.fun
+avocaldoperu.com
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
-postaipay.top
-sodiumlaurethsulfatedesyroyer.com
 telegram.ninja
-wanfreeprogram.shop
 www.blackhattoolz.com
 ```
 
@@ -39,7 +38,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.37174721189591076%):
+1 used ddosguard (0.4032258064516129%):
 ```
 0xf20b415.ru
 ```
