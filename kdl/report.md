@@ -1,5 +1,5 @@
 2341 domains tested. 53.90858607432721% were behind nothing (1079 were behind something). 256 domains could not be tested.<br>
-309 used akamai (13.19948739854763%):
+311 used akamai (13.28492097394276%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -186,7 +186,6 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
-images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images.rbxcdn.com
 images.samsung.com
@@ -226,6 +225,7 @@ quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
 s.go-mpulse.net
+s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -243,6 +243,7 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
+static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
 statics-marketingsites-wcus-ms-com.akamaized.net
@@ -257,6 +258,7 @@ uy.ebay.com
 v16.tiktokcdn.com
 ve.ebay.com
 widgets.outbrain.com
+windows.com
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -437,7 +439,7 @@ zendesk.com
 zoom.us
 ```
 
-201 used cloudfront (8.586074327210595%):
+199 used cloudfront (8.500640751815464%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -448,9 +450,7 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.jp
-amazon.co.uk
-amazon.com
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -584,6 +584,7 @@ milanuncios.com
 mktg.tags.f5.com
 mozilla.com
 mozilla.org
+nginx.com
 passport.twitch.tv
 privacy-policy.truste.com
 prod.pa.cdn.uis.awsstatic.com
@@ -608,7 +609,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
@@ -736,6 +736,7 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
@@ -790,7 +791,6 @@ ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 s.imgur.com
-s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
