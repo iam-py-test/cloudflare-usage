@@ -1,4 +1,4 @@
-251 domains tested. 90.0398406374502% were behind nothing (25 were behind something). 14 domains could not be tested.<br>
+345 domains tested. 64.6376811594203% were behind nothing (122 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,115 @@
 
 ```
 
-10 used cloudflare (3.9840637450199203%):
+107 used cloudflare (31.01449275362319%):
 ```
 adf6.adf6.com
+americanfinancialpartners.top
+bankexpress.org
+bankinternational.net
+creamland.org
+creditunionfund.net
+crossback.cl
+debtunion.shop
+detailed-finance.top
+detailedfinances.com
+detailedfinances.info
+detailedfinances.shop
+detailedleasing.net
 dl.aginjector.com
+fin-masters.com
+finachcial.com
+financemaster.shop
+financemastersacademy.com
+financemen.net
+financesmasters.org
+financesmasters.top
+financesunion.com
+financetoday.top
+financetodayapp.com
+financetrade.net
+financial-advisors.top
+financialagency.net
+financialcorp.org
+financialpartners.top
+financialpartnersservices.com
+financialsource.net
+finmaster.top
+finmastersusa.com
+finmastersusa.top
+finwizards.net
+finwizards.org
 hitman-pro.ru
 imtoken8.cc
+jkfinancialpartners.com
 licocojambamarketplace.com
+managementcorp.net
+managementsolution.top
+mavidjipro.com
+meticulousfinance.top
+newunioncredit.org
+personal-training.shop
+pinnaclemoney.org
+privatefinancetoday.net
+qualityfinance.net
 rustmacro.ru
-solanacloud.pro
+servicescorp.shop
+servicesllc.top
+smartfinancecard.org
+specialbids.com
+specialcoupons.net
+specialcoupons.top
+specialpromoter.net
 telegram.ninja
 ti.4it.top
+unioncredits.shop
+uniondebit.com
+www.americanfinancialpartners.top
+www.bankexpress.org
+www.bankinternational.net
 www.blackhattoolz.com
+www.creamland.org
+www.creditunionfund.net
+www.debtunion.shop
+www.detailed-finance.top
+www.detailedfinances.com
+www.detailedfinances.shop
+www.fin-masters.com
+www.finachcial.com
+www.financemaster.shop
+www.financemen.net
+www.financesmasters.top
+www.financesunion.com
+www.financetoday.top
+www.financetodayapp.com
+www.financetrade.net
+www.financial-advisors.top
+www.financialagency.net
+www.financialcorp.org
+www.financialpartners.top
+www.financialpartnersservices.com
+www.financialsource.net
+www.finmaster.top
+www.finwizards.net
+www.finwizards.org
+www.jkfinancialpartners.com
+www.managementcorp.net
+www.managementsolution.top
+www.mavidjipro.com
+www.meticulousfinance.top
+www.newunioncredit.org
+www.personal-training.shop
+www.pinnaclemoney.org
+www.privatefinancetoday.net
+www.qualityfinance.net
+www.servicescorp.shop
+www.servicesllc.top
+www.smartfinancecard.org
+www.specialcoupons.top
+www.specialoffersnow.net
+www.specialpromoter.net
+www.unioncredits.shop
+www.uniondebit.com
 ```
 
 0 used cloudfront (0.0%):
@@ -38,7 +135,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.398406374501992%):
+1 used ddosguard (0.2898550724637681%):
 ```
 0xf20b415.ru
 ```

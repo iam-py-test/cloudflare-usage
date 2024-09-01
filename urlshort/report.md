@@ -1,4 +1,4 @@
-262 domains tested. 38.54961832061068% were behind nothing (161 were behind something). 10 domains could not be tested.<br>
+262 domains tested. 38.16793893129771% were behind nothing (162 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7633587786259541%):
 ```
 eepurl.com
@@ -52,6 +52,7 @@ click.discord.com
 clk.asia
 clk.sh
 clks.pro
+corneey.com
 cutt.ly
 cuty.io
 dealtap.com
@@ -99,7 +100,6 @@ link-split.com
 link.sbstck.com
 link.tnlink.in
 link1s.com
-linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
 linkvertise.com
@@ -158,11 +158,12 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-13 used cloudfront (4.961832061068702%):
+14 used cloudfront (5.343511450381679%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
+linkbucks.com
 qrs.ly
 rb.gy
 rebrand.ly
