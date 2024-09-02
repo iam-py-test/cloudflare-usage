@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 64 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 65.5% were behind nothing (345 were behind something). 64 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -7,7 +7,6 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
-businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+131 used cloudflare (13.100000000000001%):
 ```
 2gis.com
 33across.com
@@ -98,6 +97,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -180,7 +180,7 @@ zendesk.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -190,7 +190,10 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.es
+amazon.com.br
+amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -273,6 +276,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -295,10 +299,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
+etsy.com
 forbes.com
 github.io
 jimdo.com
