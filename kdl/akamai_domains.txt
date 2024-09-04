@@ -41,6 +41,7 @@ afcs.dellcdn.com
 amd.cdn.turner.com
 analytics.tiktok.com
 ar.ebay.com
+ar.pinterest.com
 assets.adobedtm.com
 assets.alicdn.com
 assets.msn.com
@@ -59,6 +60,7 @@ cdn-production-opera-website.operacdn.com
 cdn.apple-cloudkit.com
 cdn.cnn.com
 cdn.tmobile.com
+ch.pinterest.com
 cl.ebay.com
 cn.ebay.com
 co.ebay.com
@@ -66,6 +68,7 @@ connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
+css.rbxcdn.com
 d.oracleinfinity.io
 d3.sina.com.cn
 dds.dell.com
@@ -168,26 +171,28 @@ emp.bbci.co.uk
 encore.scdn.co
 es.t-mobile.com
 framework-assets.external.xerox.com
+gr.pinterest.com
 gt.ebay.com
 hn.ebay.com
 hp.com
 ht.cdn.turner.com
+hu.pinterest.com
 i.dell.com
-i.ebayimg.com
 i.etsystatic.com
+i.pinimg.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
-images-fe.ssl-images-amazon.com
+images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
-ir.ebaystatic.com
+js.rbxcdn.com
 js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
@@ -201,6 +206,8 @@ mybbc.files.bbci.co.uk
 n.sinaimg.cn
 nav.files.bbci.co.uk
 ni.ebay.com
+nl.pinterest.com
+no.pinterest.com
 ow2.res.office365.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-useast2a.tiktokcdn.com
@@ -210,6 +217,7 @@ p16-va.tiktokcdn.com
 pa.ebay.com
 pages.ebay.com
 pe.ebay.com
+ph.pinterest.com
 players.brightcove.net
 pm.pstatic.net
 pmd.cdn.turner.com
@@ -220,6 +228,7 @@ query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
+ru.pinterest.com
 s.go-mpulse.net
 s20.tiktokcdn.com
 secure.ally.com
@@ -238,6 +247,7 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
+static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
 statics-marketingsites-wcus-ms-com.akamaized.net
@@ -259,7 +269,6 @@ www.apple.com.cn
 www.att.com
 www.befr.ebay.be
 www.benl.ebay.be
-www.bing.com
 www.cafr.ebay.ca
 www.cisco.com
 www.dell.com
@@ -287,6 +296,9 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
+www.pinterest.cl
+www.pinterest.pt
+www.pinterest.se
 www.salesforce.com
 www.samsung.com
 www.staples.com
