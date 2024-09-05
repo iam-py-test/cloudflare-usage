@@ -1,5 +1,5 @@
-262 domains tested. 38.54961832061068% were behind nothing (161 were behind something). 10 domains could not be tested.<br>
-2 used akamai (0.7633587786259541%):
+263 domains tested. 38.02281368821293% were behind nothing (163 were behind something). 10 domains could not be tested.<br>
+2 used akamai (0.7604562737642585%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-133 used cloudflare (50.76335877862596%):
+134 used cloudflare (50.950570342205324%):
 ```
 02ip.ru
 1sta.com
@@ -147,6 +147,7 @@ tii.la
 tinyurl.com
 track.canva.com
 uprot.net
+url1.io
 urlday.cc
 urlshortx.com
 usheethe.com
@@ -157,10 +158,11 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-14 used cloudfront (5.343511450381679%):
+15 used cloudfront (5.7034220532319395%):
 ```
 a.co
 bstore.smsb.co
+cdrvrs.com
 clicks.eventbrite.com
 linkbucks.com
 qrs.ly
@@ -190,7 +192,7 @@ zpr.io
 
 ```
 
-1 used sucuri (0.38167938931297707%):
+1 used sucuri (0.38022813688212925%):
 ```
 wee.so
 ```
@@ -225,7 +227,7 @@ wee.so
 
 ```
 
-1 used netlify (0.38167938931297707%):
+1 used netlify (0.38022813688212925%):
 ```
 mylinkinb.io
 ```

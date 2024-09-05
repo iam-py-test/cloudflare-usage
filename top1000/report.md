@@ -1,32 +1,20 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 66 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 67.2% were behind nothing (328 were behind something). 60 domains could not be tested.<br>
+14 used akamai (1.4000000000000001%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 airbnb.com
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +32,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+131 used cloudflare (13.100000000000001%):
 ```
 2gis.com
 33across.com
@@ -103,6 +91,7 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
+immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -178,19 +167,22 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -273,7 +265,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -296,12 +287,11 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
-etsy.com
 forbes.com
 github.io
 jimdo.com
