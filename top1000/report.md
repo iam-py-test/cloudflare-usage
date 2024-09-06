@@ -1,20 +1,33 @@
-1000 domains tested. 67.2% were behind nothing (328 were behind something). 60 domains could not be tested.<br>
-14 used akamai (1.4000000000000001%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 66 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
+adobe.net
 airbnb.com
+arubanetworks.com
+autodesk.com
+businesswire.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
+hm.com
 hp.com
+intel.com
 intuit.com
 lowes.com
+macys.com
+marriott.com
 mobile.de
 mysql.com
+news.com.au
 rakuten.co.jp
+weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -32,7 +45,7 @@ b-cdn.net
 
 ```
 
-131 used cloudflare (13.100000000000001%):
+130 used cloudflare (13.0%):
 ```
 2gis.com
 33across.com
@@ -139,7 +152,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -167,7 +179,7 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -178,11 +190,8 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
-amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -246,6 +255,7 @@ redfin.com
 repubblica.it
 reuters.com
 ryanair.com
+segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
@@ -287,11 +297,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 jimdo.com
