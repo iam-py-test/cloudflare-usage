@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-135 used cloudflare (51.13636363636363%):
+134 used cloudflare (50.75757575757576%):
 ```
 02ip.ru
 1sta.com
@@ -156,10 +156,9 @@ v.gd
 vze.com
 www.bl.ink
 www.jdoqocy.com
-www.linkbucks.com
 ```
 
-14 used cloudfront (5.303030303030303%):
+15 used cloudfront (5.681818181818182%):
 ```
 a.co
 bstore.smsb.co
@@ -174,6 +173,7 @@ trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
+www.linkbucks.com
 zpr.io
 ```
 
