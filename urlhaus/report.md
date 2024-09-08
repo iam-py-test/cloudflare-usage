@@ -1,4 +1,4 @@
-246 domains tested. 87.39837398373984% were behind nothing (31 were behind something). 18 domains could not be tested.<br>
+232 domains tested. 86.20689655172413% were behind nothing (32 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-12 used cloudflare (4.878048780487805%):
+9 used cloudflare (3.8793103448275863%):
 ```
 adf6.adf6.com
-bestcryptohardwallets.com
 clicktogo.click
 crossback.cl
 dl.aginjector.com
@@ -30,8 +29,6 @@ hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
 server.fuerer-net.ru
-softwarequalityaudit.com
-telegram.ninja
 www.blackhattoolz.com
 ```
 
@@ -40,7 +37,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.40650406504065045%):
+1 used ddosguard (0.43103448275862066%):
 ```
 0xf20b415.ru
 ```
