@@ -1,5 +1,5 @@
-1000 domains tested. 66.3% were behind nothing (337 were behind something). 61 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 62 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -22,7 +22,6 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-129 used cloudflare (12.9%):
+130 used cloudflare (13.0%):
 ```
 2gis.com
 33across.com
@@ -103,6 +102,7 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
+immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -177,7 +177,7 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -185,8 +185,8 @@ academia.edu
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
+amazon.de
+amazon.es
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -231,6 +231,7 @@ hotjar.com
 ieee.org
 imdb.com
 intercom.io
+kahoot.it
 kargo.com
 latimes.com
 lijit.com
@@ -251,7 +252,6 @@ redfin.com
 repubblica.it
 reuters.com
 ryanair.com
-segment.io
 shalltry.com
 sharethis.com
 shutterstock.com
@@ -262,6 +262,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+tabtab-staging.com
 tp-link.com
 tradingview.com
 tremorhub.com
