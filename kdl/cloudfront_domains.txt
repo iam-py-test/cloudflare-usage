@@ -8,6 +8,7 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
+amazon.com
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -16,8 +17,8 @@ api-v2.soundcloud.com
 api.company-target.com
 api.flickr.com
 api.soundcloud.com
+api.twitch.tv
 appsflyer.com
-assets-global.website-files.com
 assets.homeimprovementpages.com.au
 assets.twitch.tv
 aws-us-east-1.amazon.com
@@ -125,7 +126,8 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
-images-na.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images.ctfassets.net
 images.scanalert.com
 img.hipages.com.au
@@ -168,7 +170,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net

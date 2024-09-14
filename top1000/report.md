@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 62 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.0% were behind nothing (340 were behind something). 64 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -72,7 +73,6 @@ chaturbate.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
-cloudflareclient.com
 cloudflareinsights.com
 columbia.edu
 cookiedatabase.org
@@ -95,14 +95,12 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
-immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -133,9 +131,7 @@ optimizely.com
 pages.dev
 patreon.com
 pendo.io
-pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -164,7 +160,6 @@ umich.edu
 unpkg.com
 upwork.com
 vimeo.com
-vmware.com
 vungle.com
 w3.org
 webmd.com
@@ -177,17 +172,21 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
+ad.gt
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
+amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -236,6 +235,7 @@ kargo.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 mozilla.com
 mozilla.org
 name.com
@@ -262,7 +262,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-tabtab-staging.com
 tp-link.com
 tradingview.com
 tremorhub.com
@@ -270,7 +269,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -296,10 +294,11 @@ upravel.com
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 etsy.com
 forbes.com
 github.io
