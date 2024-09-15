@@ -1,5 +1,5 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 64 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 62 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mysql.com
 news.com.au
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+126 used cloudflare (12.6%):
 ```
 2gis.com
 33across.com
@@ -95,6 +94,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -160,6 +160,7 @@ umich.edu
 unpkg.com
 upwork.com
 vimeo.com
+vmware.com
 vungle.com
 w3.org
 webmd.com
@@ -172,19 +173,18 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.ca
-amazon.co.jp
 amazon.com
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -262,6 +262,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+tabtab-staging.com
 tp-link.com
 tradingview.com
 tremorhub.com
@@ -269,6 +270,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -294,11 +296,10 @@ upravel.com
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 etsy.com
 forbes.com
 github.io
