@@ -1,123 +1,126 @@
-cloudflare
-Apache
 Google Frontend
 sffe
+cloudflare
+Apache
 adobe
-Apple
-Varnish
-AkamaiGHost
-Microsoft-IIS/10.0
-nginx/1.24.0 (Ubuntu)
 nginx
-AmazonS3
+Varnish
+nginx/1.24.0 (Ubuntu)
+Microsoft-IIS/10.0
+Apache/2.4.58 () OpenSSL/1.0.2k-fips
 Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0
+BunnyCDN-NY1-885
 Server
+Apple
+AkamaiGHost
+AmazonS3
 BBC-GTM
-Netlify
-BunnyCDN-IL1-1207
-ESF
 openresty
-DataDome
 ATS
+DataDome
 nginx/1.22.0
-Oops
+ESF
 Tengine
 AppleHttpServer/d08e3c27467d311dc4939a9be53f15ed4de6ecd0
-Oracle API Gateway
-ddos-guard
+Netlify
 QRATOR
+ddos-guard
 Tengine/Aserver
 WebServer
+Oops
+Kestrel
 envoy
 duo-api
 LiteSpeed
 nginx/1.23.2
-Parking/1.0
 HTTPServer 1.0
-NWS_Oversea_AP
-Kestrel
+Parking/1.0
 nginx/1.14.0 (Ubuntu)
+NWS_Oversea_AP
 DMS/1.0.42
-ECAcc (chd/070C)
-Google Tag Manager
+CK-FG-server
+ECAcc (chd/0717)
 Artisanal bits
 gws
 GitHub.com
+Google Tag Manager
 rhino-core-shield
 AkamaiNetStorage
 support-content-ui
+ip-10-136-182-22.ap-south-1.compute.internal
 istio-envoy
 nginx/1.18.0 (Ubuntu)
 nginx/1.14.2
-CK-FG-server
 cat factory 1.0
-Bhoot
-aicache6x
-ip-10-136-166-185.ap-south-1.compute.internal
-fr2/
 AppleHttpServer/b866cf47a603
+fr2/
 IKEA Server
-Microsoft-HTTPAPI/2.0
 Pagely-ARES/1.20.1
-gunicorn
-nginx/1.21.6
+Microsoft-HTTPAPI/2.0
 PAAS-WEB
+Bhoot
+nginx/1.21.6
+aicache6x
+gunicorn
 nginx/1.25.3
 OXGW/0.0.0
 awselb/2.0
 unified-edge-router
-Oscar Platform 0.1441.0
 nginx/1.6.2
-nfront
+myracloud
+Oscar Platform 0.1443.0
 cloud-gateway/cloud-gateway-4.6.20 (AVM)
+nfront
 nginx/1.26.1
-namecheap-nginx
+nginx/1.18.0
+nginx/1.20.0
 Sucuri/Cloudproxy
 API Gateway
-slack-www-hhvm-main-iad-jwdu
+slack-www-hhvm-main-iad-tpks
 snooserv
-website
-Caddy
 SGW
-Microsoft-IIS
+Caddy
+StackAdapt
 prod_marketing_wp1
-myracloud
+Squarespace
+namecheap-nginx
+Microsoft-IIS
+website
 tRPC-Gateway
-nginx/1.18.0
-Bardenas Reales
-nginx/1.20.0
+Kalahari
 nginx/1.26.2
 cloudflare tsa_b
 tsa_b
+kittenx
 TLB
-StackAdapt
-Squarespace
 ECAcc (chd/0796)
 Vercel
-kittenx
 MSX Turbo R (R900) Web Server 1.13
-Pepyaka
-ATS/9.2.5
 ECS (chd/073D)
-SHANHAI-SERVER
+ATS/9.2.5
+Pepyaka
+nginx/1.27.1
 wbaas
+SHANHAI-SERVER
 ZGS
 CDN77-Turbo
 Lego Server
 jag
 NWS_Oversea_D1
 ws
-nginx/1.25.1
-Fastly
 GSE
+Fastly
+nginx/1.25.1
+ECAcc (chd/0756)
 Angie
 TRTTCMWEB3
+TRTTCMWEB4
 ECD (chd/0732)
-UploadServer
-ECLF (chf/16F3)
 sfdcedge
+UploadServer
+ECLF (chf/16C3)
 AMO-cookiemap/1.1
-TRT4
+TRT3
 APISIX/2.0, openresty
 tencent-cos
 WAF
@@ -127,111 +130,108 @@ giow1
 dae
 nginx/1.21.4
 Mastodon
+apache
 nginx/1.23.4
 stgw
-TRTTCMWEB4
-QWS
-apache
 marco/3.2
-*
+QWS
+jfe
 proxygen-bolt
 ebay-proxy-server
 fr1/
+*
 NWSs
-jfe
-ECAcc (chd/0756)
-APISIX/2.0, qws/1.18.0
 CLOUD ELB 1.0.0
+APISIX/2.0, qws/1.18.0
 Byte-nginx
+BunnyCDN-IL1-1206
 Apache-Coyote/1.1
 Clearbit
 nghttpx
-nginx/1.8.1
-Hyper-Traffic
+NWS_SSD_MID
 Pepyaka/1.21.6
 nginx/1.24.0
 nginx/1.12.0
-mw-web.eqiad.main-7c4784c657-c7tdf
+mw-web.eqiad.main-575bddf9c4-96wz5
 web cache
 nginx/1.27.0
 bfe/1.0.8.18
 bfe
 Apache/2.4.61 (Unix) OpenSSL/3.0.13 mod_jk/1.2.46
 ms-counter-4.4.3/1.22.1
-DragonStorage
 BLB/23.08.4.1
+DragonStorage
 Apache/2.4.41 (Ubuntu)
-Apache/2.2.15 (CentOS)
-Apache/2.2.22 (Debian)
 Apache/2.4.52 (Ubuntu)
 Apache/2.4.25 (Win32) OpenSSL/1.0.2j PHP/5.6.30
+Apache/2.2.15 (CentOS)
 Microsoft-IIS/8.5
 Apache/2.4.23 (Unix) OpenSSL/1.0.1e-fips mod_bwlimited/1.4
-nginx/1.22.1
 nginx/1.20.1
-Apache/2
-Apache/2.4.7 (Ubuntu)
-Apache/2.4.6 (CentOS) PHP/5.4.16
-wts/1.7.4
 Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
-Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/7.4.30
+Apache/2.4.6 (CentOS) PHP/5.4.16
 nginx/1.20.2
+Apache/2
+wts/1.7.4
+Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/7.4.30
 scdn
+Apache/2.4.7 (Ubuntu)
 Apache/2.2.17 (Unix) DAV/2 PHP/5.3.4
+Apache/2.4.39 (Win32)
 Microsoft-IIS/7.5
-Apache/2.4.6 (CentOS) PHP/5.6.40
-Apache/2.4.29 (Ubuntu)
-Apache/2.4.6 (CentOS)
 Apache/2.4.62 (cPanel) OpenSSL/1.1.1w mod_bwlimited/1.4
-nginx/1.10.3 (Ubuntu)
+Apache/2.4.6 (CentOS) PHP/5.6.40
 Apache/2.4.59 (Debian)
+nginx/1.10.3 (Ubuntu)
 Apache/1.3.34 (Win32) PHP/4.4.2
+Apache/2.4.55 (Win64) OpenSSL/1.1.1s mod_fcgid/2.3.9a
 nginx-reuseport/1.21.1
 openresty/1.19.9.1
 hcdn
-msys-http
 MacBook-Pro/2024
 openresty/1.21.4.1
+msys-http
 nginx/1.8.0
 AtlassianEdge
-Apache/ProXad [Jan 23 2019 20:05:46]
-qvqnetwork/0.1.0
 Apache/2.4.25 (Debian)
+Apache/ProXad [Jan 23 2019 20:05:46]
 Apache/2.4.62 (Debian)
 Apache/2.4.58 (Ubuntu)
+qvqnetwork/0.1.0
 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9
 Apache/2.4.41 (Trisquel_GNU/Linux)
 Werkzeug/0.14.1 Python/3.7.3
+Apache/2.4.52
 Nginx
 NginX
-EC2AMAZ-C44PUQ8
-Apache/2.4.52
-nginx/1.25.5
+EC2AMAZ-VCEBGJT
 Apache/2.4.52 () OpenSSL/1.0.2k-fips
+nginx/1.25.5
 server
-MI
 Apache/2.4.58 (Unix)
-waf/4.40.0-0.el7
 openresty+
+nginx/1.22.1
+waf/4.40.0-0.el7
 Apache/2.4.12 (Red Hat) OpenSSL/1.0.1e-fips
-USDA 1
+Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/7.4.33
 Apache/2.4.59 () PHP/8.1.23
+USDA TX 1
+Apache/2.4.6 (Red Hat Enterprise Linux)
 Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/8.1.29
-Apache/2.4.51 () OpenSSL/1.0.2k-fips PHP/7.4.21
-Apache/2.4.62 () OpenSSL/1.0.2k-fips
 Apache/2.4.62 (Ubuntu)
 nginx/1.21.5
-Apache/2.4.37 (Oracle Linux) mod_jk/1.2.48
 DKweb
+Apache/2.4.51 () OpenSSL/1.0.2k-fips PHP/7.4.21
+Apache/2.4.37 (Oracle Linux) mod_jk/1.2.48
+Apache/2.4.62 () OpenSSL/1.0.2k-fips
 Apache/2.4.57 () PHP/7.4.33
 Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips
 Sun-ONE-Web-Server/6.1
-GRC/IIS Hybrid Application Webserver
 akamai
-Caddy, nginx/1.27.1
+GRC/IIS Hybrid Application Webserver
 Caddy, nginx/1.25.5
-nginx/1.27.1
--
+Caddy, nginx/1.27.1
 lighttpd/1.4.59
+-
 Caddy, Mastodon
 Friendica

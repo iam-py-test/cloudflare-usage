@@ -1,32 +1,21 @@
-1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 61 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 67.9% were behind nothing (321 were behind something). 58 domains could not be tested.<br>
+15 used akamai (1.5%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 airbnb.com
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
+ups.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +33,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -95,7 +84,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -174,17 +162,18 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.co.jp
-amazon.com
+amazon.ca
+amazon.co.uk
 amazon.com.br
 amazon.de
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -267,6 +256,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -296,7 +286,7 @@ upravel.com
 ```
 bbc.co.uk
 bbc.com
-etsy.com
+bloomberg.com
 forbes.com
 github.io
 jimdo.com

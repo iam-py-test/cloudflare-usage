@@ -1,23 +1,16 @@
-361 domains tested. 61.772853185595565% were behind nothing (138 were behind something). 49 domains could not be tested.<br>
-22 used akamai (6.094182825484765%):
+361 domains tested. 64.26592797783933% were behind nothing (129 were behind something). 47 domains could not be tested.<br>
+15 used akamai (4.1551246537396125%):
 ```
 amtrak.com
 cic.ndu.edu
 clerk.house.gov
-cpsc.gov
-dea.gov
-dni.gov
 fcc.gov
-fda.gov
 highways.dot.gov
 investor.gov
 jfsc.ndu.edu
 maritime.dot.gov
 npin.cdc.gov
-nsa.gov
 railroads.dot.gov
-rfa.org
-sec.gov
 stats.bls.gov
 studentaid.gov
 transit.dot.gov
@@ -40,7 +33,7 @@ usfa.fema.gov
 
 ```
 
-30 used cloudflare (8.310249307479225%):
+31 used cloudflare (8.587257617728532%):
 ```
 aoc.gov
 bjs.gov
@@ -70,11 +63,12 @@ nij.ojp.gov
 ntsb.gov
 ojp.gov
 peacecorps.gov
+srbc.net
 tva.com
 uscirf.gov
 ```
 
-34 used cloudfront (9.418282548476455%):
+33 used cloudfront (9.141274238227147%):
 ```
 ahrq.gov
 alabama.gov
@@ -87,7 +81,6 @@ epa.gov
 exim.gov
 gsa.gov
 health.gov
-jobcorps.gov
 mcc.gov
 minorityhealth.hhs.gov
 msha.gov
