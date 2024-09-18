@@ -1,21 +1,32 @@
-1000 domains tested. 67.9% were behind nothing (321 were behind something). 58 domains could not be tested.<br>
-15 used akamai (1.5%):
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 61 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 airbnb.com
+arubanetworks.com
+autodesk.com
 dailymail.co.uk
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
+hm.com
 hp.com
+intel.com
 intuit.com
 lowes.com
+macys.com
+marriott.com
 mobile.de
 mysql.com
+news.com.au
 rakuten.co.jp
-ups.com
+weforum.org
 ```
 
 1 used bunnycdn (0.1%):
@@ -33,7 +44,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+127 used cloudflare (12.7%):
 ```
 2gis.com
 33across.com
@@ -90,6 +101,7 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
+immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -135,6 +147,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -162,7 +175,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -170,10 +183,12 @@ academia.edu
 ad.gt
 adsafeprotected.com
 amazon.ca
-amazon.co.uk
+amazon.co.jp
+amazon.com
 amazon.com.br
-amazon.de
+amazon.es
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -282,14 +297,13 @@ upravel.com
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
+etsy.com
 forbes.com
 github.io
-jimdo.com
 speedtest.net
 www.gov.uk
 ```

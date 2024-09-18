@@ -1,16 +1,23 @@
-361 domains tested. 64.26592797783933% were behind nothing (129 were behind something). 47 domains could not be tested.<br>
-15 used akamai (4.1551246537396125%):
+361 domains tested. 61.495844875346265% were behind nothing (139 were behind something). 50 domains could not be tested.<br>
+22 used akamai (6.094182825484765%):
 ```
 amtrak.com
 cic.ndu.edu
 clerk.house.gov
+cpsc.gov
+dea.gov
+dni.gov
 fcc.gov
+fda.gov
 highways.dot.gov
 investor.gov
 jfsc.ndu.edu
 maritime.dot.gov
 npin.cdc.gov
+nsa.gov
 railroads.dot.gov
+rfa.org
+sec.gov
 stats.bls.gov
 studentaid.gov
 transit.dot.gov
