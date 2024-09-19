@@ -8,8 +8,8 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -34,6 +34,7 @@ cdn.rollbar.com
 cdn.segment.io
 cdnssl.clicktale.net
 cf.bstatic.com
+cigars.roku.com
 cn.nytimes.com
 combo.staticflickr.com
 consent.dropbox.com
@@ -43,6 +44,7 @@ css.rbxcdn.com
 cvp.twitch.tv
 d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
+d113wm69jy31k7.cloudfront.net
 d143j4fdqe1jki.cloudfront.net
 d15wdfb2rw9n2y.cloudfront.net
 d186rixkn5ruba.cloudfront.net
@@ -54,6 +56,7 @@ d1ge0kk1l5kms0.cloudfront.net
 d1h99r20nnwifw.cloudfront.net
 d1hcxlifzhxzha.cloudfront.net
 d1kpbbfl4rco16.cloudfront.net
+d1ohvx6nln6ht.cloudfront.net
 d1qj8m9gs69rhf.cloudfront.net
 d1u08w08on97dm.cloudfront.net
 d1v8493p60f7at.cloudfront.net
@@ -126,9 +129,11 @@ i1.sndcdn.com
 i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
+image.roku.com
+images-fe.ssl-images-amazon.com
 images.ctfassets.net
-images.rbxcdn.com
 images.scanalert.com
+images.sr.roku.com
 img.hipages.com.au
 js-cdn.dynatrace.com
 js.adsrvr.org
@@ -138,6 +143,7 @@ kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 lp.datadoghq.com
+m.media-amazon.com
 m.soundcloud.com
 media.gnl-live.bbcverticals.com
 mediacache.homeimprovementpages.com.au
@@ -150,6 +156,7 @@ passport.twitch.tv
 privacy-policy.truste.com
 prod.pa.cdn.uis.awsstatic.com
 public.tableau.com
+pubmatic.co.jp
 roblox-api.arkoselabs.com
 s0.awsstatic.com
 s4.cnnx.io
@@ -170,7 +177,6 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
-static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
