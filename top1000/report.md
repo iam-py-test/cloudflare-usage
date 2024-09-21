@@ -1,5 +1,5 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 61 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 64 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -15,7 +15,6 @@ ebay.de
 expedia.com
 fda.gov
 fedex.com
-godaddy.com
 hm.com
 hp.com
 intel.com
@@ -29,7 +28,6 @@ news.com.au
 rakuten.co.jp
 weforum.org
 windows.com
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -47,7 +45,7 @@ b-cdn.net
 
 ```
 
-126 used cloudflare (12.6%):
+124 used cloudflare (12.4%):
 ```
 2gis.com
 33across.com
@@ -104,7 +102,6 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
-immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -115,7 +112,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -177,7 +173,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -185,10 +181,12 @@ academia.edu
 ad.gt
 adsafeprotected.com
 amazon.ca
-amazon.com
+amazon.co.jp
+amazon.co.uk
 amazon.com.br
+amazon.de
+amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
