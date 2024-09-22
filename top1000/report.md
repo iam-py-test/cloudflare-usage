@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 64 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 62 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -15,6 +15,7 @@ ebay.de
 expedia.com
 fda.gov
 fedex.com
+godaddy.com
 hm.com
 hp.com
 intel.com
@@ -28,6 +29,7 @@ news.com.au
 rakuten.co.jp
 weforum.org
 windows.com
+zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,7 +47,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+127 used cloudflare (12.7%):
 ```
 2gis.com
 33across.com
@@ -96,6 +98,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -112,6 +115,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -146,6 +150,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -180,13 +185,15 @@ a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -216,7 +223,6 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
-express.co.uk
 f5.com
 firefox.com
 flickr.com
@@ -271,7 +277,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
