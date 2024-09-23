@@ -1,4 +1,4 @@
-363 domains tested. 88.1542699724518% were behind nothing (43 were behind something). 16 domains could not be tested.<br>
+367 domains tested. 76.566757493188% were behind nothing (86 were behind something). 55 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,36 @@
 
 ```
 
-25 used cloudflare (6.887052341597796%):
+28 used cloudflare (7.629427792915531%):
 ```
-acknowledgementforproject.com
 adf6.adf6.com
 airbluefootgear.com
 arctus.ca
 atsknightsbridge.in
+avocaldoperu.com
+blogdokter.online
+brunafarinonpediatra.com.br
 davincibellasartes.es
 dl.aginjector.com
 epicradio.com.ar
 finbloggy.com
+foundehd.org
+garudahospital.in
 gertioma.top
+guillermoopticos.com
 hitman-pro.ru
 imtoken8.cc
 inkpulsive.com
 licocojambamarketplace.com
-medsourceglobal.com
-mybackofficesolutions.us
 onlineshoppingmantra.com
 pang-scrooge-carnage.shop
-pelentions.com
 rebabeachresort.in
 reusable-flex.com
 topkale.me
 trinitetech.com
 update-ledger.net
 www.blackhattoolz.com
+www.imety.edu.co
 ```
 
 0 used cloudfront (0.0%):
@@ -53,9 +56,9 @@ www.blackhattoolz.com
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.2724795640326975%):
 ```
-
+0xf20b415.ru
 ```
 
 0 used edgecast (0.0%):
@@ -63,7 +66,7 @@ www.blackhattoolz.com
 
 ```
 
-2 used fastly (0.5509641873278237%):
+2 used fastly (0.544959128065395%):
 ```
 myanetwork.org
 www.carpetparadise.com.au

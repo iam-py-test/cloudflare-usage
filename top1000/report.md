@@ -1,5 +1,5 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 62 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 61 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -28,7 +28,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 zemanta.com
 ```
 
@@ -185,12 +184,12 @@ a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -223,10 +222,10 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
-f5.com
 firefox.com
 flickr.com
 go.com
+goodreads.com
 grammarly.com
 gumgum.com
 hbr.org
@@ -246,7 +245,6 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
-nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -277,6 +275,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -300,11 +299,10 @@ upravel.com
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
