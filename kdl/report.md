@@ -1,5 +1,5 @@
-2365 domains tested. 53.530655391120504% were behind nothing (1099 were behind something). 257 domains could not be tested.<br>
-305 used akamai (12.896405919661733%):
+2366 domains tested. 53.50803043110736% were behind nothing (1100 were behind something). 255 domains could not be tested.<br>
+311 used akamai (13.144547759932376%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -177,7 +177,7 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.pinimg.com
+i.etsystatic.com
 i.scdn.co
 i1.sinaimg.cn
 ichef.bbc.co.uk
@@ -185,11 +185,13 @@ ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
 images-eu.ssl-images-amazon.com
+images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
+js.rbxcdn.com
 js.t.sinajs.cn
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
@@ -222,6 +224,7 @@ quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
 s.go-mpulse.net
+s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -239,6 +242,7 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
+static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
 statics-marketingsites-wcus-ms-com.akamaized.net
@@ -253,6 +257,7 @@ uy.ebay.com
 v16.tiktokcdn.com
 ve.ebay.com
 widgets.outbrain.com
+windows.com
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -260,6 +265,7 @@ www.apple.com.cn
 www.att.com
 www.befr.ebay.be
 www.benl.ebay.be
+www.bing.com
 www.cafr.ebay.ca
 www.cisco.com
 www.dell.com
@@ -308,24 +314,21 @@ www8.hp.com
 zemanta.com
 ```
 
-1 used bunnycdn (0.042283298097251586%):
+1 used bunnycdn (0.042265426880811495%):
 ```
 plausible.io
 ```
 
-8 used cachefly (0.3382663847780127%):
+5 used cachefly (0.2113271344040575%):
 ```
 css.rbxcdn.com
-images.rbxcdn.com
-js.rbxcdn.com
 roblox-css.cachefly.net
 roblox-images.cachefly.net
 roblox-js.cachefly.net
 roblox-static.cachefly.net
-static.rbxcdn.com
 ```
 
-8 used cdn77 (0.3382663847780127%):
+8 used cdn77 (0.33812341504649196%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -337,7 +340,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-102 used cloudflare (4.312896405919662%):
+102 used cloudflare (4.311073541842773%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 4650993.fs1.hubspotusercontent-na1.net
@@ -443,7 +446,7 @@ zendesk.com
 zoom.us
 ```
 
-209 used cloudfront (8.837209302325581%):
+212 used cloudfront (8.960270498732037%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -578,9 +581,12 @@ i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
 images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 images.scanalert.com
 images.sr.roku.com
+img-deviantart.wixmp.com
 img.hipages.com.au
 js-cdn.dynatrace.com
 js.adsrvr.org
@@ -661,7 +667,7 @@ ychef.files.bbci.co.uk
 
 ```
 
-10 used edgecast (0.42283298097251587%):
+10 used edgecast (0.422654268808115%):
 ```
 abs.twimg.com
 cs189.wpc.edgecastcdn.net
@@ -675,7 +681,7 @@ tesseract.imds-cdn.com
 vam-image.imds-cdn.com
 ```
 
-196 used fastly (8.28752642706131%):
+193 used fastly (8.157227387996619%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -743,15 +749,14 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 i.ebayimg.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
+i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-images-na.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
@@ -806,7 +811,6 @@ ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 s.imgur.com
-s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
@@ -850,7 +854,6 @@ www.gandi.net
 www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
-www.paypalobjects.com
 www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
@@ -910,13 +913,13 @@ za.pinterest.com
 
 ```
 
-2 used netlify (0.08456659619450317%):
+2 used netlify (0.08453085376162299%):
 ```
 lencr.org
 outreach.abetterinternet.org
 ```
 
-1 used imperva (0.042283298097251586%):
+1 used imperva (0.042265426880811495%):
 ```
 digicert.com
 ```

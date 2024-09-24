@@ -1,4 +1,4 @@
-367 domains tested. 76.566757493188% were behind nothing (86 were behind something). 55 domains could not be tested.<br>
+247 domains tested. 91.90283400809717% were behind nothing (20 were behind something). 8 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,34 +19,17 @@
 
 ```
 
-28 used cloudflare (7.629427792915531%):
+11 used cloudflare (4.4534412955465585%):
 ```
+240902175059845.std.kqve01.top
+240922164748184.tyr.zont16.com
 adf6.adf6.com
-airbluefootgear.com
-arctus.ca
-atsknightsbridge.in
-avocaldoperu.com
-blogdokter.online
-brunafarinonpediatra.com.br
-davincibellasartes.es
 dl.aginjector.com
-epicradio.com.ar
-finbloggy.com
-foundehd.org
-garudahospital.in
-gertioma.top
-guillermoopticos.com
+down.mvip8.ru
 hitman-pro.ru
 imtoken8.cc
-inkpulsive.com
 licocojambamarketplace.com
-onlineshoppingmantra.com
-pang-scrooge-carnage.shop
-rebabeachresort.in
 reusable-flex.com
-topkale.me
-trinitetech.com
-update-ledger.net
 www.blackhattoolz.com
 www.imety.edu.co
 ```
@@ -56,7 +39,7 @@ www.imety.edu.co
 
 ```
 
-1 used ddosguard (0.2724795640326975%):
+1 used ddosguard (0.4048582995951417%):
 ```
 0xf20b415.ru
 ```
@@ -66,10 +49,9 @@ www.imety.edu.co
 
 ```
 
-2 used fastly (0.544959128065395%):
+0 used fastly (0.0%):
 ```
-myanetwork.org
-www.carpetparadise.com.au
+
 ```
 
 0 used sucuri (0.0%):
