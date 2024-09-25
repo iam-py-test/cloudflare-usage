@@ -1,4 +1,4 @@
-247 domains tested. 91.90283400809717% were behind nothing (20 were behind something). 8 domains could not be tested.<br>
+250 domains tested. 90.4% were behind nothing (24 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,19 +19,21 @@
 
 ```
 
-11 used cloudflare (4.4534412955465585%):
+13 used cloudflare (5.2%):
 ```
 240902175059845.std.kqve01.top
 240922164748184.tyr.zont16.com
 adf6.adf6.com
+bulletrdp.ru
 dl.aginjector.com
 down.mvip8.ru
 hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
 reusable-flex.com
+rgrowtopia.com
+softwaredistributiononline.com
 www.blackhattoolz.com
-www.imety.edu.co
 ```
 
 0 used cloudfront (0.0%):
@@ -39,7 +41,7 @@ www.imety.edu.co
 
 ```
 
-1 used ddosguard (0.4048582995951417%):
+1 used ddosguard (0.4%):
 ```
 0xf20b415.ru
 ```
