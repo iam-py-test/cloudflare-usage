@@ -47,7 +47,7 @@ b-cdn.net
 
 ```
 
-128 used cloudflare (12.8%):
+127 used cloudflare (12.7%):
 ```
 2gis.com
 33across.com
@@ -115,7 +115,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 mdpi.com
@@ -193,8 +192,6 @@ amazon.com
 amazon.com.br
 amazon.es
 amazon.fr
-amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -216,7 +213,6 @@ coinmarketcap.com
 datadoghq.com
 deviantart.com
 doi.org
-dreamhost.com
 economist.com
 elasticbeanstalk.com
 elisa.fi
@@ -224,6 +220,7 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
+f5.com
 firefox.com
 flickr.com
 go.com
@@ -247,6 +244,7 @@ mozilla.org
 name.com
 nationalgeographic.com
 netgear.com
+nginx.com
 noaa.gov
 onet.pl
 pbs.org
@@ -275,6 +273,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -300,10 +299,11 @@ upravel.com
 
 ```
 
-6 used fastly (0.6%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
