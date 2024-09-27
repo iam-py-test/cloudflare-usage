@@ -1,4 +1,4 @@
-272 domains tested. 91.91176470588235% were behind nothing (22 were behind something). 11 domains could not be tested.<br>
+277 domains tested. 77.9783393501805% were behind nothing (61 were behind something). 47 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,21 @@
 
 ```
 
-10 used cloudflare (3.6764705882352944%):
+13 used cloudflare (4.693140794223827%):
 ```
 adf6.adf6.com
-bulletrdp.ru
+avocaldoperu.com
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
 onefreex.com
 reusable-flex.com
+rgrowtopia.com
 softwaredistributiononline.com
+thearchives.ink
 www.blackhattoolz.com
+zlfutcc.documentosmegadigital.org
 ```
 
 0 used cloudfront (0.0%):
@@ -38,7 +41,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.3676470588235294%):
+1 used ddosguard (0.36101083032490977%):
 ```
 0xf20b415.ru
 ```

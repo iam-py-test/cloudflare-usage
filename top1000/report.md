@@ -1,35 +1,21 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 63 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 68.10000000000001% were behind nothing (319 were behind something). 59 domains could not be tested.<br>
+15 used akamai (1.5%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 airbnb.com
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
-dell.com
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
-windows.com
-zemanta.com
+ups.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -47,7 +33,7 @@ b-cdn.net
 
 ```
 
-127 used cloudflare (12.7%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -105,7 +91,6 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
-immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -160,7 +145,6 @@ teamviewer.com
 themeforest.net
 tinyurl.com
 uber.com
-udemy.com
 umich.edu
 unpkg.com
 upwork.com
@@ -178,20 +162,18 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.es
-amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -209,6 +191,7 @@ calendly.com
 chartbeat.net
 chartboost.com
 checkpoint.com
+clever.com
 coinmarketcap.com
 datadoghq.com
 deviantart.com
@@ -273,7 +256,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -299,11 +281,10 @@ upravel.com
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

@@ -1,4 +1,4 @@
-264 domains tested. 39.39393939393939% were behind nothing (160 were behind something). 10 domains could not be tested.<br>
+264 domains tested. 40.15151515151515% were behind nothing (158 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-134 used cloudflare (50.75757575757576%):
+131 used cloudflare (49.621212121212125%):
 ```
 02ip.ru
 1sta.com
@@ -67,8 +67,6 @@ fc-lc.com
 fc.lc
 filetap.com
 foot.wiki
-fortnight.space
-fortnitechat.site
 funurl.com
 gamergirl.pro
 gamingfun.me
@@ -89,7 +87,6 @@ iplogger.org
 iplogger.ru
 is.gd
 itsssl.com
-joinmy.site
 kingshortener.com
 klclick.com
 klclick1.com
@@ -158,8 +155,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-12 used cloudfront (4.545454545454546%):
+13 used cloudfront (4.924242424242424%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
