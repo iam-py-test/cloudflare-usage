@@ -1,21 +1,34 @@
-1000 domains tested. 68.10000000000001% were behind nothing (319 were behind something). 59 domains could not be tested.<br>
-15 used akamai (1.5%):
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 63 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 airbnb.com
+arubanetworks.com
+autodesk.com
 dailymail.co.uk
+dell.com
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
+fda.gov
 fedex.com
+godaddy.com
+hm.com
 hp.com
+intel.com
 intuit.com
 lowes.com
+macys.com
+marriott.com
 mobile.de
 mysql.com
+news.com.au
 rakuten.co.jp
-ups.com
+weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -33,7 +46,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+126 used cloudflare (12.6%):
 ```
 2gis.com
 33across.com
@@ -91,6 +104,7 @@ hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
+immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -162,18 +176,21 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
+amazon.ca
 amazon.co.uk
 amazon.com
+amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -256,6 +273,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com

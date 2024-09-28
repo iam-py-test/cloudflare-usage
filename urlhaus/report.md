@@ -1,4 +1,4 @@
-277 domains tested. 77.9783393501805% were behind nothing (61 were behind something). 47 domains could not be tested.<br>
+296 domains tested. 80.06756756756756% were behind nothing (59 were behind something). 46 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,17 @@
 
 ```
 
-13 used cloudflare (4.693140794223827%):
+12 used cloudflare (4.054054054054054%):
 ```
 adf6.adf6.com
-avocaldoperu.com
 dl.aginjector.com
 hitman-pro.ru
+ichika.tw
 imtoken8.cc
 licocojambamarketplace.com
-onefreex.com
 reusable-flex.com
 rgrowtopia.com
-softwaredistributiononline.com
+strmr.co
 thearchives.ink
 www.blackhattoolz.com
 zlfutcc.documentosmegadigital.org
@@ -41,7 +40,7 @@ zlfutcc.documentosmegadigital.org
 
 ```
 
-1 used ddosguard (0.36101083032490977%):
+1 used ddosguard (0.33783783783783783%):
 ```
 0xf20b415.ru
 ```
