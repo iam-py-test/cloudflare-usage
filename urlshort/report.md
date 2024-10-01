@@ -1,4 +1,4 @@
-264 domains tested. 40.15151515151515% were behind nothing (158 were behind something). 11 domains could not be tested.<br>
+264 domains tested. 40.15151515151515% were behind nothing (158 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -154,8 +154,9 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-13 used cloudfront (4.924242424242424%):
+14 used cloudfront (5.303030303030303%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 linkbucks.com
