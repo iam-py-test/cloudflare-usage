@@ -1,5 +1,5 @@
-2370 domains tested. 53.67088607594936% were behind nothing (1098 were behind something). 257 domains could not be tested.<br>
-313 used akamai (13.20675105485232%):
+2370 domains tested. 53.71308016877637% were behind nothing (1097 were behind something). 257 domains could not be tested.<br>
+309 used akamai (13.037974683544304%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -53,6 +53,7 @@ azure.microsoft.com
 b.alicdn.com
 bo.ebay.com
 br.ebay.com
+br.pinterest.com
 by.ebay.com
 c.go-mpulse.net
 c.s-microsoft.com
@@ -170,6 +171,7 @@ ebay.com
 ec.ebay.com
 emp.bbci.co.uk
 encore.scdn.co
+es.pinterest.com
 es.t-mobile.com
 framework-assets.external.xerox.com
 gt.ebay.com
@@ -177,12 +179,12 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.ebayimg.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-eu.ssl-images-amazon.com
 images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -200,7 +202,6 @@ mybbc-analytics.files.bbci.co.uk
 mybbc.files.bbci.co.uk
 nav.files.bbci.co.uk
 ni.ebay.com
-nl.pinterest.com
 ow2.res.office365.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-useast2a.tiktokcdn.com
@@ -210,7 +211,6 @@ p16-va.tiktokcdn.com
 pa.ebay.com
 pages.ebay.com
 pe.ebay.com
-ph.pinterest.com
 players.brightcove.net
 pm.pstatic.net
 pmd.cdn.turner.com
@@ -221,6 +221,7 @@ query.prod.cms.rt.microsoft.com
 quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
+ru.pinterest.com
 s.go-mpulse.net
 s20.tiktokcdn.com
 secure.ally.com
@@ -256,7 +257,6 @@ ve.ebay.com
 widgets.outbrain.com
 www.adobe.com
 www.ally.com
-www.amazon.com
 www.apple.com
 www.apple.com.cn
 www.att.com
@@ -271,6 +271,7 @@ www.ebay.ch
 www.ebay.co.uk
 www.ebay.com
 www.ebay.com.au
+www.ebay.com.hk
 www.ebay.com.my
 www.ebay.com.sg
 www.ebay.de
@@ -288,13 +289,9 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
-www.pinterest.ca
-www.pinterest.cl
 www.pinterest.co.kr
-www.pinterest.co.uk
-www.pinterest.com.mx
 www.pinterest.dk
-www.pinterest.jp
+www.pinterest.nz
 www.salesforce.com
 www.samsung.com
 www.staples.com
@@ -313,7 +310,6 @@ www.xerox.nl
 www.zemanta.com
 www17.wellsfargomedia.com
 www8.hp.com
-za.pinterest.com
 ```
 
 1 used bunnycdn (0.04219409282700422%):
@@ -341,7 +337,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-102 used cloudflare (4.30379746835443%):
+103 used cloudflare (4.345991561181434%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 4650993.fs1.hubspotusercontent-na1.net
@@ -393,6 +389,7 @@ i1.rgstatic.net
 indeed.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
+linkedin.com
 maxcdn.bootstrapcdn.com
 medium.com
 miro.medium.com
@@ -447,7 +444,7 @@ zendesk.com
 zoom.us
 ```
 
-214 used cloudfront (9.029535864978904%):
+212 used cloudfront (8.945147679324894%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -458,8 +455,6 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.jp
-amazon.co.uk
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -488,6 +483,7 @@ cf.bstatic.com
 cigars.roku.com
 cn.nytimes.com
 combo.staticflickr.com
+consent.cmp.oath.com
 consent.dropbox.com
 consent.trustarc.com
 consent.truste.com
@@ -581,7 +577,6 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
@@ -683,7 +678,7 @@ tesseract.imds-cdn.com
 vam-image.imds-cdn.com
 ```
 
-187 used fastly (7.890295358649789%):
+191 used fastly (8.059071729957806%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -699,7 +694,6 @@ b.thumbs.redditmedia.com
 bbc.co.uk
 bbc.com
 bbc.map.fastly.net
-br.pinterest.com
 browser.sentry-cdn.com
 ca.pinterest.com
 cdn.intellimize.co
@@ -734,7 +728,6 @@ ebayimg.map.fastly.net
 ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
-es.pinterest.com
 etsy.com
 external-preview.redd.it
 f.vimeocdn.com
@@ -752,6 +745,7 @@ guardian.map.fastly.net
 h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
+i.ebayimg.com
 i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
@@ -765,7 +759,6 @@ imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -781,6 +774,7 @@ media.guim.co.uk
 mosaic.scdn.co
 mx.pinterest.com
 n.sni.global.fastly.net
+nl.pinterest.com
 no.pinterest.com
 nytimes.map.fastly.net
 nz.pinterest.com
@@ -797,6 +791,7 @@ paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
 pbs.twimg.com
+ph.pinterest.com
 pickasso.spotifycdn.com
 pl.pinterest.com
 pl.scdn.co
@@ -811,7 +806,6 @@ resources.digital-cloud-west.medallia.com
 resources.digital-cloud.medallia.eu
 ro.pinterest.com
 rss.nytimes.com
-ru.pinterest.com
 s.imgur.com
 s.pinimg.com
 s.sni.global.fastly.net
@@ -846,10 +840,10 @@ vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
 www-amazon-com.customer.fastly.net
+www.amazon.com
 www.bbc.co.uk
 www.bbc.com
 www.cnn.com
-www.ebay.com.hk
 www.etsy.com
 www.fastly-insights.com
 www.fastly.com
@@ -858,12 +852,16 @@ www.gandi.net
 www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
+www.pinterest.ca
+www.pinterest.cl
+www.pinterest.co.uk
 www.pinterest.com
 www.pinterest.com.au
+www.pinterest.com.mx
 www.pinterest.de
 www.pinterest.es
 www.pinterest.fr
-www.pinterest.nz
+www.pinterest.jp
 www.pinterest.pt
 www.pinterest.se
 www.reddit.com
@@ -872,6 +870,7 @@ www.shipt.com
 www.taboola.com
 www.theguardian.com
 www.twitch.tv
+za.pinterest.com
 ```
 
 0 used sucuri (0.0%):
