@@ -1,4 +1,4 @@
-264 domains tested. 39.39393939393939% were behind nothing (160 were behind something). 12 domains could not be tested.<br>
+264 domains tested. 40.909090909090914% were behind nothing (156 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -155,9 +155,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-13 used cloudfront (4.924242424242424%):
+12 used cloudfront (4.545454545454546%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
@@ -222,7 +221,7 @@ wee.so
 
 ```
 
-1 used netlify (0.3787878787878788%):
+0 used netlify (0.0%):
 ```
-mylinkinb.io
+
 ```

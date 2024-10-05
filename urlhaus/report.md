@@ -1,4 +1,4 @@
-268 domains tested. 88.80597014925374% were behind nothing (30 were behind something). 14 domains could not be tested.<br>
+257 domains tested. 89.10505836575877% were behind nothing (28 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,15 @@
 
 ```
 
-15 used cloudflare (5.597014925373134%):
+14 used cloudflare (5.447470817120623%):
 ```
 adf6.adf6.com
-avocaldoperu.com
-dl.aginjector.com
 downloadsparrow.com
 ghost.quickresource.world
-gitshare.org
 hitman-pro.ru
 imtoken8.cc
+iyenn.com
+last-blink.com
 licocojambamarketplace.com
 llooadd.com
 reusable-flex.com
@@ -43,7 +42,7 @@ xn--girsdom-9ya.com
 
 ```
 
-1 used ddosguard (0.3731343283582089%):
+1 used ddosguard (0.38910505836575876%):
 ```
 0xf20b415.ru
 ```
