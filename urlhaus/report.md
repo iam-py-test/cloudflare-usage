@@ -1,4 +1,4 @@
-257 domains tested. 89.10505836575877% were behind nothing (28 were behind something). 13 domains could not be tested.<br>
+258 domains tested. 86.43410852713178% were behind nothing (35 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,26 @@
 
 ```
 
-14 used cloudflare (5.447470817120623%):
+18 used cloudflare (6.976744186046512%):
 ```
+activewin.online
 adf6.adf6.com
+dl.aginjector.com
 downloadsparrow.com
-ghost.quickresource.world
+guiaituonline.com.br
 hitman-pro.ru
 imtoken8.cc
 iyenn.com
 last-blink.com
 licocojambamarketplace.com
-llooadd.com
+prime-yulgang.com
 reusable-flex.com
+topservers200.com
 www.blackhattoolz.com
 www.sodiumlaurethsulfatedesyroyer.com
-www.xn--girsdom-9ya.com
-xn--girsdom-9ya.com
+yalubluseks.eu
+yulgang-v23.com
+yulgangweb.top
 ```
 
 0 used cloudfront (0.0%):
@@ -42,7 +46,7 @@ xn--girsdom-9ya.com
 
 ```
 
-1 used ddosguard (0.38910505836575876%):
+1 used ddosguard (0.3875968992248062%):
 ```
 0xf20b415.ru
 ```

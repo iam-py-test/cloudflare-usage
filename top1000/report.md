@@ -1,4 +1,4 @@
-1000 domains tested. 66.4% were behind nothing (336 were behind something). 63 domains could not be tested.<br>
+1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 65 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-124 used cloudflare (12.4%):
+123 used cloudflare (12.3%):
 ```
 2gis.com
 33across.com
@@ -94,7 +94,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -173,18 +172,15 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.ca
-amazon.co.uk
 amazon.com
-amazon.es
-amazon.in
+amazon.de
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -207,6 +203,7 @@ coinmarketcap.com
 datadoghq.com
 deviantart.com
 doi.org
+dreamhost.com
 economist.com
 elasticbeanstalk.com
 elisa.fi
@@ -279,12 +276,11 @@ wsj.com
 zillow.com
 ```
 
-5 used ddosguard (0.5%):
+4 used ddosguard (0.4%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
-pikabu.ru
 upravel.com
 ```
 
