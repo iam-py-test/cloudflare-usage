@@ -1,33 +1,21 @@
-1000 domains tested. 66.60000000000001% were behind nothing (334 were behind something). 65 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 68.0% were behind nothing (320 were behind something). 57 domains could not be tested.<br>
+15 used akamai (1.5%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 airbnb.com
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
-dell.com
 ebay.co.uk
 ebay.com
 ebay.de
 expedia.com
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
+ups.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,7 +33,7 @@ b-cdn.net
 
 ```
 
-123 used cloudflare (12.3%):
+126 used cloudflare (12.6%):
 ```
 2gis.com
 33across.com
@@ -94,6 +82,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -109,8 +98,10 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 maricopa.gov
+markmonitor.com
 mdpi.com
 mediafire.com
 medium.com
@@ -172,15 +163,17 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 ad.gt
 adsafeprotected.com
-amazon.com
+amazon.co.jp
 amazon.de
+amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -265,8 +258,8 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -276,11 +269,12 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+5 used ddosguard (0.5%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
+pikabu.ru
 upravel.com
 ```
 
@@ -293,7 +287,7 @@ upravel.com
 ```
 bbc.co.uk
 bbc.com
-etsy.com
+bloomberg.com
 forbes.com
 github.io
 speedtest.net
