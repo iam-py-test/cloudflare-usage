@@ -1,4 +1,4 @@
-257 domains tested. 88.32684824902724% were behind nothing (30 were behind something). 13 domains could not be tested.<br>
+247 domains tested. 89.87854251012146% were behind nothing (25 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,19 @@
 
 ```
 
-16 used cloudflare (6.22568093385214%):
+11 used cloudflare (4.4534412955465585%):
 ```
-activewin.online
+241007133857.tyr.zont16.com
 adf6.adf6.com
+avocaldoperu.com
+bentificosms.com
 dealc.me
 dl.aginjector.com
-downloadsparrow.com
-guiaituonline.com.br
 hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
-prime-yulgang.com
 reusable-flex.com
-topservers200.com
 www.blackhattoolz.com
-yalubluseks.eu
-yulgang-v23.com
-yulgangweb.top
 ```
 
 0 used cloudfront (0.0%):
@@ -44,7 +39,7 @@ yulgangweb.top
 
 ```
 
-1 used ddosguard (0.38910505836575876%):
+1 used ddosguard (0.4048582995951417%):
 ```
 0xf20b415.ru
 ```
