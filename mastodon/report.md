@@ -1,4 +1,4 @@
-103 domains tested. 83.49514563106796% were behind nothing (17 were behind something). 0 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 1 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,30 +19,76 @@
 
 ```
 
-17 used cloudflare (16.50485436893204%):
+63 used cloudflare (33.87096774193548%):
 ```
+a.sukazyo.cc
+ac.akirin.xyz
+acat.world
 better.boston
+bols.games
+brasil.goonj.xyz
+catcore.life
+comingto.org
+cybergladius.social
+dicekey.jp
 eigenmagic.net
+freifunk.social
+galaxyrailway.link
+india.goonj.xyz
+indiegameskey.net
+jiaojiao.org
 journa.host
+k.yumeka.xyz
+kids.0px.io
+kitsui.life
+kitsune.moe
 kolektiva.social
+lawsocial.org
+m.einverne.info
+m.n1l.dev
 mas.to
+masto.es
+mastodon.buzhangjiuzhou.com
+mastodon.cocamserverguild.com
 mastodon.scot
+mastodon.site
 me.dm
+metreee.com
+milkiyatelier.quest
+misskey.3dcg.love
+misskey.doujin.games
+misskey.favskey.online
+misskey.mofumofu.me
+misskey.v-nr.net
+mk.chiwa.net
+mk.hoshisaki-h.com
+mkacg.com
+moe.social
 mstdn.ca
 mstdn.io
+n7.social
 noagendasocial.com
+nsfwmisskey.narazaka.net
+oyasumi.ski
 pixelfed.social
+pogs.cafe
+qaf.men
+rhythmisskey.games
+seda.social
 social.skynetcloud.site
+stormskey.works
 tapbots.social
 techhub.social
+transforthe.win
 universeodon.com
+urweibo.com
 vivaldi.net
 wanderingwires.net
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.5376344086021506%):
 ```
-
+misskey.suzuri.jp
 ```
 
 0 used ddosguard (0.0%):

@@ -1,4 +1,4 @@
-247 domains tested. 89.87854251012146% were behind nothing (25 were behind something). 13 domains could not be tested.<br>
+252 domains tested. 89.68253968253968% were behind nothing (26 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-11 used cloudflare (4.4534412955465585%):
+11 used cloudflare (4.365079365079365%):
 ```
 241007133857.tyr.zont16.com
 adf6.adf6.com
@@ -39,7 +39,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.4048582995951417%):
+1 used ddosguard (0.3968253968253968%):
 ```
 0xf20b415.ru
 ```
