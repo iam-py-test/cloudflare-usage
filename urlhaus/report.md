@@ -1,4 +1,4 @@
-253 domains tested. 89.72332015810277% were behind nothing (26 were behind something). 16 domains could not be tested.<br>
+248 domains tested. 90.7258064516129% were behind nothing (23 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,15 @@
 
 ```
 
-9 used cloudflare (3.557312252964427%):
+10 used cloudflare (4.032258064516129%):
 ```
 adf6.adf6.com
-bentificosms.com
+dl.aginjector.com
 eficienciaeningenieria.com.mx
 ethscanold.com
 hitman-pro.ru
 imtoken8.cc
+itaucontrato.zip
 licocojambamarketplace.com
 reusable-flex.com
 www.blackhattoolz.com
@@ -37,7 +38,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.3952569169960474%):
+1 used ddosguard (0.4032258064516129%):
 ```
 0xf20b415.ru
 ```

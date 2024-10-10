@@ -1,5 +1,5 @@
-1000 domains tested. 66.5% were behind nothing (335 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 66.3% were behind nothing (337 were behind something). 61 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-127 used cloudflare (12.7%):
+125 used cloudflare (12.5%):
 ```
 2gis.com
 33across.com
@@ -110,7 +111,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -148,7 +148,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -175,7 +174,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -184,9 +183,12 @@ ad.gt
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.br
+amazon.de
+amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -271,7 +273,6 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -296,11 +297,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
