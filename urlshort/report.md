@@ -1,4 +1,4 @@
-264 domains tested. 41.28787878787879% were behind nothing (155 were behind something). 7 domains could not be tested.<br>
+264 domains tested. 40.15151515151515% were behind nothing (158 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -104,6 +104,7 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
+lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
@@ -115,7 +116,6 @@ photovault.pics
 pichost.pics
 picshost.pics
 prettylinks.com
-refererhider.com
 rotf.lol
 s.id
 screenshare.pics
