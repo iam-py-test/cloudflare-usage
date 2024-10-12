@@ -1,5 +1,5 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 60 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 61 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -14,7 +14,6 @@ ebay.com
 ebay.de
 fda.gov
 fedex.com
-godaddy.com
 hm.com
 hp.com
 intel.com
@@ -25,10 +24,8 @@ marriott.com
 mobile.de
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 weforum.org
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -46,7 +43,7 @@ b-cdn.net
 
 ```
 
-125 used cloudflare (12.5%):
+130 used cloudflare (13.0%):
 ```
 2gis.com
 33across.com
@@ -55,6 +52,7 @@ allaboutcookies.org
 ancestry.com
 apnews.com
 applovin.com
+attn.tv
 berkeley.edu
 bitdefender.com
 bluehost.com
@@ -72,11 +70,13 @@ change.org
 character.ai
 chatgpt.com
 chaturbate.com
+classlink.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 columbia.edu
+contextweb.com
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
@@ -87,6 +87,7 @@ discogs.com
 discord.com
 discord.gg
 discordapp.com
+dnsmadeeasy.com
 docker.com
 dotomi.com
 entrust.net
@@ -106,6 +107,7 @@ ietf.org
 indeed.com
 indexww.com
 innovid.com
+instabug.com
 jotform.com
 jquery.com
 kickstarter.com
@@ -113,7 +115,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -143,6 +144,7 @@ quora.com
 researchgate.net
 roku.com
 sciencedirect.com
+sharethrough.com
 shein.com
 shopify.com
 sitescout.com
@@ -175,7 +177,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -188,7 +190,6 @@ amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -304,7 +305,7 @@ pikabu.ru
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
