@@ -1,7 +1,7 @@
-247 domains tested. 91.90283400809717% were behind nothing (20 were behind something). 11 domains could not be tested.<br>
-0 used akamai (0.0%):
+248 domains tested. 88.70967741935483% were behind nothing (28 were behind something). 16 domains could not be tested.<br>
+1 used akamai (0.4032258064516129%):
 ```
-
+www.autohaus-cn.de
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,11 +19,12 @@
 
 ```
 
-8 used cloudflare (3.2388663967611335%):
+9 used cloudflare (3.6290322580645165%):
 ```
 adf6.adf6.com
 dl.aginjector.com
 eficienciaeningenieria.com.mx
+hitman-pro.ru
 imtoken8.cc
 licocojambamarketplace.com
 reusable-flex.com
@@ -31,12 +32,12 @@ server.eye-network.ru
 www.blackhattoolz.com
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.4032258064516129%):
+```
+download.yourfileinfo.com
 ```
 
-```
-
-1 used ddosguard (0.4048582995951417%):
+1 used ddosguard (0.4032258064516129%):
 ```
 0xf20b415.ru
 ```
