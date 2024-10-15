@@ -1,4 +1,4 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 59 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -14,6 +14,7 @@ ebay.com
 ebay.de
 fda.gov
 fedex.com
+godaddy.com
 hm.com
 hp.com
 intel.com
@@ -26,7 +27,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 zemanta.com
 ```
 
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-131 used cloudflare (13.100000000000001%):
+133 used cloudflare (13.3%):
 ```
 2gis.com
 33across.com
@@ -116,7 +116,9 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
+maricopa.gov
 markmonitor.com
 mdpi.com
 mediafire.com
@@ -130,7 +132,6 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
-onlyfans.com
 openai.com
 openstreetmap.org
 optimizely.com
@@ -154,6 +155,7 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -180,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -190,8 +192,8 @@ adsafeprotected.com
 amazon.ca
 amazon.co.jp
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -217,6 +219,7 @@ datadoghq.com
 deviantart.com
 doi.org
 dreamhost.com
+dynatrace.com
 economist.com
 elasticbeanstalk.com
 elisa.fi
@@ -251,6 +254,7 @@ netgear.com
 nginx.com
 noaa.gov
 onet.pl
+onlyfans.com
 pbs.org
 primevideo.com
 pubmatic.com
@@ -277,6 +281,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -301,11 +306,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
