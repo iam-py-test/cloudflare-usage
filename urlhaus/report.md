@@ -1,4 +1,4 @@
-339 domains tested. 88.49557522123894% were behind nothing (39 were behind something). 22 domains could not be tested.<br>
+332 domains tested. 89.45783132530121% were behind nothing (35 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,36 @@
 
 ```
 
-15 used cloudflare (4.424778761061947%):
+18 used cloudflare (5.421686746987952%):
 ```
 adf6.adf6.com
+avocaldoperu.com
+comodozeropoint.com
 dl.aginjector.com
 eficienciaeningenieria.com.mx
-hitman-pro.ru
 imtoken8.cc
 infohobb.com.br
-licocojambamarketplace.com
+mesmerised.xyz
 microsoft-analyse.com
+protonbusinessvpn.world
 reusable-flex.com
+sandfoxy.ru
 sbelegi.com.br
 server.eye-network.ru
-trtmrefix.com
+ssa-home-statement.es
 veldom.mk
 www.ayniyat.org
 www.blackhattoolz.com
 ```
 
-1 used cloudfront (0.2949852507374631%):
+1 used cloudfront (0.30120481927710846%):
 ```
 download.yourfileinfo.com
 ```
 
-1 used ddosguard (0.2949852507374631%):
+0 used ddosguard (0.0%):
 ```
-0xf20b415.ru
+
 ```
 
 0 used edgecast (0.0%):
