@@ -1,4 +1,4 @@
-329 domains tested. 86.01823708206688% were behind nothing (46 were behind something). 22 domains could not be tested.<br>
+333 domains tested. 86.48648648648648% were behind nothing (45 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,36 @@
 
 ```
 
-22 used cloudflare (6.68693009118541%):
+20 used cloudflare (6.006006006006006%):
 ```
-2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.ironstarkkair.xyz
+241009205925672.dmi.fyml86.com
 adf6.adf6.com
 ao.pe
-cdn-gravitiumgame.xyz
 comodozeropoint.com
 dl.aginjector.com
 download.all-instructions.com
 download.all-instructions.org
 download.instructionclub.com
 eficienciaeningenieria.com.mx
-hitman-pro.ru
 imtoken8.cc
 kiber.kyrowin.ru
-mesmerised.xyz
 navam.pro
+papka0.top
 protonbusinessvpn.world
 pvlol.seotop.org
 reusable-flex.com
-sandfoxy.ru
-ssa-home-statement.es
+server.eye-network.ru
 usdtpooldrop.com
+woollywoolly.tech
 www.blackhattoolz.com
 ```
 
-1 used cloudfront (0.303951367781155%):
+1 used cloudfront (0.3003003003003003%):
 ```
 download.yourfileinfo.com
 ```
 
-1 used ddosguard (0.303951367781155%):
+1 used ddosguard (0.3003003003003003%):
 ```
 0xf20b415.ru
 ```
