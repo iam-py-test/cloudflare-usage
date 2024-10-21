@@ -1,4 +1,4 @@
-264 domains tested. 42.04545454545455% were behind nothing (153 were behind something). 8 domains could not be tested.<br>
+264 domains tested. 41.66666666666667% were behind nothing (154 were behind something). 8 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (48.86363636363637%):
+130 used cloudflare (49.24242424242424%):
 ```
 02ip.ru
 1sta.com
@@ -97,6 +97,7 @@ link-split.com
 link.sbstck.com
 link.tnlink.in
 link1s.com
+linkbucks.com
 links.e.malwarebytes.com
 linkspy.cc
 linkvertise.com
@@ -155,9 +156,9 @@ www.linkbucks.com
 
 13 used cloudfront (4.924242424242424%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
-linkbucks.com
 qrs.ly
 rb.gy
 rebrand.ly
