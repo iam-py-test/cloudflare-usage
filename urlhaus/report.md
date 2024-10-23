@@ -1,4 +1,4 @@
-306 domains tested. 82.6797385620915% were behind nothing (53 were behind something). 14 domains could not be tested.<br>
+297 domains tested. 85.18518518518519% were behind nothing (44 were behind something). 15 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,52 +19,43 @@
 
 ```
 
-36 used cloudflare (11.76470588235294%):
+27 used cloudflare (9.090909090909092%):
 ```
-241009205925672.dmi.fyml86.com
-2bnkmelat.buzz
 3banmellat.buzz
 4bankmell.buzz
-5bnkmlat.buzz
 6bankmelta.buzz
 7bnkmelat.buzz
 8bankmlet.buzz
 adf6.adf6.com
+comodozeropoint.com
 crystalpvp.ru
 dl.aginjector.com
 donlodape2.click
 down.mvip8.ru
-eficienciaeningenieria.com.mx
+hitman-pro.ru
 imtoken8.cc
-mail.2bnkmelat.buzz
 mail.3banmellat.buzz
 mail.4bankmell.buzz
-mail.5bnkmlat.buzz
 mail.6bankmelta.buzz
 mail.7bnkmelat.buzz
 mail.8bankmlet.buzz
 microsoft-analyse.com
 reusable-flex.com
 server.eye-network.ru
-shuvi.io
-urlize.cc
-wrath.me
-www.2bnkmelat.buzz
 www.3banmellat.buzz
 www.4bankmell.buzz
-www.5bnkmlat.buzz
 www.6bankmelta.buzz
 www.7bnkmelat.buzz
 www.8bankmlet.buzz
 www.blackhattoolz.com
 ```
 
-1 used cloudfront (0.32679738562091504%):
+1 used cloudfront (0.33670033670033667%):
 ```
 download.yourfileinfo.com
 ```
 
-1 used ddosguard (0.32679738562091504%):
+1 used ddosguard (0.33670033670033667%):
 ```
 0xf20b415.ru
 ```
@@ -114,7 +105,7 @@ download.yourfileinfo.com
 
 ```
 
-1 used netlify (0.32679738562091504%):
+0 used netlify (0.0%):
 ```
-tgt.ng
+
 ```

@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 62 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 65 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -27,7 +27,6 @@ news.com.au
 rakuten.co.jp
 weforum.org
 windows.com
-zemanta.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -45,7 +44,7 @@ b-cdn.net
 
 ```
 
-133 used cloudflare (13.3%):
+132 used cloudflare (13.200000000000001%):
 ```
 2gis.com
 33across.com
@@ -117,7 +116,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -182,22 +180,19 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
-ad.gt
 adsafeprotected.com
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
-amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
