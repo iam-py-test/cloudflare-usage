@@ -1,4 +1,4 @@
-297 domains tested. 85.18518518518519% were behind nothing (44 were behind something). 15 domains could not be tested.<br>
+232 domains tested. 86.20689655172413% were behind nothing (32 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,8 @@
 
 ```
 
-27 used cloudflare (9.090909090909092%):
+11 used cloudflare (4.741379310344827%):
 ```
-3banmellat.buzz
-4bankmell.buzz
-6bankmelta.buzz
-7bnkmelat.buzz
-8bankmlet.buzz
 adf6.adf6.com
 comodozeropoint.com
 crystalpvp.ru
@@ -34,28 +29,17 @@ donlodape2.click
 down.mvip8.ru
 hitman-pro.ru
 imtoken8.cc
-mail.3banmellat.buzz
-mail.4bankmell.buzz
-mail.6bankmelta.buzz
-mail.7bnkmelat.buzz
-mail.8bankmlet.buzz
 microsoft-analyse.com
 reusable-flex.com
-server.eye-network.ru
-www.3banmellat.buzz
-www.4bankmell.buzz
-www.6bankmelta.buzz
-www.7bnkmelat.buzz
-www.8bankmlet.buzz
 www.blackhattoolz.com
 ```
 
-1 used cloudfront (0.33670033670033667%):
+1 used cloudfront (0.43103448275862066%):
 ```
 download.yourfileinfo.com
 ```
 
-1 used ddosguard (0.33670033670033667%):
+1 used ddosguard (0.43103448275862066%):
 ```
 0xf20b415.ru
 ```
