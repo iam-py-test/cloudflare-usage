@@ -1,4 +1,4 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 63 domains could not be tested.<br>
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 62 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+135 used cloudflare (13.5%):
 ```
 2gis.com
 33across.com
@@ -64,7 +64,6 @@ braze.com
 britannica.com
 btloader.com
 bugsnag.com
-calendly.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -72,6 +71,7 @@ change.org
 character.ai
 chatgpt.com
 chaturbate.com
+chess.com
 classlink.com
 cloudflare-dns.com
 cloudflare.com
@@ -117,7 +117,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -184,16 +183,15 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -213,6 +211,7 @@ biblegateway.com
 binance.com
 booking.com
 brave.com
+calendly.com
 chartbeat.net
 chartboost.com
 checkpoint.com
@@ -284,7 +283,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -306,11 +304,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 speedtest.net
