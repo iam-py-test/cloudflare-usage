@@ -1,4 +1,4 @@
-264 domains tested. 41.28787878787879% were behind nothing (155 were behind something). 8 domains could not be tested.<br>
+264 domains tested. 40.53030303030303% were behind nothing (157 were behind something). 10 domains could not be tested.<br>
 2 used akamai (0.7575757575757576%):
 ```
 eepurl.com
@@ -104,6 +104,7 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
+lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
@@ -124,7 +125,6 @@ shorten.is
 shorten.world
 shorturl.at
 shorturl.com
-shorturl.gg
 shre.su
 shrekis.life
 shrink.pe
