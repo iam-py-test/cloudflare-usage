@@ -1,4 +1,4 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 64 domains could not be tested.<br>
+1000 domains tested. 65.5% were behind nothing (345 were behind something). 62 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -7,6 +7,7 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
+businesswire.com
 dailymail.co.uk
 dell.com
 ebay.co.uk
@@ -26,7 +27,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+134 used cloudflare (13.4%):
 ```
 2gis.com
 33across.com
@@ -100,7 +100,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -183,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -194,11 +193,9 @@ amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.com.mx
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -285,6 +282,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -293,9 +291,8 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
-1c.ru
 crpt.ru
 netangels.ru
 pikabu.ru
@@ -306,12 +303,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
