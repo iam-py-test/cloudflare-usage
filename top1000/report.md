@@ -1,5 +1,5 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 62 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 62 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -7,7 +7,6 @@ adobe.net
 airbnb.com
 arubanetworks.com
 autodesk.com
-businesswire.com
 dailymail.co.uk
 dell.com
 ebay.co.uk
@@ -21,12 +20,15 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+macys.com
 marriott.com
 mobile.de
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +46,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+135 used cloudflare (13.5%):
 ```
 2gis.com
 33across.com
@@ -100,6 +102,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -182,20 +185,19 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.com.mx
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -254,6 +256,7 @@ nationalgeographic.com
 netgear.com
 noaa.gov
 onet.pl
+otto.de
 pbs.org
 primevideo.com
 pubmatic.com
@@ -262,7 +265,6 @@ realtor.com
 redfin.com
 repubblica.it
 reuters.com
-ryanair.com
 shalltry.com
 sharethis.com
 shutterstock.com
@@ -282,7 +284,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -291,8 +292,9 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+4 used ddosguard (0.4%):
 ```
+1c.ru
 crpt.ru
 netangels.ru
 pikabu.ru
@@ -303,10 +305,11 @@ pikabu.ru
 
 ```
 
-6 used fastly (0.6%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 forbes.com
 github.io
 speedtest.net

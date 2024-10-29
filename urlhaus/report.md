@@ -1,4 +1,4 @@
-236 domains tested. 84.32203389830508% were behind nothing (37 were behind something). 19 domains could not be tested.<br>
+233 domains tested. 81.54506437768241% were behind nothing (43 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,24 @@
 
 ```
 
-17 used cloudflare (7.203389830508475%):
+16 used cloudflare (6.866952789699571%):
 ```
 241024204809193.dmi.fyml86.com
 adf6.adf6.com
-avocaldoperu.com
 comodozeropoint.com
-conn.masjesu.zip
 crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
-ftp.timeless-tales.shop
 hitman-pro.ru
 imtoken8.cc
 microsoft-analyse.com
 pointpangalengan.com
 reusable-flex.com
+s1.k2isoks.top
 server2.eye-network.ru
 uebki.one
 www.blackhattoolz.com
+www.trvstwallet.com
 ```
 
 0 used cloudfront (0.0%):
@@ -45,7 +44,7 @@ www.blackhattoolz.com
 
 ```
 
-1 used ddosguard (0.423728813559322%):
+1 used ddosguard (0.4291845493562232%):
 ```
 0xf20b415.ru
 ```

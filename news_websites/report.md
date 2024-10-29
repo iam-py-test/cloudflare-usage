@@ -103,9 +103,9 @@ wsj.com
 ```
 bbc.com
 bbc.com
+bloomberg.com
 expressnews.com
 forbes.com
-houstonchronicle.com
 sfgate.com
 ```
 
