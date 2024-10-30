@@ -1,4 +1,4 @@
-233 domains tested. 81.54506437768241% were behind nothing (43 were behind something). 26 domains could not be tested.<br>
+242 domains tested. 77.68595041322314% were behind nothing (54 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,23 @@
 
 ```
 
-16 used cloudflare (6.866952789699571%):
+18 used cloudflare (7.43801652892562%):
 ```
-241024204809193.dmi.fyml86.com
+acesso.run
 adf6.adf6.com
+avocaldoperu.com
 comodozeropoint.com
+conn.masjesu.zip
 crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
+files.sflp.shop
 hitman-pro.ru
 imtoken8.cc
 microsoft-analyse.com
-pointpangalengan.com
+r8p.teknixstuff.com
 reusable-flex.com
 s1.k2isoks.top
-server2.eye-network.ru
 uebki.one
 www.blackhattoolz.com
 www.trvstwallet.com
@@ -44,9 +46,9 @@ www.trvstwallet.com
 
 ```
 
-1 used ddosguard (0.4291845493562232%):
+0 used ddosguard (0.0%):
 ```
-0xf20b415.ru
+
 ```
 
 0 used edgecast (0.0%):
