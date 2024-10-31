@@ -1,4 +1,4 @@
-242 domains tested. 77.68595041322314% were behind nothing (54 were behind something). 36 domains could not be tested.<br>
+246 domains tested. 79.67479674796748% were behind nothing (50 were behind something). 35 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,14 @@
 
 ```
 
-18 used cloudflare (7.43801652892562%):
+15 used cloudflare (6.097560975609756%):
 ```
 acesso.run
 adf6.adf6.com
-avocaldoperu.com
-comodozeropoint.com
-conn.masjesu.zip
 crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
+em3r30.updateexpert.shop
 files.sflp.shop
 hitman-pro.ru
 imtoken8.cc
@@ -36,9 +34,8 @@ microsoft-analyse.com
 r8p.teknixstuff.com
 reusable-flex.com
 s1.k2isoks.top
-uebki.one
+sosipisos.cc
 www.blackhattoolz.com
-www.trvstwallet.com
 ```
 
 0 used cloudfront (0.0%):
