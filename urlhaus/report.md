@@ -1,4 +1,4 @@
-264 domains tested. 86.74242424242425% were behind nothing (35 were behind something). 21 domains could not be tested.<br>
+302 domains tested. 82.78145695364239% were behind nothing (52 were behind something). 30 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,29 @@
 
 ```
 
-13 used cloudflare (4.924242424242424%):
+22 used cloudflare (7.28476821192053%):
 ```
-acess.mailcffemx.com
 adf6.adf6.com
+alternativehack.tech
+apitradingview.com
+crystalpvp.ru
 dl.aginjector.com
+down.mvip8.ru
 downloadsparrow.com
+hitman-pro.ru
 imtoken8.cc
+looksrare.cc
 microsoft-analyse.com
 onedomainpro.com
+panel.mrgarabato.com
 reusable-flex.com
-sosipisos.cc
+seo.cyberdefender.uk
+server4.eye-network.ru
+telegram-cdn.xyz
 tmhacks22.ovh
 tmhacks22.xyz
 utorrent-servers.xyz
+wanfreeprogram.shop
 www.blackhattoolz.com
 ```
 
@@ -51,9 +60,9 @@ www.blackhattoolz.com
 
 ```
 
-1 used fastly (0.3787878787878788%):
+0 used fastly (0.0%):
 ```
-cdnimmortal.xyz
+
 ```
 
 0 used sucuri (0.0%):
