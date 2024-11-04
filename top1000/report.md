@@ -1,10 +1,9 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-airbnb.com
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -26,7 +25,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -50,6 +48,7 @@ b-cdn.net
 33across.com
 addtoany.com
 allaboutcookies.org
+alphonso.tv
 ancestry.com
 apnews.com
 applovin.com
@@ -132,7 +131,6 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
-onlyfans.com
 openai.com
 openstreetmap.org
 optimizely.com
@@ -185,19 +183,18 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.com.mx
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -260,6 +257,7 @@ netflix.net
 netgear.com
 noaa.gov
 onet.pl
+onlyfans.com
 pbs.org
 primevideo.com
 pubmatic.com
@@ -286,9 +284,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
-un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

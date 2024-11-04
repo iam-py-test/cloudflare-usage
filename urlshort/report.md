@@ -1,4 +1,4 @@
-265 domains tested. 41.88679245283019% were behind nothing (154 were behind something). 8 domains could not be tested.<br>
+265 domains tested. 40.75471698113208% were behind nothing (157 were behind something). 11 domains could not be tested.<br>
 2 used akamai (0.7547169811320755%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (48.679245283018865%):
+130 used cloudflare (49.056603773584904%):
 ```
 02ip.ru
 1sta.com
@@ -143,6 +143,7 @@ tii.la
 tinyurl.com
 track.canva.com
 uprot.net
+url1.io
 urlday.cc
 urlshortx.com
 usheethe.com
@@ -153,9 +154,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-14 used cloudfront (5.283018867924529%):
+13 used cloudfront (4.905660377358491%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 linkbucks.com
