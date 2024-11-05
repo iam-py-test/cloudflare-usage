@@ -1,4 +1,4 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 59 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-137 used cloudflare (13.700000000000001%):
+139 used cloudflare (13.900000000000002%):
 ```
 2gis.com
 33across.com
@@ -116,6 +116,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -131,6 +132,7 @@ okta.com
 onesignal.com
 onetrust.com
 online.net
+onlyfans.com
 openai.com
 openstreetmap.org
 optimizely.com
@@ -183,21 +185,18 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 amazon.ca
-amazon.co.uk
 amazon.com
-amazon.com.br
-amazon.de
+amazon.com.mx
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -231,7 +230,6 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
-firefox.com
 flickr.com
 go.com
 goodreads.com
@@ -249,15 +247,12 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
-mozilla.com
-mozilla.org
 name.com
 nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
 onet.pl
-onlyfans.com
 pbs.org
 primevideo.com
 pubmatic.com
@@ -284,7 +279,9 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

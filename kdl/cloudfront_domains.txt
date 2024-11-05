@@ -7,7 +7,6 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.uk
 amazon.com
 amazon.in
 amazonaws.com
@@ -43,6 +42,7 @@ consent.cmp.oath.com
 consent.dropbox.com
 consent.trustarc.com
 consent.truste.com
+css.rbxcdn.com
 cvp.twitch.tv
 d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
@@ -139,6 +139,7 @@ images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.rbxcdn.com
 images.scanalert.com
 images.sr.roku.com
 img-deviantart.wixmp.com
@@ -146,6 +147,7 @@ img.hipages.com.au
 js-cdn.dynatrace.com
 js.adsrvr.org
 js.media-lab.ai
+js.rbxcdn.com
 kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
@@ -155,8 +157,6 @@ media.gnl-live.bbcverticals.com
 mediacache.homeimprovementpages.com.au
 milanuncios.com
 mktg.tags.f5.com
-mozilla.com
-mozilla.org
 netflix.net
 passport.twitch.tv
 privacy-policy.truste.com
@@ -180,6 +180,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
+static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
@@ -203,12 +204,12 @@ warnerbros.com
 webtools.europa.eu
 widgets.q4app.com
 wis.sndcdn.com
+www.amazon.com
 www.appsflyer.com
 www.datadoghq.com
 www.deviantart.com
 www.dvidshub.net
 www.flickr.com
 www.flickrprints.com
-www.mozilla.org
 www.mozorg.moz.works
 ychef.files.bbci.co.uk

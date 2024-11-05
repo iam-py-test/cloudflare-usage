@@ -1,4 +1,4 @@
-361 domains tested. 62.603878116343495% were behind nothing (135 were behind something). 45 domains could not be tested.<br>
+361 domains tested. 61.495844875346265% were behind nothing (139 were behind something). 50 domains could not be tested.<br>
 21 used akamai (5.8171745152354575%):
 ```
 amtrak.com
@@ -75,7 +75,7 @@ uscirf.gov
 usmint.gov
 ```
 
-34 used cloudfront (9.418282548476455%):
+33 used cloudfront (9.141274238227147%):
 ```
 ahrq.gov
 alabama.gov
@@ -98,7 +98,6 @@ nccih.nih.gov
 ncd.gov
 nlm.nih.gov
 noaa.gov
-nps.gov
 onrr.gov
 sba.gov
 sss.gov
