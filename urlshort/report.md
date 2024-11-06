@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (49.43396226415094%):
+132 used cloudflare (49.81132075471698%):
 ```
 02ip.ru
 1sta.com
@@ -106,6 +106,7 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
+lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
@@ -155,9 +156,8 @@ www.jdoqocy.com
 www.linkbucks.com
 ```
 
-13 used cloudfront (4.905660377358491%):
+12 used cloudfront (4.528301886792453%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
