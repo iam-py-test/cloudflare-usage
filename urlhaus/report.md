@@ -1,4 +1,4 @@
-253 domains tested. 84.18972332015811% were behind nothing (40 were behind something). 22 domains could not be tested.<br>
+292 domains tested. 87.32876712328768% were behind nothing (37 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,23 @@
 
 ```
 
-18 used cloudflare (7.114624505928854%):
+16 used cloudflare (5.47945205479452%):
 ```
-0nedrivee.com
 adf6.adf6.com
 anonsharing.com
 cdn1.pixel-story.shop
-cdn2.creative-habitat.shop
-cdn4.creative-habitat.shop
-conn.masjesu.zip
 crystalpvp.ru
+dl.aginjector.com
 down.mvip8.ru
 downloadsparrow.com
 downsexv.com
 evendextoxmonkey.store
-files.sflp.shop
+hitman-pro.ru
 imtoken8.cc
+iplogger.ru
 moviecentral-petparade.com
-ricjenbony.xyz
 sosipisos.cc
+test.downsexv.com
 www.blackhattoolz.com
 ```
 
