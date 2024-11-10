@@ -1,4 +1,4 @@
-186 domains tested. 64.51612903225806% were behind nothing (66 were behind something). 5 domains could not be tested.<br>
+186 domains tested. 64.51612903225806% were behind nothing (66 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-60 used cloudflare (32.25806451612903%):
+61 used cloudflare (32.795698924731184%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -45,6 +45,7 @@ kolektiva.social
 lawsocial.org
 m.einverne.info
 m.n1l.dev
+maaw.social
 mas.to
 masto.es
 mastodon.buzhangjiuzhou.com
