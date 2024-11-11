@@ -1,4 +1,4 @@
-290 domains tested. 90.3448275862069% were behind nothing (28 were behind something). 15 domains could not be tested.<br>
+275 domains tested. 88.36363636363636% were behind nothing (32 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-12 used cloudflare (4.137931034482759%):
+11 used cloudflare (4.0%):
 ```
 adf6.adf6.com
 cdn1.pixel-story.shop
@@ -28,11 +28,10 @@ dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
-imtoken8.cc
-ordai.quest
+pastesnip.org
 reusable-flex.com
 www.blackhattoolz.com
-yulgangweb.top
+zh.seacdndown.com
 ```
 
 0 used cloudfront (0.0%):
@@ -90,7 +89,7 @@ yulgangweb.top
 
 ```
 
-1 used netlify (0.3448275862068966%):
+1 used netlify (0.36363636363636365%):
 ```
 cheatkeys.com
 ```
