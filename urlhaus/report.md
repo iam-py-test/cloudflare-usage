@@ -1,4 +1,4 @@
-275 domains tested. 88.36363636363636% were behind nothing (32 were behind something). 20 domains could not be tested.<br>
+264 domains tested. 87.5% were behind nothing (33 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-11 used cloudflare (4.0%):
+11 used cloudflare (4.166666666666666%):
 ```
 adf6.adf6.com
 cdn1.pixel-story.shop
@@ -89,7 +89,7 @@ zh.seacdndown.com
 
 ```
 
-1 used netlify (0.36363636363636365%):
+0 used netlify (0.0%):
 ```
-cheatkeys.com
+
 ```
