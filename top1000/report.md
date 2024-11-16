@@ -184,7 +184,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -196,8 +196,8 @@ amazon.co.uk
 amazon.com
 amazon.com.mx
 amazon.de
-amazon.es
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -279,6 +279,7 @@ trustpilot.com
 typeform.com
 ubnt.com
 ui.com
+un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
@@ -302,11 +303,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 speedtest.net

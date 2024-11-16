@@ -68,18 +68,17 @@ hits-secure.theguardian.com
 hu.pinterest.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -87,6 +86,7 @@ jp.pinterest.com
 jsdelivr.map.fastly.net
 kr.pinterest.com
 lineup-images.scdn.co
+m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -111,6 +111,7 @@ paypal-dynamic-2.map.fastly.net
 paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
+pbs.twimg.com
 ph.pinterest.com
 pickasso.spotifycdn.com
 pl.pinterest.com
@@ -128,6 +129,7 @@ ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 s.imgur.com
+s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
@@ -143,6 +145,7 @@ static01.nyt.com
 static01.nytimes.com
 styles.redditmedia.com
 support.theguardian.com
+t.paypal.com
 tls13.spotifycdn.map.fastly.net
 tls13.taboola.map.fastly.net
 tls130rtt.spotifycdn.map.fastly.net
@@ -169,6 +172,7 @@ www.forbes.com
 www.gandi.net
 www.i.cdn.cnn.com
 www.nytimes.com
+www.paypal.com
 www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
