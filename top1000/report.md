@@ -1,8 +1,9 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 61 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 59 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -75,6 +76,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+cloudinary.com
 columbia.edu
 contextweb.com
 cookiedatabase.org
@@ -114,7 +116,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -183,7 +184,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -191,11 +192,11 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com.mx
+amazon.com
+amazon.com.br
 amazon.de
-amazon.in
+amazon.es
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -246,6 +247,7 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
+mongodb.com
 name.com
 nationalgeographic.com
 netflix.net
@@ -280,6 +282,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
