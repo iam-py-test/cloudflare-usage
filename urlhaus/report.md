@@ -1,4 +1,4 @@
-222 domains tested. 85.13513513513513% were behind nothing (33 were behind something). 22 domains could not be tested.<br>
+215 domains tested. 86.51162790697674% were behind nothing (29 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-11 used cloudflare (4.954954954954955%):
+9 used cloudflare (4.186046511627907%):
 ```
 adf6.adf6.com
 api.ewfiles.net
@@ -27,10 +27,8 @@ crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
-garhoudjourm.com
 hitman-pro.ru
 reusable-flex.com
-shalouxt.top
 www.blackhattoolz.com
 ```
 
