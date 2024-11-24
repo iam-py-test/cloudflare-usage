@@ -9,6 +9,7 @@ account.samsung.com
 aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -41,6 +42,7 @@ consent-cmp-prod.dcs-core-dmp-prd.aws.oath.cloud
 consent.cmp.oath.com
 consent.trustarc.com
 consent.truste.com
+css.rbxcdn.com
 cvp.twitch.tv
 d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
@@ -92,6 +94,7 @@ d3vmvmej3wjbxn.cloudfront.net
 d3vqnkcmhygdmm.cloudfront.net
 d88f3ym7dkyv7.cloudfront.net
 d906pa0g4eh7u.cloudfront.net
+d9o98qip09qtv.cloudfront.net
 d9uqc191xsuna.cloudfront.net
 dap.digitalgov.gov
 dapx4swc8lj69.cloudfront.net
@@ -132,10 +135,11 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.rbxcdn.com
 images.scanalert.com
 images.sr.roku.com
 img-deviantart.wixmp.com
@@ -143,6 +147,7 @@ img.hipages.com.au
 js-cdn.dynatrace.com
 js.adsrvr.org
 js.media-lab.ai
+js.rbxcdn.com
 kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
@@ -176,6 +181,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
+static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
