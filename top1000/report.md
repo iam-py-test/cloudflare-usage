@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 58 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 58 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -25,7 +25,6 @@ mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
-telegraph.co.uk
 weforum.org
 ```
 
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-141 used cloudflare (14.099999999999998%):
+140 used cloudflare (14.000000000000002%):
 ```
 2gis.com
 33across.com
@@ -57,7 +56,6 @@ applovin.com
 attn.tv
 berkeley.edu
 bitdefender.com
-bluehost.com
 bootstrapcdn.com
 box.com
 branch.io
@@ -102,6 +100,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -159,7 +158,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -189,21 +187,20 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
-amazon.es
+amazon.com.mx
 amazon.fr
-amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -272,7 +269,6 @@ shutterstock.com
 si.com
 soundcloud.com
 state.gov
-statista.com
 supercell.com
 surveymonkey.com
 synology.com
