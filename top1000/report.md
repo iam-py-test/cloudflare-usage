@@ -1,5 +1,5 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 60 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 65.5% were behind nothing (345 were behind something). 60 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -19,7 +19,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mobile.de
 mysql.com
@@ -43,7 +42,7 @@ b-cdn.net
 
 ```
 
-141 used cloudflare (14.099999999999998%):
+139 used cloudflare (13.900000000000002%):
 ```
 2gis.com
 33across.com
@@ -89,6 +88,7 @@ digitalocean.com
 discogs.com
 discord.com
 discord.gg
+discord.media
 discordapp.com
 dnsmadeeasy.com
 docker.com
@@ -100,7 +100,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -141,13 +140,12 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
-poki.com
 princeton.edu
 prnewswire.com
 quizlet.com
 quora.com
+readthedocs.io
 researchgate.net
 roku.com
 sciencedirect.com
@@ -158,7 +156,6 @@ sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -188,18 +185,21 @@ zendesk.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
 amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -304,7 +304,7 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -313,6 +313,7 @@ etsy.com
 forbes.com
 github.io
 speedtest.net
+spotify.com
 www.gov.uk
 ```
 
