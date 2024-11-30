@@ -1,5 +1,5 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 60 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 60 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -19,6 +19,7 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+macys.com
 marriott.com
 mobile.de
 mysql.com
@@ -100,6 +101,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -152,7 +154,6 @@ sciencedirect.com
 sharethrough.com
 shein.com
 shopify.com
-sitescout.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
@@ -185,18 +186,20 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -304,7 +307,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
@@ -313,7 +316,6 @@ etsy.com
 forbes.com
 github.io
 speedtest.net
-spotify.com
 www.gov.uk
 ```
 

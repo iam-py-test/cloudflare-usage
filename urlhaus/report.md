@@ -1,4 +1,4 @@
-257 domains tested. 84.04669260700389% were behind nothing (41 were behind something). 26 domains could not be tested.<br>
+248 domains tested. 83.87096774193549% were behind nothing (40 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,20 @@
 
 ```
 
-14 used cloudflare (5.447470817120623%):
+12 used cloudflare (4.838709677419355%):
 ```
 adf6.adf6.com
 api.ewfiles.net
 cdn.chuk.cz
 crystalpvp.ru
+dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
 imtoken8.cc
 reusable-flex.com
-sodiumlaurethsulfatedesyroyer.com
-utorrent-servers.top
 www.blackhattoolz.com
-www.sodiumlaurethsulfatedesyroyer.com
 ```
 
 0 used cloudfront (0.0%):
@@ -97,7 +95,7 @@ www.sodiumlaurethsulfatedesyroyer.com
 
 ```
 
-1 used imperva (0.38910505836575876%):
+1 used imperva (0.4032258064516129%):
 ```
 www2.town.shirako.lg.jp
 ```
