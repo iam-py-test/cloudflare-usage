@@ -1,4 +1,4 @@
-248 domains tested. 83.87096774193549% were behind nothing (40 were behind something). 27 domains could not be tested.<br>
+252 domains tested. 86.11111111111111% were behind nothing (35 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-12 used cloudflare (4.838709677419355%):
+11 used cloudflare (4.365079365079365%):
 ```
 adf6.adf6.com
 api.ewfiles.net
-cdn.chuk.cz
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
@@ -93,9 +92,4 @@ www.blackhattoolz.com
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.4032258064516129%):
-```
-www2.town.shirako.lg.jp
 ```
