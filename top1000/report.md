@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 60 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 66.0% were behind nothing (340 were behind something). 58 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -24,8 +24,10 @@ marriott.com
 mobile.de
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,7 +45,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+136 used cloudflare (13.600000000000001%):
 ```
 2gis.com
 33across.com
@@ -106,6 +108,7 @@ hostgator.com
 hubspot.com
 hugedomains.com
 ietf.org
+immunet.com
 indeed.com
 indexww.com
 innovid.com
@@ -189,11 +192,11 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.de
-amazon.fr
+amazon.com.au
+amazon.com.br
+amazon.es
 amazon.in
 amazon.it
 amazonaws.com
@@ -304,7 +307,7 @@ pikabu.ru
 ```
 bbc.co.uk
 bbc.com
-etsy.com
+bloomberg.com
 forbes.com
 github.io
 speedtest.net

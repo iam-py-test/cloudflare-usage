@@ -1,4 +1,4 @@
-425 domains tested. 83.05882352941177% were behind nothing (72 were behind something). 26 domains could not be tested.<br>
+310 domains tested. 81.93548387096774% were behind nothing (56 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,53 +19,36 @@
 
 ```
 
-46 used cloudflare (10.823529411764705%):
+29 used cloudflare (9.35483870967742%):
 ```
+56561234.com
 adf6.adf6.com
 bcshoppy.com
 cerberuscheat.net
-cia.tf
 client.raiden.cx
 crystalpvp.ru
 dddotx.shop
-demo.pagodalabs.com.np
 dl.aginjector.com
 dl.aigoingtokill.club
 do-dear.com
 down.mvip8.ru
 downsexv.com
-esign.bvccsolutions.com
+evolytix.com
+gamertool.eu
 gardenworksproject.org
-haha.ifhmodule.com
-hitman-pro.ru
-immense.software
 imtoken8.cc
-infinia.ae
-kwesipharma.com
-maniautomobiles.com
-mockup.worldhalalfood.com
-moneyinfo.com.br
-mundodosmetodos.com
+klipcatepiu0.shop
+krtopup.com
+lordexploit.xyz
+mngfilesamp.site
 nonagonzone.ru
 onge.org
-ottawablackfilm.com
-pbimh.com
-polarcusinternational.com
-proctoxl.com
-promo.generos.store
+pagecourierdhaul.com
 reusable-flex.com
 s1.ttriber.com
 sealingshop.click
-suaraselebes.com
-w3lab.w3lab.cloud
-wanfreeprogram.shop
+selbe.ar
 www.blackhattoolz.com
-www.blancblanc.com
-www.campergoals.com
-www.kaisermagazine.com
-www.smilecaredental.net
-zipline.radium.lol
-zolatourism.com
 zooog.info
 ```
 
