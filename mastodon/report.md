@@ -1,4 +1,4 @@
-186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 3 domains could not be tested.<br>
+186 domains tested. 64.51612903225806% were behind nothing (66 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-59 used cloudflare (31.72043010752688%):
+60 used cloudflare (32.25806451612903%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -64,6 +64,7 @@ mkacg.com
 moe.social
 mstdn.ca
 mstdn.io
+n7.social
 noagendasocial.com
 nsfwmisskey.narazaka.net
 oyasumi.ski

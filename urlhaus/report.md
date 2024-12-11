@@ -1,4 +1,4 @@
-310 domains tested. 81.93548387096774% were behind nothing (56 were behind something). 27 domains could not be tested.<br>
+301 domains tested. 83.38870431893687% were behind nothing (50 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,29 @@
 
 ```
 
-29 used cloudflare (9.35483870967742%):
+21 used cloudflare (6.976744186046512%):
 ```
 56561234.com
 adf6.adf6.com
-bcshoppy.com
-cerberuscheat.net
-client.raiden.cx
+api.ewfiles.net
 crystalpvp.ru
 dddotx.shop
-dl.aginjector.com
-dl.aigoingtokill.club
-do-dear.com
 down.mvip8.ru
 downsexv.com
 evolytix.com
 gamertool.eu
 gardenworksproject.org
+hitman-pro.ru
 imtoken8.cc
 klipcatepiu0.shop
 krtopup.com
-lordexploit.xyz
+melbornstromp.lat
 mngfilesamp.site
-nonagonzone.ru
-onge.org
 pagecourierdhaul.com
 reusable-flex.com
-s1.ttriber.com
-sealingshop.click
 selbe.ar
 www.blackhattoolz.com
-zooog.info
+ythreefr.pro
 ```
 
 0 used cloudfront (0.0%):
