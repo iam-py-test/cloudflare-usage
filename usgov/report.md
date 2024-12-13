@@ -2,7 +2,6 @@
 22 used akamai (6.094182825484765%):
 ```
 alhurra.com
-amtrak.com
 atsdr.cdc.gov
 cic.ndu.edu
 clerk.house.gov
@@ -16,6 +15,7 @@ jfsc.ndu.edu
 maritime.dot.gov
 npin.cdc.gov
 nsa.gov
+osha.gov
 railroads.dot.gov
 rfa.org
 sec.gov
