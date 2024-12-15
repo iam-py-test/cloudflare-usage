@@ -1,4 +1,4 @@
-276 domains tested. 85.86956521739131% were behind nothing (39 were behind something). 21 domains could not be tested.<br>
+283 domains tested. 85.86572438162544% were behind nothing (40 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,23 @@
 
 ```
 
-18 used cloudflare (6.521739130434782%):
+19 used cloudflare (6.713780918727916%):
 ```
 adf6.adf6.com
 api.ewfiles.net
 crystalpvp.ru
-dddotx.shop
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
 imtoken8.cc
-internetguardiansec.com
 jktc.pro
 reusable-flex.com
 scure2glbcubnk.es
+t-me.cloud
+t-me.lol
+t-me.xyz
 utorrent-servers.xyz
 www.blackhattoolz.com
 www.bluebytenetwork222.win
