@@ -1,31 +1,19 @@
-1000 domains tested. 65.7% were behind nothing (343 were behind something). 61 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 56 domains could not be tested.<br>
+13 used akamai (1.3%):
 ```
 accuweather.com
-adobe.com
-adobe.net
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
-dell.com
 ebay.co.uk
 ebay.com
 ebay.de
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
+ups.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -189,11 +177,10 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -253,6 +240,7 @@ netflix.net
 netgear.com
 noaa.gov
 onet.pl
+otto.de
 pbs.org
 primevideo.com
 pubmatic.com
@@ -356,7 +344,8 @@ launchdarkly.com
 lencr.org
 ```
 
-1 used imperva (0.1%):
+2 used imperva (0.2%):
 ```
 digicert.com
+redislabs.com
 ```
