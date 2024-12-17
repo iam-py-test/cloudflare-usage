@@ -1,4 +1,4 @@
-1000 domains tested. 67.30000000000001% were behind nothing (327 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 67.4% were behind nothing (326 were behind something). 53 domains could not be tested.<br>
 13 used akamai (1.3%):
 ```
 accuweather.com
@@ -31,7 +31,7 @@ b-cdn.net
 
 ```
 
-133 used cloudflare (13.3%):
+137 used cloudflare (13.700000000000001%):
 ```
 2gis.com
 33across.com
@@ -44,6 +44,7 @@ applovin.com
 attn.tv
 berkeley.edu
 bitdefender.com
+bluehost.com
 bootstrapcdn.com
 box.com
 branch.io
@@ -87,6 +88,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -106,6 +108,7 @@ loc.gov
 maricopa.gov
 markmonitor.com
 mdpi.com
+media.net
 mediafire.com
 mediatek.com
 medium.com
@@ -119,6 +122,7 @@ onetrust.com
 online.net
 onlyfans.com
 openai.com
+openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
@@ -168,15 +172,14 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
-amazon.co.jp
+amazon.co.uk
 amazon.com.au
 amazon.com.br
 amazon.de
@@ -291,11 +294,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 forbes.com
 github.io
 speedtest.net

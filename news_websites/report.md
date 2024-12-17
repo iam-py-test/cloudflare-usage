@@ -1,4 +1,4 @@
-200 domains tested. 66.0% were behind nothing (68 were behind something). 1 domains could not be tested.<br>
+200 domains tested. 66.5% were behind nothing (67 were behind something). 1 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 dailymail.co.uk
@@ -98,11 +98,10 @@ wsj.com
 
 ```
 
-5 used fastly (2.5%):
+4 used fastly (2.0%):
 ```
 bbc.com
 bbc.com
-bloomberg.com
 forbes.com
 kfor.com
 ```
