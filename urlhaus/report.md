@@ -1,4 +1,4 @@
-313 domains tested. 82.42811501597444% were behind nothing (55 were behind something). 33 domains could not be tested.<br>
+315 domains tested. 83.4920634920635% were behind nothing (52 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-22 used cloudflare (7.0287539936102235%):
+24 used cloudflare (7.6190476190476195%):
 ```
 9x9o.com
 adf6.adf6.com
@@ -30,15 +30,17 @@ dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-elektrum.cfd
+elektrum.sbs
 hansgborn.eu
+heavens.holistic-haven.shop
 hitman-pro.ru
+imtoken8.cc
 klarnaportal.live
+kliptizq.shop
+prntsrcn.com
 reusable-flex.com
-scure2glbcubnk.es
 t-me.cloud
 t-me.xyz
-telegram-autification.lol
 utorrent-servers.xyz
 web3-electrum.com
 www.blackhattoolz.com
