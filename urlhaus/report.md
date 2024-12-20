@@ -1,4 +1,4 @@
-407 domains tested. 89.43488943488943% were behind nothing (43 were behind something). 22 domains could not be tested.<br>
+395 domains tested. 89.87341772151899% were behind nothing (40 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,22 @@
 
 ```
 
-20 used cloudflare (4.914004914004914%):
+15 used cloudflare (3.79746835443038%):
 ```
 adf6.adf6.com
 api.ewfiles.net
-cp.eye-network.ru
 crystalpvp.ru
 dl.aginjector.com
 dl.updatepush.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-hansgborn.eu
-heavens.holistic-haven.shop
 hitman-pro.ru
 imtoken8.cc
 kliptizq.shop
-prntsrcn.com
 reusable-flex.com
-scure2glbcubnk.es
-woo097878781.win
 www.blackhattoolz.com
+www.he4v2ieq.icu
 xn--yh4bx88a.com
 ```
 
@@ -48,7 +43,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.2457002457002457%):
+1 used ddosguard (0.25316455696202533%):
 ```
 mississippistemacademy.org
 ```
