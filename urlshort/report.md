@@ -1,5 +1,5 @@
-267 domains tested. 44.569288389513105% were behind nothing (148 were behind something). 6 domains could not be tested.<br>
-2 used akamai (0.7490636704119851%):
+268 domains tested. 42.91044776119403% were behind nothing (153 were behind something). 10 domains could not be tested.<br>
+2 used akamai (0.7462686567164178%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-127 used cloudflare (47.565543071161045%):
+128 used cloudflare (47.76119402985074%):
 ```
 02ip.ru
 1sta.com
@@ -115,6 +115,7 @@ photovault.pics
 pichost.pics
 picshost.pics
 prettylinks.com
+qrco.de
 rotf.lol
 s.id
 screenshare.pics
@@ -151,7 +152,7 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-12 used cloudfront (4.49438202247191%):
+12 used cloudfront (4.477611940298507%):
 ```
 bstore.smsb.co
 clicks.eventbrite.com
@@ -182,7 +183,7 @@ zpr.io
 
 ```
 
-1 used sucuri (0.37453183520599254%):
+1 used sucuri (0.3731343283582089%):
 ```
 wee.so
 ```
