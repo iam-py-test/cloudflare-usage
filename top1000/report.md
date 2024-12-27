@@ -1,5 +1,5 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 61 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 60 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,10 +44,11 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+138 used cloudflare (13.8%):
 ```
 2gis.com
 33across.com
+3ona.co
 addtoany.com
 allaboutcookies.org
 alphonso.tv
@@ -77,6 +79,7 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
+coingecko.com
 columbia.edu
 cookiedatabase.org
 cookielaw.org
@@ -100,6 +103,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -140,7 +144,6 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -183,7 +186,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -193,13 +196,10 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
-amazon.com.br
-amazon.de
+amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -306,10 +306,12 @@ pikabu.ru
 
 ```
 
-6 used fastly (0.6%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
