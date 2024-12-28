@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 59 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -26,7 +26,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-138 used cloudflare (13.8%):
+141 used cloudflare (14.099999999999998%):
 ```
 2gis.com
 33across.com
@@ -64,6 +63,7 @@ box.com
 branch.io
 braze.com
 britannica.com
+btloader.com
 bugsnag.com
 cambridge.org
 canva.com
@@ -103,7 +103,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -144,6 +143,7 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -157,6 +157,7 @@ shein.com
 shopify.com
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -166,6 +167,7 @@ teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
+trendyol.com
 uber.com
 umich.edu
 unpkg.com
@@ -193,13 +195,14 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.es
+amazon.de
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -209,7 +212,6 @@ anydesk.com
 appsflyer.com
 appsflyersdk.com
 atlassian.com
-atlassian.net
 biblegateway.com
 binance.com
 booking.com
@@ -306,11 +308,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 etsy.com
 forbes.com
 github.io
