@@ -1,5 +1,5 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 58 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 60 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -23,6 +23,7 @@ marriott.com
 mobile.de
 mysql.com
 news.com.au
+nike.com
 rakuten.co.jp
 weforum.org
 ```
@@ -42,7 +43,7 @@ b-cdn.net
 
 ```
 
-144 used cloudflare (14.399999999999999%):
+141 used cloudflare (14.099999999999998%):
 ```
 2gis.com
 33across.com
@@ -62,7 +63,6 @@ box.com
 branch.io
 braze.com
 britannica.com
-btloader.com
 bugsnag.com
 cambridge.org
 canva.com
@@ -112,7 +112,6 @@ ietf.org
 indeed.com
 indexww.com
 innovid.com
-instabug.com
 jotform.com
 jquery.com
 kickstarter.com
@@ -169,7 +168,6 @@ teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
-trendyol.com
 uber.com
 umich.edu
 unpkg.com
@@ -190,7 +188,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -199,11 +197,12 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
+amazon.co.uk
+amazon.com
+amazon.com.au
 amazon.com.br
-amazon.com.mx
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -244,6 +243,7 @@ hbr.org
 healthline.com
 hotjar.com
 ieee.org
+imdb.com
 intercom.io
 istockphoto.com
 kargo.com
