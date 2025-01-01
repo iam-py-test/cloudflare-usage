@@ -1,4 +1,4 @@
-268 domains tested. 44.02985074626866% were behind nothing (150 were behind something). 6 domains could not be tested.<br>
+268 domains tested. 42.91044776119403% were behind nothing (153 were behind something). 8 domains could not be tested.<br>
 2 used akamai (0.7462686567164178%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-128 used cloudflare (47.76119402985074%):
+129 used cloudflare (48.134328358208954%):
 ```
 02ip.ru
 1sta.com
@@ -104,6 +104,7 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
+lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com

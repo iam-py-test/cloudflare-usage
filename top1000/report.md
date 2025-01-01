@@ -1,4 +1,4 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 56 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-141 used cloudflare (14.099999999999998%):
+142 used cloudflare (14.2%):
 ```
 2gis.com
 33across.com
@@ -103,7 +103,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -112,12 +111,14 @@ ietf.org
 indeed.com
 indexww.com
 innovid.com
+instabug.com
 jotform.com
 jquery.com
 kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -128,7 +129,6 @@ medium.com
 mgid.com
 myshopify.com
 networkadvertising.org
-nexusmods.com
 okta.com
 onesignal.com
 onetrust.com
@@ -168,6 +168,7 @@ teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
+trendyol.com
 uber.com
 umich.edu
 unpkg.com
@@ -196,13 +197,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -257,6 +257,7 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+nubank.com.br
 onet.pl
 otto.de
 pbs.org
