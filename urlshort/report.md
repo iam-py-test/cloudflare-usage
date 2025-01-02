@@ -1,4 +1,4 @@
-268 domains tested. 42.91044776119403% were behind nothing (153 were behind something). 8 domains could not be tested.<br>
+268 domains tested. 44.776119402985074% were behind nothing (148 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7462686567164178%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (48.134328358208954%):
+127 used cloudflare (47.38805970149254%):
 ```
 02ip.ru
 1sta.com
@@ -104,7 +104,6 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
-lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
@@ -144,7 +143,6 @@ tii.la
 tinyurl.com
 track.canva.com
 uprot.net
-url1.io
 urlshortx.com
 usheethe.com
 v.gd
@@ -153,9 +151,8 @@ www.bl.ink
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.850746268656716%):
+12 used cloudfront (4.477611940298507%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly

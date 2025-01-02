@@ -1,4 +1,4 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 58 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-142 used cloudflare (14.2%):
+140 used cloudflare (14.000000000000002%):
 ```
 2gis.com
 33across.com
@@ -118,7 +118,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -168,7 +167,6 @@ teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
-trendyol.com
 uber.com
 umich.edu
 unpkg.com
@@ -189,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -197,11 +195,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
-amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -288,7 +284,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
