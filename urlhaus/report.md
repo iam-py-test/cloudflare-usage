@@ -1,4 +1,4 @@
-313 domains tested. 85.62300319488818% were behind nothing (45 were behind something). 23 domains could not be tested.<br>
+287 domains tested. 78.74564459930313% were behind nothing (61 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,30 +19,27 @@
 
 ```
 
-22 used cloudflare (7.0287539936102235%):
+19 used cloudflare (6.620209059233449%):
 ```
 adf6.adf6.com
 api.ewfiles.net
-awakka-aws3.zoho-documents.com
 crystalpvp.ru
 deduhko2.kliphuwatey.shop
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-goatstuff.shop
 hitman-pro.ru
 imtoken8.cc
-kliphuqibue.shop
-klipzynigou.shop
-ksmarjaa.cloud
-microsoft-analyse.com
+jrqh-hk.com
+lev-tolstoi.com
+obm.catching.fishingrealinvestments.com
 reusable-flex.com
 solve.vwglq.com
+treehoneyi.click
 utorrent-servers.xyz
 www.blackhattoolz.com
-x1.klipzynigou.shop
-xn--yh4bx88a.com
+xanaxspoofer.com
 ```
 
 0 used cloudfront (0.0%):
@@ -100,7 +97,7 @@ xn--yh4bx88a.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.34843205574912894%):
 ```
-
+cdn.ps5.zip
 ```
