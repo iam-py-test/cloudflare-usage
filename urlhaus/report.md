@@ -1,4 +1,4 @@
-287 domains tested. 78.74564459930313% were behind nothing (61 were behind something). 41 domains could not be tested.<br>
+333 domains tested. 83.18318318318319% were behind nothing (56 were behind something). 31 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,33 @@
 
 ```
 
-19 used cloudflare (6.620209059233449%):
+25 used cloudflare (7.5075075075075075%):
 ```
+3ktamthaitu.com
 adf6.adf6.com
-api.ewfiles.net
+bladeglass.icu
 crystalpvp.ru
-deduhko2.kliphuwatey.shop
+digitalarmor.cyou
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
+due.center
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
-lev-tolstoi.com
+judgesink.xyz
+leyamond.com
 obm.catching.fishingrealinvestments.com
 reusable-flex.com
-solve.vwglq.com
+solve.jrqr.org
+t1.awagama.org
+t3.awagama.org
 treehoneyi.click
 utorrent-servers.xyz
 www.blackhattoolz.com
 xanaxspoofer.com
+xn--yh4bx88a.com
 ```
 
 0 used cloudfront (0.0%):
@@ -97,7 +103,7 @@ xanaxspoofer.com
 
 ```
 
-1 used netlify (0.34843205574912894%):
+0 used netlify (0.0%):
 ```
-cdn.ps5.zip
+
 ```
