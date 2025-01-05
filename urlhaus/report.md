@@ -1,4 +1,4 @@
-333 domains tested. 83.18318318318319% were behind nothing (56 were behind something). 31 domains could not be tested.<br>
+359 domains tested. 84.958217270195% were behind nothing (54 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,11 @@
 
 ```
 
-25 used cloudflare (7.5075075075075075%):
+26 used cloudflare (7.242339832869081%):
 ```
 3ktamthaitu.com
 adf6.adf6.com
+api.ewfiles.net
 bladeglass.icu
 crystalpvp.ru
 digitalarmor.cyou
@@ -33,15 +34,15 @@ downsexv.com
 due.center
 hitman-pro.ru
 imtoken8.cc
-jrqh-hk.com
+infomsghub.com
 judgesink.xyz
 leyamond.com
-obm.catching.fishingrealinvestments.com
+lol.theeyefirewall.su
+microsoft-analyse.com
 reusable-flex.com
 solve.jrqr.org
 t1.awagama.org
 t3.awagama.org
-treehoneyi.click
 utorrent-servers.xyz
 www.blackhattoolz.com
 xanaxspoofer.com
