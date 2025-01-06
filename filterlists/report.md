@@ -1,4 +1,4 @@
-216 domains tested. 59.72222222222222% were behind nothing (87 were behind something). 9 domains could not be tested.<br>
+216 domains tested. 60.18518518518518% were behind nothing (86 were behind something). 7 domains could not be tested.<br>
 5 used akamai (2.314814814814815%):
 ```
 easylist-downloads.adblockplus.org
@@ -80,9 +80,10 @@ www.stopforumspam.com
 zonefiles.io
 ```
 
-1 used cloudfront (0.4629629629629629%):
+2 used cloudfront (0.9259259259259258%):
 ```
 isc.sans.edu
+www.topcashback.com
 ```
 
 1 used ddosguard (0.4629629629629629%):

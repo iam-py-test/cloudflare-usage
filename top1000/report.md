@@ -76,7 +76,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-cloudinary.com
 coingecko.com
 columbia.edu
 cookiedatabase.org
@@ -102,7 +101,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -128,6 +126,7 @@ medium.com
 mgid.com
 myshopify.com
 networkadvertising.org
+nexusmods.com
 okta.com
 onesignal.com
 onetrust.com
@@ -157,6 +156,7 @@ shopify.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -186,19 +186,18 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
@@ -308,10 +307,11 @@ pikabu.ru
 
 ```
 
-6 used fastly (0.6%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
+etsy.com
 forbes.com
 github.io
 speedtest.net

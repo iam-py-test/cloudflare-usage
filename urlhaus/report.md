@@ -1,4 +1,4 @@
-359 domains tested. 84.958217270195% were behind nothing (54 were behind something). 28 domains could not be tested.<br>
+396 domains tested. 89.14141414141415% were behind nothing (43 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,30 +19,23 @@
 
 ```
 
-26 used cloudflare (7.242339832869081%):
+19 used cloudflare (4.797979797979798%):
 ```
-3ktamthaitu.com
 adf6.adf6.com
 api.ewfiles.net
-bladeglass.icu
 crystalpvp.ru
-digitalarmor.cyou
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-due.center
 hitman-pro.ru
 imtoken8.cc
 infomsghub.com
-judgesink.xyz
-leyamond.com
 lol.theeyefirewall.su
 microsoft-analyse.com
+myfilebuilders.com
 reusable-flex.com
-solve.jrqr.org
-t1.awagama.org
-t3.awagama.org
+usual-moneys.com
 utorrent-servers.xyz
 www.blackhattoolz.com
 xanaxspoofer.com
