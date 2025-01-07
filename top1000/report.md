@@ -1,4 +1,4 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 59 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -186,19 +186,18 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -228,6 +227,7 @@ economist.com
 elasticbeanstalk.com
 epa.gov
 espn.com
+espressif.com
 europa.eu
 eventbrite.com
 flickr.com
@@ -254,7 +254,6 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
-nubank.com.br
 onet.pl
 otto.de
 pbs.org
@@ -307,11 +306,10 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
