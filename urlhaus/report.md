@@ -1,4 +1,4 @@
-387 domains tested. 88.37209302325581% were behind nothing (45 were behind something). 22 domains could not be tested.<br>
+438 domains tested. 80.13698630136986% were behind nothing (87 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,74 @@
 
 ```
 
-23 used cloudflare (5.943152454780361%):
+68 used cloudflare (15.52511415525114%):
 ```
 adf6.adf6.com
 admin.extranet-recaptcha.com
-amazonenviro.com
+aerodromeabase.com
 api.ewfiles.net
+app.chalnlizt.org
+app.cihainlst.org
+app.dogs-airdp.com
+app.symbieitc.com
+app.symbietic.com
+app.symblatic.com
+app.synbioltic.com
+bgptools-wildcard-confirmed.phavtom-v3.com
+bplnetempresas.com
+chalnlizt.org
+check-googlle.com
+chromewebstore.google.com.v2-rubby.com
+cihainlst.org
+com.v2-rubby.com
+comteste.com
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
+dogs-airdp.com
 down.mvip8.ru
 downsexv.com
+euro-mago.com
+frezorapp.io
 hitman-pro.ru
+human-bot-view.chalnlizt.org
+imtoken8.cc
 infomsghub.com
+io-suite-web.com
 jrqh-hk.com
 klipdesak.shop
-microsoft-analyse.com
-myfilebuilders.com
+manflle.com
+miner-tolken.com
+mktgads.com
+onsuitex.com
+phaimtom.com
+phatom-we.com
+phavtom-v2.com
+phavtom-v3.com
+portalonline-simplespgme.online
+portalreceitafazenda.com
+re-capcha.cfd
 reusable-flex.com
+ronnin-v2.com
 simplerwebs.space
-usual-moneys.com
+symbiatec-fi.com
+symbiatic-fi.com
+symbietic.com
+symblatic.com
+symdlotic.com
+synbioltic.com
+toroking.xyz
+tradr0ger.cloud
+trust-walles.com
+update-chronne.com
 utorrent-servers.xyz
+v2-rubby.com
 webhook.my
+www.aerodromeabase.com
 www.blackhattoolz.com
+www.portalreceitafazenda.com
+www.tradr0ger.cloud
+www.v2-rubby.com
 xanaxspoofer.com
 xn--yh4bx88a.com
 ```

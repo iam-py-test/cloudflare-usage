@@ -1,4 +1,4 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 59 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-140 used cloudflare (14.000000000000002%):
+141 used cloudflare (14.099999999999998%):
 ```
 2gis.com
 33across.com
@@ -147,6 +147,7 @@ princeton.edu
 prnewswire.com
 quizlet.com
 quora.com
+readthedocs.io
 researchgate.net
 roku.com
 sciencedirect.com
@@ -186,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -195,10 +196,11 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
-amazon.fr
+amazon.de
+amazon.es
 amazon.in
 amazon.it
 amazonaws.com
@@ -306,10 +308,11 @@ pikabu.ru
 
 ```
 
-6 used fastly (0.6%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
@@ -358,8 +361,7 @@ launchdarkly.com
 lencr.org
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-redislabs.com
 ```
