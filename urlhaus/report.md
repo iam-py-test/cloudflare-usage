@@ -1,4 +1,4 @@
-456 domains tested. 71.9298245614035% were behind nothing (128 were behind something). 100 domains could not be tested.<br>
+426 domains tested. 73.23943661971832% were behind nothing (114 were behind something). 86 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,31 @@
 
 ```
 
-28 used cloudflare (6.140350877192982%):
+28 used cloudflare (6.572769953051644%):
 ```
 adf6.adf6.com
-anonhax.site
+admin.bookrepluguest.com
 api.ewfiles.net
 comteste.com
-contablegbv.shop
 crystalpvp.ru
-dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
+g.gsm2.net
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
 microsoft-analyse.com
+qualquercoisa.a890027-blog.net
 rainstorm.cyou
 reusable-flex.com
 ronnin-v2.com
+solve.bogx.org
 symbiatec-fi.com
 symbietic.com
+symdlotic.com
 utorrent-servers.xyz
-web.klipdywoziy.shop
 webhook.my
-www.12515a.top
 www.blackhattoolz.com
 www.portalreceitafazenda.com
 www.v2-rubby.com

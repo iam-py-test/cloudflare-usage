@@ -1,4 +1,4 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 59 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-139 used cloudflare (13.900000000000002%):
+137 used cloudflare (13.700000000000001%):
 ```
 2gis.com
 33across.com
@@ -101,9 +101,9 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
+hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
@@ -156,7 +156,6 @@ shopify.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -167,7 +166,6 @@ temu.com
 themeforest.net
 tinyurl.com
 uber.com
-umich.edu
 unpkg.com
 upwork.com
 vimeo.com
@@ -185,20 +183,22 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
-amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -230,7 +230,6 @@ espressif.com
 europa.eu
 eventbrite.com
 flickr.com
-geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -305,11 +304,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
