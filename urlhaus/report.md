@@ -1,4 +1,4 @@
-351 domains tested. 87.17948717948718% were behind nothing (45 were behind something). 17 domains could not be tested.<br>
+368 domains tested. 85.59782608695652% were behind nothing (53 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,37 @@
 
 ```
 
-28 used cloudflare (7.977207977207977%):
+36 used cloudflare (9.782608695652174%):
 ```
 adf6.adf6.com
-admin.bookrepluguest.com
+admin.capctha.world
 api.ewfiles.net
+attendesrooms899334.world
+bookkeeping.wannanxi.com
 comteste.com
 crystalpvp.ru
+d1.exploredairyaptitude.shop
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-g.gsm2.net
+googlsearchings.shop
 historyfiles.ru
 imtoken8.cc
 jrqh-hk.com
 miner-tolken.com
-qualquercoisa.a890027-blog.net
 reusable-flex.com
 ronnin-v2.com
-solve.bogx.org
+royaltyfree.cfd
+royaltyfree.click
+sharethewebs.shop
+solve.porw.org
 symbiatec-fi.com
-symbietic.com
 symdlotic.com
+thepremiumstuffs.click
+thepremiumstuffs.shop
+thepremiumstuffs.xyz
+us.hackazon.org
 utorrent-servers.xyz
 webhook.my
 www.blackhattoolz.com
