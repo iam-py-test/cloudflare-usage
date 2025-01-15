@@ -1,4 +1,4 @@
-368 domains tested. 85.59782608695652% were behind nothing (53 were behind something). 17 domains could not be tested.<br>
+404 domains tested. 85.14851485148515% were behind nothing (60 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,42 +19,49 @@
 
 ```
 
-36 used cloudflare (9.782608695652174%):
+43 used cloudflare (10.643564356435643%):
 ```
+0x1531.info
+1xbookeidient.info
 adf6.adf6.com
+admin.bookviewreserve.com
 admin.capctha.world
+admin.capthca.world
+aleksandr-block.com
+amazon-ny-gifts.com
 api.ewfiles.net
-attendesrooms899334.world
 bookkeeping.wannanxi.com
+cbveri.app
+cdn-connect.docusigner.info
 comteste.com
-crystalpvp.ru
 d1.exploredairyaptitude.shop
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
+fixecondfirbook.info
+googlsearchings.click
+googlsearchings.guru
 googlsearchings.shop
-historyfiles.ru
+googlsearchings.wiki
+hitman-pro.ru
+ifuckyourpc.win
 imtoken8.cc
-jrqh-hk.com
 miner-tolken.com
+razer-partners.com
 reusable-flex.com
 ronnin-v2.com
-royaltyfree.cfd
 royaltyfree.click
 sharethewebs.shop
 solve.porw.org
+solve.xfzz.org
 symbiatec-fi.com
+symbietic.com
 symdlotic.com
-thepremiumstuffs.click
-thepremiumstuffs.shop
-thepremiumstuffs.xyz
 us.hackazon.org
 utorrent-servers.xyz
-webhook.my
 www.blackhattoolz.com
 www.portalreceitafazenda.com
-www.v2-rubby.com
 xanaxspoofer.com
 xn--yh4bx88a.com
 ```
