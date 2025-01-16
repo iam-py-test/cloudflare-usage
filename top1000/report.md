@@ -1,4 +1,4 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+139 used cloudflare (13.900000000000002%):
 ```
 2gis.com
 33across.com
@@ -71,6 +71,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+classlink.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -92,6 +93,7 @@ discord.media
 discordapp.com
 dnsmadeeasy.com
 docker.com
+docker.io
 entrust.net
 epicgames.com
 fiverr.com
@@ -99,6 +101,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -182,7 +185,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -198,7 +201,6 @@ amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -263,7 +265,6 @@ rapid7.com
 realtor.com
 repubblica.it
 reuters.com
-ryanair.com
 shalltry.com
 sharethis.com
 shutterstock.com
