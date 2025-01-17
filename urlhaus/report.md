@@ -1,4 +1,4 @@
-405 domains tested. 85.67901234567901% were behind nothing (58 were behind something). 21 domains could not be tested.<br>
+371 domains tested. 84.36657681940702% were behind nothing (58 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,43 +19,39 @@
 
 ```
 
-37 used cloudflare (9.135802469135802%):
+33 used cloudflare (8.89487870619946%):
 ```
-0x1531.info
-1xbookeidient.info
 adf6.adf6.com
-admin.capthca.world
-aleksandr-block.com
 api.ewfiles.net
-cbveri.app
-cdn-connect.docusigner.info
 comteste.com
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-googlsearchings.click
-googlsearchings.guru
-googlsearchings.wiki
+e1.foiloverturnarrival.shop
+eprimemart.shop
+f1.foiloverturnarrival.shop
 hitman-pro.ru
-ifuckyourpc.win
 imtoken8.cc
 jrqh-hk.com
+lojadasmetas.com.br
+microsoft-analyse.com
+miner-tolken.com
 motoruniverse.com
-razer-partners.com
 reusable-flex.com
 ronnin-v2.com
-solve.lzmb.org
-sub.sertechno.com.br
+servivemirctosoftliveanble.top
+situacaonssprj.com
+sparticus.shop
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
 utorrent-servers.xyz
+vlrt-gap.com
 webhook.my
 weixe.ir
 www.blackhattoolz.com
-www.portalreceitafazenda.com
 xanaxspoofer.com
 xn--yh4bx88a.com
 ```
