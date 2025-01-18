@@ -1,5 +1,5 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 62 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 61 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -12,6 +12,7 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
+fedex.com
 godaddy.com
 hm.com
 hp.com
@@ -193,12 +194,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
