@@ -1,31 +1,19 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 61 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 67.5% were behind nothing (325 were behind something). 55 domains could not be tested.<br>
+13 used akamai (1.3%):
 ```
 accuweather.com
-adobe.com
-adobe.net
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
-dell.com
 ebay.co.uk
 ebay.com
 ebay.de
-fda.gov
 fedex.com
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
+ups.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -102,7 +90,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -150,6 +137,7 @@ prnewswire.com
 quizlet.com
 quora.com
 readthedocs.io
+redislabs.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -186,7 +174,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -194,12 +182,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.com
+amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -254,14 +242,12 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
-nubank.com.br
 onet.pl
 otto.de
 pbs.org
 primevideo.com
 pubmatic.com
 rapid7.com
-realtor.com
 repubblica.it
 reuters.com
 shalltry.com
@@ -305,12 +291,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
@@ -359,8 +344,7 @@ launchdarkly.com
 lencr.org
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-redislabs.com
 ```

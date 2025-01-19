@@ -1,4 +1,4 @@
-358 domains tested. 82.12290502793296% were behind nothing (64 were behind something). 22 domains could not be tested.<br>
+341 domains tested. 81.52492668621701% were behind nothing (63 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,48 +19,52 @@
 
 ```
 
-42 used cloudflare (11.731843575418994%):
+46 used cloudflare (13.48973607038123%):
 ```
 adf6.adf6.com
 admin.bookmanagereserve.com
 api.ewfiles.net
+api3-telegram.cyou
 bahelp.top
+bgptools-wildcard-confirmed.phavtom-v3.com
 boldway.shop
+bookidindinetfikat.world
 comteste.com
 crystalpvp.ru
 d1.exploredairyaptitude.shop
 dl.aginjector.com
 do-dear.com
 dogeiabs.com
+dogs-airdp.com
 down.mvip8.ru
 downsexv.com
 e1.foiloverturnarrival.shop
 edealselite.shop
-eprimemart.shop
 eretailzone.shop
-f1.foiloverturnarrival.shop
+extgraknetbookidhotel.com
 file.plusgbwhats.app
+hhhh.klipcewucyu.shop
 hitman-pro.ru
-lojadasmetas.com.br
+imtoken8.cc
+io-suite-web.com
+jrqh-hk.com
+lkju.daowsistem.com
 microsoft-analyse.com
 miner-tolken.com
+mktgads.com
 n.kliphirofey.shop
 n2.bathglorifycalculate.shop
-propeiertyhotelid.top
-propierty-hotelid424497.com
 reusable-flex.com
 ronnin-v2.com
-servivemirctosoftliveanble.top
-situacaonssprj.com
-sparticus.shop
+sedman.shop
+solve.nkve.org
 symbiatec-fi.com
 symbietic.com
-symdlotic.com
+trust-walles.com
+update-chronne.com
 utorrent-servers.xyz
-webhook.my
 weixe.ir
-www.blackhattoolz.com
-xanaxspoofer.com
+www.v2-rubby.com
 xn--yh4bx88a.com
 zooominvite.es
 ```
