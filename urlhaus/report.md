@@ -1,4 +1,4 @@
-341 domains tested. 81.52492668621701% were behind nothing (63 were behind something). 17 domains could not be tested.<br>
+353 domains tested. 83.56940509915015% were behind nothing (58 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,30 +19,18 @@
 
 ```
 
-46 used cloudflare (13.48973607038123%):
+37 used cloudflare (10.48158640226629%):
 ```
 adf6.adf6.com
-admin.bookmanagereserve.com
 api.ewfiles.net
-api3-telegram.cyou
-bahelp.top
 bgptools-wildcard-confirmed.phavtom-v3.com
-boldway.shop
-bookidindinetfikat.world
 comteste.com
-crystalpvp.ru
-d1.exploredairyaptitude.shop
 dl.aginjector.com
 do-dear.com
-dogeiabs.com
 dogs-airdp.com
 down.mvip8.ru
 downsexv.com
-e1.foiloverturnarrival.shop
-edealselite.shop
-eretailzone.shop
-extgraknetbookidhotel.com
-file.plusgbwhats.app
+expertdevelopers.cyou
 hhhh.klipcewucyu.shop
 hitman-pro.ru
 imtoken8.cc
@@ -50,23 +38,26 @@ io-suite-web.com
 jrqh-hk.com
 lkju.daowsistem.com
 microsoft-analyse.com
-miner-tolken.com
 mktgads.com
 n.kliphirofey.shop
-n2.bathglorifycalculate.shop
+n.kliphyzivui.shop
+raven-security.com
 reusable-flex.com
 ronnin-v2.com
+rosecloud-security.com
+safenetwork.cyou
 sedman.shop
 solve.nkve.org
 symbiatec-fi.com
 symbietic.com
+symdlotic.com
 trust-walles.com
 update-chronne.com
 utorrent-servers.xyz
-weixe.ir
+verif-anti-bot.com
+www.blackhattoolz.com
 www.v2-rubby.com
 xn--yh4bx88a.com
-zooominvite.es
 ```
 
 0 used cloudfront (0.0%):
@@ -74,9 +65,9 @@ zooominvite.es
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.28328611898017%):
 ```
-
+sergiolamoski.com
 ```
 
 0 used edgecast (0.0%):

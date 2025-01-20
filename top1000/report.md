@@ -1,4 +1,4 @@
-1000 domains tested. 67.5% were behind nothing (325 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 67.0% were behind nothing (330 were behind something). 56 domains could not be tested.<br>
 13 used akamai (1.3%):
 ```
 accuweather.com
@@ -31,7 +31,7 @@ b-cdn.net
 
 ```
 
-139 used cloudflare (13.900000000000002%):
+141 used cloudflare (14.099999999999998%):
 ```
 2gis.com
 33across.com
@@ -90,6 +90,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -157,6 +158,7 @@ temu.com
 themeforest.net
 tinyurl.com
 uber.com
+umich.edu
 unpkg.com
 upwork.com
 vimeo.com
@@ -174,19 +176,20 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
+amazon.co.jp
+amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -206,6 +209,7 @@ chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
+cox.net
 datadoghq.com
 deviantart.com
 doi.org
