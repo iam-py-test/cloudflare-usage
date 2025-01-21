@@ -21,8 +21,10 @@ cdn.speedcurve.com
 cdn.taboola.com
 ch.pinterest.com
 charts-images.scdn.co
+cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
+co.pinterest.com
 ct.pinterest.com
 cz.pinterest.com
 d.sni.global.fastly.net
@@ -49,6 +51,7 @@ embed.acuityscheduling.com
 es.pinterest.com
 external-preview.redd.it
 f.vimeocdn.com
+fi.pinterest.com
 forbes.com
 fr.pinterest.com
 g1.nyt.com
@@ -67,16 +70,16 @@ hw-cdn2.adtng.com
 i.ebayimg.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-eu.ssl-images-amazon.com
 imgix.datadoghq.com
-in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -84,7 +87,6 @@ jp.pinterest.com
 jsdelivr.map.fastly.net
 kr.pinterest.com
 lineup-images.scdn.co
-m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -129,6 +131,7 @@ s.imgur.com
 s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
+se.pinterest.com
 seeded-session-images.scdn.co
 sk.pinterest.com
 sourcepoint.theguardian.com
@@ -162,6 +165,7 @@ www-amazon-com.customer.fastly.net
 www.bbc.co.uk
 www.bbc.com
 www.cnn.com
+www.ebay.com.hk
 www.etsy.com
 www.fastly-insights.com
 www.fastly.com
@@ -178,7 +182,9 @@ www.pinterest.co.uk
 www.pinterest.com
 www.pinterest.com.au
 www.pinterest.com.mx
+www.pinterest.de
 www.pinterest.dk
+www.pinterest.es
 www.pinterest.fr
 www.pinterest.jp
 www.pinterest.nz

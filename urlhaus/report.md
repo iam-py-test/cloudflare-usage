@@ -1,4 +1,4 @@
-353 domains tested. 83.56940509915015% were behind nothing (58 were behind something). 20 domains could not be tested.<br>
+350 domains tested. 84.28571428571429% were behind nothing (55 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,40 @@
 
 ```
 
-37 used cloudflare (10.48158640226629%):
+33 used cloudflare (9.428571428571429%):
 ```
 adf6.adf6.com
 api.ewfiles.net
-bgptools-wildcard-confirmed.phavtom-v3.com
+cdn-connect.docusigner.info
+cheerfuldelights.shop
 comteste.com
+crystalpvp.ru
+digitalcrafters.cyou
 dl.aginjector.com
 do-dear.com
-dogs-airdp.com
 down.mvip8.ru
 downsexv.com
 expertdevelopers.cyou
-hhhh.klipcewucyu.shop
 hitman-pro.ru
 imtoken8.cc
-io-suite-web.com
 jrqh-hk.com
-lkju.daowsistem.com
+lol.cursinqfirewall.ru
 microsoft-analyse.com
-mktgads.com
+miner-tolken.com
 n.kliphirofey.shop
 n.kliphyzivui.shop
-raven-security.com
+raw.brewmacos.com
 reusable-flex.com
 ronnin-v2.com
 rosecloud-security.com
-safenetwork.cyou
-sedman.shop
-solve.nkve.org
-symbiatec-fi.com
+safesolutions.cyou
+solve.hhxe.org
 symbietic.com
 symdlotic.com
-trust-walles.com
-update-chronne.com
-utorrent-servers.xyz
+truecoders.cyou
 verif-anti-bot.com
 www.blackhattoolz.com
-www.v2-rubby.com
+www.sodiumlaurethsulfatedesyroyer.com
 xn--yh4bx88a.com
 ```
 
@@ -65,9 +61,10 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.28328611898017%):
+2 used ddosguard (0.5714285714285714%):
 ```
 sergiolamoski.com
+websites-security.com
 ```
 
 0 used edgecast (0.0%):
