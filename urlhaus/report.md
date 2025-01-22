@@ -1,4 +1,4 @@
-350 domains tested. 84.28571428571429% were behind nothing (55 were behind something). 20 domains could not be tested.<br>
+376 domains tested. 79.7872340425532% were behind nothing (76 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,19 @@
 
 ```
 
-33 used cloudflare (9.428571428571429%):
+52 used cloudflare (13.829787234042554%):
 ```
 adf6.adf6.com
 api.ewfiles.net
+bargaincove.shop
+bigpick.shop
+budgetmart.shop
+budgetsphere.shop
+budgetvibe.shop
+buyloom.shop
 cdn-connect.docusigner.info
 cheerfuldelights.shop
+codeguardians.cyou
 comteste.com
 crystalpvp.ru
 digitalcrafters.cyou
@@ -32,24 +39,36 @@ dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
-expertdevelopers.cyou
+driftcharm.shop
+dunewave.shop
+ebazaarelite.shop
+ebuyelite.shop
+ebuymore.shop
+ecartdirect.shop
+echoicedeals.shop
+edirect.shop
+emarketelite.shop
+eoutletpro.shop
+eprime.shop
+estorepro.shop
+facturasgaso.shop
+generalskalsk.net
+guard-security.net
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
 lol.cursinqfirewall.ru
 microsoft-analyse.com
 miner-tolken.com
-n.kliphirofey.shop
-n.kliphyzivui.shop
+n2.aroundpayablequirk.shop
 raw.brewmacos.com
 reusable-flex.com
 ronnin-v2.com
-rosecloud-security.com
-safesolutions.cyou
-solve.hhxe.org
-symbietic.com
+securenet.cyou
+symbiatec-fi.com
 symdlotic.com
-truecoders.cyou
+u1.servicelandingkaraoke.shop
+utorrent-servers.xyz
 verif-anti-bot.com
 www.blackhattoolz.com
 www.sodiumlaurethsulfatedesyroyer.com
@@ -61,7 +80,7 @@ xn--yh4bx88a.com
 
 ```
 
-2 used ddosguard (0.5714285714285714%):
+2 used ddosguard (0.5319148936170213%):
 ```
 sergiolamoski.com
 websites-security.com

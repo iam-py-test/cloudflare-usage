@@ -1,5 +1,5 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 56 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 57 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -20,13 +20,11 @@ intel.com
 intuit.com
 lowes.com
 macys.com
-marriott.com
 mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +42,7 @@ b-cdn.net
 
 ```
 
-142 used cloudflare (14.2%):
+140 used cloudflare (14.000000000000002%):
 ```
 2gis.com
 33across.com
@@ -87,7 +85,6 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
-digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -103,7 +100,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -119,6 +115,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -161,7 +158,6 @@ shopify.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
-spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -190,18 +186,19 @@ zendesk.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
 amazon.it
 amazonaws.com
@@ -222,6 +219,7 @@ chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
+cox.net
 datadoghq.com
 deviantart.com
 doi.org
