@@ -1,4 +1,4 @@
-376 domains tested. 79.7872340425532% were behind nothing (76 were behind something). 22 domains could not be tested.<br>
+365 domains tested. 67.67123287671232% were behind nothing (118 were behind something). 86 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,17 @@
 
 ```
 
-52 used cloudflare (13.829787234042554%):
+30 used cloudflare (8.21917808219178%):
 ```
 adf6.adf6.com
+admin.bookviewextranet.com
 api.ewfiles.net
-bargaincove.shop
-bigpick.shop
-budgetmart.shop
-budgetsphere.shop
-budgetvibe.shop
-buyloom.shop
-cdn-connect.docusigner.info
-cheerfuldelights.shop
 codeguardians.cyou
 comteste.com
 crystalpvp.ru
-digitalcrafters.cyou
 dl.aginjector.com
-do-dear.com
 down.mvip8.ru
 downsexv.com
-driftcharm.shop
-dunewave.shop
-ebazaarelite.shop
-ebuyelite.shop
-ebuymore.shop
-ecartdirect.shop
-echoicedeals.shop
-edirect.shop
-emarketelite.shop
-eoutletpro.shop
-eprime.shop
-estorepro.shop
 facturasgaso.shop
 generalskalsk.net
 guard-security.net
@@ -59,17 +38,16 @@ imtoken8.cc
 jrqh-hk.com
 lol.cursinqfirewall.ru
 microsoft-analyse.com
-miner-tolken.com
 n2.aroundpayablequirk.shop
-raw.brewmacos.com
+phimiclzwe.top
 reusable-flex.com
 ronnin-v2.com
 securenet.cyou
 symbiatec-fi.com
+symbietic.com
 symdlotic.com
 u1.servicelandingkaraoke.shop
 utorrent-servers.xyz
-verif-anti-bot.com
 www.blackhattoolz.com
 www.sodiumlaurethsulfatedesyroyer.com
 xn--yh4bx88a.com
@@ -80,7 +58,7 @@ xn--yh4bx88a.com
 
 ```
 
-2 used ddosguard (0.5319148936170213%):
+2 used ddosguard (0.547945205479452%):
 ```
 sergiolamoski.com
 websites-security.com
