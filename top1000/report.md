@@ -1,5 +1,5 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mobile.de
 mysql.com
 news.com.au
@@ -58,7 +59,6 @@ attn.tv
 berkeley.edu
 bitdefender.com
 bluehost.com
-bootstrapcdn.com
 box.com
 branch.io
 braze.com
@@ -72,6 +72,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+classlink.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -86,6 +87,7 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
+digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -172,7 +174,6 @@ tinyurl.com
 uber.com
 umich.edu
 unpkg.com
-upwork.com
 vimeo.com
 vmware.com
 vungle.com
@@ -204,6 +205,7 @@ amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -286,7 +288,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -308,13 +309,11 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

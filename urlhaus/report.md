@@ -1,4 +1,4 @@
-365 domains tested. 67.67123287671232% were behind nothing (118 were behind something). 86 domains could not be tested.<br>
+271 domains tested. 81.54981549815497% were behind nothing (50 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,36 @@
 
 ```
 
-30 used cloudflare (8.21917808219178%):
+29 used cloudflare (10.70110701107011%):
 ```
+60d427489.kliplubuziy.shop
 adf6.adf6.com
 admin.bookviewextranet.com
 api.ewfiles.net
-codeguardians.cyou
+asping.klipnozenui.shop
+bit.kliplubuziy.shop
 comteste.com
 crystalpvp.ru
 dl.aginjector.com
+do-dear.com
 down.mvip8.ru
 downsexv.com
 facturasgaso.shop
-generalskalsk.net
-guard-security.net
 hitman-pro.ru
 imtoken8.cc
-jrqh-hk.com
-lol.cursinqfirewall.ru
 microsoft-analyse.com
-n2.aroundpayablequirk.shop
+miner-tolken.com
+openline.cyou
 phimiclzwe.top
+primepoint.cyou
+re-botcheck.com
 reusable-flex.com
 ronnin-v2.com
-securenet.cyou
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-u1.servicelandingkaraoke.shop
 utorrent-servers.xyz
 www.blackhattoolz.com
-www.sodiumlaurethsulfatedesyroyer.com
 xn--yh4bx88a.com
 ```
 
@@ -58,9 +57,8 @@ xn--yh4bx88a.com
 
 ```
 
-2 used ddosguard (0.547945205479452%):
+1 used ddosguard (0.36900369003690037%):
 ```
-sergiolamoski.com
 websites-security.com
 ```
 
