@@ -1,5 +1,5 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.5% were behind nothing (345 were behind something). 58 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -21,7 +21,6 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mobile.de
 mysql.com
 news.com.au
@@ -202,8 +201,7 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.es
-amazon.fr
+amazon.de
 amazon.in
 amazon.it
 amazonaws.com
@@ -288,6 +286,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
