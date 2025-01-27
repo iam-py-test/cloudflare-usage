@@ -1,4 +1,4 @@
-260 domains tested. 81.92307692307692% were behind nothing (47 were behind something). 20 domains could not be tested.<br>
+254 domains tested. 81.88976377952756% were behind nothing (46 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,24 @@
 
 ```
 
-26 used cloudflare (10.0%):
+23 used cloudflare (9.05511811023622%):
 ```
 adf6.adf6.com
 api.ewfiles.net
-atndsrmsrdf094312.world
 comteste.com
 crystalpvp.ru
 destinystealer.com
 dl.aginjector.com
+do-dear.com
 down.mvip8.ru
 downsexv.com
-facturashorto.shop
+ffn.theeyefirewall.su
 hitman-pro.ru
-imtoken8.cc
 jrqh-hk.com
 microsoft-analyse.com
 miner-tolken.com
 nicostudio.it
-re-botcheck.com
 reusable-flex.com
-ripplemascot.money
 ronnin-v2.com
 symbiatec-fi.com
 symbietic.com
@@ -54,8 +51,9 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.38461538461538464%):
+2 used ddosguard (0.7874015748031495%):
 ```
+sergiolamoski.com
 websites-security.com
 ```
 
