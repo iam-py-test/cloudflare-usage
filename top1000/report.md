@@ -1,4 +1,4 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 56 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -44,11 +44,10 @@ b-cdn.net
 
 ```
 
-141 used cloudflare (14.099999999999998%):
+138 used cloudflare (13.8%):
 ```
 2gis.com
 33across.com
-3ona.co
 addtoany.com
 allaboutcookies.org
 alphonso.tv
@@ -82,7 +81,6 @@ columbia.edu
 cookiedatabase.org
 cookielaw.org
 creativecommons.org
-crypto.com
 deepintent.com
 deepl.com
 delfi.lt
@@ -103,7 +101,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -119,7 +116,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -162,6 +158,7 @@ shopify.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -189,17 +186,18 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -308,10 +306,11 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 forbes.com
 github.io

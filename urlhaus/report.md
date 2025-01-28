@@ -1,4 +1,4 @@
-254 domains tested. 81.88976377952756% were behind nothing (46 were behind something). 21 domains could not be tested.<br>
+267 domains tested. 83.14606741573034% were behind nothing (45 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,23 +19,26 @@
 
 ```
 
-23 used cloudflare (9.05511811023622%):
+27 used cloudflare (10.112359550561797%):
 ```
 adf6.adf6.com
 api.ewfiles.net
+booking.complaingustase.com
+booking.secureparners.com
 comteste.com
 crystalpvp.ru
-destinystealer.com
+deewpn.com
 dl.aginjector.com
 do-dear.com
-down.mvip8.ru
 downsexv.com
 ffn.theeyefirewall.su
 hitman-pro.ru
+imtoken8.cc
 jrqh-hk.com
+mango.deewpn.com
 microsoft-analyse.com
 miner-tolken.com
-nicostudio.it
+re-antibot.com
 reusable-flex.com
 ronnin-v2.com
 symbiatec-fi.com
@@ -44,6 +47,7 @@ symdlotic.com
 utorrent-servers.xyz
 www.blackhattoolz.com
 xn--yh4bx88a.com
+xorok.shop
 ```
 
 0 used cloudfront (0.0%):
@@ -51,10 +55,9 @@ xn--yh4bx88a.com
 
 ```
 
-2 used ddosguard (0.7874015748031495%):
+0 used ddosguard (0.0%):
 ```
-sergiolamoski.com
-websites-security.com
+
 ```
 
 0 used edgecast (0.0%):
