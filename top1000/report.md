@@ -1,4 +1,4 @@
-1000 domains tested. 65.5% were behind nothing (345 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 61 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -101,7 +101,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -117,6 +116,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -131,7 +131,6 @@ nexusmods.com
 okta.com
 onesignal.com
 onetrust.com
-online.net
 onlyfans.com
 openai.com
 openstreetmap.org
@@ -159,6 +158,7 @@ shopify.com
 skroutz.gr
 sourceforge.net
 spamhaus.org
+spankbang.com
 stackoverflow.com
 statcounter.com
 substack.com
@@ -186,7 +186,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -194,12 +194,11 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.com
+amazon.co.jp
+amazon.co.uk
 amazon.com.au
 amazon.com.br
-amazon.de
-amazon.es
-amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -234,6 +233,7 @@ espressif.com
 europa.eu
 eventbrite.com
 flickr.com
+geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -265,7 +265,6 @@ rapid7.com
 repubblica.it
 reuters.com
 shalltry.com
-sharethis.com
 shutterstock.com
 si.com
 soundcloud.com
@@ -305,11 +304,13 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net

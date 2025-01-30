@@ -1,4 +1,4 @@
-311 domains tested. 76.84887459807074% were behind nothing (72 were behind something). 40 domains could not be tested.<br>
+290 domains tested. 73.44827586206897% were behind nothing (77 were behind something). 45 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,17 @@
 
 ```
 
-32 used cloudflare (10.289389067524116%):
+31 used cloudflare (10.689655172413794%):
 ```
+56wdf7avyu1.kliplytd.shop
+adf6.adf6.com
 api.ewfiles.net
-aquila.mt
 bit.smogturfprance.shop
-booking.complaingustase.com
-booking.secureparners.com
 captivatingkeepsakes.shop
 comteste.com
 crystalpvp.ru
 deewpn.com
+dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
@@ -37,22 +37,21 @@ facturashorto.shop
 gsfeb2oz1ub4.com
 hitman-pro.ru
 imtoken8.cc
+jrqh-hk.com
 lasso-security.com
 microsoft-analyse.com
 miner-tolken.com
-re-antibot.com
+officeback.info
 reusable-flex.com
 ronnin-v2.com
-secureline.cyou
-stayfitcenter.com
 staytechnation.com
+swa-recloud.fun
 symbiatec-fi.com
-symbietic.com
+symdlotic.com
 utorrent-servers.xyz
 weixe.ir
 www.blackhattoolz.com
 xn--yh4bx88a.com
-xorok.shop
 ```
 
 0 used cloudfront (0.0%):
@@ -75,9 +74,9 @@ xorok.shop
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.3448275862068966%):
 ```
-
+tualcaldia.com
 ```
 
 0 used myracloud (0.0%):
