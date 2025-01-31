@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 61 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ news.com.au
 nike.com
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -101,6 +102,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -116,7 +118,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 mdpi.com
@@ -186,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -196,9 +197,8 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.au
-amazon.com.br
-amazon.in
+amazon.com
+amazon.de
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -229,11 +229,9 @@ economist.com
 elasticbeanstalk.com
 epa.gov
 espn.com
-espressif.com
 europa.eu
 eventbrite.com
 flickr.com
-geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -304,11 +302,10 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com
