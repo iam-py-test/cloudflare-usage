@@ -1,5 +1,5 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 61 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 62 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -27,7 +27,6 @@ news.com.au
 nike.com
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -77,6 +76,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+cloudinary.com
 coingecko.com
 columbia.edu
 cookiedatabase.org
@@ -102,7 +102,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -194,11 +193,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -237,6 +234,7 @@ europa.eu
 eventbrite.com
 express.co.uk
 flickr.com
+geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -285,6 +283,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -306,11 +305,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 forbes.com
 github.io
