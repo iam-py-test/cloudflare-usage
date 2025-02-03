@@ -1,4 +1,4 @@
-276 domains tested. 78.26086956521739% were behind nothing (60 were behind something). 18 domains could not be tested.<br>
+257 domains tested. 77.82101167315176% were behind nothing (57 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,46 +19,43 @@
 
 ```
 
-41 used cloudflare (14.855072463768115%):
+38 used cloudflare (14.785992217898833%):
 ```
 adf6.adf6.com
-antibot-v2.com
+antbotsv3.com
+antlb0tv2.com
 api.ewfiles.net
-bit1.smogturfprance.shop
-booking.badrewies-guste.com
 botverifity.com
 buggi.kliprirob.shop
 check-antibot-v3.com
 comteste.com
 cracanada.org
 crystalpvp.ru
-ddddd.kliprexep.shop
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
-imtoken8.cc
 jrqh-hk.com
 microsoft-analyse.com
 miner-tolken.com
+rdmfile.eu
+recapchav3.com
 reusable-flex.com
-solve.feqy.org
+ronnin-v2.com
 solve.kxlv.org
-solve.qabi.org
+solve.nrxk.org
+solve.rlvw.org
 solve.vjgh.org
+solve.vsdd.org
 solve.wbth.org
-solve.wyji.org
 solve.xclb.org
-solve.zyde.org
 sumala.shop
 symbiatec-fi.com
 symbietic.com
-symdlotic.com
 ugg.kliprirob.shop
 uggi.kliprirob.shop
 utorrent-servers.xyz
-weixe.ir
 woolav.shop
 www.blackhattoolz.com
 xn--yh4bx88a.com
@@ -84,9 +81,9 @@ xn--yh4bx88a.com
 
 ```
 
-1 used sucuri (0.36231884057971014%):
+0 used sucuri (0.0%):
 ```
-tualcaldia.com
+
 ```
 
 0 used myracloud (0.0%):
