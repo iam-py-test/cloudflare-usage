@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 61 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 62 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -21,11 +21,9 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mobile.de
 mysql.com
 news.com.au
-nike.com
 rakuten.co.jp
 weforum.org
 ```
@@ -45,7 +43,7 @@ b-cdn.net
 
 ```
 
-137 used cloudflare (13.700000000000001%):
+135 used cloudflare (13.5%):
 ```
 2gis.com
 33across.com
@@ -85,7 +83,6 @@ cookiedatabase.org
 cookielaw.org
 creativecommons.org
 deepintent.com
-deepl.com
 delfi.lt
 digitalocean.com
 digitaloceanspaces.com
@@ -95,8 +92,6 @@ discord.gg
 discord.media
 discordapp.com
 dnsmadeeasy.com
-docker.com
-docker.io
 entrust.net
 epicgames.com
 fiverr.com
@@ -119,6 +114,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+maricopa.gov
 markmonitor.com
 mdpi.com
 media.net
@@ -186,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -195,12 +191,8 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
-amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -238,7 +230,6 @@ europa.eu
 eventbrite.com
 express.co.uk
 flickr.com
-geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -261,6 +252,7 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+onelink.me
 onet.pl
 otto.de
 pbs.org
@@ -287,7 +279,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

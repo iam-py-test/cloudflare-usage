@@ -1,4 +1,4 @@
-270 domains tested. 81.48148148148148% were behind nothing (50 were behind something). 18 domains could not be tested.<br>
+290 domains tested. 83.79310344827586% were behind nothing (47 were behind something). 16 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,32 @@
 
 ```
 
-31 used cloudflare (11.481481481481481%):
+30 used cloudflare (10.344827586206897%):
 ```
 adf6.adf6.com
 anizom.com
 antlb0tv2.com
 api.ewfiles.net
+bitlunch.smogturfprance.shop
 capcut.media
 cf-unstable.media
 comteste.com
 crystalpvp.ru
-deepsek.cfd
-dl.aginjector.com
+do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
+l1nxx.para.rip
 marketscan.me
 microsoft-analyse.com
 miner-tolken.com
 rdmfile.eu
-recapchav3.com
 recepchtav3.com
 reusable-flex.com
+rolimonss.com
 ronnin-v2.com
-solve.reqy.bet
-solve.vyzu.bet
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
@@ -74,7 +73,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used sucuri (0.3703703703703704%):
+1 used sucuri (0.3448275862068966%):
 ```
 tualcaldia.com
 ```
