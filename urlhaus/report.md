@@ -1,4 +1,4 @@
-302 domains tested. 82.78145695364239% were behind nothing (52 were behind something). 18 domains could not be tested.<br>
+303 domains tested. 80.52805280528052% were behind nothing (59 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,24 @@
 
 ```
 
-33 used cloudflare (10.927152317880795%):
+42 used cloudflare (13.861386138613863%):
 ```
 adf6.adf6.com
-anizom.com
 antiquebotv3.com
 antlb0tv2.com
 api.ewfiles.net
-check.gity.site
+booking.exsrtra-cancellesd.com
+booking.securealertsb.com
+check.alku.ink
+check.amda.ink
+check.bxayj.site
+check.cvdub.site
+check.edmer.site
+check.lolp.ink
+check.mmjdh.site
+check.owacq.site
+check.popp.ink
+check.smfd.ink
 comteste.com
 crystalpvp.ru
 dl.aginjector.com
@@ -37,19 +47,18 @@ facturasolegs.shop
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
-l1nxx.para.rip
 microsoft-analyse.com
 miner-tolken.com
-rdmfile.eu
 recepchtav3.com
 reusable-flex.com
-rolimonss.com
 ronnin-v2.com
 sb.bombeirocivil2.digital
 symbiatec-fi.com
 symbietic.com
+symdlotic.com
 upload.venomtools.in
 utorrent-servers.xyz
+v3-cetpcha.com
 weixe.ir
 www.blackhattoolz.com
 xn--yh4bx88a.com
@@ -76,9 +85,9 @@ zero-cdn.click
 
 ```
 
-1 used sucuri (0.33112582781456956%):
+0 used sucuri (0.0%):
 ```
-tualcaldia.com
+
 ```
 
 0 used myracloud (0.0%):
