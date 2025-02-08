@@ -1,4 +1,4 @@
-303 domains tested. 80.52805280528052% were behind nothing (59 were behind something). 17 domains could not be tested.<br>
+309 domains tested. 77.99352750809061% were behind nothing (68 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,50 +19,54 @@
 
 ```
 
-42 used cloudflare (13.861386138613863%):
+46 used cloudflare (14.886731391585762%):
 ```
 adf6.adf6.com
 antiquebotv3.com
 antlb0tv2.com
 api.ewfiles.net
 booking.exsrtra-cancellesd.com
+booking.patehers-ordders.com
 booking.securealertsb.com
 check.alku.ink
 check.amda.ink
 check.bxayj.site
+check.byzi.site
 check.cvdub.site
 check.edmer.site
+check.eiau.site
 check.lolp.ink
 check.mmjdh.site
 check.owacq.site
 check.popp.ink
 check.smfd.ink
+check.zovy.site
 comteste.com
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
+facturasgaso.shop
 facturasolegs.shop
 hitman-pro.ru
+imgdown.shop
 imtoken8.cc
-jrqh-hk.com
+mexfex.com
 microsoft-analyse.com
 miner-tolken.com
 recepchtav3.com
 reusable-flex.com
-ronnin-v2.com
-sb.bombeirocivil2.digital
+sexducks.com
 symbiatec-fi.com
-symbietic.com
 symdlotic.com
-upload.venomtools.in
+u2.fondnesssprayamiable.shop
+userauthme02.com
 utorrent-servers.xyz
 v3-cetpcha.com
 weixe.ir
 www.blackhattoolz.com
 xn--yh4bx88a.com
-zero-cdn.click
 ```
 
 0 used cloudfront (0.0%):
