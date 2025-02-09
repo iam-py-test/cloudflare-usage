@@ -1,4 +1,4 @@
-309 domains tested. 77.99352750809061% were behind nothing (68 were behind something). 22 domains could not be tested.<br>
+303 domains tested. 79.86798679867987% were behind nothing (61 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,19 @@
 
 ```
 
-46 used cloudflare (14.886731391585762%):
+42 used cloudflare (13.861386138613863%):
 ```
-adf6.adf6.com
-antiquebotv3.com
-antlb0tv2.com
+alphabit.vc
 api.ewfiles.net
-booking.exsrtra-cancellesd.com
+booking.extrannet-globalled.com
 booking.patehers-ordders.com
-booking.securealertsb.com
-check.alku.ink
-check.amda.ink
-check.bxayj.site
+booking.rewiewsgustforhouse.com
+c1.unearnedexpressoutlying.shop
 check.byzi.site
-check.cvdub.site
-check.edmer.site
 check.eiau.site
-check.lolp.ink
-check.mmjdh.site
-check.owacq.site
-check.popp.ink
-check.smfd.ink
 check.zovy.site
 comteste.com
+connect-cdn-api.tastinessrebaterunny.shop
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
@@ -52,21 +42,27 @@ facturasolegs.shop
 hitman-pro.ru
 imgdown.shop
 imtoken8.cc
+kvndbb3.com
 mexfex.com
 microsoft-analyse.com
 miner-tolken.com
 recepchtav3.com
 reusable-flex.com
+ronnin-v2.com
 sexducks.com
 symbiatec-fi.com
+symbietic.com
 symdlotic.com
 u2.fondnesssprayamiable.shop
+u3.fondnesssprayamiable.shop
 userauthme02.com
 utorrent-servers.xyz
 v3-cetpcha.com
 weixe.ir
 www.blackhattoolz.com
 xn--yh4bx88a.com
+yodartustteam.xyz
+zoomlu.shop
 ```
 
 0 used cloudfront (0.0%):
