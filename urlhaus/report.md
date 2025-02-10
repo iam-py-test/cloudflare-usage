@@ -1,4 +1,4 @@
-303 domains tested. 79.86798679867987% were behind nothing (61 were behind something). 19 domains could not be tested.<br>
+272 domains tested. 82.35294117647058% were behind nothing (48 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,48 +19,36 @@
 
 ```
 
-42 used cloudflare (13.861386138613863%):
+30 used cloudflare (11.029411764705882%):
 ```
+adf6.adf6.com
 alphabit.vc
 api.ewfiles.net
-booking.extrannet-globalled.com
-booking.patehers-ordders.com
+base-airdrop.co
 booking.rewiewsgustforhouse.com
 c1.unearnedexpressoutlying.shop
-check.byzi.site
-check.eiau.site
-check.zovy.site
 comteste.com
 connect-cdn-api.tastinessrebaterunny.shop
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
-down.mvip8.ru
 downsexv.com
-facturasgaso.shop
-facturasolegs.shop
 hitman-pro.ru
-imgdown.shop
 imtoken8.cc
+jrqh-hk.com
 kvndbb3.com
-mexfex.com
 microsoft-analyse.com
 miner-tolken.com
 recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
-sexducks.com
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-u2.fondnesssprayamiable.shop
-u3.fondnesssprayamiable.shop
 userauthme02.com
+userverifybot.com
 utorrent-servers.xyz
-v3-cetpcha.com
-weixe.ir
 www.blackhattoolz.com
-xn--yh4bx88a.com
 yodartustteam.xyz
 zoomlu.shop
 ```
