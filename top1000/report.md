@@ -1,8 +1,9 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 60 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -44,6 +45,7 @@ b-cdn.net
 
 136 used cloudflare (13.600000000000001%):
 ```
+2gis.com
 33across.com
 addtoany.com
 allaboutcookies.org
@@ -113,7 +115,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -190,12 +191,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -271,7 +272,6 @@ shutterstock.com
 si.com
 soundcloud.com
 state.gov
-supercell.com
 surveymonkey.com
 synology.com
 t-online.de
@@ -284,6 +284,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

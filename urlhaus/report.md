@@ -1,4 +1,4 @@
-272 domains tested. 82.35294117647058% were behind nothing (48 were behind something). 18 domains could not be tested.<br>
+331 domains tested. 67.06948640483384% were behind nothing (109 were behind something). 65 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,52 @@
 
 ```
 
-30 used cloudflare (11.029411764705882%):
+44 used cloudflare (13.293051359516618%):
 ```
 adf6.adf6.com
-alphabit.vc
+antlb0tv2.com
 api.ewfiles.net
 base-airdrop.co
-booking.rewiewsgustforhouse.com
-c1.unearnedexpressoutlying.shop
+check.agility.website
+check.alienable.shop
+check.banking1.shop
+check.cesspool.shop
+check.defendant.store
+check.jokingly.store
+check.opossum.online
+check.reentry.website
+check.riverbed.online
+check.showing.pw
+check.stench.site
+check.swung.site
+check.unmovable.online
 comteste.com
 connect-cdn-api.tastinessrebaterunny.shop
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
+down.mvip8.ru
 downsexv.com
-hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
 kvndbb3.com
+lolz.mosco.cc
 microsoft-analyse.com
 miner-tolken.com
+rbk.scalingposturestrife.shop
 recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
+strosom.soniarocha.blog
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-userauthme02.com
+u1.landladyscreenconnected.shop
+u2.latenativereunion.shop
 userverifybot.com
 utorrent-servers.xyz
+weixe.ir
 www.blackhattoolz.com
-yodartustteam.xyz
-zoomlu.shop
 ```
 
 0 used cloudfront (0.0%):
