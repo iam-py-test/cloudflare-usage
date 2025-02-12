@@ -1,4 +1,4 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 62 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -99,7 +99,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -115,6 +114,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -147,13 +147,13 @@ prnewswire.com
 quizlet.com
 quora.com
 readthedocs.io
+redislabs.com
 researchgate.net
 roku.com
 sciencedirect.com
 sharethrough.com
 shein.com
 shopify.com
-skroutz.gr
 sourceforge.net
 spamhaus.org
 stackoverflow.com
@@ -183,7 +183,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -192,13 +192,12 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
