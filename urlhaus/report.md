@@ -1,4 +1,4 @@
-298 domains tested. 77.51677852348993% were behind nothing (67 were behind something). 19 domains could not be tested.<br>
+286 domains tested. 83.91608391608392% were behind nothing (46 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,54 +19,33 @@
 
 ```
 
-48 used cloudflare (16.10738255033557%):
+27 used cloudflare (9.44055944055944%):
 ```
 adf6.adf6.com
 antiuserbot-v3.com
+antlb0tv2.com
 api.ewfiles.net
 booking.rewiewsohrbadhot.com
 check.auaaa.icu
-check.auuae.icu
-check.bkktp.icu
-check.boxiq.icu
-check.bypan.icu
-check.dodua.icu
-check.eoeou.icu
-check.gxswc.icu
-check.jaceq.icu
-check.jwkzh.icu
-check.ngsft.icu
 check.ouayu.icu
-check.qomay.icu
-check.rexie.icu
-check.roqoi.icu
-check.uayyo.icu
-check.ueiiy.icu
-check.uiayi.icu
-check.xqzcf.icu
 check.yyuuo.icu
-check.zwxhm.icu
-comteste.com
 crystalpvp.ru
-do-dear.com
+dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
-homesip.ru
 imtoken8.cc
-izumi-31.ru
+jrqh-hk.com
 microsoft-analyse.com
 miner-tolken.com
 recepchtav3.com
 reusable-flex.com
 rewiewsohrbadhot.com
 ronnin-v2.com
-rprtinfog6st.world
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-u1.subtyperesource.shop
-upload.venomtools.in
+userveriff02.com
 utorrent-servers.xyz
 www.blackhattoolz.com
 ```
