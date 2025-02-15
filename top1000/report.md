@@ -1,5 +1,5 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 62 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.5% were behind nothing (345 were behind something). 61 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -11,7 +11,6 @@ dell.com
 ebay.co.uk
 ebay.com
 ebay.de
-example.com
 fda.gov
 fedex.com
 godaddy.com
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+134 used cloudflare (13.4%):
 ```
 2gis.com
 33across.com
@@ -104,7 +103,6 @@ globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
-hugedomains.com
 ietf.org
 indeed.com
 indexww.com
@@ -141,7 +139,6 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -184,18 +181,20 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -228,6 +227,7 @@ dreamhost.com
 dribbble.com
 dynatrace.com
 economist.com
+elasticbeanstalk.com
 epa.gov
 espn.com
 europa.eu
@@ -282,7 +282,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

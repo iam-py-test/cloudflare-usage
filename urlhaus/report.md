@@ -1,4 +1,4 @@
-286 domains tested. 83.91608391608392% were behind nothing (46 were behind something). 19 domains could not be tested.<br>
+291 domains tested. 76.97594501718214% were behind nothing (67 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,54 @@
 
 ```
 
-27 used cloudflare (9.44055944055944%):
+49 used cloudflare (16.83848797250859%):
 ```
-adf6.adf6.com
-antiuserbot-v3.com
 antlb0tv2.com
 api.ewfiles.net
-booking.rewiewsohrbadhot.com
-check.auaaa.icu
-check.ouayu.icu
-check.yyuuo.icu
+booking.extranemt-heosting.com
+bot-challenge-2.com
+check.barun.icu
+check.bejim.icu
+check.boguj.icu
+check.dibeq.icu
+check.ducar.icu
+check.dyfut.icu
+check.gesom.icu
+check.givoh.icu
+check.jabyk.icu
+check.kakif.icu
+check.kamaj.icu
+check.kisut.icu
+check.limev.icu
+check.mepyw.icu
+check.nugyd.icu
+check.qejym.icu
+check.tonev.icu
+check.vizam.icu
+check.wubav.icu
+check.xibal.icu
+check.zelez.icu
+comteste.com
 crystalpvp.ru
 dl.aginjector.com
+do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
+ly.aoaee.shop
 microsoft-analyse.com
 miner-tolken.com
 recepchtav3.com
 reusable-flex.com
-rewiewsohrbadhot.com
 ronnin-v2.com
+slavutych-57.ru
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
+u1.snorehedging.shop
+upload.venomtools.in
 userveriff02.com
 utorrent-servers.xyz
 www.blackhattoolz.com
