@@ -1,4 +1,4 @@
-291 domains tested. 76.97594501718214% were behind nothing (67 were behind something). 18 domains could not be tested.<br>
+291 domains tested. 73.53951890034365% were behind nothing (77 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-49 used cloudflare (16.83848797250859%):
+58 used cloudflare (19.93127147766323%):
 ```
+adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
 booking.extranemt-heosting.com
@@ -28,32 +29,40 @@ bot-challenge-2.com
 check.barun.icu
 check.bejim.icu
 check.boguj.icu
+check.cigog.icu
+check.cobyw.icu
 check.dibeq.icu
 check.ducar.icu
 check.dyfut.icu
+check.falih.icu
 check.gesom.icu
 check.givoh.icu
 check.jabyk.icu
 check.kakif.icu
 check.kamaj.icu
 check.kisut.icu
+check.kybax.icu
 check.limev.icu
 check.mepyw.icu
+check.myvyt.icu
 check.nugyd.icu
+check.nuviq.icu
+check.qahov.icu
 check.qejym.icu
+check.qojyx.icu
 check.tonev.icu
 check.vizam.icu
 check.wubav.icu
 check.xibal.icu
+check.zamoq.icu
 check.zelez.icu
-comteste.com
+check.zovof.icu
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
 downsexv.com
 hitman-pro.ru
-imtoken8.cc
 jrqh-hk.com
 ly.aoaee.shop
 microsoft-analyse.com
@@ -66,8 +75,8 @@ symbiatec-fi.com
 symbietic.com
 symdlotic.com
 u1.snorehedging.shop
+u1.sulkuntie.shop
 upload.venomtools.in
-userveriff02.com
 utorrent-servers.xyz
 www.blackhattoolz.com
 ```
