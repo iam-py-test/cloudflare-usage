@@ -1,4 +1,4 @@
-291 domains tested. 73.53951890034365% were behind nothing (77 were behind something). 19 domains could not be tested.<br>
+291 domains tested. 75.60137457044674% were behind nothing (71 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,40 @@
 
 ```
 
-58 used cloudflare (19.93127147766323%):
+54 used cloudflare (18.556701030927837%):
 ```
+0x2394world.com
 adf6.adf6.com
+ads.green-pickle-jo.shop
 antlb0tv2.com
 api.ewfiles.net
-booking.extranemt-heosting.com
-bot-challenge-2.com
-check.barun.icu
-check.bejim.icu
-check.boguj.icu
 check.cigog.icu
 check.cobyw.icu
-check.dibeq.icu
-check.ducar.icu
-check.dyfut.icu
 check.falih.icu
-check.gesom.icu
-check.givoh.icu
-check.jabyk.icu
-check.kakif.icu
-check.kamaj.icu
-check.kisut.icu
+check.fimdp.icu
+check.gaxfd.icu
+check.goccb.icu
+check.gyhxr.icu
+check.hivrv.icu
+check.kaqpw.icu
 check.kybax.icu
-check.limev.icu
-check.mepyw.icu
+check.mojtf.icu
 check.myvyt.icu
-check.nugyd.icu
 check.nuviq.icu
+check.piqcz.icu
+check.powqg.icu
 check.qahov.icu
-check.qejym.icu
 check.qojyx.icu
-check.tonev.icu
-check.vizam.icu
-check.wubav.icu
-check.xibal.icu
+check.qoqsn.icu
+check.qyfmx.icu
+check.reqpn.icu
+check.revrb.icu
+check.tusmh.icu
 check.zamoq.icu
-check.zelez.icu
+check.zibzr.icu
 check.zovof.icu
+check.zuzcq.icu
+comteste.com
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
@@ -64,19 +60,19 @@ down.mvip8.ru
 downsexv.com
 hitman-pro.ru
 jrqh-hk.com
-ly.aoaee.shop
+ly.ardentlysqueamish.autos
 microsoft-analyse.com
 miner-tolken.com
+na-moria.ru
 recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
-slavutych-57.ru
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-u1.snorehedging.shop
+u1.giddinessrebirth.shop
 u1.sulkuntie.shop
-upload.venomtools.in
+ukrulruabank.pro
 utorrent-servers.xyz
 www.blackhattoolz.com
 ```
