@@ -1,4 +1,4 @@
-291 domains tested. 75.60137457044674% were behind nothing (71 were behind something). 17 domains could not be tested.<br>
+313 domains tested. 80.83067092651757% were behind nothing (60 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,51 +19,38 @@
 
 ```
 
-54 used cloudflare (18.556701030927837%):
+46 used cloudflare (14.696485623003195%):
 ```
 0x2394world.com
 adf6.adf6.com
 ads.green-pickle-jo.shop
 antlb0tv2.com
 api.ewfiles.net
-check.cigog.icu
-check.cobyw.icu
-check.falih.icu
-check.fimdp.icu
-check.gaxfd.icu
-check.goccb.icu
-check.gyhxr.icu
-check.hivrv.icu
-check.kaqpw.icu
-check.kybax.icu
-check.mojtf.icu
-check.myvyt.icu
-check.nuviq.icu
-check.piqcz.icu
-check.powqg.icu
-check.qahov.icu
-check.qojyx.icu
-check.qoqsn.icu
-check.qyfmx.icu
-check.reqpn.icu
-check.revrb.icu
-check.tusmh.icu
-check.zamoq.icu
-check.zibzr.icu
-check.zovof.icu
-check.zuzcq.icu
+arbitrum-exclusive.online
+booking.preview-chekaer.com
+check.bxqhq.icu
+check.bzhzm.icu
+check.hmccl.icu
+check.ngrdr.icu
+check.pvhqg.icu
+check.qvdch.icu
+check.vwfbm.icu
+check.xjlkm.icu
 comteste.com
 crystalpvp.ru
+devmodebeta.dev
 dl.aginjector.com
 do-dear.com
-down.mvip8.ru
 downsexv.com
+finansovayadopomoga.fun
+historli.ru
 hitman-pro.ru
 jrqh-hk.com
-ly.ardentlysqueamish.autos
 microsoft-analyse.com
 miner-tolken.com
 na-moria.ru
+nmvhf.com
+preview-chekaer.com
 recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
@@ -72,9 +59,14 @@ symbietic.com
 symdlotic.com
 u1.giddinessrebirth.shop
 u1.sulkuntie.shop
+uacert-onukr.com
+uaonline-savukr.xyz
+ufasedov.ru
+ukrbord-uacom.com
 ukrulruabank.pro
 utorrent-servers.xyz
 www.blackhattoolz.com
+www.ukr-gov-idua.com
 ```
 
 0 used cloudfront (0.0%):
