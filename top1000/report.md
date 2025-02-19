@@ -1,19 +1,32 @@
-1000 domains tested. 67.2% were behind nothing (328 were behind something). 58 domains could not be tested.<br>
-13 used akamai (1.3%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 61 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
+adobe.net
+arubanetworks.com
+autodesk.com
 dailymail.co.uk
+dell.com
 ebay.co.uk
 ebay.com
 ebay.de
+fda.gov
 fedex.com
+godaddy.com
+hm.com
 hp.com
+intel.com
 intuit.com
 lowes.com
+macys.com
+marriott.com
 mobile.de
 mysql.com
+news.com.au
 rakuten.co.jp
-ups.com
+weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -31,7 +44,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+134 used cloudflare (13.4%):
 ```
 2gis.com
 33across.com
@@ -71,6 +84,7 @@ cookiedatabase.org
 cookielaw.org
 creativecommons.org
 deepintent.com
+deepl.com
 delfi.lt
 digitalocean.com
 digitaloceanspaces.com
@@ -87,7 +101,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -102,7 +115,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -170,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -179,12 +191,11 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
-amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -214,7 +225,6 @@ dreamhost.com
 dribbble.com
 dynatrace.com
 economist.com
-elasticbeanstalk.com
 epa.gov
 espn.com
 europa.eu
@@ -291,11 +301,13 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
