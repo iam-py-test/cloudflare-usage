@@ -1,4 +1,4 @@
-320 domains tested. 75.0% were behind nothing (80 were behind something). 17 domains could not be tested.<br>
+323 domains tested. 76.16099071207431% were behind nothing (77 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,30 @@
 
 ```
 
-63 used cloudflare (19.6875%):
+51 used cloudflare (15.789473684210526%):
 ```
-0x2394world.com
 adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
 arbitrum-exciusive.info
-arbitrum-exclusive.site
-booking.preview-chekaer.com
-check.bxqhq.icu
-check.bzhzm.icu
+bacteriadifficult.homes
+check.dndbv.icu
 check.fvqxp.icu
 check.hbskw.icu
 check.hdfkc.icu
-check.hmccl.icu
 check.jmnfp.icu
 check.jtfsn.icu
 check.kpwlp.icu
 check.lmdgg.icu
 check.ltxgh.icu
-check.ngrdr.icu
+check.nqzhn.icu
 check.psjvt.icu
-check.pvhqg.icu
-check.qvdch.icu
 check.rlcbb.icu
-check.vwfbm.icu
-check.xjlkm.icu
-comteste.com
 crystalpvp.ru
-devmodebeta.dev
+dl.aginjector.com
 do-dear.com
 dopomogavidoon-ua.info
+down.mvip8.ru
 downsexv.com
 fixuplink.com
 fu-asufa.top
@@ -59,31 +51,27 @@ hitman-pro.ru
 iodggev.com
 jaluzeleprestige.ro
 jrqh-hk.com
+ly.backingatop.shop
 mastera-profinsk.ru
 microsoft-analyse.com
-miner-tolken.com
-monad-rewards.run
 na-moria.ru
-nmvhf.com
-preview-chekaer.com
 recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
 sdoolksd.com
-sonic-claim.run
 symbiatec-fi.com
 symbietic.com
+symdlotic.com
 thrheeff.com
 u1.rejoincartridge.shop
 uacert-onukr.com
 ufasedov.ru
 ukrbord-uacom.com
 ukrulruabank.pro
+upidero.bacteriadifficult.homes
 utorrent-servers.xyz
 www.blackhattoolz.com
 www.jaluzeleprestige.ro
-www.ukr-gov-idua.com
-xspacet.wiki
 ```
 
 0 used cloudfront (0.0%):

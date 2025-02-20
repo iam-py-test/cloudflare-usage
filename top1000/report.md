@@ -1,4 +1,4 @@
-1000 domains tested. 65.7% were behind nothing (343 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 61 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -87,7 +87,6 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
-digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -101,6 +100,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -182,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -190,11 +190,10 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.fr
-amazon.in
+amazon.de
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -221,7 +220,6 @@ datadoghq.com
 deviantart.com
 doi.org
 dotomi.com
-dreamhost.com
 dribbble.com
 dynatrace.com
 economist.com
@@ -274,6 +272,7 @@ tp-link.com
 tradingview.com
 tremorhub.com
 trustpilot.com
+twilio.com
 typeform.com
 ubnt.com
 ui.com
