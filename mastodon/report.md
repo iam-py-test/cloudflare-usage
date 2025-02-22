@@ -1,4 +1,4 @@
-186 domains tested. 63.44086021505376% were behind nothing (68 were behind something). 6 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 3 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 

@@ -1,4 +1,4 @@
-294 domains tested. 82.31292517006803% were behind nothing (52 were behind something). 17 domains could not be tested.<br>
+280 domains tested. 79.28571428571428% were behind nothing (58 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,39 +19,40 @@
 
 ```
 
-35 used cloudflare (11.904761904761903%):
+36 used cloudflare (12.857142857142856%):
 ```
 123.urbainer.ru
 adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
-arbitrum-exciusive.info
+check.ayaiu.online
 check.ayieo.online
-check.dndbv.icu
 check.eiuau.online
+check.iauou.online
+check.ieuoi.online
+check.iyeui.online
 check.iyyuy.online
-check.nqzhn.icu
+check.oyuai.online
 check.uuuyi.online
+check.yayei.online
+comteste.com
 crystalpvp.ru
 dl.aginjector.com
 do-dear.com
 down.mvip8.ru
+download.bunchcopier.uno
 downsexv.com
-fu-asufa.top
-historli.ru
+hitman-pro.ru
 jrqh-hk.com
-na-moria.ru
+miner-tolken.com
+recepchtav3.com
 reusable-flex.com
 ronnin-v2.com
 s11-wer04sg.com
-sdoolksd.com
 symbiatec-fi.com
 symbietic.com
 symdlotic.com
-uacert-onukr.com
-ufasedov.ru
-ukrbord-uacom.com
-ukrulruabank.pro
+u1.stungoverhaul.shop
 utorrent-servers.xyz
 www.blackhattoolz.com
 www.thrheeff.com
