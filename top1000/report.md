@@ -1,4 +1,4 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 60 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+133 used cloudflare (13.3%):
 ```
 2gis.com
 33across.com
@@ -87,7 +87,6 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
-digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -182,7 +181,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -194,9 +193,9 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -213,7 +212,6 @@ booking.com
 brave.com
 calendly.com
 chartbeat.net
-chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
@@ -309,11 +307,11 @@ bbc.co.uk
 bbc.com
 bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
 www.gov.uk
-yelp.com
 ```
 
 1 used sucuri (0.1%):
