@@ -1,5 +1,5 @@
-1000 domains tested. 65.8% were behind nothing (342 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 57 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -26,7 +26,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-133 used cloudflare (13.3%):
+135 used cloudflare (13.5%):
 ```
 2gis.com
 33across.com
@@ -87,6 +86,7 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
+digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -114,6 +114,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -181,7 +182,7 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -191,11 +192,12 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -212,6 +214,7 @@ booking.com
 brave.com
 calendly.com
 chartbeat.net
+chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
@@ -229,6 +232,7 @@ espn.com
 europa.eu
 eventbrite.com
 express.co.uk
+figma.com
 flickr.com
 go.com
 goodreads.com
@@ -307,11 +311,11 @@ bbc.co.uk
 bbc.com
 bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
 www.gov.uk
+yelp.com
 ```
 
 1 used sucuri (0.1%):
