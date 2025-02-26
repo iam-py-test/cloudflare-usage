@@ -1,4 +1,4 @@
-361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 56 domains could not be tested.<br>
+361 domains tested. 57.06371191135734% were behind nothing (155 were behind something). 58 domains could not be tested.<br>
 23 used akamai (6.3711911357340725%):
 ```
 alhurra.com
@@ -41,7 +41,7 @@ usfa.fema.gov
 
 ```
 
-35 used cloudflare (9.695290858725762%):
+36 used cloudflare (9.97229916897507%):
 ```
 aoc.gov
 bjs.gov
@@ -60,6 +60,7 @@ fca.gov
 fcsic.gov
 federallabs.org
 federalreserve.gov
+ferc.gov
 ffiec.gov
 freddiemac.com
 gpo.gov
@@ -80,7 +81,7 @@ usip.org
 usmint.gov
 ```
 
-36 used cloudfront (9.97229916897507%):
+35 used cloudfront (9.695290858725762%):
 ```
 ahrq.gov
 alabama.gov
@@ -108,7 +109,6 @@ nsf.gov
 onrr.gov
 sba.gov
 sss.gov
-state.gov
 usa.gov
 usbg.gov
 ushmm.org

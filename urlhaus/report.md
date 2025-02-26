@@ -1,4 +1,4 @@
-303 domains tested. 81.1881188118812% were behind nothing (57 were behind something). 16 domains could not be tested.<br>
+302 domains tested. 83.11258278145695% were behind nothing (51 were behind something). 15 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,39 @@
 
 ```
 
-41 used cloudflare (13.531353135313532%):
+36 used cloudflare (11.920529801324504%):
 ```
 adf6.adf6.com
 antlb0tv2.com
-api.ewfiles.net
-aval2.pro
-batterymax.pk
-captcha.zip
-check.losex.icu
+check.jywyj.icu
+check.tokep.icu
 check.wuhav.icu
 comteste.com
 creativecreations.blue
-crystalpvp.ru
-cszox2.getmyssafile.ru
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 esgroupnet.com
 expay.ru
-heca3.getmyssafile.ru
 hitman-pro.ru
-imgdown.shop
 jbstrck.com
 jrqh-hk.com
-licensing.tools
+korvewo.top
 miner-tolken.com
+miz1.dorklifedubbed.shop
 mizo.dorklifedubbed.shop
 recepchtav3.com
 reduceless.cyou
 reusable-flex.com
+rocketibt.com
 ronnin-v2.com
 safecheck.mosco.cc
+sandbox.yunqof.shop
 scare.su
 symbiatec-fi.com
 symbietic.com
-u1.gossipsurrender.shop
-u1.possibleshimmer.shop
-u1.shalebrussels.shop
+symdlotic.com
+u1.previewcapped.shop
 utorrent-servers.xyz
 verifcheck.mosco.cc
 www.batterymax.pk

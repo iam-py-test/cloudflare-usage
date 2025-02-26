@@ -1,4 +1,4 @@
-1000 domains tested. 65.9% were behind nothing (341 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 61 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -21,12 +21,12 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+133 used cloudflare (13.3%):
 ```
 2gis.com
 33across.com
@@ -63,7 +63,6 @@ branch.io
 braze.com
 britannica.com
 btloader.com
-bugsnag.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -101,6 +100,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -160,7 +160,6 @@ statcounter.com
 substack.com
 t.co
 tandfonline.com
-teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
@@ -182,7 +181,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -194,10 +193,10 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -212,6 +211,7 @@ biblegateway.com
 binance.com
 booking.com
 brave.com
+bugsnag.com
 calendly.com
 chartbeat.net
 chartboost.com
@@ -256,6 +256,7 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+nubank.com.br
 onelink.me
 onet.pl
 otto.de
@@ -269,7 +270,7 @@ shalltry.com
 shutterstock.com
 si.com
 soundcloud.com
-state.gov
+statista.com
 surveymonkey.com
 synology.com
 t-online.de
@@ -305,11 +306,13 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
