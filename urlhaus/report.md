@@ -1,4 +1,4 @@
-302 domains tested. 83.11258278145695% were behind nothing (51 were behind something). 15 domains could not be tested.<br>
+295 domains tested. 83.38983050847457% were behind nothing (49 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,43 @@
 
 ```
 
-36 used cloudflare (11.920529801324504%):
+35 used cloudflare (11.864406779661017%):
 ```
+123check.mosco.cc
 adf6.adf6.com
 antlb0tv2.com
+api.ewfiles.net
+batterymax.pk
+bitsyncs.org
+check.digoc.icu
+check.duvb.shop
+check.gozun.icu
 check.jywyj.icu
+check.sijuh.icu
+check.sukif.icu
 check.tokep.icu
-check.wuhav.icu
 comteste.com
-creativecreations.blue
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 esgroupnet.com
 expay.ru
 hitman-pro.ru
-jbstrck.com
 jrqh-hk.com
-korvewo.top
 miner-tolken.com
 miz1.dorklifedubbed.shop
-mizo.dorklifedubbed.shop
 recepchtav3.com
-reduceless.cyou
 reusable-flex.com
 rocketibt.com
 ronnin-v2.com
-safecheck.mosco.cc
 sandbox.yunqof.shop
-scare.su
 symbiatec-fi.com
 symbietic.com
-symdlotic.com
-u1.previewcapped.shop
 utorrent-servers.xyz
-verifcheck.mosco.cc
 www.batterymax.pk
 www.blackhattoolz.com
 www.leeholmes.com
+www.telegarmeapp.io
 ```
 
 0 used cloudfront (0.0%):
