@@ -1,4 +1,4 @@
-303 domains tested. 80.19801980198021% were behind nothing (60 were behind something). 12 domains could not be tested.<br>
+320 domains tested. 70.0% were behind nothing (96 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,31 @@
 
 ```
 
-48 used cloudflare (15.841584158415841%):
+59 used cloudflare (18.4375%):
 ```
-123check.mosco.cc
 adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
-batterymax.pk
 booking.clientagusta.com
-check.basyg.icu
-check.buhah.icu
-check.digoc.icu
-check.duvb.shop
-check.gidyw.icu
-check.gozun.icu
+check.bipyl.icu
+check.cined.icu
+check.hysuz.icu
+check.jixal.icu
 check.lavow.icu
 check.losyb.icu
 check.lymum.icu
-check.rikez.icu
+check.mijuf.icu
+check.mosat.icu
+check.myfet.icu
+check.qitub.icu
+check.qogur.icu
+check.qozil.icu
+check.remag.icu
 check.segir.icu
-check.sijuh.icu
-check.sukif.icu
 check.tymis.icu
-check.vokaz.icu
-check.zinus.icu
+check.woqym.icu
+check.xapus.icu
 clientagusta.com
-comteste.com
 crystalpvp.ru
 datashieldsecure.com
 down.mvip8.ru
@@ -52,22 +51,34 @@ downsexv.com
 esgroupnet.com
 expay.ru
 expertuslugi.top
+fxepiay.com
+ggepiay.com
+ggepllay.com
 hitman-pro.ru
+important-confiirm.com
+important-confirmation.com
 jrqh-hk.com
 megawyd.com
 miner-tolken.com
+myspecialdot.com
 partnerhumcli.world
+payment.verification-proceess.com
+procedeed-verific.com
 recepchtav3.com
 reservation-confirms.com
 reusable-flex.com
 rewiewe-cheksdin.com
 rmsatendrfdverif.world
 rocketibt.com
+ronnin-v2.com
 sufikhat.com
+symbiatec-fi.com
+symbietic.com
 symdlotic.com
-utorrent-servers.xyz
+verification-proceess.com
 www.batterymax.pk
 www.blackhattoolz.com
+www.leeholmes.com
 www.megawyd.com
 ```
 
