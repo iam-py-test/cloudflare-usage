@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-30 used cloudflare (15.0%):
+29 used cloudflare (14.499999999999998%):
 ```
 972mag.com
 alarabiya.net
@@ -38,7 +38,6 @@ freedom.press
 gizmodo.com
 kyivpost.com
 mashable.com
-orlandoweekly.com
 politico.com
 pravdareport.com
 propublica.org
@@ -100,10 +99,11 @@ wsj.com
 
 ```
 
-4 used fastly (2.0%):
+5 used fastly (2.5%):
 ```
 bbc.com
 bbc.com
+bloomberg.com
 cbsnews.com
 forbes.com
 ```

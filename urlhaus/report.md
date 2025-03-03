@@ -1,4 +1,4 @@
-369 domains tested. 76.42276422764228% were behind nothing (87 were behind something). 11 domains could not be tested.<br>
+355 domains tested. 78.59154929577464% were behind nothing (76 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,77 +19,64 @@
 
 ```
 
-75 used cloudflare (20.32520325203252%):
+62 used cloudflare (17.464788732394364%):
 ```
+abington-atppa.org
 adf6.adf6.com
 antlb0tv2.com
-api.ewfiles.net
 app-updater.app
 batterymax.pk
 bizmir.shop
 check.bifuh.icu
-check.bipyl.icu
-check.cined.icu
 check.cuzon.icu
 check.danob.icu
 check.gejop.icu
+check.gykem.icu
 check.gytec.icu
-check.hysuz.icu
-check.jixal.icu
+check.jaxim.icu
 check.kekid.icu
 check.kupav.icu
-check.mijuf.icu
-check.mosat.icu
-check.myfet.icu
+check.neweb.icu
+check.ninif.icu
 check.pidal.icu
 check.pojon.icu
-check.qitub.icu
-check.qogur.icu
-check.qozil.icu
-check.remag.icu
+check.somiv.icu
+check.suqev.icu
+check.tubyf.icu
+check.tyheb.icu
 check.vudih.icu
 check.vykud.icu
-check.woqym.icu
+check.wezop.icu
 check.wowuk.icu
-check.xapus.icu
+check.wygoq.icu
+check.zagyw.icu
 check.zixeq.icu
 comteste.com
 crystalpvp.ru
 dl.aginjector.com
-down.mvip8.ru
 downsexv.com
 elnas.com
 esgroupnet.com
 expay.ru
 facturacio.titoworld.com
-fxepiay.com
-ggepiay.com
-ggepllay.com
 hitman-pro.ru
 ifuckyourpc.win
-important-confiirm.com
-important-confirmation.com
 joahhilperic.net
+jrjonesolicitors.com
 jrqh-hk.com
 l1nxx.para.rip
 ly71.drovealarmgoatskin.shop
 microsoft-analyse.com
-miner-tolken.com
-myspecialdot.com
 page-yoda.blog
 paulinatajda.com
-payment.verification-proceess.com
-procedeed-verific.com
-recepchtav3.com
+rdmfile.eu
 reservation-confirms.com
 reusable-flex.com
 rocketibt.com
-ronnin-v2.com
 sufikhat.com
 symbiatec-fi.com
 symdlotic.com
 utorrent-servers.xyz
-verification-proceess.com
 www.alphaplumbingfw.com
 www.batterymax.pk
 www.blackhattoolz.com
@@ -113,7 +100,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.27100271002710025%):
+1 used fastly (0.28169014084507044%):
 ```
 riverview-pools.com
 ```
