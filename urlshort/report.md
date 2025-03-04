@@ -1,6 +1,7 @@
 272 domains tested. 44.85294117647059% were behind nothing (150 were behind something). 6 domains could not be tested.<br>
-1 used akamai (0.3676470588235294%):
+2 used akamai (0.7352941176470588%):
 ```
+eepurl.com
 email-sendgrid-deep-linking.chewy.com
 ```
 
@@ -19,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (47.42647058823529%):
+128 used cloudflare (47.05882352941176%):
 ```
 02ip.ru
 1sta.com
@@ -64,7 +65,6 @@ exe.io
 ezstat.ru
 fc-lc.com
 fc.lc
-feji.us
 filetap.com
 foot.wiki
 funurl.com

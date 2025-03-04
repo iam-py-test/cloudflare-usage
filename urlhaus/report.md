@@ -1,4 +1,4 @@
-355 domains tested. 78.59154929577464% were behind nothing (76 were behind something). 13 domains could not be tested.<br>
+346 domains tested. 81.21387283236994% were behind nothing (65 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,60 +19,42 @@
 
 ```
 
-62 used cloudflare (17.464788732394364%):
+45 used cloudflare (13.005780346820808%):
 ```
 abington-atppa.org
 adf6.adf6.com
 antlb0tv2.com
-app-updater.app
 batterymax.pk
-bizmir.shop
-check.bifuh.icu
-check.cuzon.icu
-check.danob.icu
-check.gejop.icu
-check.gykem.icu
-check.gytec.icu
+check.gevis.icu
 check.jaxim.icu
-check.kekid.icu
-check.kupav.icu
 check.neweb.icu
-check.ninif.icu
-check.pidal.icu
-check.pojon.icu
 check.somiv.icu
-check.suqev.icu
-check.tubyf.icu
-check.tyheb.icu
-check.vudih.icu
-check.vykud.icu
+check.tovac.icu
 check.wezop.icu
-check.wowuk.icu
-check.wygoq.icu
-check.zagyw.icu
-check.zixeq.icu
+check.xajax.icu
 comteste.com
 crystalpvp.ru
+datashieldsecure.com
 dl.aginjector.com
+down.mvip8.ru
 downsexv.com
 elnas.com
 esgroupnet.com
 expay.ru
 facturacio.titoworld.com
-hitman-pro.ru
 ifuckyourpc.win
 joahhilperic.net
 jrjonesolicitors.com
 jrqh-hk.com
 l1nxx.para.rip
-ly71.drovealarmgoatskin.shop
 microsoft-analyse.com
+miner-tolken.com
 page-yoda.blog
 paulinatajda.com
 rdmfile.eu
-reservation-confirms.com
 reusable-flex.com
 rocketibt.com
+s02-welcome.cfd
 sufikhat.com
 symbiatec-fi.com
 symdlotic.com
@@ -80,14 +62,15 @@ utorrent-servers.xyz
 www.alphaplumbingfw.com
 www.batterymax.pk
 www.blackhattoolz.com
+www.expertuslugi.top
 www.freshtubs.com
 www.leeholmes.com
 zettagc.com
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.2890173410404624%):
 ```
-
+reservation-confirms.com
 ```
 
 0 used ddosguard (0.0%):
@@ -100,7 +83,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.28169014084507044%):
+1 used fastly (0.2890173410404624%):
 ```
 riverview-pools.com
 ```

@@ -1,5 +1,5 @@
-216 domains tested. 60.18518518518518% were behind nothing (86 were behind something). 6 domains could not be tested.<br>
-5 used akamai (2.314814814814815%):
+217 domains tested. 60.36866359447005% were behind nothing (86 were behind something). 6 domains could not be tested.<br>
+5 used akamai (2.3041474654377883%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
@@ -8,7 +8,7 @@ www.microsoft.com
 www.rakuten.ca
 ```
 
-3 used bunnycdn (1.3888888888888888%):
+3 used bunnycdn (1.3824884792626728%):
 ```
 doh1.blahdns.com
 oooo.b-cdn.net
@@ -20,12 +20,12 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.4629629629629629%):
+1 used cdn77 (0.4608294930875576%):
 ```
 filters.adtidy.org
 ```
 
-52 used cloudflare (24.074074074074073%):
+52 used cloudflare (23.963133640552993%):
 ```
 1275.ru
 abp.tt.codes
@@ -81,13 +81,13 @@ www.zoso.ro
 zonefiles.io
 ```
 
-2 used cloudfront (0.9259259259259258%):
+2 used cloudfront (0.9216589861751152%):
 ```
 isc.sans.edu
 www.topcashback.com
 ```
 
-1 used ddosguard (0.4629629629629629%):
+1 used ddosguard (0.4608294930875576%):
 ```
 gitflic.ru
 ```
@@ -97,7 +97,7 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.4074074074074066%):
+16 used fastly (7.373271889400922%):
 ```
 adaway.org
 adblock-thai.github.io
