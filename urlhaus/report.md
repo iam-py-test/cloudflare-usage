@@ -1,4 +1,4 @@
-346 domains tested. 81.21387283236994% were behind nothing (65 were behind something). 18 domains could not be tested.<br>
+351 domains tested. 70.65527065527066% were behind nothing (103 were behind something). 59 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,58 +19,56 @@
 
 ```
 
-45 used cloudflare (13.005780346820808%):
+43 used cloudflare (12.250712250712251%):
 ```
-abington-atppa.org
 adf6.adf6.com
 antlb0tv2.com
 batterymax.pk
+cheaccskguspartner.com
+check.celir.icu
 check.gevis.icu
-check.jaxim.icu
-check.neweb.icu
-check.somiv.icu
+check.jojyq.icu
+check.lybuk.icu
+check.mevif.icu
+check.nafeh.icu
+check.pedaz.icu
+check.qukex.icu
 check.tovac.icu
-check.wezop.icu
+check.vijaw.icu
 check.xajax.icu
 comteste.com
 crystalpvp.ru
 datashieldsecure.com
 dl.aginjector.com
-down.mvip8.ru
 downsexv.com
 elnas.com
 esgroupnet.com
 expay.ru
-facturacio.titoworld.com
-ifuckyourpc.win
-joahhilperic.net
-jrjonesolicitors.com
+hitman-pro.ru
+jbstrckng.com
 jrqh-hk.com
-l1nxx.para.rip
 microsoft-analyse.com
 miner-tolken.com
-page-yoda.blog
+miz2.dorklifedubbed.shop
 paulinatajda.com
-rdmfile.eu
+recepchtav3.com
 reusable-flex.com
 rocketibt.com
+ronnin-v2.com
 s02-welcome.cfd
 sufikhat.com
-symbiatec-fi.com
 symdlotic.com
 utorrent-servers.xyz
-www.alphaplumbingfw.com
 www.batterymax.pk
 www.blackhattoolz.com
 www.expertuslugi.top
-www.freshtubs.com
-www.leeholmes.com
+xn--yh4bx88a.com
 zettagc.com
 ```
 
-1 used cloudfront (0.2890173410404624%):
+0 used cloudfront (0.0%):
 ```
-reservation-confirms.com
+
 ```
 
 0 used ddosguard (0.0%):
@@ -83,7 +81,7 @@ reservation-confirms.com
 
 ```
 
-1 used fastly (0.2890173410404624%):
+1 used fastly (0.2849002849002849%):
 ```
 riverview-pools.com
 ```
