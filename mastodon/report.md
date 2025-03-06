@@ -1,4 +1,4 @@
-186 domains tested. 63.97849462365591% were behind nothing (67 were behind something). 5 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 4 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-60 used cloudflare (32.25806451612903%):
+59 used cloudflare (31.72043010752688%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -80,7 +80,6 @@ transforthe.win
 universeodon.com
 urweibo.com
 vivaldi.net
-wanderingwires.net
 ```
 
 1 used cloudfront (0.5376344086021506%):

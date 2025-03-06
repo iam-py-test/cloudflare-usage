@@ -1,4 +1,4 @@
-351 domains tested. 70.65527065527066% were behind nothing (103 were behind something). 59 domains could not be tested.<br>
+376 domains tested. 66.48936170212765% were behind nothing (126 were behind something). 64 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,67 @@
 
 ```
 
-43 used cloudflare (12.250712250712251%):
+61 used cloudflare (16.22340425531915%):
 ```
-adf6.adf6.com
+559236.na3.to
+625348.na2.to
 antlb0tv2.com
+api.ewfiles.net
 batterymax.pk
 cheaccskguspartner.com
+check.bajys.icu
 check.celir.icu
-check.gevis.icu
+check.cumys.icu
+check.darax.icu
+check.datot.icu
+check.debij.icu
+check.dycib.icu
+check.jakoc.icu
 check.jojyq.icu
+check.kibof.icu
+check.kural.icu
+check.lijam.icu
 check.lybuk.icu
 check.mevif.icu
+check.miwun.icu
 check.nafeh.icu
+check.najem.icu
+check.pafoc.icu
 check.pedaz.icu
+check.pufoq.icu
+check.qozab.icu
 check.qukex.icu
-check.tovac.icu
 check.vijaw.icu
-check.xajax.icu
-comteste.com
-crystalpvp.ru
-datashieldsecure.com
+check.vykyv.icu
+check.wobym.icu
+check.zitit.icu
+check.ziwel.icu
 dl.aginjector.com
+down.mvip8.ru
 downsexv.com
 elnas.com
 esgroupnet.com
+etheliumcheats.pro
 expay.ru
 hitman-pro.ru
+iplogger.cn
 jbstrckng.com
 jrqh-hk.com
 microsoft-analyse.com
 miner-tolken.com
 miz2.dorklifedubbed.shop
-paulinatajda.com
+ovalre.us
 recepchtav3.com
+reservation-confirms.com
 reusable-flex.com
 rocketibt.com
 ronnin-v2.com
 s02-welcome.cfd
 sufikhat.com
+symbietic.com
 symdlotic.com
 utorrent-servers.xyz
-www.batterymax.pk
 www.blackhattoolz.com
-www.expertuslugi.top
 xn--yh4bx88a.com
 zettagc.com
 ```
@@ -81,7 +99,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.2849002849002849%):
+1 used fastly (0.26595744680851063%):
 ```
 riverview-pools.com
 ```
