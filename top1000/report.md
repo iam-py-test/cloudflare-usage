@@ -1,5 +1,5 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 57 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 57 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -12,7 +12,6 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
-fedex.com
 godaddy.com
 hm.com
 hp.com
@@ -42,7 +41,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+135 used cloudflare (13.5%):
 ```
 33across.com
 addtoany.com
@@ -98,6 +97,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -180,7 +180,7 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -188,13 +188,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.es
-amazon.fr
-amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -210,6 +210,7 @@ booking.com
 brave.com
 calendly.com
 chartbeat.net
+chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
@@ -250,6 +251,7 @@ name.com
 nationalgeographic.com
 netflix.net
 netgear.com
+nexon.com
 noaa.gov
 onelink.me
 onet.pl
@@ -257,7 +259,6 @@ otto.de
 pbs.org
 primevideo.com
 pubmatic.com
-rapid7.com
 repubblica.it
 reuters.com
 shalltry.com

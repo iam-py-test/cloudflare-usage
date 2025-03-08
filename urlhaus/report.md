@@ -1,4 +1,4 @@
-373 domains tested. 65.41554959785523% were behind nothing (129 were behind something). 62 domains could not be tested.<br>
+272 domains tested. 75.73529411764706% were behind nothing (66 were behind something). 9 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,74 +19,64 @@
 
 ```
 
-66 used cloudflare (17.694369973190348%):
+56 used cloudflare (20.588235294117645%):
 ```
 559236.na3.to
-625348.na2.to
-adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
 batterymax.pk
 booking.guestdocfound.com
 booking.guestitemsfound.com
-check.bajys.icu
+booking.idguset-reserve.com
+cf-prod-cap.cfd
 check.barev.icu
-check.cumys.icu
-check.darax.icu
-check.datot.icu
-check.debij.icu
-check.dycib.icu
+check.dalut.icu
 check.fasod.icu
 check.fyjig.icu
+check.hegop.icu
 check.hexyf.icu
 check.hoqud.icu
 check.hoxif.icu
 check.huhop.icu
-check.jakoc.icu
+check.jemyq.icu
+check.jipaf.icu
 check.jojeg.icu
-check.kibof.icu
-check.kural.icu
 check.latan.icu
-check.lijam.icu
 check.luzog.icu
-check.miwun.icu
-check.najem.icu
+check.mepum.icu
 check.nokuv.icu
-check.pafoc.icu
-check.pufoq.icu
+check.nyrar.icu
+check.papeb.icu
 check.qacot.icu
 check.qyver.icu
-check.wobym.icu
-check.zitit.icu
-check.ziwel.icu
+check.vadom.icu
+check.vavoj.icu
+check.xylor.icu
 check.zoxog.icu
+crystalpvp.ru
 dl.aginjector.com
-down.mvip8.ru
 downsexv.com
-elnas.com
 esgroupnet.com
-etheliumcheats.pro
 expay.ru
 gebi.dorklifedubbed.shop
 guestdocfound.com
 guestitemsfound.com
 hitman-pro.ru
-iplogger.cn
+idguset-reserve.com
 microsoft-analyse.com
-ovalre.us
 paulinatajda.com
 pendeliveryhl.com
-recepchtav3.com
+pqoqllalll.com
 reusable-flex.com
 rocketibt.com
-ronnin-v2.com
 s02-welcome.cfd
-sufikhat.com
-symbietic.com
-utorrent-servers.xyz
+u1.drizzleraving.shop
+u1.puckerlinguist.shop
 www.batterymax.pk
 www.blackhattoolz.com
+x63-hello.live
 xn--yh4bx88a.com
+zettagc.com
 ```
 
 0 used cloudfront (0.0%):
@@ -104,7 +94,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used fastly (0.2680965147453083%):
+1 used fastly (0.3676470588235294%):
 ```
 riverview-pools.com
 ```
