@@ -1,5 +1,5 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 57 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 65.9% were behind nothing (341 were behind something). 59 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -192,9 +193,9 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.es
-amazon.it
+amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -210,11 +211,11 @@ booking.com
 brave.com
 calendly.com
 chartbeat.net
-chartboost.com
 checkpoint.com
 clever.com
 coinmarketcap.com
 cox.net
+curseforge.com
 datadoghq.com
 deltaork.com
 deviantart.com
@@ -259,6 +260,7 @@ otto.de
 pbs.org
 primevideo.com
 pubmatic.com
+realtor.com
 repubblica.it
 reuters.com
 shalltry.com
@@ -279,7 +281,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -288,12 +289,11 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):

@@ -1,4 +1,4 @@
-272 domains tested. 75.73529411764706% were behind nothing (66 were behind something). 9 domains could not be tested.<br>
+302 domains tested. 78.1456953642384% were behind nothing (66 were behind something). 13 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,62 +19,58 @@
 
 ```
 
-56 used cloudflare (20.588235294117645%):
+52 used cloudflare (17.218543046357617%):
 ```
-559236.na3.to
+58ff574.na3.to
+adf6.adf6.com
 antlb0tv2.com
 api.ewfiles.net
+arch1.usa1news.buzz
 batterymax.pk
-booking.guestdocfound.com
-booking.guestitemsfound.com
 booking.idguset-reserve.com
+certified-doc.com
 cf-prod-cap.cfd
-check.barev.icu
 check.dalut.icu
-check.fasod.icu
-check.fyjig.icu
 check.hegop.icu
-check.hexyf.icu
-check.hoqud.icu
-check.hoxif.icu
-check.huhop.icu
 check.jemyq.icu
 check.jipaf.icu
-check.jojeg.icu
-check.latan.icu
-check.luzog.icu
+check.juxoi.icu
 check.mepum.icu
-check.nokuv.icu
 check.nyrar.icu
 check.papeb.icu
-check.qacot.icu
-check.qyver.icu
 check.vadom.icu
 check.vavoj.icu
 check.xylor.icu
-check.zoxog.icu
 crystalpvp.ru
 dl.aginjector.com
+down.mvip8.ru
 downsexv.com
 esgroupnet.com
 expay.ru
-gebi.dorklifedubbed.shop
-guestdocfound.com
-guestitemsfound.com
-hitman-pro.ru
 idguset-reserve.com
+jekin.shop
+jrqh-hk.com
 microsoft-analyse.com
+miner-tolken.com
 paulinatajda.com
 pendeliveryhl.com
 pqoqllalll.com
+recepchtav3.com
+refereng.shop
 reusable-flex.com
 rocketibt.com
-s02-welcome.cfd
+ronnin-v2.com
+symbietic.com
+tag.shufflerline.shop
 u1.drizzleraving.shop
+u1.overuseunderuse.shop
 u1.puckerlinguist.shop
+utorrent-servers.xyz
 www.batterymax.pk
 www.blackhattoolz.com
+x5.eioae.shop
 x63-hello.live
+x72.eioae.shop
 xn--yh4bx88a.com
 zettagc.com
 ```
@@ -94,7 +90,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.3676470588235294%):
+1 used fastly (0.33112582781456956%):
 ```
 riverview-pools.com
 ```
