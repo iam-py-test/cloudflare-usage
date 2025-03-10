@@ -1,5 +1,5 @@
-1000 domains tested. 65.9% were behind nothing (341 were behind something). 59 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 66.4% were behind nothing (336 were behind something). 55 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -12,7 +12,6 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
-godaddy.com
 hm.com
 hp.com
 intel.com
@@ -24,7 +23,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -42,7 +40,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+136 used cloudflare (13.600000000000001%):
 ```
 33across.com
 addtoany.com
@@ -98,7 +96,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -162,6 +159,7 @@ teamviewer.com
 temu.com
 themeforest.net
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -176,6 +174,7 @@ who.int
 wiley.com
 workers.dev
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.us
@@ -189,10 +188,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
@@ -223,7 +221,6 @@ doi.org
 dotomi.com
 dribbble.com
 dynatrace.com
-economist.com
 epa.gov
 espn.com
 europa.eu
@@ -260,6 +257,7 @@ otto.de
 pbs.org
 primevideo.com
 pubmatic.com
+rapid7.com
 realtor.com
 repubblica.it
 reuters.com
@@ -281,6 +279,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -289,11 +288,12 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+4 used ddosguard (0.4%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
+pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -301,11 +301,10 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com
