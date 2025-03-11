@@ -1,4 +1,4 @@
-288 domains tested. 79.16666666666666% were behind nothing (60 were behind something). 18 domains could not be tested.<br>
+295 domains tested. 77.62711864406779% were behind nothing (66 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,36 @@
 
 ```
 
-41 used cloudflare (14.23611111111111%):
+48 used cloudflare (16.271186440677965%):
 ```
-58ff574.na3.to
-adf6.adf6.com
+aceyonca.com
 antlb0tv2.com
 api.ewfiles.net
-arch1.usa1news.buzz
 batterymax.pk
-certified-doc.com
+check.cyhym.icu
+check.fafot.icu
 check.gefeq.icu
+check.gijuz.icu
 check.givus.icu
+check.hotuv.icu
+check.huwaq.icu
+check.jebir.icu
 check.jorah.icu
+check.myryh.icu
+check.pivyt.icu
 check.tunep.icu
+check.vumyr.icu
 check.wohur.icu
 crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 elnas.com
-esgroupnet.com
 expay.ru
 hitman-pro.ru
 jekin.shop
+jrqh-hk.com
+kp.ferrysurgicallustily.shop
 microsoft-analyse.com
 miner-tolken.com
 paulinatajda.com
@@ -50,16 +57,16 @@ recepchtav3.com
 reusable-flex.com
 rocketibt.com
 ronnin-v2.com
-symbietic.com
-tag.shufflerline.shop
+sappycloud.org
+sundreammedia.com
 u1.drizzleraving.shop
 u1.overuseunderuse.shop
 u1.puckerlinguist.shop
+u1.wannabeclobber.shop
 utorrent-servers.xyz
+verifiedtasks.com
 www.batterymax.pk
 www.blackhattoolz.com
-x5.eioae.shop
-x72.eioae.shop
 xn--yh4bx88a.com
 zettagc.com
 ```
@@ -79,7 +86,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.3472222222222222%):
+1 used fastly (0.3389830508474576%):
 ```
 riverview-pools.com
 ```

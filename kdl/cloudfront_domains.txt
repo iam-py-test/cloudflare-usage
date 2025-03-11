@@ -1,4 +1,3 @@
-1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -8,9 +7,8 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.uk
+amazon.co.jp
 amazon.com
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -23,6 +21,9 @@ appsflyer.com
 appsflyersdk.com
 assets.homeimprovementpages.com.au
 assets.twitch.tv
+aws-us-east-1.amazon.com
+aws-us-west-2.amazon.com
+aws.amazon.com
 booking.com
 c.amazon-adsystem.com
 c.aps.amazon-adsystem.com
@@ -34,7 +35,6 @@ cdn.builder.io
 cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
-cdn.userway.org
 cdnap.telekom.net
 cdnssl.clicktale.net
 cf.bstatic.com
@@ -124,6 +124,7 @@ elisa.fi
 europa.eu
 european-union.europa.eu
 eventlogger.soundcloud.com
+explore.zoom.us
 file-paa.zoom.us
 file-paa.zoomdev.us
 fin-statics-prod.dcp.stroeerws.de
@@ -143,7 +144,6 @@ i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
 images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -189,6 +189,9 @@ snapengage.dropbox.com
 soundcloud.com
 soundcloud.extole.io
 st.deviantart.net
+st1.zoom.us
+st2.zoom.us
+st3.zoom.us
 static-assets.fs.liveperson.com
 static-cdn.jtvnw.net
 static-web-assets.gnl-common.bbcverticals.com
@@ -209,6 +212,7 @@ tms.oracle.com
 token.us-west-2.prod.site.p.awsstatic.com
 tree-nation.com
 ui.com
+us01ccistatic.zoom.us
 us01st-cf.zoom.us
 uxfabric.intuitcdn.a.intuit.com
 uxfabric.intuitcdn.net
@@ -228,5 +232,7 @@ www.flickr.com
 www.flickrprints.com
 www.mozorg.moz.works
 www.t-online.de
+www.zoom.com
 www2.telekom.de
 ychef.files.bbci.co.uk
+zoom.us

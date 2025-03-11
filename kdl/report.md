@@ -1,5 +1,5 @@
-2482 domains tested. 50.08058017727639% were behind nothing (1239 were behind something). 330 domains could not be tested.<br>
-328 used akamai (13.21514907332796%):
+2482 domains tested. 49.87912973408542% were behind nothing (1244 were behind something). 333 domains could not be tested.<br>
+334 used akamai (13.456889605157132%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -188,7 +188,6 @@ hp.com
 ht.cdn.turner.com
 i.dell.com
 i.etsystatic.com
-i.pinimg.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
@@ -199,7 +198,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
-ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -220,7 +218,6 @@ p16-va.tiktokcdn.com
 pa.ebay.com
 pages.ebay.com
 pe.ebay.com
-pl.pinterest.com
 players.brightcove.net
 pm.pstatic.net
 pmd.cdn.turner.com
@@ -241,7 +238,6 @@ secureir.ebaystatic.com
 seeded-session-images.scdn.co
 sf16-website-login.neutral.ttwstatic.com
 shell.cdn.office.net
-sk.pinterest.com
 sm.dell.com
 ssl.pstatic.net
 ssl.www8.hp.com
@@ -265,6 +261,7 @@ th.bing.com
 thisis-images.spotifycdn.com
 tr.pinterest.com
 uhf.microsoft.com
+uk.pinterest.com
 use.typekit.net
 uy.ebay.com
 v16.tiktokcdn.com
@@ -308,7 +305,15 @@ www.nih.gov
 www.oracle.com
 www.pinterest.ca
 www.pinterest.cl
+www.pinterest.co.uk
+www.pinterest.com
+www.pinterest.com.au
+www.pinterest.com.mx
+www.pinterest.de
+www.pinterest.dk
 www.pinterest.es
+www.pinterest.fr
+www.pinterest.nz
 www.pinterest.pt
 www.pinterest.se
 www.salesforce.com
@@ -329,6 +334,7 @@ www.xerox.nl
 www.zemanta.com
 www17.wellsfargomedia.com
 www8.hp.com
+za.pinterest.com
 ```
 
 1 used bunnycdn (0.040290088638195005%):
@@ -344,12 +350,14 @@ roblox-js.cachefly.net
 roblox-static.cachefly.net
 ```
 
-10 used cdn77 (0.40290088638195%):
+12 used cdn77 (0.4834810636583401%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
+1667503734.rsc.cdn77.org
 c.ptgncdn.com
+cdn.userway.org
 f1-eu.readspeaker.com
 p77-sign-sg.tiktokcdn.com
 p77-sign-va.tiktokcdn.com
@@ -358,7 +366,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-136 used cloudflare (5.47945205479452%):
+130 used cloudflare (5.237711522965351%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 3ona.co
@@ -415,7 +423,6 @@ donorbox.org
 dsum-sec.casalemedia.com
 embed.cloudflarestream.com
 epicgames.com
-explore.zoom.us
 f.hubspotusercontent40.net
 front.com
 frontapp.com
@@ -433,6 +440,7 @@ myshopify.com
 openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
+pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 performance.radar.cloudflare.com
 player.vimeo.com
@@ -456,9 +464,6 @@ sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
 spankbang.com
-st1.zoom.us
-st2.zoom.us
-st3.zoom.us
 stackoverflow.com
 static-cflr.licdn.com.cdn.cloudflare.net
 static-exp2.licdn.com
@@ -473,7 +478,6 @@ transcend-cdn.com
 twitter.com
 unpkg.com
 us01ccistatic-c.zoom.us
-us01ccistatic.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
 video.twimg.com
@@ -491,16 +495,13 @@ www.roku.com
 www.roku.com.cdn.cloudflare.net
 www.w3.org
 www.w3.org.cdn.cloudflare.net
-www.zoom.com
 x.com
 xhamster.com
 zendesk.com
-zoom.us
 ```
 
-232 used cloudfront (9.347300564061241%):
+238 used cloudfront (9.58904109589041%):
 ```
-1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -510,9 +511,8 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.uk
+amazon.co.jp
 amazon.com
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -525,6 +525,9 @@ appsflyer.com
 appsflyersdk.com
 assets.homeimprovementpages.com.au
 assets.twitch.tv
+aws-us-east-1.amazon.com
+aws-us-west-2.amazon.com
+aws.amazon.com
 booking.com
 c.amazon-adsystem.com
 c.aps.amazon-adsystem.com
@@ -536,7 +539,6 @@ cdn.builder.io
 cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
-cdn.userway.org
 cdnap.telekom.net
 cdnssl.clicktale.net
 cf.bstatic.com
@@ -626,6 +628,7 @@ elisa.fi
 europa.eu
 european-union.europa.eu
 eventlogger.soundcloud.com
+explore.zoom.us
 file-paa.zoom.us
 file-paa.zoomdev.us
 fin-statics-prod.dcp.stroeerws.de
@@ -645,7 +648,6 @@ i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
 images-eu.ssl-images-amazon.com
-images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -691,6 +693,9 @@ snapengage.dropbox.com
 soundcloud.com
 soundcloud.extole.io
 st.deviantart.net
+st1.zoom.us
+st2.zoom.us
+st3.zoom.us
 static-assets.fs.liveperson.com
 static-cdn.jtvnw.net
 static-web-assets.gnl-common.bbcverticals.com
@@ -711,6 +716,7 @@ tms.oracle.com
 token.us-west-2.prod.site.p.awsstatic.com
 tree-nation.com
 ui.com
+us01ccistatic.zoom.us
 us01st-cf.zoom.us
 uxfabric.intuitcdn.a.intuit.com
 uxfabric.intuitcdn.net
@@ -730,8 +736,10 @@ www.flickr.com
 www.flickrprints.com
 www.mozorg.moz.works
 www.t-online.de
+www.zoom.com
 www2.telekom.de
 ychef.files.bbci.co.uk
+zoom.us
 ```
 
 0 used ddosguard (0.0%):
@@ -749,7 +757,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-189 used fastly (7.614826752618856%):
+183 used fastly (7.373086220789686%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -823,15 +831,18 @@ hw-cdn2.adtng.com
 i.ebayimg.com
 i.forbesimg.com
 i.guim.co.uk
+i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-fe.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -863,9 +874,9 @@ paypal-dynamic-2.map.fastly.net
 paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
-pbs.twimg.com
 ph.pinterest.com
 pickasso.spotifycdn.com
+pl.pinterest.com
 pl.scdn.co
 play.vidyard.com
 preview.redd.it
@@ -884,6 +895,7 @@ s.imgur.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
+sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -903,7 +915,6 @@ tls130rtt.spotifycdn.map.fastly.net
 twimg.twitter.map.fastly.net
 twitch.map.fastly.net
 ui.trailhead.com
-uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
@@ -924,22 +935,13 @@ www.nytimes.com
 www.paypal.com
 www.paypalobjects.com
 www.pinterest.co.kr
-www.pinterest.co.uk
-www.pinterest.com
-www.pinterest.com.au
-www.pinterest.com.mx
-www.pinterest.de
-www.pinterest.dk
-www.pinterest.fr
 www.pinterest.jp
-www.pinterest.nz
 www.reddit.com
 www.redditstatic.com
 www.shipt.com
 www.taboola.com
 www.theguardian.com
 www.twitch.tv
-za.pinterest.com
 ```
 
 0 used sucuri (0.0%):

@@ -1,5 +1,5 @@
-1000 domains tested. 66.4% were behind nothing (336 were behind something). 55 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 58 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -12,6 +12,7 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
+godaddy.com
 hm.com
 hp.com
 intel.com
@@ -40,7 +41,7 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+133 used cloudflare (13.3%):
 ```
 33across.com
 addtoany.com
@@ -67,7 +68,6 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
-classlink.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -82,7 +82,6 @@ deepintent.com
 deepl.com
 delfi.lt
 digitalocean.com
-digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -96,6 +95,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -165,7 +165,6 @@ umich.edu
 unpkg.com
 upwork.com
 vimeo.com
-vmware.com
 vungle.com
 w3.org
 webmd.com
@@ -177,10 +176,9 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
-zoom.us
 ```
 
-104 used cloudfront (10.4%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -188,12 +186,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
+amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -221,6 +221,8 @@ doi.org
 dotomi.com
 dribbble.com
 dynatrace.com
+economist.com
+elasticbeanstalk.com
 epa.gov
 espn.com
 europa.eu
@@ -286,6 +288,7 @@ wattpad.com
 wired.com
 wsj.com
 zillow.com
+zoom.us
 ```
 
 4 used ddosguard (0.4%):
@@ -301,7 +304,7 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -311,6 +314,7 @@ forbes.com
 github.io
 speedtest.net
 www.gov.uk
+yelp.com
 ```
 
 1 used sucuri (0.1%):
