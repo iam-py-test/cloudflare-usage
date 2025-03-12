@@ -46,6 +46,7 @@ ajax.aspnetcdn.com
 amd.cdn.turner.com
 analytics.tiktok.com
 ar.ebay.com
+ar.pinterest.com
 arubanetworks.com
 assets.adobedtm.com
 assets.alicdn.com
@@ -56,6 +57,7 @@ azure.microsoft.com
 b.alicdn.com
 bo.ebay.com
 br.ebay.com
+br.pinterest.com
 by.ebay.com
 c.go-mpulse.net
 c.s-microsoft.com
@@ -65,6 +67,7 @@ cdn-production-opera-website.operacdn.com
 cdn.apple-cloudkit.com
 cdn.cnn.com
 cdn.tmobile.com
+ch.pinterest.com
 charts-images.scdn.co
 cl.ebay.com
 cn.ebay.com
@@ -73,6 +76,7 @@ connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
+cz.pinterest.com
 d.oracleinfinity.io
 dds.dell.com
 dell.com
@@ -176,6 +180,7 @@ ebay.com
 ec.ebay.com
 emp.bbci.co.uk
 encore.scdn.co
+es.pinterest.com
 es.t-mobile.com
 framework-assets.external.xerox.com
 gt.ebay.com
@@ -184,17 +189,19 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.etsystatic.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-eu.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
+ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -206,6 +213,7 @@ mx.ebay.com
 mybbc.files.bbci.co.uk
 nav.files.bbci.co.uk
 ni.ebay.com
+nz.pinterest.com
 ow2.res.office365.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-useast2a.tiktokcdn.com
@@ -239,6 +247,7 @@ sm.dell.com
 ssl.pstatic.net
 ssl.www8.hp.com
 staples.com
+static-exp2.licdn.com
 static-global-s-msn-com.akamaized.net
 static-s.iqiyi.com
 static.avast.com
@@ -256,7 +265,6 @@ tags-eu.tiqcdn.com
 tesseract.imds-cdn.com
 th.bing.com
 thisis-images.spotifycdn.com
-tr.pinterest.com
 uhf.microsoft.com
 uk.pinterest.com
 use.typekit.net
@@ -300,19 +308,6 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
-www.pinterest.ca
-www.pinterest.cl
-www.pinterest.co.uk
-www.pinterest.com
-www.pinterest.com.au
-www.pinterest.com.mx
-www.pinterest.de
-www.pinterest.dk
-www.pinterest.es
-www.pinterest.fr
-www.pinterest.nz
-www.pinterest.pt
-www.pinterest.se
 www.salesforce.com
 www.samsung.com
 www.staples.com
@@ -331,4 +326,3 @@ www.xerox.nl
 www.zemanta.com
 www17.wellsfargomedia.com
 www8.hp.com
-za.pinterest.com
