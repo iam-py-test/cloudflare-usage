@@ -1,4 +1,4 @@
-293 domains tested. 76.45051194539249% were behind nothing (69 were behind something). 18 domains could not be tested.<br>
+284 domains tested. 79.5774647887324% were behind nothing (58 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,58 +19,53 @@
 
 ```
 
-50 used cloudflare (17.064846416382252%):
+45 used cloudflare (15.845070422535212%):
 ```
-aceyonca.com
 adf6.adf6.com
-alephmim.com
 antlb0tv2.com
 api.ewfiles.net
-batterymax.pk
 booking.complaintguest2.com
-check.cyhym.icu
+check.baruy.icu
+check.didey.icu
 check.dovoo.icu
-check.fafot.icu
 check.fajez.icu
-check.gijuz.icu
+check.fesuy.icu
 check.gytas.icu
-check.hotuv.icu
-check.huwaq.icu
-check.jebir.icu
+check.hixya.icu
 check.kabuq.icu
 check.laqyk.icu
 check.myquk.icu
-check.myryh.icu
-check.pivyt.icu
+check.pekyy.icu
 check.podyz.icu
 check.rygog.icu
-check.vumyr.icu
+check.tefee.icu
+check.vevou.icu
+check.zeboa.icu
 complaintguest2.com
 crystalpvp.ru
+def.ball-strike-up.shop
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
-elnas.com
+esgroupnet.com
 expay.ru
 hitman-pro.ru
 jrqh-hk.com
 microsoft-analyse.com
 miner-tolken.com
+ne1.discoverconicalcrouton.shop
 paulinatajda.com
 recepchtav3.com
+reliefmdlabs.com
 reusable-flex.com
 rocketibt.com
 ronnin-v2.com
-sappycloud.org
-sundreammedia.com
 symbietic.com
-u1.wannabeclobber.shop
-verifiedtasks.com
+u1.nullifychili.shop
+utorrent-servers.xyz
 wraithbotnetapi.site
-www.batterymax.pk
 www.blackhattoolz.com
 xn--yh4bx88a.com
-zettagc.com
 ```
 
 0 used cloudfront (0.0%):
@@ -88,7 +83,7 @@ zettagc.com
 
 ```
 
-1 used fastly (0.3412969283276451%):
+1 used fastly (0.35211267605633806%):
 ```
 riverview-pools.com
 ```
