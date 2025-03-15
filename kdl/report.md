@@ -1,5 +1,5 @@
-2485 domains tested. 49.818913480885314% were behind nothing (1247 were behind something). 334 domains could not be tested.<br>
-321 used akamai (12.917505030181086%):
+2485 domains tested. 49.859154929577464% were behind nothing (1246 were behind something). 333 domains could not be tested.<br>
+323 used akamai (12.997987927565394%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -187,19 +187,22 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
+i.ebayimg.com
 i.pinimg.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
+id.pinterest.com
 il.ebay.com
 image-us.samsung.com
-images-fe.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
 ir.ebaystatic.com
+jp.pinterest.com
+kr.pinterest.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -286,7 +289,6 @@ www.ebay.ch
 www.ebay.co.uk
 www.ebay.com
 www.ebay.com.au
-www.ebay.com.hk
 www.ebay.com.my
 www.ebay.com.sg
 www.ebay.de
@@ -353,7 +355,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-129 used cloudflare (5.191146881287726%):
+137 used cloudflare (5.51307847082495%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 3ona.co
@@ -410,6 +412,7 @@ donorbox.org
 dsum-sec.casalemedia.com
 embed.cloudflarestream.com
 epicgames.com
+explore.zoom.us
 f.hubspotusercontent40.net
 front.com
 frontapp.com
@@ -427,6 +430,7 @@ myshopify.com
 openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
+pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 performance.radar.cloudflare.com
 player.vimeo.com
@@ -451,11 +455,15 @@ sj16.mktoedge.com
 sj16.mktossl.com
 sourceforge.net
 spankbang.com
+st1.zoom.us
+st2.zoom.us
+st3.zoom.us
 stackoverflow.com
 static-cflr.licdn.com.cdn.cloudflare.net
 static.cloudflareinsights.com
 static.deepl.com
 static.elfsight.com
+static.licdn.com
 static.licdn.com.cdn.cloudflare.net
 static.zdassets.com
 t.co
@@ -481,12 +489,14 @@ www.roku.com
 www.roku.com.cdn.cloudflare.net
 www.w3.org
 www.w3.org.cdn.cloudflare.net
+www.zoom.com
 x.com
 xhamster.com
 zendesk.com
+zoom.us
 ```
 
-238 used cloudfront (9.577464788732394%):
+233 used cloudfront (9.37625754527163%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -498,6 +508,7 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazonaws.com
 amazontrust.com
@@ -614,7 +625,6 @@ elisa.fi
 europa.eu
 european-union.europa.eu
 eventlogger.soundcloud.com
-explore.zoom.us
 file-paa.zoom.us
 file-paa.zoomdev.us
 fin-statics-prod.dcp.stroeerws.de
@@ -679,9 +689,6 @@ snapengage.dropbox.com
 soundcloud.com
 soundcloud.extole.io
 st.deviantart.net
-st1.zoom.us
-st2.zoom.us
-st3.zoom.us
 static-assets.fs.liveperson.com
 static-cdn.jtvnw.net
 static-web-assets.gnl-common.bbcverticals.com
@@ -722,10 +729,8 @@ www.flickr.com
 www.flickrprints.com
 www.mozorg.moz.works
 www.t-online.de
-www.zoom.com
 www2.telekom.de
 ychef.files.bbci.co.uk
-zoom.us
 ```
 
 0 used ddosguard (0.0%):
@@ -743,7 +748,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-199 used fastly (8.00804828973843%):
+194 used fastly (7.806841046277666%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -794,7 +799,6 @@ ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
 es.pinterest.com
-etsy.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
@@ -814,15 +818,14 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
-i.ebayimg.com
 i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
 i.vimeocdn.com
-id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
@@ -831,9 +834,7 @@ interactive.guim.co.uk
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
-jp.pinterest.com
 jsdelivr.map.fastly.net
-kr.pinterest.com
 linkedin.map.fastly.net
 m.sni.global.fastly.net
 medallia2.map.fastly.net
@@ -859,7 +860,6 @@ paypal-dynamic-2.map.fastly.net
 paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
-pbs.twimg.com
 ph.pinterest.com
 pickasso.spotifycdn.com
 pl.pinterest.com
@@ -886,7 +886,6 @@ sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
 static.isu.pub
-static.licdn.com
 static.nytimes.com
 static.theguardian.com
 static01.nyt.com
@@ -913,6 +912,7 @@ www-amazon-com.customer.fastly.net
 www.bbc.co.uk
 www.bbc.com
 www.cnn.com
+www.ebay.com.hk
 www.etsy.com
 www.fastly-insights.com
 www.fastly.com

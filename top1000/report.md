@@ -1,4 +1,4 @@
-1000 domains tested. 66.10000000000001% were behind nothing (339 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 66.0% were behind nothing (340 were behind something). 56 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-132 used cloudflare (13.200000000000001%):
+133 used cloudflare (13.3%):
 ```
 33across.com
 addtoany.com
@@ -176,21 +176,23 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
+zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
 amazon.es
-amazon.fr
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -227,6 +229,7 @@ eventbrite.com
 express.co.uk
 figma.com
 flickr.com
+geeksforgeeks.org
 go.com
 goodreads.com
 grammarly.com
@@ -258,6 +261,7 @@ primevideo.com
 pubmatic.com
 rapid7.com
 realtor.com
+redfin.com
 repubblica.it
 reuters.com
 ryanair.com
@@ -285,7 +289,6 @@ wattpad.com
 wired.com
 wsj.com
 zillow.com
-zoom.us
 ```
 
 4 used ddosguard (0.4%):
@@ -301,12 +304,11 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
