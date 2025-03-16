@@ -1,4 +1,4 @@
-640 domains tested. 50.0% were behind nothing (320 were behind something). 58 domains could not be tested.<br>
+643 domains tested. 48.367029548989116% were behind nothing (332 were behind something). 65 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-261 used cloudflare (40.78125%):
+267 used cloudflare (41.52410575427683%):
 ```
 1021.scpanel.org
 acc.cbihelp.top
@@ -45,21 +45,25 @@ azmn-pp4.top
 bfjduf2.top
 bolidaos.gajrokerware.cyou
 booking.guests-reservid.com
-booklistingreserv.com
 bookmanageditres.com
 bzsew-4ew.top
 cancel326.top
-check.fetoq.icu
+check.dubix.icu
+check.fibit.icu
+check.fyfib.icu
+check.fykut.icu
 check.geguk.icu
+check.havic.icu
 check.higun.icu
-check.lixir.icu
 check.momas.icu
-check.newyf.icu
 check.nocun.icu
+check.pivuf.icu
 check.qalyj.icu
+check.qemut.icu
 check.tevoh.icu
 check.tudim.icu
 check.xojyz.icu
+check.xoxig.icu
 cnacauth4687.loginback96.link
 coplidfo.gajrokerring.cyou
 cpauth0194.loginlink49.link
@@ -69,7 +73,6 @@ down.mvip8.ru
 downsexv.com
 egmn-4ew.top
 erde3-ew5.top
-esgroupnet.com
 expay.ru
 fter-po5.top
 gbnace7.top
@@ -130,6 +133,7 @@ m.tvwhelp.top
 m.xvbhelp.top
 m.yxhelp.top
 mabhelp.top
+mabsa13.top
 microsoft-analyse.com
 miner-tolken.com
 molartos.gajrokerist.cyou
@@ -139,6 +143,7 @@ niluwel.gajrokeron.cyou
 nohelp.top
 nphelp.top
 nxsw-tq2.top
+onyxaquarius.de
 onyxclearklock.de
 onyxcyberapex.de
 onyxcyberhaven.de
@@ -151,9 +156,11 @@ onyxleo.de
 onyxnexguard.de
 onyxsafecrypt.de
 onyxsafenova.de
+onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldpro.de
+onyxstealthnet.de
 orhelp.top
 os.ujhelp.top
 oxtt-76r.top
@@ -170,14 +177,13 @@ p.rxhelp.top
 p.schelp.top
 p.szhelp.top
 p.tvwhelp.top
-pn5.gapdevoutlycitrus.shop
 pnbf-gv.top
 recepchtav3.com
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
 ronnin-v2.com
-roomsverif9399.world
+shoptoon.net
 support.snb-bg.com
 support.ssagovsecure.com
 suritups.regajroker.cyou
@@ -186,15 +192,15 @@ systemsupport.top
 tcrm-m3.top
 tulicrp.engajroker.cyou
 turivor.edmaduliton.icu
+u1.creasingzen.shop
 u1.saunatriceps.shop
-u1.upheldundermost.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
-utorrent-servers.xyz
 uwhelp.top
 vbcre-76y.top
 vcri98.top
+vx-events.com
 w19-seasalt.com
 web.bqxhelp.top
 web.bxhelp.top
@@ -299,9 +305,9 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.15625%):
+0 used fastly (0.0%):
 ```
-riverview-pools.com
+
 ```
 
 0 used sucuri (0.0%):

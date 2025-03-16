@@ -1,4 +1,4 @@
-1000 domains tested. 66.0% were behind nothing (340 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 66.2% were behind nothing (338 were behind something). 56 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-133 used cloudflare (13.3%):
+132 used cloudflare (13.200000000000001%):
 ```
 33across.com
 addtoany.com
@@ -114,7 +114,6 @@ liftoff.io
 loc.gov
 maricopa.gov
 markmonitor.com
-mdpi.com
 media.net
 mediafire.com
 mediatek.com
@@ -179,7 +178,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -188,11 +187,11 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.es
-amazon.it
+amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -253,7 +252,6 @@ netflix.net
 netgear.com
 nexon.com
 noaa.gov
-onelink.me
 onet.pl
 otto.de
 pbs.org
@@ -309,11 +307,11 @@ pikabu.ru
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
 www.gov.uk
-yelp.com
 ```
 
 1 used sucuri (0.1%):
