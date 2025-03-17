@@ -97,6 +97,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -175,7 +176,6 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
-zoom.us
 ```
 
 107 used cloudfront (10.7%):
@@ -187,11 +187,11 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.es
-amazon.fr
-amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -220,7 +220,6 @@ dotomi.com
 dribbble.com
 dynatrace.com
 economist.com
-elasticbeanstalk.com
 epa.gov
 espn.com
 europa.eu
@@ -287,6 +286,7 @@ wattpad.com
 wired.com
 wsj.com
 zillow.com
+zoom.us
 ```
 
 4 used ddosguard (0.4%):
