@@ -1,4 +1,4 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 66.0% were behind nothing (340 were behind something). 57 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -97,7 +97,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -136,6 +135,7 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -178,7 +178,7 @@ xhamster.com
 zendesk.com
 ```
 
-107 used cloudfront (10.7%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -188,10 +188,10 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.br
 amazon.es
-amazon.it
+amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -220,6 +220,7 @@ dotomi.com
 dribbble.com
 dynatrace.com
 economist.com
+elasticbeanstalk.com
 epa.gov
 espn.com
 europa.eu
@@ -249,7 +250,6 @@ name.com
 nationalgeographic.com
 netflix.net
 netgear.com
-nexon.com
 noaa.gov
 onet.pl
 otto.de
@@ -275,6 +275,7 @@ tremorhub.com
 trustpilot.com
 twilio.com
 typeform.com
+ubi.com
 ubnt.com
 ui.com
 un.org

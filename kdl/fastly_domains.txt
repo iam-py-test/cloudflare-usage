@@ -24,6 +24,7 @@ cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
 co.pinterest.com
+ct.pinterest.com
 cz.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
@@ -66,18 +67,18 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
+i.pinimg.com
 i.redd.it
 i.vimeocdn.com
+id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -93,6 +94,8 @@ media.guim.co.uk
 mosaic.scdn.co
 mx.pinterest.com
 n.sni.global.fastly.net
+nl.pinterest.com
+no.pinterest.com
 nytimes.map.fastly.net
 nz.pinterest.com
 object-storage.shipt.com
@@ -107,6 +110,7 @@ paypal-dynamic-2.map.fastly.net
 paypal-dynamic-cdn.map.fastly.net
 paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
+pbs.twimg.com
 ph.pinterest.com
 pickasso.spotifycdn.com
 pl.pinterest.com
@@ -128,9 +132,11 @@ s.imgur.com
 s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
+se.pinterest.com
 sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
+static-exp2.licdn.com
 static.guim.co.uk
 static.isu.pub
 static.licdn.com
@@ -149,6 +155,7 @@ tr.pinterest.com
 twimg.twitter.map.fastly.net
 twitch.map.fastly.net
 ui.trailhead.com
+uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
@@ -170,10 +177,15 @@ www.paypal.com
 www.paypalobjects.com
 www.pinterest.ca
 www.pinterest.cl
+www.pinterest.co.kr
+www.pinterest.co.uk
 www.pinterest.com
+www.pinterest.com.au
 www.pinterest.com.mx
 www.pinterest.de
+www.pinterest.dk
 www.pinterest.es
+www.pinterest.fr
 www.pinterest.jp
 www.pinterest.nz
 www.pinterest.pt
@@ -184,3 +196,4 @@ www.shipt.com
 www.taboola.com
 www.theguardian.com
 www.twitch.tv
+za.pinterest.com
