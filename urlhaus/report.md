@@ -1,4 +1,4 @@
-391 domains tested. 59.07928388746802% were behind nothing (160 were behind something). 20 domains could not be tested.<br>
+384 domains tested. 62.239583333333336% were behind nothing (145 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,46 +19,44 @@
 
 ```
 
-139 used cloudflare (35.54987212276215%):
+130 used cloudflare (33.85416666666667%):
 ```
 122c.mosco.cc
-acc.cbihelp.top
 acc.tishelp.top
 acc.wtshelp.top
-aehelp.top
+adf6.adf6.com
+agd-yrr1.top
 alephmim.com
-alt-check-v3.com
-antlb0tv2.com
 api.ewfiles.net
 axhelp.top
-azmn-pp4.top
 bfjduf2.top
 booking-caphuman-089096111.com
 booking-human-id90024054.com
 booking-march-lang-en515.com
 booking-march45683.com
+booking.guestidreviews.com
 booking.itemsidguest.com
 booking.partner-04240144.com
 bookingmarch-en-lang.com
-boxiesreservguste.com
-capturjoint.info
-centrejoin.info
+carvecomi.fun
+check.aguu5.icu
+check.apoa3.icu
+check.asiu4.icu
+check.etau0.icu
 check.opie6.icu
-clicktherein.info
-crystalpvp.ru
+checkit-v3.com
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 eficienciaeningenieria.com.mx
 electrum.org.ph
-erde3-ew5.top
-esgroupnet.com
 expay.ru
 februaryconfr-21563.com
 gthelp.top
+guestidreviews.com
 gzeed-33w.top
-himancapt.info
 hitman-pro.ru
+homebrew-storage.com
 itemsidguest.com
 jdsfrw-11.top
 jrqh-hk.com
@@ -66,33 +64,30 @@ kernel-alt-v3.com
 lrewq-99.top
 m.anphelp.top
 m.biyhelp.top
-m.hlghelp.top
 m.iqhelp.top
 m.nexhelp.top
 m.pnbhelp.top
 m.qxfhelp.top
-m.uaihelp.top
-m.xohhelp.top
+m.rwhelp.top
 mabhelp.top
 mabsa13.top
-metalomni.space
 microsoft-analyse.com
+miner-tolken.com
 ndxs439.top
 onyxaquarius.de
 onyxcyberapex.de
-onyxdefendx.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxironguard.de
 onyxleo.de
 onyxnexguard.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
+orhelp.top
 p.iqhelp.top
 parner-id-1004991.com
 parner-id-104951451.com
@@ -115,50 +110,46 @@ partner-424504.com
 partner-442104.com
 partner-624024.com
 partner-id891489.com
-partnerhumcli.world
-pn3699log.gishelp.top
-recepchtav3.com
 reusable-flex.com
 rmkaio1.top
+rocketibt.com
 ronnin-v2.com
 sharegolem.com
 symbietic.com
-tcrm-m3.top
-u1.creasingzen.shop
-u1.overhangchump.shop
+systemsupport.top
+u1.anticsblooper.shop
 ubftr3.top
-uhmd-rw2.top
 utorrent-servers.xyz
 uwhelp.top
+vanartest.website
 vx-events.com
-web.bqxhelp.top
-web.bxhelp.top
 web.fiqhelp.top
 web.hlghelp.top
 web.ishelp.top
 web.nexhelp.top
 web.qrhelp.top
 web.qxfhelp.top
-web.uaihelp.top
-web.xohhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
+wjhelp.top
 wlop10.top
 wnhelp.top
 www.aehelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
+www.eqhelp.top
 www.kahelp.top
+www.luuk-lifestyle.eu
 www.lzhelp.top
 www.qlhelp.top
 www.qvhelp.top
 www.uhhelp.top
-www.uxhelp.top
 www.wjhelp.top
 xkhelp.top
 xn--yh4bx88a.com
+xshelp.top
 zxtwe-3x.top
 ```
 
@@ -177,7 +168,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.2557544757033248%):
+1 used fastly (0.26041666666666663%):
 ```
 riverview-pools.com
 ```
