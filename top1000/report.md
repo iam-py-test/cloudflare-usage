@@ -1,5 +1,5 @@
-1000 domains tested. 66.2% were behind nothing (338 were behind something). 60 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 59 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -42,7 +43,7 @@ b-cdn.net
 
 ```
 
-130 used cloudflare (13.0%):
+131 used cloudflare (13.100000000000001%):
 ```
 33across.com
 addtoany.com
@@ -135,6 +136,7 @@ pendo.io
 perfectdomain.com
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
@@ -176,7 +178,7 @@ xhamster.com
 zendesk.com
 ```
 
-106 used cloudfront (10.6%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -186,9 +188,11 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.it
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -273,6 +277,7 @@ tremorhub.com
 trustpilot.com
 twilio.com
 typeform.com
+ubi.com
 ubnt.com
 ui.com
 un.org
@@ -299,11 +304,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
