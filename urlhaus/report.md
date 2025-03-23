@@ -1,4 +1,4 @@
-466 domains tested. 51.716738197424895% were behind nothing (225 were behind something). 34 domains could not be tested.<br>
+461 domains tested. 53.579175704989154% were behind nothing (214 were behind something). 31 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-190 used cloudflare (40.772532188841204%):
+182 used cloudflare (39.479392624728845%):
 ```
-9mice-viperr.com
 acc.bzghelp.top
 acc.cbihelp.top
 acc.cjxhelp.top
@@ -38,12 +37,10 @@ aehelp.top
 agd-yrr1.top
 alephmim.com
 api.ewfiles.net
+asp.hankeringcrestedwrist.shop
 axhelp.top
 azmn-pp4.top
 bfjduf2.top
-booking.itemguestsid.com
-booking.rewiesgueste.com
-bv.pe
 bzsew-4ew.top
 check.aytuna.icu
 check.eezedu.icu
@@ -52,17 +49,15 @@ check.eucudo.icu
 check.ioqoda.icu
 check.oegebo.icu
 check.oibupi.icu
+check.ozotuk.icu
 check.yonuga.icu
-chvk-redan999.com
-crystalpvp.ru
-cvj.wtf
+check.ysozim.icu
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 edpcare.help
 egmn-4ew.top
-esgroupnet.com
-etheliumcheats.pro
+erde3-ew5.top
 expay.ru
 exsa-45we.top
 fter-po5.top
@@ -72,11 +67,9 @@ gomolatori.cyou
 gthelp.top
 gzeed-33w.top
 hehelp.top
-hitman-pro.ru
-itemguestsid.com
 jdsfrw-11.top
 jnhelp.top
-jrqh-hk.com
+lrewq-99.top
 m.anphelp.top
 m.biyhelp.top
 m.bqxhelp.top
@@ -93,6 +86,7 @@ m.klhelp.top
 m.mzihelp.top
 m.nexhelp.top
 m.pnbhelp.top
+m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
 microsoft-analyse.com
@@ -115,7 +109,7 @@ onyxguardshift.de
 onyxironguard.de
 onyxleo.de
 onyxlockforge.de
-onyxsafecrypt.de
+onyxnexguard.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxscorpio.de
@@ -131,33 +125,29 @@ orhelp.top
 oxtt-76r.top
 p.iqhelp.top
 pnbf-gv.top
-qd.pe
 reusable-flex.com
-rewiesgueste.com
 rmkaio1.top
 rocketibt.com
-safeguard.how
-saftyplace.com
+ronnin-v2.com
 sharegolem.com
+spacefyu.today
 support.ssagovsecure.com
 systemsupport.top
 tcrm-m3.top
+texasdispatchers.com
 u1.anticsblooper.shop
 u1.dormitoryzoom.shop
+u1.issuingdingbat.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 upohelp.top
-utorrent-servers.xyz
-uwhelp.top
 vbcre-76y.top
 vx-events.com
 wb3699log.bvwhelp.top
 web.bqxhelp.top
 web.bxhelp.top
-web.fiqhelp.top
 web.help3x.top
-web.hlghelp.top
 web.ishelp.top
 web.lnhelp.top
 web.mhehelp.top
@@ -165,6 +155,7 @@ web.mzihelp.top
 web.nexhelp.top
 web.opnhelp.top
 web.pnbhelp.top
+web.qrhelp.top
 web.qxfhelp.top
 web3.bxhelp.top
 web3.ishelp.top
@@ -172,6 +163,7 @@ web3.qrhelp.top
 web3.rwbhelp.top
 wjhelp.top
 wk3699log.iethelp.top
+wlop10.top
 wnhelp.top
 work.tdhelp.top
 wplhelp.top
@@ -189,7 +181,6 @@ www.kahelp.top
 www.kbhelp.top
 www.knhelp.top
 www.livhelp.top
-www.luuk-lifestyle.eu
 www.lzhelp.top
 www.onhelp.top
 www.ozhelp.top
@@ -203,6 +194,7 @@ www.wjhelp.top
 www.wkhelp.top
 www.xohelp.top
 www.xshelp.top
+wzuhelp.top
 xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
@@ -228,7 +220,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.2145922746781116%):
+1 used fastly (0.21691973969631237%):
 ```
 riverview-pools.com
 ```
