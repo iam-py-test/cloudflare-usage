@@ -1,8 +1,9 @@
-34 domains tested. 47.05882352941176% were behind nothing (18 were behind something). 0 domains could not be tested.<br>
-2 used akamai (5.88235294117647%):
+34 domains tested. 44.11764705882353% were behind nothing (19 were behind something). 1 domains could not be tested.<br>
+3 used akamai (8.823529411764707%):
 ```
 alienvault.com
 avira.com
+siteadvisor.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -20,7 +21,7 @@ avira.com
 
 ```
 
-14 used cloudflare (41.17647058823529%):
+13 used cloudflare (38.23529411764706%):
 ```
 abuseipdb.com
 any.run
@@ -28,7 +29,6 @@ bitdefender.com
 clamav.net
 crowdstrike.com
 emsisoft.com
-greynoise.io
 gridinsoft.com
 haveibeenpwned.com
 hybrid-analysis.com
