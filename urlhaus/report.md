@@ -1,4 +1,4 @@
-372 domains tested. 62.634408602150536% were behind nothing (139 were behind something). 18 domains could not be tested.<br>
+411 domains tested. 60.34063260340633% were behind nothing (163 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,37 @@
 
 ```
 
-120 used cloudflare (32.25806451612903%):
+142 used cloudflare (34.54987834549878%):
 ```
+acc.alphelp.top
+acc.bcjhelp.top
 acc.cbihelp.top
-acc.crjhelp.top
+acc.cjxhelp.top
+acc.gzmhelp.top
 acc.mcohelp.top
+acc.mocs2.top
 acc.tishelp.top
-acc.wtshelp.top
-accesspoint.cc
 adf6.adf6.com
-agd-yrr1.top
 alephmim.com
 api.ewfiles.net
-axhelp.top
 azmn-pp4.top
+b0erwi.ssafileaccess.ru
 bfjduf2.top
-crix.ro
+booking.gjuestidrewiew.com
+bw3699log.dgehelp.top
+bzsew-4ew.top
+check.higuh.icu
+check.quzis.icu
+check.vased.icu
+con.wolonman.com
 crystalpvp.ru
-dl.aginjector.com
 down.mvip8.ru
 downsexv.com
-edpcare.help
-erde3-ew5.top
 expay.ru
 fter-po5.top
 gbnace7.top
 gcxew-33w.top
+gjuestidrewiew.com
 goldassetsolutions.com
 gthelp.top
 gzeed-33w.top
@@ -53,26 +58,30 @@ jdsfrw-11.top
 jrqh-hk.com
 letscompress.com
 letscompress.online
+lmaobox.net
 m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
 m.fiqhelp.top
+m.fzqhelp.top
+m.help3x.top
 m.hlghelp.top
 m.iqhelp.top
 m.ivhelp.top
 m.kbhelp.top
 m.klhelp.top
+m.mzihelp.top
 m.nexhelp.top
 m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
 microsoft-analyse.com
+miner-tolken.com
+molatorisy.icu
 mxews5.top
-natbhelp.top
 ndxs439.top
 nphelp.top
 nxsw-tq2.top
-onyxaquarius.de
 onyxcyberapex.de
 onyxdefendx.de
 onyxfortifypro.de
@@ -83,10 +92,14 @@ onyxleo.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
+onyxsafex.de
+onyxscorpio.de
 onyxsecuregate.de
-onyxsentinelx.de
+onyxshieldpro.de
 onyxstealthnet.de
+onyxzerohack.de
 orhelp.top
+os.eqhelp.top
 oxtt-76r.top
 p.iqhelp.top
 pnbf-gv.top
@@ -94,21 +107,30 @@ reusable-flex.com
 rmkaio1.top
 rocketibt.com
 ronnin-v2.com
+safetguard.mosco.cc
 sharegolem.com
+support.ssagovsecure.com
+symbietic.com
 tcrm-m3.top
-u1.defrostbrilliant.shop
-u1.juryvarious.shop
+tech-updates-24.ru
 u9b.top
-ubftr3.top
 uhmd-rw2.top
-utorrent-servers.xyz
+uwhelp.top
+vx-events.com
+wb3699log.bvwhelp.top
 web.bqxhelp.top
 web.bxhelp.top
 web.fiqhelp.top
+web.fzqhelp.top
+web.helpm6.top
+web.hlghelp.top
 web.ishelp.top
+web.kxhelp.top
 web.nexhelp.top
 web.qrhelp.top
 web.qxfhelp.top
+web.rwbhelp.top
+web.vfmhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
@@ -116,6 +138,8 @@ wjhelp.top
 wlop10.top
 wnhelp.top
 wplhelp.top
+www.axhelp.top
+www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
@@ -123,22 +147,20 @@ www.eqhelp.top
 www.ivhelp.top
 www.kahelp.top
 www.letscompress.online
-www.livhelp.top
-www.luuk-lifestyle.eu
 www.lzhelp.top
 www.onhelp.top
-www.ozhelp.top
-www.qlhelp.top
+www.qnuhelp.top
 www.qvhelp.top
 www.uhhelp.top
 www.uxhelp.top
 www.wjhelp.top
-www.xshelp.top
+www.wyghelp.top
 wzuhelp.top
 xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
 xqwa87.top
+xshelp.top
 zx4qtc.me
 zxtwe-3x.top
 ```
@@ -158,7 +180,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.2688172043010753%):
+1 used fastly (0.24330900243309003%):
 ```
 riverview-pools.com
 ```
