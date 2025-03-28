@@ -1,5 +1,5 @@
-1000 domains tested. 65.7% were behind nothing (343 were behind something). 59 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.8% were behind nothing (342 were behind something). 56 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 ```
 
 1 used bunnycdn (0.1%):
@@ -42,7 +43,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+136 used cloudflare (13.600000000000001%):
 ```
 33across.com
 addtoany.com
@@ -108,10 +109,12 @@ innovid.com
 instabug.com
 jotform.com
 jquery.com
+kick.com
 kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -121,7 +124,6 @@ mediatek.com
 medium.com
 mgid.com
 myshopify.com
-name.com
 networkadvertising.org
 nexusmods.com
 okta.com
@@ -189,10 +191,8 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.co.jp
-amazon.co.uk
+amazon.com.br
 amazon.de
-amazon.es
 amazon.in
 amazon.it
 amazonaws.com
@@ -250,6 +250,7 @@ lijit.com
 line.me
 merriam-webster.com
 mongodb.com
+name.com
 nationalgeographic.com
 netflix.net
 netgear.com
@@ -283,6 +284,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
