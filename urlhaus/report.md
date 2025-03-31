@@ -1,4 +1,4 @@
-465 domains tested. 56.98924731182796% were behind nothing (200 were behind something). 30 domains could not be tested.<br>
+491 domains tested. 54.378818737270876% were behind nothing (224 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,15 @@
 
 ```
 
-169 used cloudflare (36.344086021505376%):
+191 used cloudflare (38.90020366598778%):
 ```
 1support.top
+a.uueui.shop
 acc.biyhelp.top
+acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
+acc.nmphelp.top
 acc.qsehelp.top
 acc.tishelp.top
 acc.wpahelp.top
@@ -38,53 +41,57 @@ axhelp.top
 azmn-pp4.top
 bfjduf2.top
 bmw4i428.su
-bt.appokset.com
+bzsew-4ew.top
 check.bopuc.icu
-check.canez.icu
+check.botuh.icu
+check.bumac.icu
+check.doguw.icu
+check.fenin.icu
+check.fihoj.icu
 check.gicaz.icu
+check.hydod.icu
 check.jehim.icu
+check.jetex.icu
 check.jexat.icu
+check.kosif.icu
 check.libij.icu
-check.ligaz.icu
+check.maxec.icu
 check.mipak.icu
 check.munyw.icu
-check.nagec.icu
-check.nifom.icu
-check.qewid.icu
-check.ryqyn.icu
 check.sabyw.icu
-check.taxaq.icu
+check.sanyq.icu
 check.taxiz.icu
-check.ticyb.icu
-check.tisof.icu
 check.wumih.icu
-check.zahyt.icu
-checking-server.mosco.cc
+check.xelan.icu
+check.zixit.icu
 clickbit.cc
 crystalpvp.ru
+deviceprotect.top
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 erde3-ew5.top
-eu-gangbang24.cfd
 expay.ru
 fter-po5.top
 fyrq-4cx.top
 gbnace7.top
 gcxew-33w.top
 gmthelp.top
+grhhelp.top
 gthelp.top
+gzeed-33w.top
 hitman-pro.ru
 instantsupport.top
 jdsfrw-11.top
+jnhelp.top
 jrqh-hk.com
 kvsdf11.top
 login.zcqhelp.top
+lpxzw-76.top
 m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
 m.ewlhelp.top
-m.fiqhelp.top
 m.hlghelp.top
 m.iqhelp.top
 m.ivhelp.top
@@ -93,6 +100,7 @@ m.klhelp.top
 m.kxhelp.top
 m.mzihelp.top
 m.nexhelp.top
+m.niahelp.top
 m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
@@ -101,25 +109,35 @@ miner-tolken.com
 molatorier.icu
 mxews5.top
 natphelp.top
-ndxs439.top
 nphelp.top
 nxsw-tq2.top
+onyxaquarius.de
+onyxcipherx.de
 onyxcyberapex.de
 onyxdefendx.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
+onyxintruderblock.de
 onyxironguard.de
 onyxleo.de
+onyxnexguard.de
+onyxprotector.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxscorpio.de
+onyxsecuregate.de
 onyxsentinelx.de
+onyxshieldify.de
 onyxshieldpro.de
 onyxstealthnet.de
 onyxtrustedge.de
+onyxtrustmesh.de
 onyxvirgo.de
 orhelp.top
+os.fphelp.top
+os.ujhelp.top
 oxtt-76r.top
 p.iqhelp.top
 pnbf-gv.top
@@ -127,12 +145,10 @@ pthkpanl.top
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
-ronnin-v2.com
 sharegolem.com
+sleepwellmagazine.com
 symbietic.com
-t.uyoya.shop
-tcrm-m3.top
-u1.equatedisbelief.shop
+u1.festerattire.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
@@ -155,6 +171,9 @@ web.wlphelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
+web3.rwbhelp.top
+werito.cyou
+wjhelp.top
 wk3699log.iethelp.top
 wlop10.top
 wnhelp.top
@@ -163,17 +182,22 @@ www.affinity-accountservices.com
 www.axhelp.top
 www.bchelp.top
 www.blackhattoolz.com
+www.bmhelp.top
 www.eahelp.top
 www.eqhelp.top
+www.inhelp.top
+www.iptvhddechile.com
 www.ivhelp.top
 www.kahelp.top
-www.luuk-lifestyle.eu
+www.livhelp.top
 www.lzhelp.top
+www.mokt4.top
 www.onhelp.top
 www.ozhelp.top
 www.pchk4.top
 www.polersx.top
 www.qlhelp.top
+www.rolc4.top
 www.uhhelp.top
 www.uxhelp.top
 www.wjhelp.top
@@ -183,10 +207,8 @@ wzuhelp.top
 xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
-xqwa87.top
 yhvdr96i.top
-ypp-studio.com
-ypp-update.com
+zetrax.shop
 zfhelp.top
 zx4qtc.me
 zxtwe-3x.top
@@ -207,7 +229,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.21505376344086022%):
+1 used fastly (0.20366598778004072%):
 ```
 riverview-pools.com
 ```
