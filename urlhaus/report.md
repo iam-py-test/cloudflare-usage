@@ -1,4 +1,4 @@
-471 domains tested. 61.78343949044586% were behind nothing (180 were behind something). 19 domains could not be tested.<br>
+437 domains tested. 61.556064073226544% were behind nothing (168 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,8 @@
 
 ```
 
-160 used cloudflare (33.97027600849257%):
+149 used cloudflare (34.09610983981693%):
 ```
-a.uueui.shop
-acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
 acc.mcohelp.top
@@ -30,8 +28,11 @@ acc.nmphelp.top
 acc.tishelp.top
 acc.wtshelp.top
 accesspoint.cc
+adf6.adf6.com
 aflacltd.top
 agd-yrr1.top
+alephmim.com
+anydesk.com.in
 api.ewfiles.net
 axhelp.top
 azmn-pp4.top
@@ -39,32 +40,37 @@ bfjduf2.top
 bmw4i428.su
 bretux.com
 bzsew-4ew.top
-check.bumac.icu
+check.bukuu.icu
+check.cymyv.icu
 check.dazyc.icu
-check.fihoj.icu
-check.hydod.icu
-check.kosif.icu
+check.dobai.icu
+check.donau.icu
+check.gihua.icu
+check.giriq.icu
+check.lafae.icu
+check.nuxiy.icu
 check.pijuk.icu
+check.poxuv.icu
+check.rajuy.icu
 check.sorix.icu
+check.xamuy.icu
+coconnexion.com
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
+dropmefiles.life
 edpcare.help
-erde3-ew5.top
 expay.ru
 fter-po5.top
-gbnace7.top
 gcxew-33w.top
 gmthelp.top
-grhhelp.top
 gthelp.top
 gzeed-33w.top
 hitiotppppalfkjfk.com
 hitman-pro.ru
 jdsfrw-11.top
-jnhelp.top
 jrqh-hk.com
 kaspamirror.icu
 login.zcqhelp.top
@@ -79,41 +85,31 @@ m.kbhelp.top
 m.klhelp.top
 m.mzihelp.top
 m.nexhelp.top
-m.niahelp.top
 m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
+memetrump.pro
 mfktiaoaolfkfjzjk.com
-microsoft-analyse.com
+miner-tolken.com
 mxews5.top
 ndxs439.top
 nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
-onyxcipherx.de
 onyxcyberapex.de
 onyxdefendx.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
-onyxintruderblock.de
 onyxironguard.de
 onyxleo.de
 onyxnexguard.de
-onyxprotector.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxscorpio.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldify.de
 onyxshieldpro.de
 onyxstealthnet.de
-onyxtrustmesh.de
 orhelp.top
-os.fphelp.top
-os.ujhelp.top
-oxtt-76r.top
 p.iqhelp.top
 pnbf-gv.top
 reusable-flex.com
@@ -122,10 +118,9 @@ rocketibt.com
 ronnin-v2.com
 sec-check.mosco.cc
 sharegolem.com
-sleepwellmagazine.com
 symbietic.com
 tcrm-m3.top
-u1.festerattire.shop
+u1.upstreamcresting.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
@@ -133,6 +128,7 @@ utorrent-servers.xyz
 uwhelp.top
 web.bqxhelp.top
 web.bxhelp.top
+web.fiqhelp.top
 web.hlghelp.top
 web.ishelp.top
 web.nexhelp.top
@@ -142,31 +138,26 @@ web.xbvhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
-web3.rwbhelp.top
-werito.cyou
 wjhelp.top
 wlop10.top
 wnhelp.top
 wplhelp.top
 www.asistani.com.tr
 www.axhelp.top
+www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
 www.eqhelp.top
-www.inhelp.top
-www.iptvhddechile.com
 www.ivhelp.top
 www.kahelp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.lzhelp.top
-www.mokt4.top
 www.onhelp.top
 www.ozhelp.top
 www.polersx.top
 www.qlhelp.top
-www.rolc4.top
 www.uhhelp.top
 www.uxhelp.top
 www.wjhelp.top
@@ -178,8 +169,6 @@ xn--yh4bx88a.com
 xohelp.top
 xqwa87.top
 xshelp.top
-zetrax.shop
-zx4qtc.me
 zxtwe-3x.top
 ```
 
@@ -198,7 +187,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.21231422505307856%):
+1 used fastly (0.2288329519450801%):
 ```
 riverview-pools.com
 ```

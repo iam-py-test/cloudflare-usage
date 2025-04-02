@@ -1,31 +1,21 @@
-1000 domains tested. 65.60000000000001% were behind nothing (344 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 67.0% were behind nothing (330 were behind something). 53 domains could not be tested.<br>
+15 used akamai (1.5%):
 ```
 accuweather.com
-adobe.com
-adobe.net
-arubanetworks.com
-autodesk.com
 dailymail.co.uk
-dell.com
 ebay.co.uk
 ebay.com
 ebay.de
-fda.gov
-godaddy.com
-hm.com
 hp.com
-intel.com
 intuit.com
 lowes.com
-macys.com
-marriott.com
+mi.com
 mobile.de
 mysql.com
-news.com.au
 rakuten.co.jp
-weforum.org
-windows.com
+ups.com
+xiaomi.com
+xiaomi.net
 ```
 
 1 used bunnycdn (0.1%):
@@ -43,7 +33,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+136 used cloudflare (13.600000000000001%):
 ```
 33across.com
 addtoany.com
@@ -98,6 +88,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -106,6 +97,7 @@ indeed.com
 indexww.com
 innovid.com
 instabug.com
+iso.org
 jotform.com
 jquery.com
 kick.com
@@ -181,19 +173,18 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -232,6 +223,7 @@ eventbrite.com
 express.co.uk
 figma.com
 flickr.com
+fortune.com
 geeksforgeeks.org
 go.com
 goodreads.com
@@ -245,6 +237,7 @@ imdb.com
 intercom.io
 ipify.org
 istockphoto.com
+jetbrains.com
 kargo.com
 latimes.com
 lijit.com
@@ -306,11 +299,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 forbes.com
 github.io

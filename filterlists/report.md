@@ -1,4 +1,4 @@
-217 domains tested. 60.36866359447005% were behind nothing (86 were behind something). 8 domains could not be tested.<br>
+217 domains tested. 59.44700460829493% were behind nothing (88 were behind something). 8 domains could not be tested.<br>
 5 used akamai (2.3041474654377883%):
 ```
 easylist-downloads.adblockplus.org
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-50 used cloudflare (23.04147465437788%):
+52 used cloudflare (23.963133640552993%):
 ```
 1275.ru
 abp.tt.codes
@@ -48,6 +48,7 @@ easydutchcdn.pages.dev
 easylist.to
 family.cloudflare-dns.com
 fanboy.co.nz
+filter.futa.gg
 filtersheroes.gitlab.io
 getadhell.com
 gitlab.com
@@ -56,6 +57,7 @@ lpt.lrv.lt
 malware-filter.gitlab.io
 managedsentinel.com
 nonio.pt
+orca.pet
 osint.bambenekconsulting.com
 pastebin.com
 phishing.army

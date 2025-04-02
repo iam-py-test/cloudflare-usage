@@ -1,7 +1,6 @@
-200 domains tested. 63.5% were behind nothing (73 were behind something). 4 domains could not be tested.<br>
-3 used akamai (1.5%):
+200 domains tested. 64.0% were behind nothing (72 were behind something). 1 domains could not be tested.<br>
+2 used akamai (1.0%):
 ```
-anandabazar.com
 dailymail.co.uk
 news.sky.com
 ```
@@ -100,12 +99,15 @@ wsj.com
 
 ```
 
-5 used fastly (2.5%):
+8 used fastly (4.0%):
 ```
 bbc.com
 bbc.com
 cbsnews.com
+expressnews.com
 forbes.com
+houstonchronicle.com
+sfgate.com
 thehill.com
 ```
 
