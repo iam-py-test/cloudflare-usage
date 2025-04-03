@@ -1,19 +1,32 @@
-1000 domains tested. 67.0% were behind nothing (330 were behind something). 53 domains could not be tested.<br>
-15 used akamai (1.5%):
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 59 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
+adobe.com
+adobe.net
+arubanetworks.com
+autodesk.com
 dailymail.co.uk
+dell.com
 ebay.co.uk
 ebay.com
 ebay.de
+fda.gov
+godaddy.com
+hm.com
 hp.com
+intel.com
 intuit.com
 lowes.com
+macys.com
+marriott.com
 mi.com
 mobile.de
 mysql.com
+news.com.au
 rakuten.co.jp
-ups.com
+weforum.org
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -180,12 +193,12 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
-amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -208,7 +221,6 @@ coinmarketcap.com
 cox.net
 curseforge.com
 datadoghq.com
-deltaork.com
 deviantart.com
 doi.org
 dotomi.com
@@ -278,6 +290,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -299,11 +312,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
