@@ -1,4 +1,4 @@
-421 domains tested. 60.09501187648456% were behind nothing (168 were behind something). 17 domains could not be tested.<br>
+426 domains tested. 61.502347417840376% were behind nothing (164 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,53 +19,35 @@
 
 ```
 
-150 used cloudflare (35.62945368171022%):
+144 used cloudflare (33.80281690140845%):
 ```
 acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
 acc.mcohelp.top
-acc.nmphelp.top
+acc.nehhelp.top
 acc.tishelp.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 aflacltd.top
 agd-yrr1.top
-alephmim.com
-anydesk.com.in
 api.ewfiles.net
 axhelp.top
-azmn-pp4.top
 bfjduf2.top
 bmw4i428.su
 bzsew-4ew.top
-check.bukuu.icu
-check.cymyv.icu
-check.dasoc.icu
-check.dobai.icu
-check.donau.icu
-check.gihua.icu
-check.giriq.icu
-check.kywau.icu
-check.lacoa.icu
-check.lafae.icu
-check.nuxiy.icu
-check.poxuv.icu
-check.xamuy.icu
+check.xuxyf.icu
 check.zaqob.icu
 crystalpvp.ru
-deviceprotect.top
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
-dropmefiles.life
+edpcare.help
 erde3-ew5.top
 expay.ru
-fter-po5.top
 gbnace7.top
 gcxew-33w.top
-gmthelp.top
 gthelp.top
 gzeed-33w.top
 hitman-pro.ru
@@ -76,7 +58,9 @@ m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
 m.fiqhelp.top
+m.help4c.top
 m.hlghelp.top
+m.inhelp.top
 m.iqhelp.top
 m.ivhelp.top
 m.kbhelp.top
@@ -94,13 +78,19 @@ nexacorenet.com
 nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
+onyxcryptogate.de
 onyxcyberapex.de
 onyxdefendx.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardium.de
+onyxguardshift.de
+onyxintruder.de
 onyxironguard.de
 onyxironvault.de
 onyxleo.de
+onyxmesh.de
+onyxnexguard.de
 onyxphantomlock.de
 onyxsafecrypt.de
 onyxsafenova.de
@@ -111,6 +101,7 @@ onyxsentinelx.de
 onyxshieldpro.de
 onyxstealthnet.de
 orhelp.top
+os.rwhelp.top
 p.iqhelp.top
 pnbf-gv.top
 reusable-flex.com
@@ -123,11 +114,9 @@ t2m.co
 tcrm-m3.top
 tiendev.click
 tyahelp.top
-u1.jarringshrink.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
-utorrent-servers.xyz
 uwhelp.top
 web.bqxhelp.top
 web.bxhelp.top
@@ -143,23 +132,28 @@ web3.qrhelp.top
 wjhelp.top
 wlop10.top
 wnhelp.top
-wplhelp.top
-www.asistani.com.tr
 www.axhelp.top
 www.bchelp.top
+www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
 www.eqhelp.top
+www.imhelp.top
 www.ivhelp.top
+www.kahelp.top
+www.kfrt3.top
 www.leeholmes.com
 www.livhelp.top
 www.lnhelp.top
 www.luuk-lifestyle.eu
 www.lzhelp.top
+www.nfwk8.top
 www.onhelp.top
 www.ozhelp.top
+www.pgdu6.top
 www.polersx.top
 www.qlhelp.top
+www.rwhelp.top
 www.uhhelp.top
 www.ujhelp.top
 www.uxhelp.top
@@ -169,7 +163,7 @@ www.xshelp.top
 xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
-xshelp.top
+xqwa87.top
 zxtwe-3x.top
 ```
 
@@ -188,7 +182,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.23752969121140144%):
+1 used fastly (0.2347417840375587%):
 ```
 riverview-pools.com
 ```
