@@ -1,4 +1,4 @@
-426 domains tested. 61.502347417840376% were behind nothing (164 were behind something). 19 domains could not be tested.<br>
+443 domains tested. 60.270880361173816% were behind nothing (176 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,45 @@
 
 ```
 
-144 used cloudflare (33.80281690140845%):
+155 used cloudflare (34.988713318284425%):
 ```
+4partyinkilo5.lol
 acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
 acc.mcohelp.top
 acc.nehhelp.top
+acc.nmphelp.top
 acc.tishelp.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
-aflacltd.top
 agd-yrr1.top
+alephmim.com
 api.ewfiles.net
+awcollectors.com
 axhelp.top
 bfjduf2.top
 bmw4i428.su
 bzsew-4ew.top
+check.gekan.icu
+check.kedep.icu
+check.wewit.icu
 check.xuxyf.icu
-check.zaqob.icu
 crystalpvp.ru
+deviceprotect.top
 dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 edpcare.help
+empizolo.rest
 erde3-ew5.top
 expay.ru
+firtsaigoing.xyz
+fter-po5.top
 gbnace7.top
 gcxew-33w.top
+gmthelp.top
 gthelp.top
 gzeed-33w.top
 hitman-pro.ru
@@ -74,7 +84,6 @@ mabsa13.top
 miner-tolken.com
 mxews5.top
 ndxs439.top
-nexacorenet.com
 nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
@@ -107,18 +116,19 @@ pnbf-gv.top
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
-ronnin-v2.com
 sharegolem.com
+sub.demouol.digital
 symbietic.com
-t2m.co
+tanakolrt.world
 tcrm-m3.top
 tiendev.click
 tyahelp.top
+u1.strongboxjarring.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
+utorrent-servers.xyz
 uwhelp.top
-web.bqxhelp.top
 web.bxhelp.top
 web.fiqhelp.top
 web.hlghelp.top
@@ -164,6 +174,7 @@ xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
 xqwa87.top
+xshelp.top
 zxtwe-3x.top
 ```
 
@@ -182,7 +193,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.2347417840375587%):
+1 used fastly (0.2257336343115124%):
 ```
 riverview-pools.com
 ```
