@@ -48,6 +48,7 @@ easydutchcdn.pages.dev
 easylist.to
 family.cloudflare-dns.com
 fanboy.co.nz
+filter.futa.gg
 filtersheroes.gitlab.io
 getadhell.com
 gitlab.com
@@ -56,7 +57,6 @@ lpt.lrv.lt
 malware-filter.gitlab.io
 managedsentinel.com
 nonio.pt
-orca.pet
 osint.bambenekconsulting.com
 pastebin.com
 phishing.army

@@ -1,4 +1,4 @@
-403 domains tested. 62.28287841191067% were behind nothing (152 were behind something). 14 domains could not be tested.<br>
+396 domains tested. 64.64646464646465% were behind nothing (140 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-137 used cloudflare (33.99503722084367%):
+127 used cloudflare (32.07070707070707%):
 ```
-4partyinkilo5.lol
 acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
@@ -29,34 +28,29 @@ acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
 acc.wtshelp.top
-accesspoint.cc
 adf6.adf6.com
-alephmim.com
+agd-yrr1.top
+almeida.clientepj.com
 api.ewfiles.net
-awcollectors.com
 axhelp.top
 bb2.cewal.fun
 bfjduf2.top
 bmw4i428.su
 bzsew-4ew.top
 captcha-cdn.com
-check.gekan.icu
-check.kedep.icu
-check.wewit.icu
 crystalpvp.ru
-dl.aginjector.com
+deviceprotect.top
+down.mvip8.ru
 downsexv.com
 edpcare.help
-empizolo.rest
 erde3-ew5.top
-firtsaigoing.xyz
 fter-po5.top
 gbnace7.top
 gcxew-33w.top
 gmthelp.top
 gthelp.top
 gzeed-33w.top
-h1.rectalcrumb.shop
+hitman-pro.ru
 jdsfrw-11.top
 jrqh-hk.com
 login.zcqhelp.top
@@ -75,7 +69,6 @@ m.nsdhelp.top
 m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
-mindsparkdigital.com
 miner-tolken.com
 mxews5.top
 nalandareporter.com
@@ -84,8 +77,9 @@ nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
 onyxcyberapex.de
-onyxfortifypro.de
+onyxdefendx.de
 onyxfortitech.de
+onyxguardshift.de
 onyxironguard.de
 onyxironvault.de
 onyxleo.de
@@ -95,19 +89,17 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxscorpio.de
-onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldpro.de
+onyxstealthnet.de
 orhelp.top
 p.iqhelp.top
 pnbf-gv.top
-reusable-flex.com
 rmkaio1.top
 rocketibt.com
+ronnin-v2.com
 sharegolem.com
-sub.demouol.digital
 symbietic.com
-tanakolrt.world
 tcrm-m3.top
 tyahelp.top
 u1.strongboxjarring.shop
@@ -117,9 +109,7 @@ uhmd-rw2.top
 utorrent-servers.xyz
 uwhelp.top
 web.bqxhelp.top
-web.bxhelp.top
 web.fiqhelp.top
-web.hlghelp.top
 web.ishelp.top
 web.nexhelp.top
 web.qrhelp.top
@@ -144,7 +134,6 @@ www.lnhelp.top
 www.luuk-lifestyle.eu
 www.lzhelp.top
 www.onhelp.top
-www.ozhelp.top
 www.polersx.top
 www.qlhelp.top
 www.uhhelp.top
@@ -155,6 +144,7 @@ www.wkhelp.top
 www.xshelp.top
 xkhelp.top
 xn--yh4bx88a.com
+xohelp.top
 xqwa87.top
 xshelp.top
 zxtwe-3x.top
@@ -175,7 +165,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.24813895781637718%):
+1 used fastly (0.25252525252525254%):
 ```
 riverview-pools.com
 ```
