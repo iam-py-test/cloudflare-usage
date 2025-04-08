@@ -1,4 +1,4 @@
-396 domains tested. 64.64646464646465% were behind nothing (140 were behind something). 12 domains could not be tested.<br>
+403 domains tested. 62.779156327543426% were behind nothing (150 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-127 used cloudflare (32.07070707070707%):
+129 used cloudflare (32.00992555831266%):
 ```
 acc.cbihelp.top
 acc.crjhelp.top
@@ -33,13 +33,12 @@ agd-yrr1.top
 almeida.clientepj.com
 api.ewfiles.net
 axhelp.top
-bb2.cewal.fun
 bfjduf2.top
 bmw4i428.su
 bzsew-4ew.top
-captcha-cdn.com
 crystalpvp.ru
 deviceprotect.top
+dl.aginjector.com
 down.mvip8.ru
 downsexv.com
 edpcare.help
@@ -47,11 +46,14 @@ erde3-ew5.top
 fter-po5.top
 gbnace7.top
 gcxew-33w.top
+gdfjjkiririririqiiriri.com
+gg1.cewal.fun
 gmthelp.top
 gthelp.top
 gzeed-33w.top
 hitman-pro.ru
 jdsfrw-11.top
+jfjsjfjooritiqtiqlflfmzm.com
 jrqh-hk.com
 login.zcqhelp.top
 m.anphelp.top
@@ -71,13 +73,12 @@ m.rwhelp.top
 mabsa13.top
 miner-tolken.com
 mxews5.top
-nalandareporter.com
 ndxs439.top
 nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
-onyxcyberapex.de
 onyxdefendx.de
+onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxironguard.de
@@ -89,6 +90,7 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxscorpio.de
+onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldpro.de
 onyxstealthnet.de
@@ -102,14 +104,16 @@ sharegolem.com
 symbietic.com
 tcrm-m3.top
 tyahelp.top
-u1.strongboxjarring.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
+undermymindops.com
 utorrent-servers.xyz
 uwhelp.top
 web.bqxhelp.top
+web.bxhelp.top
 web.fiqhelp.top
+web.hlghelp.top
 web.ishelp.top
 web.nexhelp.top
 web.qrhelp.top
@@ -119,9 +123,6 @@ web3.ishelp.top
 web3.qrhelp.top
 wjhelp.top
 wlop10.top
-wnhelp.top
-www.axhelp.top
-www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
@@ -134,6 +135,7 @@ www.lnhelp.top
 www.luuk-lifestyle.eu
 www.lzhelp.top
 www.onhelp.top
+www.ozhelp.top
 www.polersx.top
 www.qlhelp.top
 www.uhhelp.top
@@ -165,7 +167,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.25252525252525254%):
+1 used fastly (0.24813895781637718%):
 ```
 riverview-pools.com
 ```
