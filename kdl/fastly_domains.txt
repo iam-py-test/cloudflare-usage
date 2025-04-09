@@ -23,7 +23,6 @@ ch.pinterest.com
 cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
-cnn.com
 co.pinterest.com
 ct.pinterest.com
 cz.pinterest.com
@@ -46,7 +45,6 @@ dualstack.video.twitter.map.fastly.net
 ebayimg.map.fastly.net
 ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
-edition.cnn.com
 embed.acuityscheduling.com
 es.pinterest.com
 etsy.com
@@ -69,6 +67,7 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
+i.ebayimg.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
@@ -76,19 +75,16 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
+images-na.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
-jp.pinterest.com
 jsdelivr.map.fastly.net
-kr.pinterest.com
 linkedin.map.fastly.net
-m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -140,6 +136,7 @@ sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
 static.isu.pub
+static.licdn.com
 static.nytimes.com
 static.theguardian.com
 static01.nyt.com
@@ -151,7 +148,6 @@ t.paypal.com
 tls13.spotifycdn.map.fastly.net
 tls13.taboola.map.fastly.net
 tls130rtt.spotifycdn.map.fastly.net
-tr.pinterest.com
 twimg.twitter.map.fastly.net
 twitch.map.fastly.net
 ui.trailhead.com
@@ -159,7 +155,6 @@ uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
-video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
@@ -179,9 +174,7 @@ www.paypalobjects.com
 www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
-www.pinterest.co.uk
 www.pinterest.com
-www.pinterest.com.au
 www.pinterest.com.mx
 www.pinterest.de
 www.pinterest.dk

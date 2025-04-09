@@ -1,4 +1,4 @@
-403 domains tested. 62.779156327543426% were behind nothing (150 were behind something). 20 domains could not be tested.<br>
+405 domains tested. 60.74074074074074% were behind nothing (159 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-129 used cloudflare (32.00992555831266%):
+139 used cloudflare (34.32098765432099%):
 ```
 acc.cbihelp.top
 acc.crjhelp.top
@@ -30,12 +30,20 @@ acc.tishelp.top
 acc.wtshelp.top
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 almeida.clientepj.com
 api.ewfiles.net
 axhelp.top
+bestieslos.com
 bfjduf2.top
 bmw4i428.su
+bookviewmain24.com
+brokpolok.shop
 bzsew-4ew.top
+check.nikys.icu
+check.riced.icu
+check.wejyj.icu
+check.zatij.icu
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
@@ -49,6 +57,7 @@ gcxew-33w.top
 gdfjjkiririririqiiriri.com
 gg1.cewal.fun
 gmthelp.top
+go-cars-cheaprest.cfd
 gthelp.top
 gzeed-33w.top
 hitman-pro.ru
@@ -60,7 +69,6 @@ m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
 m.fiqhelp.top
-m.hlghelp.top
 m.iqhelp.top
 m.ivhelp.top
 m.kbhelp.top
@@ -77,6 +85,7 @@ ndxs439.top
 nphelp.top
 nxsw-tq2.top
 onyxaquarius.de
+onyxcyberapex.de
 onyxdefendx.de
 onyxfortifypro.de
 onyxfortitech.de
@@ -89,11 +98,9 @@ onyxphantomlock.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
-onyxscorpio.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldpro.de
-onyxstealthnet.de
 orhelp.top
 p.iqhelp.top
 pnbf-gv.top
@@ -101,15 +108,16 @@ rmkaio1.top
 rocketibt.com
 ronnin-v2.com
 sharegolem.com
-symbietic.com
 tcrm-m3.top
 tyahelp.top
+u1.aqueductdonor.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 undermymindops.com
 utorrent-servers.xyz
 uwhelp.top
+wakapundaa.shop
 web.bqxhelp.top
 web.bxhelp.top
 web.fiqhelp.top
@@ -121,19 +129,21 @@ web.qxfhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
+werito.cyou
 wjhelp.top
 wlop10.top
+wnhelp.top
+www.axhelp.top
+www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
-www.eqhelp.top
 www.ivhelp.top
 www.kahelp.top
 www.leeholmes.com
 www.livhelp.top
 www.lnhelp.top
 www.luuk-lifestyle.eu
-www.lzhelp.top
 www.onhelp.top
 www.ozhelp.top
 www.polersx.top
@@ -152,9 +162,9 @@ xshelp.top
 zxtwe-3x.top
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.24691358024691357%):
 ```
-
+cdn.tagbox.io
 ```
 
 0 used ddosguard (0.0%):
@@ -167,9 +177,9 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.24813895781637718%):
+1 used fastly (0.24691358024691357%):
 ```
-riverview-pools.com
+gsocket.io
 ```
 
 0 used sucuri (0.0%):
