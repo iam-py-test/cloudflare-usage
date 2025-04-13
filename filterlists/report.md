@@ -1,4 +1,4 @@
-217 domains tested. 59.907834101382484% were behind nothing (87 were behind something). 9 domains could not be tested.<br>
+217 domains tested. 58.986175115207374% were behind nothing (89 were behind something). 9 domains could not be tested.<br>
 5 used akamai (2.3041474654377883%):
 ```
 easylist-downloads.adblockplus.org
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-50 used cloudflare (23.04147465437788%):
+52 used cloudflare (23.963133640552993%):
 ```
 1275.ru
 abp.tt.codes
@@ -40,6 +40,7 @@ azorult-tracker.net
 blokada.org
 cdn.adblockcdn.com
 combinatronics.io
+dbl.oisd.nl
 dns-family.adguard.com
 dns.adgk.net
 dns.adguard.com
@@ -51,6 +52,7 @@ fanboy.co.nz
 filtersheroes.gitlab.io
 getadhell.com
 gitlab.com
+hosts.oisd.nl
 iplists.firehol.org
 lpt.lrv.lt
 malware-filter.gitlab.io
