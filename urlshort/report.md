@@ -1,4 +1,4 @@
-272 domains tested. 42.64705882352941% were behind nothing (156 were behind something). 8 domains could not be tested.<br>
+272 domains tested. 44.11764705882353% were behind nothing (152 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7352941176470588%):
 ```
 eepurl.com
@@ -155,12 +155,10 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-14 used cloudfront (5.147058823529411%):
+12 used cloudfront (4.411764705882353%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
-pxl.to
 qrs.ly
 rb.gy
 rebrand.ly
