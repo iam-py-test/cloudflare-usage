@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 59 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 61 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -26,7 +26,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-135 used cloudflare (13.5%):
+134 used cloudflare (13.4%):
 ```
 33across.com
 addtoany.com
@@ -81,7 +80,6 @@ cloudflare.net
 cloudflareinsights.com
 cloudinary.com
 coingecko.com
-coinsmart.com
 columbia.edu
 cookiedatabase.org
 cookielaw.org
@@ -102,6 +100,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -148,8 +147,8 @@ princeton.edu
 prnewswire.com
 quizlet.com
 quora.com
+rapid7.com
 readthedocs.io
-redislabs.com
 researchgate.net
 roku.com
 sciencedirect.com
@@ -182,20 +181,24 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
-zoom.us
 ```
 
-106 used cloudfront (10.6%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+agora.io
+amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.de
+amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -262,7 +265,6 @@ otto.de
 pbs.org
 primevideo.com
 pubmatic.com
-rapid7.com
 realtor.com
 redfin.com
 repubblica.it
@@ -308,7 +310,7 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -317,6 +319,7 @@ etsy.com
 forbes.com
 github.io
 speedtest.net
+spotify.com
 www.gov.uk
 ```
 
