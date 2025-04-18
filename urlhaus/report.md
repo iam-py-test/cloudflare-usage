@@ -1,4 +1,4 @@
-509 domains tested. 58.349705304518665% were behind nothing (212 were behind something). 25 domains could not be tested.<br>
+451 domains tested. 56.98447893569845% were behind nothing (194 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,13 @@
 
 ```
 
-186 used cloudflare (36.54223968565815%):
+166 used cloudflare (36.80709534368071%):
 ```
-1yqv.projectzdocu.co
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
+acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
@@ -34,57 +34,48 @@ accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
 alephmim.com
-analytiwave.com
+ankaglobal.net
 api.ewfiles.net
 asdre-32h.top
 axhelp.top
 back2-bgtw74.top
-ballotlinllc.top
 bestieslos.com
 bfjduf2.top
-bkngvrfy.click
 bmw4i428.su
-booking.lostitemshok.com
 bzsew-4ew.top
-check.babuc.icu
 check.cisyn.icu
+check.hacoj.icu
 check.hyjaz.icu
-check.lukus.icu
+check.kyrap.icu
+check.lemox.icu
+check.lomac.icu
+check.nejoc.icu
 check.nejyd.icu
+check.rozox.icu
 check.rulix.icu
-check.vegyt.icu
 check.zaxys.icu
-cpanel.accessdnsl.com
 cpanel.constructionproject.cc
 cpanel.ormoncion.com
 cpcalendars.edocusign.ru
-cpcalendars.shrdihan.com
 cpcalendars.sinoceancn.com
-cpcalendars.taelimsystem.vip
-cpcontacts.edocusign.ru
-cpcontacts.enfamxb.com
 cpcontacts.nvdcsadmin.org
-cpcontacts.qualityglobal.wiki
 crystalpvp.ru
+cyrvia.com
 deviceprotect.top
-djv.gdocudrive.com
 dl.aginjector.com
-doc-sharepoint.nbcoiling.com
 erde3-ew5.top
 expay.ru
-files.goldenharvetsltd.com
 fter-po5.top
 gbnace7.top
 gcxew-33w.top
-goclouder.com
 gthelp.top
 gzeed-33w.top
 hitman-pro.ru
+jdiazmemory.com
 jdsfrw-11.top
+jrqh-hk.com
 laetef-87t.top
-life-captcha.com
 login.zcqhelp.top
-lostitemshok.com
 m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
@@ -93,26 +84,23 @@ m.hlghelp.top
 m.iqhelp.top
 m.ivhelp.top
 m.kbhelp.top
-m.klhelp.top
 m.mzihelp.top
 m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
 m.rwhelp.top
 mabsa13.top
+mail.crsetchic.com
 mail.fcg093.com
-mail.greenmountain-no.com
-mail.ik-wolrdwide.com
-mail.ketnplc.com
 mail.keystonestratgy.com
 mail.nateleybo.com
 mail.nvdcsadmin.org
-mail.oplus-ae.com
 mail.ormoncion.com
 mail.quixotic4.com
 mail.siemens-energi.com
-mail.viewsharedonlinefiles.com
+mail.ustiockir.ru
 miner-tolken.com
+moteev-biznis-man.shop
 mxews5.top
 ndxs439.top
 nnnpanel.top
@@ -132,8 +120,9 @@ ronnin-v2.com
 sharegolem.com
 symbietic.com
 tcrm-m3.top
+travelrevert.org
 tyahelp.top
-u1.establishhertz.shop
+u1.happyrace.shop
 u9b.top
 ubftr3.top
 uhmd-rw2.top
@@ -151,12 +140,7 @@ web.qxfhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
-webdisk.shrdihan.com
-webdisk.sinoceancn.com
 webdisk.tiortans.com
-webmail.accessdnsl.com
-webmail.nvdcsadmin.org
-webmail.singlelights.com
 wjhelp.top
 wlop10.top
 wnhelp.top
@@ -165,12 +149,8 @@ www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
 www.eahelp.top
-www.edocusign.ru
-www.emriateslogistics.com
 www.eqhelp.top
-www.file42shp.com
 www.hdpw3.top
-www.ik-wolrdwide.com
 www.ivhelp.top
 www.jnhelp.top
 www.kahelp.top
@@ -184,13 +164,13 @@ www.nphelp.top
 www.nvdcsadmin.org
 www.nywl7.top
 www.onhelp.top
+www.orhelp.top
 www.orstathei.com
 www.ozhelp.top
 www.polersx.top
 www.qghelp.top
 www.qlhelp.top
-www.shrdihan.com
-www.solardetech.info
+www.svhelp.top
 www.uhhelp.top
 www.ujhelp.top
 www.ustiockir.ru
@@ -224,7 +204,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.19646365422396855%):
+1 used fastly (0.22172949002217296%):
 ```
 riverview-pools.com
 ```
