@@ -1,4 +1,4 @@
-451 domains tested. 56.98447893569845% were behind nothing (194 were behind something). 27 domains could not be tested.<br>
+468 domains tested. 57.05128205128205% were behind nothing (201 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,22 +19,20 @@
 
 ```
 
-166 used cloudflare (36.80709534368071%):
+157 used cloudflare (33.547008547008545%):
 ```
 24x7support.top
+3nyr.raterinth.com
 acc.cbihelp.top
 acc.crjhelp.top
 acc.lwhelp.top
-acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
-acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
+adminisgty7.rest
 agd-yrr1.top
-alephmim.com
-ankaglobal.net
 api.ewfiles.net
 asdre-32h.top
 axhelp.top
@@ -43,28 +41,27 @@ bestieslos.com
 bfjduf2.top
 bmw4i428.su
 bzsew-4ew.top
-check.cisyn.icu
+check.becyz.icu
+check.faneg.icu
 check.hacoj.icu
-check.hyjaz.icu
+check.kubab.icu
 check.kyrap.icu
 check.lemox.icu
 check.lomac.icu
 check.nejoc.icu
-check.nejyd.icu
+check.qicon.icu
 check.rozox.icu
-check.rulix.icu
-check.zaxys.icu
-cpanel.constructionproject.cc
-cpanel.ormoncion.com
-cpcalendars.edocusign.ru
-cpcalendars.sinoceancn.com
-cpcontacts.nvdcsadmin.org
+check.saguf.icu
+check.vysub.icu
+cpcontacts.fcg093.com
+cpcontacts.ralvinetp.com
 crystalpvp.ru
 cyrvia.com
 deviceprotect.top
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
+ftb1s.cracsiu.com
 fter-po5.top
 gbnace7.top
 gcxew-33w.top
@@ -80,12 +77,11 @@ m.anphelp.top
 m.biyhelp.top
 m.eqhelp.top
 m.fiqhelp.top
-m.hlghelp.top
 m.iqhelp.top
 m.ivhelp.top
 m.kbhelp.top
+m.klhelp.top
 m.mzihelp.top
-m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
 m.rwhelp.top
@@ -93,13 +89,11 @@ mabsa13.top
 mail.crsetchic.com
 mail.fcg093.com
 mail.keystonestratgy.com
-mail.nateleybo.com
-mail.nvdcsadmin.org
 mail.ormoncion.com
-mail.quixotic4.com
-mail.siemens-energi.com
 mail.ustiockir.ru
-miner-tolken.com
+mail.voqform.com
+medoloki9.shop
+mfes9.cracsiu.com
 moteev-biznis-man.shop
 mxews5.top
 ndxs439.top
@@ -109,25 +103,25 @@ nxsw-tq2.top
 onbr-12es.top
 orhelp.top
 p.iqhelp.top
-pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
 qoyerx-9i.top
+qqcxq.dyheg.fun
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
 ronnin-v2.com
-sharegolem.com
 symbietic.com
 tcrm-m3.top
 travelrevert.org
 tyahelp.top
+u0uxm.cracsiu.com
 u1.happyrace.shop
-u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
 uwhelp.top
+visioplan.edistrami.com
 vresp-91w.top
 web.bqxhelp.top
 web.bxhelp.top
@@ -140,32 +134,30 @@ web.qxfhelp.top
 web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
-webdisk.tiortans.com
+webdisk.cracsiu.com
+webdisk.quixotic4.com
+webmail.esigndocu.ru
+webmail.quixotic4.com
+webmail.ralvinetp.com
 wjhelp.top
 wlop10.top
 wnhelp.top
-www.axhelp.top
 www.bchelp.top
 www.blackhattoolz.com
 www.bmhelp.top
+www.cacopha.com
 www.eahelp.top
-www.eqhelp.top
 www.hdpw3.top
 www.ivhelp.top
-www.jnhelp.top
 www.kahelp.top
 www.kogtp.top
 www.livhelp.top
 www.lnhelp.top
 www.luuk-lifestyle.eu
 www.lzhelp.top
-www.nateleybo.com
 www.nphelp.top
-www.nvdcsadmin.org
-www.nywl7.top
 www.onhelp.top
 www.orhelp.top
-www.orstathei.com
 www.ozhelp.top
 www.polersx.top
 www.qghelp.top
@@ -173,19 +165,18 @@ www.qlhelp.top
 www.svhelp.top
 www.uhhelp.top
 www.ujhelp.top
-www.ustiockir.ru
 www.uxhelp.top
+www.vizolu.com
 www.vpld4.top
-www.webbrewentzel.com
 www.wjhelp.top
 www.wkhelp.top
 www.xshelp.top
 xkhelp.top
 xn--yh4bx88a.com
 xohelp.top
-xqwa87.top
 xshelp.top
 ybcer92.top
+zcnqa.quixotic4.com
 zxtwe-3x.top
 ```
 
@@ -204,7 +195,7 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.22172949002217296%):
+1 used fastly (0.2136752136752137%):
 ```
 riverview-pools.com
 ```
