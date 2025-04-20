@@ -1,4 +1,4 @@
-361 domains tested. 56.232686980609415% were behind nothing (158 were behind something). 58 domains could not be tested.<br>
+361 domains tested. 56.78670360110804% were behind nothing (156 were behind something). 56 domains could not be tested.<br>
 23 used akamai (6.3711911357340725%):
 ```
 alhurra.com
