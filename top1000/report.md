@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-136 used cloudflare (13.600000000000001%):
+134 used cloudflare (13.4%):
 ```
 33across.com
 addtoany.com
@@ -100,7 +100,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -158,7 +157,6 @@ sourceforge.net
 spamhaus.org
 sportradar.com
 stackoverflow.com
-statcounter.com
 substack.com
 t.co
 tandfonline.com
@@ -185,21 +183,25 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.com.mx
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -232,7 +234,6 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
-express.co.uk
 figma.com
 flickr.com
 fortune.com
@@ -289,7 +290,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -315,8 +315,8 @@ pikabu.ru
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net

@@ -1,4 +1,4 @@
-217 domains tested. 58.986175115207374% were behind nothing (89 were behind something). 7 domains could not be tested.<br>
+217 domains tested. 58.525345622119815% were behind nothing (90 were behind something). 8 domains could not be tested.<br>
 5 used akamai (2.3041474654377883%):
 ```
 easylist-downloads.adblockplus.org
