@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-31 used cloudflare (15.5%):
+30 used cloudflare (15.0%):
 ```
 972mag.com
 alarabiya.net
@@ -52,11 +52,10 @@ thehindu.com
 themarshallproject.org
 therecord.media
 theregister.com
-thewire.in
 washingtontimes.com
 ```
 
-30 used cloudfront (15.0%):
+31 used cloudfront (15.5%):
 ```
 SeattleTimes.com
 abcnews.go.com
@@ -84,6 +83,7 @@ sueddeutsche.de
 suntimes.com
 theoutline.com
 thetimes.co.uk
+thewire.in
 vanityfair.com
 wired.com
 wired.com
