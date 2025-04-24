@@ -1,4 +1,4 @@
-556 domains tested. 45.50359712230216% were behind nothing (303 were behind something). 51 domains could not be tested.<br>
+559 domains tested. 46.332737030411444% were behind nothing (300 were behind something). 58 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,13 @@
 
 ```
 
-250 used cloudflare (44.96402877697842%):
+240 used cloudflare (42.93381037567084%):
 ```
 24x7support.top
 35fas.cracsiu.com
 8vq.allaeima.com
 acc.cbihelp.top
+acc.crjhelp.top
 acc.lwhelp.top
 acc.mcohelp.top
 acc.nmphelp.top
@@ -34,40 +35,34 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 ankaglobal.net
 api.ewfiles.net
 asd.tyamile.ru
 asdre-32h.top
 axhelp.top
 back2-bgtw74.top
-battlegridx.cfd
 bestieslos.com
 bfjduf2.top
 bookinterpagecen.com
 buqoc.icu
 bxozc.brazenf.ru
-bzsew-4ew.top
 cm9iuupni00010cjy3657dsol.info
 cpanel.diercusn.com
 cpanel.edistrami.com
 cpanel.keystonestratgy.com
-cpanel.lamperll.com
 cpanel.landoradebalthazar.com
-cpanel.qualityglobal.wiki
 cpanel.quixotic4.com
 cpanel.ralvinetp.com
+cpanel.tiortans.com
 cpanel.tyamile.ru
-cpanel.vega101.com
 cpcalendars.abandone.ru
-cpcalendars.accessdnsl.com
 cpcalendars.auiesce.ru
 cpcalendars.brazenf.ru
-cpcalendars.constructionproject.cc
 cpcalendars.diercusn.com
 cpcalendars.edistrami.com
 cpcalendars.landoradebalthazar.com
 cpcalendars.nvdcsadmin.org
-cpcalendars.omnl-uk.com
 cpcalendars.ralvinetp.com
 cpcontacts.abandone.ru
 cpcontacts.auiesce.ru
@@ -76,25 +71,28 @@ cpcontacts.cracsiu.com
 cpcontacts.diercusn.com
 cpcontacts.ealacrity.ru
 cpcontacts.nateleybo.com
-cpcontacts.newprojectz.co
 cpcontacts.omnl-uk.com
 cpcontacts.sinoceancn.com
 cpcontacts.tyamile.ru
-cryptauth.pro
 crystalpvp.ru
+dafeq.icu
 deviceprotect.top
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
 fter-po5.top
-gamefury.world
+fukuq.icu
 gbnace7.top
 gcxew-33w.top
 gthelp.top
 gzeed-33w.top
+hastilybakeshop.ru
 hitman-pro.ru
 jdsfrw-11.top
 jrqh-hk.com
+juhup.icu
+junyk.icu
+kasej.icu
 ki46-mailscanner.000-0x2autxx-8yhx.cc
 laetef-87t.top
 login.zcqhelp.top
@@ -115,36 +113,29 @@ m.rwhelp.top
 mabsa13.top
 mail.asnako.com
 mail.auiesce.ru
-mail.constructionproject.cc
 mail.ealacrity.ru
 mail.eighlereg.com
-mail.emriateslogistics.com
 mail.ewsaustraila.com
-mail.file42shp.com
-mail.firexaue.com
 mail.gdocudrive.com
 mail.inanditer.com
 mail.laritchan.com
-mail.legacyplatformfile.info
 mail.novapnagaea.com
-mail.qualityglobal.wiki
 mail.ratrislio.com
-mail.steinbeis-europa.com
+mail.solardetech.info
 mail.trioneyev.com
 mail.webbrewentzel.com
-mail.wetllands.co
-moteev-biznis-man.shop
-mx.accessdnsl.com
 mxews5.top
+mysyv.icu
 ndxs439.top
 nnnpanel.top
 nphelp.top
+nuwof.icu
+nuxul.icu
 nxsw-tq2.top
+nynoj.icu
 onbr-12es.top
 onyxaquarius.de
-onyxcryptorix.de
 onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardify.de
 onyxguardshift.de
@@ -160,24 +151,25 @@ onyxshieldcore.de
 onyxstealthnet.de
 orhelp.top
 p.iqhelp.top
+palid.icu
 patch.achaplus.com
+pebeg.icu
+picklethaikr.com
 pnbf-gv.top
-powerplayzone.rest
 prloglink.prsa7.top
-prum.crsetchic.com
 psloglink.psur7.top
-qenor.solardetech.info
 qoyerx-9i.top
-redic.horizon-life.net
+r3xl.legacyplatformfile.info
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
 ronnin-v2.com
+security-check-u8a6.com
 sharegolem.com
+smcshippingdlhl.com
 symbietic.com
 tcrm-m3.top
-tyahelp.top
-u1.electivewielder.digital
+tycok.icu
 u3nj.quixotic4.com
 u9b.top
 ubftr3.top
@@ -187,6 +179,7 @@ uwhelp.top
 vaboz.icu
 vresp-91w.top
 vynen.icu
+vyzap.icu
 watitoto6login.com
 web.bqxhelp.top
 web.bxhelp.top
@@ -200,26 +193,24 @@ web3.bxhelp.top
 web3.ishelp.top
 web3.qrhelp.top
 webdisk.abandone.ru
-webdisk.constructionproject.cc
 webdisk.cutterenergysolutions.info
 webdisk.enfamxb.com
-webdisk.ketnplc.com
+webdisk.loginmicrosoftonlinedocument.com
 webdisk.matenom.com
 webdisk.tyamile.ru
 webdisk.vega101.com
 webmail.aaoun.com
 webmail.cracsiu.com
-webmail.enfamxb.com
-webmail.ketnplc.com
 webmail.lamperll.com
 webmail.mercuirusint.com
 webmail.qualityglobal.wiki
-webmail.taelimsystem.vip
 wjhelp.top
 wlop10.top
 wnhelp.top
+wunep.icu
 www.axhelp.top
 www.bchelp.top
+www.blackhattoolz.com
 www.bmhelp.top
 www.constructionproject.cc
 www.cracsiu.com
@@ -228,11 +219,12 @@ www.danfsos.com
 www.eahelp.top
 www.eqhelp.top
 www.esigndocu.ru
-www.gelepicon.com
+www.hdpw3.top
 www.ivhelp.top
 www.jnhelp.top
 www.kahelp.top
 www.keystonestratgy.com
+www.kogtp.top
 www.legacyplatformfile.info
 www.livhelp.top
 www.lnhelp.top
@@ -248,15 +240,12 @@ www.polersx.top
 www.prictec-ps.com
 www.qghelp.top
 www.qlhelp.top
-www.securedgofile.info
 www.sialtysic.com
-www.steinbeis-europa.com
 www.svhelp.top
 www.uhhelp.top
 www.ujhelp.top
 www.uxhelp.top
 www.vega101.com
-www.viewsharedonlinefiles.com
 www.vorynexa.com
 www.vpld4.top
 www.wetllands.co
@@ -270,6 +259,7 @@ xohelp.top
 xqwa87.top
 xshelp.top
 ybcer92.top
+zqq.qualityglobal.wiki
 zxtwe-3x.top
 ```
 
@@ -288,12 +278,12 @@ zxtwe-3x.top
 
 ```
 
-1 used fastly (0.1798561151079137%):
+1 used fastly (0.17889087656529518%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1798561151079137%):
+1 used sucuri (0.17889087656529518%):
 ```
 itradepay.com
 ```

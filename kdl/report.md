@@ -1,5 +1,5 @@
-2512 domains tested. 50.19904458598726% were behind nothing (1251 were behind something). 332 domains could not be tested.<br>
-327 used akamai (13.01751592356688%):
+2512 domains tested. 50.238853503184714% were behind nothing (1250 were behind something). 334 domains could not be tested.<br>
+324 used akamai (12.898089171974522%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -188,13 +188,13 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.ebayimg.com
-i.etsystatic.com
+i.pinimg.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-fe.ssl-images-amazon.com
 images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -235,7 +235,6 @@ quickbooks.intuit.com
 r.bing.com
 res.cdn.office.net
 s.go-mpulse.net
-s.pinimg.com
 s20.tiktokcdn.com
 secure.ally.com
 secure.skypeassets.com
@@ -272,8 +271,6 @@ v16.tiktokcdn.com
 vam-image.imds-cdn.com
 ve.ebay.com
 widgets.outbrain.com
-windows.com
-windows.net
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -343,12 +340,14 @@ roblox-js.cachefly.net
 roblox-static.cachefly.net
 ```
 
-10 used cdn77 (0.3980891719745223%):
+12 used cdn77 (0.47770700636942676%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
+1667503734.rsc.cdn77.org
 c.ptgncdn.com
+cdn.userway.org
 f1-eu.readspeaker.com
 p77-sign-sg.tiktokcdn.com
 p77-sign-va.tiktokcdn.com
@@ -357,7 +356,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-135 used cloudflare (5.374203821656051%):
+137 used cloudflare (5.453821656050955%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -461,6 +460,7 @@ st2.zoom.us
 st3.zoom.us
 stackoverflow.com
 static-cflr.licdn.com.cdn.cloudflare.net
+static-exp2.licdn.com
 static.cloudflareinsights.com
 static.deepl.com
 static.elfsight.com
@@ -475,6 +475,7 @@ us01ccistatic-c.zoom.us
 us01ccistatic.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
+video.twimg.com
 vimeo.com
 w3.org
 who.int
@@ -496,9 +497,8 @@ zendesk.com
 zoom.us
 ```
 
-232 used cloudfront (9.235668789808917%):
+228 used cloudfront (9.076433121019107%):
 ```
-1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -511,7 +511,6 @@ aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -538,7 +537,6 @@ cdn.builder.io
 cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
-cdn.userway.org
 cdnap.telekom.net
 cdnssl.clicktale.net
 cf.bstatic.com
@@ -645,7 +643,6 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 images.scanalert.com
@@ -818,15 +815,16 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
+i.ebayimg.com
+i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-images-fe.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
@@ -880,13 +878,13 @@ rss.nytimes.com
 ru.pinterest.com
 rum.hlx.page
 s.imgur.com
+s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
 sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
-static-exp2.licdn.com
 static.guim.co.uk
 static.isu.pub
 static.licdn.com
@@ -909,7 +907,6 @@ uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
-video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
