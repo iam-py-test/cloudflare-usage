@@ -1,5 +1,5 @@
-2512 domains tested. 50.238853503184714% were behind nothing (1250 were behind something). 334 domains could not be tested.<br>
-324 used akamai (12.898089171974522%):
+2512 domains tested. 50.0% were behind nothing (1256 were behind something). 338 domains could not be tested.<br>
+321 used akamai (12.778662420382167%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -76,7 +76,6 @@ connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-css.rbxcdn.com
 d.oracleinfinity.io
 dds.dell.com
 dell.com
@@ -194,15 +193,13 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
-images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
-ir.ebaystatic.com
-js.rbxcdn.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -252,7 +249,6 @@ static.avast.com
 static.bbci.co.uk
 static.files.bbci.co.uk
 static.iqiyi.com
-static.rbxcdn.com
 static.wellsfargo.com
 static3.avast.com
 statics-marketingsites-wcus-ms-com.akamaized.net
@@ -271,6 +267,7 @@ v16.tiktokcdn.com
 vam-image.imds-cdn.com
 ve.ebay.com
 widgets.outbrain.com
+windows.com
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -340,14 +337,12 @@ roblox-js.cachefly.net
 roblox-static.cachefly.net
 ```
 
-12 used cdn77 (0.47770700636942676%):
+10 used cdn77 (0.3980891719745223%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
-1667503734.rsc.cdn77.org
 c.ptgncdn.com
-cdn.userway.org
 f1-eu.readspeaker.com
 p77-sign-sg.tiktokcdn.com
 p77-sign-va.tiktokcdn.com
@@ -356,7 +351,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-137 used cloudflare (5.453821656050955%):
+136 used cloudflare (5.414012738853503%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -460,7 +455,6 @@ st2.zoom.us
 st3.zoom.us
 stackoverflow.com
 static-cflr.licdn.com.cdn.cloudflare.net
-static-exp2.licdn.com
 static.cloudflareinsights.com
 static.deepl.com
 static.elfsight.com
@@ -497,8 +491,9 @@ zendesk.com
 zoom.us
 ```
 
-228 used cloudfront (9.076433121019107%):
+235 used cloudfront (9.355095541401273%):
 ```
+1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -511,6 +506,7 @@ aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -537,6 +533,7 @@ cdn.builder.io
 cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
+cdn.userway.org
 cdnap.telekom.net
 cdnssl.clicktale.net
 cf.bstatic.com
@@ -548,6 +545,7 @@ consent.cmp.oath.com
 consent.t-online.de
 consent.trustarc.com
 consent.truste.com
+css.rbxcdn.com
 cvp.twitch.tv
 d1.awsstatic.com
 d10965qij0vo0t.cloudfront.net
@@ -643,8 +641,10 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
+images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.rbxcdn.com
 images.scanalert.com
 images.sr.roku.com
 images.t-online.de
@@ -654,11 +654,11 @@ invite.soundcloud.com
 js-cdn.dynatrace.com
 js.adsrvr.org
 js.media-lab.ai
+js.rbxcdn.com
 kendo.cdn.telerik.com
 live.staticflickr.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 lp.datadoghq.com
-m.media-amazon.com
 m.soundcloud.com
 media.gnl-live.bbcverticals.com
 mediacache.homeimprovementpages.com.au
@@ -692,6 +692,7 @@ static-web-assets.gnl-common.bbcverticals.com
 static.ada.support
 static.chartbeat.com
 static.cloud.coveo.com
+static.rbxcdn.com
 static.ring.com
 static.snapchat.com
 static.twitchcdn.net
@@ -744,7 +745,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-199 used fastly (7.921974522292993%):
+200 used fastly (7.961783439490445%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -824,12 +825,11 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-images-eu.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 imgix.datadoghq.com
 in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -837,6 +837,7 @@ jp.pinterest.com
 jsdelivr.map.fastly.net
 kr.pinterest.com
 linkedin.map.fastly.net
+m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -885,6 +886,7 @@ se.pinterest.com
 sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
+static-exp2.licdn.com
 static.guim.co.uk
 static.isu.pub
 static.licdn.com
