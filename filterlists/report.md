@@ -50,6 +50,7 @@ easydutchcdn.pages.dev
 easylist.to
 family.cloudflare-dns.com
 fanboy.co.nz
+filter.futa.gg
 filtersheroes.gitlab.io
 getadhell.com
 gitlab.com
@@ -69,7 +70,6 @@ security.cloudflare-dns.com
 stanev.org
 tgc.cloud
 theantisocialengineer.com
-threatshare.io
 www.accs-net.com
 www.binarydefense.com
 www.botvrij.eu
