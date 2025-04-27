@@ -99,6 +99,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -106,7 +107,6 @@ ietf.org
 indeed.com
 indexww.com
 innovid.com
-instabug.com
 iso.org
 jotform.com
 jquery.com
@@ -194,10 +194,9 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
-amazon.com.mx
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -225,6 +224,7 @@ doi.org
 dotomi.com
 dribbble.com
 dynatrace.com
+easycruit.com
 economist.com
 elasticbeanstalk.com
 epa.gov
