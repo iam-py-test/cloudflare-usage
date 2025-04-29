@@ -1,4 +1,4 @@
-651 domains tested. 57.45007680491552% were behind nothing (277 were behind something). 83 domains could not be tested.<br>
+594 domains tested. 65.15151515151516% were behind nothing (207 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,9 @@
 
 ```
 
-192 used cloudflare (29.493087557603687%):
+156 used cloudflare (26.262626262626267%):
 ```
 24x7support.top
-35fas.cracsiu.com
-5d0.cracsiu.com
 9hs.raterinth.com
 acc.cbihelp.top
 acc.crjhelp.top
@@ -33,50 +31,35 @@ acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
-asd.tyamile.ru
-asdre-32h.top
 axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
 booking.secure-partener.com
-bx.ewsaustraila.com
-bxozc.brazenf.ru
+cpanel.aaoun.com
 cpanel.abandone.ru
-cpanel.cacopha.com
-cpanel.diercusn.com
-cpanel.edistrami.com
+cpanel.brazrice.ru
+cpanel.cracsiu.com
 cpanel.keystonestratgy.com
 cpanel.mercuirusint.com
 cpanel.nateleybo.com
-cpanel.quixotic4.com
-cpanel.ralvinetp.com
-cpanel.tyamile.ru
-cpcalendars.aaoun.com
 cpcalendars.abandone.ru
-cpcalendars.auiesce.ru
-cpcalendars.brazenf.ru
 cpcalendars.ceiba6.ru
-cpcalendars.diercusn.com
-cpcalendars.ealacrity.ru
 cpcalendars.edistrami.com
-cpcalendars.edocusign.ru
+cpcalendars.ketnplc.com
 cpcalendars.ockisise.com
 cpcalendars.quixotic4.com
-cpcalendars.ralvinetp.com
-cpcontacts.abandone.ru
+cpcalendars.tiortans.com
 cpcontacts.auiesce.ru
 cpcontacts.brazrice.ru
-cpcontacts.cracsiu.com
 cpcontacts.diercusn.com
 cpcontacts.ealacrity.ru
-cpcontacts.nateleybo.com
-cpcontacts.omnl-uk.com
-cpcontacts.tyamile.ru
+cpcontacts.quixotic4.com
+cpcontacts.upt-in.com
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
@@ -84,10 +67,9 @@ erde3-ew5.top
 expay.ru
 f3ls.000-0x2autxx-8yhx.cc
 fisop.press
-fter-po5.top
+folew.press
 fvia.id.vn
-g73b.cacopha.com
-gameupdate-endpoint.com
+fwwls.press
 gbnace7.top
 gcxew-33w.top
 gusex.press
@@ -97,10 +79,9 @@ hitman-pro.ru
 horizon.ilisivish.com
 iyqg.vorynexa.com
 jdsfrw-11.top
-krastrikt.sbs
-laetef-87t.top
-login.zcqhelp.top
+jrqh-hk.com
 looplearning.edistrami.com
+lwhkr.press
 m.anphelp.top
 m.biyhelp.top
 m.hlghelp.top
@@ -109,26 +90,22 @@ m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
+mail.000-0x2autxx-8yhx.cc
 mail.actoneyalt.com
-mail.auiesce.ru
+mail.batsaikhane.ru
 mail.ealacrity.ru
-mail.eighlereg.com
 mail.inanditer.com
 mail.laritchan.com
-mail.nacyceish.com
+mail.ornosgeno.com
 mail.ratrislio.com
-mail.trioneyev.com
 mail.ulvehable.com
-mail.webbrewentzel.com
 miner-tolken.com
 mxews5.top
 nnnpanel.top
-nosr.cracsiu.com
 ocvo.cracsiu.com
 onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -136,7 +113,6 @@ onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
@@ -144,70 +120,58 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-pixelquesters.cfd
 plannerread.edistrami.com
 pnbf-gv.top
-powerplayzone.rest
+ppssl.press
 prloglink.prsa7.top
 psloglink.psur7.top
 qoyerx-9i.top
+qrczb.press
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
 ronnin-v2.com
 rxquickpay.com
 secure-partener.com
+sts.mx.accessdnsl.com
 symbietic.com
 syvuk.press
 tcrm-m3.top
-u1.paralegalchemicals.run
-u3nj.quixotic4.com
+tyfew.press
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
 v51p.cracsiu.com
 ver.blackjack.lol
-vresp-91w.top
-web.bqxhelp.top
+very-data.mosco.cc
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
-webdisk.abandone.ru
-webdisk.ealacrity.ru
-webdisk.tyamile.ru
-webmail.aaoun.com
-webmail.abandone.ru
-webmail.brazenf.ru
-webmail.cracsiu.com
+webdisk.diercusn.com
+webmail.cacopha.com
+webmail.diercusn.com
 webmail.eappease.ru
-webmail.keystonestratgy.com
-wl.gl
+webmail.edocusign.ru
 wlop10.top
 wnhelp.top
-wudav.press
 www.axhelp.top
 www.blackhattoolz.com
-www.dsdiantech.com
+www.cis-dmc.com
 www.ec-europa-eu.com
 www.esigndocu.ru
-www.gelepicon.com
+www.eurobrandsindia.com
 www.hdpw3.top
 www.jnhelp.top
-www.ketnplc.com
-www.keystonestratgy.com
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nvdcsadmin.org
 www.nywl7.top
-www.ormoncion.com
-www.polersx.top
-www.prictec-ps.com
+www.raterinth.com
 www.sialtysic.com
 www.vorynexa.com
 www.vpld4.top
-xgji.brazenf.ru
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
@@ -220,7 +184,7 @@ zxtwe-3x.top
 
 ```
 
-1 used ddosguard (0.15360983102918588%):
+1 used ddosguard (0.16835016835016833%):
 ```
 stealer.cy
 ```
@@ -230,7 +194,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.15360983102918588%):
+1 used fastly (0.16835016835016833%):
 ```
 riverview-pools.com
 ```
