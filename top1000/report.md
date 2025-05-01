@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-134 used cloudflare (13.4%):
+135 used cloudflare (13.5%):
 ```
 33across.com
 addtoany.com
@@ -123,6 +123,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+menulog.com.au
 mgid.com
 myshopify.com
 networkadvertising.org
@@ -183,7 +184,7 @@ zendesk.com
 zoom.us
 ```
 
-111 used cloudfront (11.1%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -192,12 +193,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com.br
+amazon.com.mx
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -226,7 +227,6 @@ dotomi.com
 dribbble.com
 dynatrace.com
 easycruit.com
-economist.com
 elasticbeanstalk.com
 epa.gov
 espn.com
@@ -315,8 +315,8 @@ pikabu.ru
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
