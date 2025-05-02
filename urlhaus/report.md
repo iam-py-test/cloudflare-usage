@@ -1,4 +1,4 @@
-583 domains tested. 64.32246998284734% were behind nothing (208 were behind something). 68 domains could not be tested.<br>
+554 domains tested. 66.96750902527076% were behind nothing (183 were behind something). 71 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,14 @@
 
 ```
 
-138 used cloudflare (23.67066895368782%):
+111 used cloudflare (20.03610108303249%):
 ```
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
-acc.mcohelp.top
-acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
-accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
 alephmim.com
@@ -38,58 +35,45 @@ api.ewfiles.net
 asdre-32h.top
 axhelp.top
 back2-bgtw74.top
-bebir.press
+beksr.press
 bestieslos.com
 bfjduf2.top
-cpanel.aaoun.com
-cpanel.brazrice.ru
-cpanel.cracsiu.com
-cpcalendars.ketnplc.com
-cpcalendars.ockisise.com
-cpcalendars.tiortans.com
-cpcontacts.quixotic4.com
-cpcontacts.upt-in.com
+bip32.katuj.fun
+bytevista.cloud
 crystalpvp.ru
-ctpzd.press
 dakarsecurity.com
 dancinspirit.com
 deviceprotect.top
 dl.aginjector.com
-dmlfq.press
+erde3-ew5.top
 expay.ru
 fvia.id.vn
+gbnace7.top
 gcxew-33w.top
-guket.press
 gzeed-33w.top
-h1.postedtipped.top
 hbgsecurity.com
 hitman-pro.ru
-horizon.ilisivish.com
-iyqg.vorynexa.com
 jdsfrw-11.top
 jrqh-hk.com
 laetef-87t.top
 lammysecurity.com
+lindenappliances.co.za
 login.zcqhelp.top
-lyqej.press
-lysez.press
 m.anphelp.top
 m.biyhelp.top
+m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
-mail.000-0x2autxx-8yhx.cc
-mail.batsaikhane.ru
-mail.ornosgeno.com
+mesip.press
+microsoft-analyse.com
 miner-tolken.com
 mxews5.top
-mypah.press
 nnnpanel.top
-novow.press
-onbr-12es.top
 onyxaquarius.de
+onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
@@ -107,7 +91,6 @@ onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 pic.wzy1999.wang
-plannerread.edistrami.com
 pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
@@ -115,50 +98,40 @@ qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
+ronnin-v2.com
 rxquickpay.com
 security-2u6g-log.com
 security-7f2c-run.com
 security-9y5v-scan.com
-sts.mx.accessdnsl.com
+symbietic.com
 tcrm-m3.top
-tighn.press
+trtmyanmar.com
 turismosaofrancisco.com.br
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
-vytoz.press
-wakor.press
+vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
-webdisk.diercusn.com
-webmail.cacopha.com
-webmail.diercusn.com
-webmail.eappease.ru
-webmail.edocusign.ru
 wlop10.top
 wnhelp.top
-wrltc.press
 www.axhelp.top
 www.blackhattoolz.com
-www.cis-dmc.com
-www.ec-europa-eu.com
-www.eurobrandsindia.com
 www.hdpw3.top
 www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
+www.luuk-lifestyle.eu
 www.nywl7.top
-www.raterinth.com
+www.polersx.top
 www.vpld4.top
-wykvn.press
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
-zivad.press
-zxtwe-3x.top
+zifnk.press
 ```
 
 0 used cloudfront (0.0%):
@@ -166,9 +139,9 @@ zxtwe-3x.top
 
 ```
 
-1 used ddosguard (0.17152658662092624%):
+0 used ddosguard (0.0%):
 ```
-stealer.cy
+
 ```
 
 0 used edgecast (0.0%):
@@ -176,7 +149,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.17152658662092624%):
+1 used fastly (0.18050541516245489%):
 ```
 riverview-pools.com
 ```
