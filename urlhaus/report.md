@@ -1,4 +1,4 @@
-554 domains tested. 66.96750902527076% were behind nothing (183 were behind something). 71 domains could not be tested.<br>
+546 domains tested. 71.24542124542124% were behind nothing (157 were behind something). 54 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,17 @@
 
 ```
 
-111 used cloudflare (20.03610108303249%):
+101 used cloudflare (18.4981684981685%):
 ```
 24x7support.top
-acc.cbihelp.top
 acc.crjhelp.top
+acc.mcohelp.top
+acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 adf6.adf6.com
 agd-yrr1.top
-alephmim.com
 allendostmen.com
 api.ewfiles.net
 asdre-32h.top
@@ -39,24 +39,21 @@ beksr.press
 bestieslos.com
 bfjduf2.top
 bip32.katuj.fun
-bytevista.cloud
-crystalpvp.ru
-dakarsecurity.com
-dancinspirit.com
 deviceprotect.top
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
 fvia.id.vn
+galabau-life.de
 gbnace7.top
 gcxew-33w.top
 gzeed-33w.top
-hbgsecurity.com
 hitman-pro.ru
+hwx-group.com
+ishimotors.com
 jdsfrw-11.top
 jrqh-hk.com
 laetef-87t.top
-lammysecurity.com
 lindenappliances.co.za
 login.zcqhelp.top
 m.anphelp.top
@@ -72,6 +69,7 @@ microsoft-analyse.com
 miner-tolken.com
 mxews5.top
 nnnpanel.top
+onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -83,14 +81,13 @@ onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxprotectech.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+partner-id897123.com
 patch.achaplus.com
-pic.wzy1999.wang
 pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
@@ -100,20 +97,14 @@ rmkaio1.top
 rocketibt.com
 ronnin-v2.com
 rxquickpay.com
-security-2u6g-log.com
-security-7f2c-run.com
-security-9y5v-scan.com
-symbietic.com
 tcrm-m3.top
-trtmyanmar.com
-turismosaofrancisco.com.br
+telegrcm.ing
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
 vresp-91w.top
 web.bqxhelp.top
-web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
@@ -122,7 +113,6 @@ www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
-www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
@@ -139,9 +129,9 @@ zifnk.press
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.18315018315018314%):
 ```
-
+stealer.cy
 ```
 
 0 used edgecast (0.0%):
@@ -149,7 +139,7 @@ zifnk.press
 
 ```
 
-1 used fastly (0.18050541516245489%):
+1 used fastly (0.18315018315018314%):
 ```
 riverview-pools.com
 ```

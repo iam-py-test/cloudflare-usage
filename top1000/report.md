@@ -1,4 +1,4 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 62 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -99,7 +99,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -161,6 +160,7 @@ stackoverflow.com
 stripchat.com
 substack.com
 t.co
+takeaway.com
 tandfonline.com
 teamviewer.com
 themeforest.net
@@ -184,7 +184,7 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
@@ -192,8 +192,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.uk
+amazon.com
+amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
