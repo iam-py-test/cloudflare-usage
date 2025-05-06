@@ -1,4 +1,4 @@
-531 domains tested. 69.30320150659134% were behind nothing (163 were behind something). 64 domains could not be tested.<br>
+556 domains tested. 69.60431654676259% were behind nothing (169 were behind something). 62 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,12 @@
 
 ```
 
-97 used cloudflare (18.267419962335214%):
+105 used cloudflare (18.884892086330936%):
 ```
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
+acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
@@ -34,22 +35,23 @@ agd-yrr1.top
 alephmim.com
 allendostmen.com
 api.ewfiles.net
-asdre-32h.top
 axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
-captcha.deetux.top
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
+dysoh.press
 erde3-ew5.top
 expay.ru
 fvia.id.vn
 galabau-life.de
 gbnace7.top
 gcxew-33w.top
+gujem.press
 gzeed-33w.top
+hezob.press
 hitman-pro.ru
 jdsfrw-11.top
 jrqh-hk.com
@@ -66,16 +68,21 @@ m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 miner-tolken.com
+mxews5.top
 nnnpanel.top
 nusatoyota.co.id
 onbr-12es.top
 onyxaquarius.de
+onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
+onyxguardwave.de
 onyxleo.de
+onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
@@ -89,12 +96,11 @@ qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
-ronnin-v2.com
 rxquickpay.com
-secretcouponforyou.com
 symbietic.com
 tcrm-m3.top
 trtmyanmar.com
+u1.vad6.ru
 u9b.top
 ubftr3.top
 uhmd-rw2.top
@@ -106,6 +112,8 @@ web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
+wnhelp.top
+wubys.press
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
@@ -125,7 +133,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.18832391713747645%):
+1 used ddosguard (0.1798561151079137%):
 ```
 stealer.cy
 ```
@@ -135,7 +143,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.18832391713747645%):
+1 used fastly (0.1798561151079137%):
 ```
 riverview-pools.com
 ```

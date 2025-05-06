@@ -1,7 +1,8 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 59 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
+adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -19,6 +20,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -79,7 +81,6 @@ cloudflareinsights.com
 cloudinary.com
 coingecko.com
 columbia.edu
-cookiedatabase.org
 cookielaw.org
 creativecommons.org
 deepintent.com
@@ -112,6 +113,7 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
+lieferando.de
 life360.com
 liftoff.io
 linktr.ee
@@ -185,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -193,12 +195,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.uk
 amazon.com
+amazon.com.br
+amazon.com.mx
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -234,7 +238,6 @@ europa.eu
 eventbrite.com
 figma.com
 flickr.com
-fortune.com
 geeksforgeeks.org
 go.com
 goodreads.com
