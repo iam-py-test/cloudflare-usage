@@ -1,5 +1,5 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 59 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 59 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-137 used cloudflare (13.700000000000001%):
+138 used cloudflare (13.8%):
 ```
 33across.com
 addtoany.com
@@ -99,7 +98,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -155,6 +153,7 @@ roku.com
 sciencedirect.com
 sharethrough.com
 shopify.com
+singular.net
 sourceforge.net
 spamhaus.org
 sportradar.com
@@ -166,6 +165,7 @@ takeaway.com
 tandfonline.com
 teamviewer.com
 themeforest.net
+thuisbezorgd.nl
 tinyurl.com
 twitter.com
 uber.com
@@ -187,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -196,13 +196,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.uk
-amazon.com
+amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
-amazon.es
-amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -249,9 +246,7 @@ hotjar.com
 ieee.org
 imdb.com
 intercom.io
-ipify.org
 istockphoto.com
-jetbrains.com
 kargo.com
 latimes.com
 lijit.com
@@ -292,6 +287,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

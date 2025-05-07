@@ -1,4 +1,4 @@
-556 domains tested. 69.60431654676259% were behind nothing (169 were behind something). 62 domains could not be tested.<br>
+561 domains tested. 70.40998217468805% were behind nothing (166 were behind something). 61 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,12 @@
 
 ```
 
-105 used cloudflare (18.884892086330936%):
+103 used cloudflare (18.36007130124777%):
 ```
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
 acc.mcohelp.top
-acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -42,22 +41,22 @@ bfjduf2.top
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
-dysoh.press
 erde3-ew5.top
 expay.ru
 fvia.id.vn
 galabau-life.de
 gbnace7.top
 gcxew-33w.top
-gujem.press
+gozog.run
 gzeed-33w.top
-hezob.press
 hitman-pro.ru
+hwx-group.com
 jdsfrw-11.top
 jrqh-hk.com
 laetef-87t.top
 lindenappliances.co.za
 login.zcqhelp.top
+lysys.run
 m.anphelp.top
 m.biyhelp.top
 m.hlghelp.top
@@ -69,6 +68,7 @@ mabsa13.top
 microsoft-analyse.com
 miner-tolken.com
 mxews5.top
+nagyg.run
 nnnpanel.top
 nusatoyota.co.id
 onbr-12es.top
@@ -81,48 +81,46 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
 qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
 rocketibt.com
+ronnin-v2.com
 rxquickpay.com
-symbietic.com
 tcrm-m3.top
 trtmyanmar.com
-u1.vad6.ru
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
 viptrack.pro
-vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
 wnhelp.top
-wubys.press
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
 www.kogtp.top
-www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
+www.polersx.top
 www.vpld4.top
+wyban.run
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
@@ -133,7 +131,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.1798561151079137%):
+1 used ddosguard (0.17825311942959002%):
 ```
 stealer.cy
 ```
@@ -143,7 +141,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1798561151079137%):
+1 used fastly (0.17825311942959002%):
 ```
 riverview-pools.com
 ```
