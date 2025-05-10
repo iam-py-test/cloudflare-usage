@@ -1,4 +1,4 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 58 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -187,7 +187,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -196,13 +196,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
-amazon.de
+amazon.com.mx
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -251,12 +249,12 @@ ieee.org
 imdb.com
 intercom.io
 istockphoto.com
+jetbrains.com
 kargo.com
 latimes.com
 lijit.com
 line.me
 merriam-webster.com
-mongodb.com
 name.com
 nationalgeographic.com
 netflix.net
@@ -277,6 +275,7 @@ shalltry.com
 shutterstock.com
 soundcloud.com
 state.gov
+supercell.com
 surveymonkey.com
 synology.com
 t-online.de

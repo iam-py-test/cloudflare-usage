@@ -1,4 +1,4 @@
-583 domains tested. 66.55231560891939% were behind nothing (195 were behind something). 62 domains could not be tested.<br>
+584 domains tested. 62.84246575342466% were behind nothing (217 were behind something). 68 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-128 used cloudflare (21.955403087478558%):
+144 used cloudflare (24.65753424657534%):
 ```
 24x7support.top
 acc.cbihelp.top
@@ -32,17 +32,19 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 back2-bgtw74.top
-bbssj.run
 bestieslos.com
 bfjduf2.top
-bisaj.run
 cagom.run
+cokok.run
 crystalpvp.ru
+curol.run
 daqev.run
+demuq.run
 deviceprotect.top
 din.akurasiibl.com
 djrtt.run
@@ -53,12 +55,14 @@ fecif.run
 fhtnt.run
 fvia.id.vn
 galabau-life.de
+gargled.com
 gbnace7.top
 gcxew-33w.top
 genow.run
 gzeed-33w.top
-hspmj.run
-hwx-group.com
+hitman-pro.ru
+huliq.run
+hyvin.run
 hyvur.run
 jdsfrw-11.top
 jodob.run
@@ -72,20 +76,22 @@ m.biyhelp.top
 m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
+m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
 mehig.run
 microsoft-analyse.com
+micuh.run
 minak.run
 miner-tolken.com
 mobile-cff.app
 mxews5.top
+mychecksecureconnect.cloud
 mzrln.run
 nnnpanel.top
 npknn.run
 nshpd.run
 nusatoyota.co.id
-onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -106,7 +112,7 @@ onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 pmglw.run
-pnbf-gv.top
+ponek.run
 prloglink.prsa7.top
 psloglink.psur7.top
 qmzks.run
@@ -120,35 +126,45 @@ rxquickpay.com
 sihen.run
 snhnv.run
 sukum.run
+symbietic.com
+t1.handprintscariness.ru
+t5.figurefaceted.ru
 tcrm-m3.top
+totyc.run
 trtmyanmar.com
 ttxch.run
+u1.wyja.ru
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
-viptrack.pro
+verifconncaptcha.com
+verifyyourconnect.com
 vresp-91w.top
+wasar.run
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
+wlop10.top
 wnhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
+www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
 www.polersx.top
-www.vpld4.top
+ximyt.run
 xkpdf.run
 xmlvm.run
 xn--yh4bx88a.com
 xqwa87.top
 xtkdt.run
 ybcer92.top
+zuvul.run
 ```
 
 0 used cloudfront (0.0%):
@@ -156,7 +172,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.17152658662092624%):
+1 used ddosguard (0.17123287671232876%):
 ```
 stealer.cy
 ```
@@ -166,12 +182,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.17152658662092624%):
+1 used fastly (0.17123287671232876%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.34305317324185247%):
+2 used sucuri (0.3424657534246575%):
 ```
 allstarstriping.com
 scf.com
@@ -207,7 +223,7 @@ scf.com
 
 ```
 
-1 used netlify (0.17152658662092624%):
+1 used netlify (0.17123287671232876%):
 ```
 appli-cff.com
 ```
