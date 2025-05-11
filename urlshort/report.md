@@ -1,4 +1,4 @@
-272 domains tested. 44.85294117647059% were behind nothing (150 were behind something). 6 domains could not be tested.<br>
+272 domains tested. 44.48529411764706% were behind nothing (151 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7352941176470588%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-128 used cloudflare (47.05882352941176%):
+129 used cloudflare (47.42647058823529%):
 ```
 02ip.ru
 1sta.com
@@ -35,6 +35,7 @@ email-sendgrid-deep-linking.chewy.com
 2tunes.com
 2tw.in
 2ya.com
+adf.ly
 adfoc.us
 ahscdn.com
 alturl.com
