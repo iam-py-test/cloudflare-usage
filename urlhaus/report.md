@@ -1,4 +1,4 @@
-554 domains tested. 65.88447653429603% were behind nothing (189 were behind something). 60 domains could not be tested.<br>
+522 domains tested. 66.66666666666666% were behind nothing (174 were behind something). 57 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-125 used cloudflare (22.563176895306857%):
+113 used cloudflare (21.64750957854406%):
 ```
-05webinvite.com
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
@@ -33,72 +32,71 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
-cokok.run
+ciwid.run
+cryptauth.net
 crystalpvp.ru
-curol.run
-demuq.run
-deviceprotect.top
+cv.cbrw.ru
+cyleb.run
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
+fepez.run
 fiwyj.run
 fvia.id.vn
 galabau-life.de
-gargled.com
 gbnace7.top
 gcxew-33w.top
 gzeed-33w.top
 hitman-pro.ru
-huliq.run
-hyvin.run
 jdsfrw-11.top
 jrqh-hk.com
 jyjev.run
+kepov.run
 kujim.run
 kyjej.run
 laetef-87t.top
 lindenappliances.co.za
 login.zcqhelp.top
 m.anphelp.top
-m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
-m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
-micuh.run
 miner-tolken.com
 mxews5.top
-mychecksecureconnect.cloud
+mygar.run
 nnnpanel.top
-nusatoyota.co.id
+onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
+onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
+onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
-onyxsentinelx.de
+onyxsecuregate.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+pexab.run
 pnbf-gv.top
-ponek.run
-prloglink.prsa7.top
 psloglink.psur7.top
 qoyerx-9i.top
 reusable-flex.com
@@ -107,22 +105,15 @@ rocketibt.com
 ronnin-v2.com
 rxquickpay.com
 soreb.run
-symbietic.com
-t1.handprintscariness.ru
-t5.figurefaceted.ru
+sorov.run
 tcrm-m3.top
-totyc.run
 trtmyanmar.com
-u1.wyja.ru
 u9b.top
 ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
-verifconncaptcha.com
-verifyyourconnect.com
 viptrack.pro
 vresp-91w.top
-wasar.run
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
@@ -132,20 +123,17 @@ wnhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
-www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.polersx.top
 www.vpld4.top
 wybod.run
-ximyt.run
 xizaf.run
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
 zumil.run
-zuvul.run
 ```
 
 0 used cloudfront (0.0%):
@@ -153,7 +141,7 @@ zuvul.run
 
 ```
 
-1 used ddosguard (0.18050541516245489%):
+1 used ddosguard (0.19157088122605362%):
 ```
 stealer.cy
 ```
@@ -163,12 +151,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.18050541516245489%):
+1 used fastly (0.19157088122605362%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.36101083032490977%):
+2 used sucuri (0.38314176245210724%):
 ```
 allstarstriping.com
 scf.com

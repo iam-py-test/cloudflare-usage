@@ -1,5 +1,5 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 57 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -18,7 +18,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mi.com
 mobile.de
@@ -126,6 +125,7 @@ mgid.com
 myshopify.com
 networkadvertising.org
 nexusmods.com
+nist.gov
 okta.com
 onesignal.com
 onetrust.com
@@ -183,10 +183,9 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
-zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -195,11 +194,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
+amazon.com.mx
+amazon.es
 amazon.fr
 amazon.it
 amazonaws.com
@@ -248,7 +248,6 @@ ieee.org
 imdb.com
 intercom.io
 istockphoto.com
-jetbrains.com
 kargo.com
 latimes.com
 lijit.com
@@ -296,6 +295,7 @@ wattpad.com
 wired.com
 wsj.com
 zillow.com
+zoom.us
 ```
 
 4 used ddosguard (0.4%):
@@ -311,12 +311,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
