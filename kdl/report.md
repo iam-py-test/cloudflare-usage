@@ -1,5 +1,5 @@
-2521 domains tested. 50.3371677905593% were behind nothing (1252 were behind something). 330 domains could not be tested.<br>
-328 used akamai (13.010710035700118%):
+2521 domains tested. 50.13883379611266% were behind nothing (1257 were behind something). 333 domains could not be tested.<br>
+339 used akamai (13.447044823482745%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -64,6 +64,7 @@ by.ebay.com
 c.go-mpulse.net
 c.s-microsoft.com
 c1.wfinterface.com
+ca.pinterest.com
 cdn-dynmedia-1.microsoft.com
 cdn-production-opera-website.operacdn.com
 cdn.apple-cloudkit.com
@@ -196,7 +197,6 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
-images-fe.ssl-images-amazon.com
 images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
@@ -204,6 +204,7 @@ img-s-msn-com.akamaized.net
 inews.gtimg.com
 intuit.com
 js.rbxcdn.com
+kr.pinterest.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
@@ -215,6 +216,9 @@ mx.ebay.com
 mybbc.files.bbci.co.uk
 nav.files.bbci.co.uk
 ni.ebay.com
+nl.pinterest.com
+no.pinterest.com
+nz.pinterest.com
 ow2.res.office365.com
 p16-sign-sg.tiktokcdn.com
 p16-sign-useast2a.tiktokcdn.com
@@ -239,6 +243,7 @@ res.cdn.office.net
 s.go-mpulse.net
 s.pinimg.com
 s20.tiktokcdn.com
+se.pinterest.com
 secure.ally.com
 secure.skypeassets.com
 secureir.ebaystatic.com
@@ -310,6 +315,12 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
+www.pinterest.co.uk
+www.pinterest.com.au
+www.pinterest.com.mx
+www.pinterest.fr
+www.pinterest.nz
+www.pinterest.se
 www.salesforce.com
 www.samsung.com
 www.staples.com
@@ -358,7 +369,7 @@ static-cdn77.xvideos-cdn.com
 static-lvlt.xhcdn.com
 ```
 
-132 used cloudflare (5.236017453391511%):
+131 used cloudflare (5.196350654502182%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -473,7 +484,6 @@ us01ccistatic-c.zoom.us
 us01ccistatic.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
-video.twimg.com
 vimeo.com
 w3.org
 who.int
@@ -494,7 +504,7 @@ xhamster.com
 zendesk.com
 ```
 
-240 used cloudfront (9.520031733439112%):
+242 used cloudfront (9.599365331217772%):
 ```
 1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
@@ -506,8 +516,9 @@ a1.api.bbc.co.uk
 aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
-amazon.co.jp
+amazon.co.uk
 amazon.com
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -645,6 +656,7 @@ i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
 images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
@@ -753,7 +765,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-196 used fastly (7.774692582308608%):
+186 used fastly (7.3780245934153115%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -771,7 +783,6 @@ bbc.com
 bbc.map.fastly.net
 br.pinterest.com
 browser.sentry-cdn.com
-ca.pinterest.com
 cdn.intellimize.co
 cdn.jsdelivr.net
 cdn.speedcurve.com
@@ -804,6 +815,7 @@ ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
 es.pinterest.com
+etsy.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
@@ -841,7 +853,6 @@ j.ophan.co.uk
 j.sni.global.fastly.net
 jp.pinterest.com
 jsdelivr.map.fastly.net
-kr.pinterest.com
 linkedin.map.fastly.net
 m.sni.global.fastly.net
 medallia2.map.fastly.net
@@ -851,10 +862,7 @@ media.guim.co.uk
 mosaic.scdn.co
 mx.pinterest.com
 n.sni.global.fastly.net
-nl.pinterest.com
-no.pinterest.com
 nytimes.map.fastly.net
-nz.pinterest.com
 object-storage.shipt.com
 odb.outbrain.com
 open.spotify.com
@@ -886,7 +894,6 @@ rum.hlx.page
 s.imgur.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
-se.pinterest.com
 sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
@@ -913,6 +920,7 @@ uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
+video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
@@ -932,18 +940,12 @@ www.paypalobjects.com
 www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
-www.pinterest.co.uk
 www.pinterest.com
-www.pinterest.com.au
-www.pinterest.com.mx
 www.pinterest.de
 www.pinterest.dk
 www.pinterest.es
-www.pinterest.fr
 www.pinterest.jp
-www.pinterest.nz
 www.pinterest.pt
-www.pinterest.se
 www.reddit.com
 www.redditstatic.com
 www.shipt.com

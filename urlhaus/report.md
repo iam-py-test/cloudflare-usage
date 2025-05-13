@@ -1,4 +1,4 @@
-522 domains tested. 66.66666666666666% were behind nothing (174 were behind something). 57 domains could not be tested.<br>
+536 domains tested. 66.97761194029852% were behind nothing (177 were behind something). 65 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-113 used cloudflare (21.64750957854406%):
+108 used cloudflare (20.149253731343283%):
 ```
 24x7support.top
 acc.cbihelp.top
@@ -30,25 +30,25 @@ acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-adf6.adf6.com
 agd-yrr1.top
 alephmim.com
 allendostmen.com
 api.ewfiles.net
+apioeaesr.icu
 axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
+captcha.xajy.press
 ciwid.run
 cryptauth.net
 crystalpvp.ru
-cv.cbrw.ru
 cyleb.run
+deviceprotect.top
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
 fepez.run
-fiwyj.run
 fvia.id.vn
 galabau-life.de
 gbnace7.top
@@ -57,23 +57,21 @@ gzeed-33w.top
 hitman-pro.ru
 jdsfrw-11.top
 jrqh-hk.com
-jyjev.run
 kepov.run
-kujim.run
-kyjej.run
 laetef-87t.top
 lindenappliances.co.za
 login.zcqhelp.top
 m.anphelp.top
+m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
 m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 miner-tolken.com
-mxews5.top
 mygar.run
 nnnpanel.top
+nusatoyota.co.id
 onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -92,27 +90,27 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+ou.qymj.ru
 patch.achaplus.com
 pexab.run
 pnbf-gv.top
+prloglink.prsa7.top
 psloglink.psur7.top
-qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
+roamdetail.com
 rocketibt.com
-ronnin-v2.com
 rxquickpay.com
-soreb.run
 sorov.run
+symbietic.com
 tcrm-m3.top
 trtmyanmar.com
 u9b.top
-ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
-viptrack.pro
 vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
@@ -123,17 +121,14 @@ wnhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
+www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.polersx.top
-www.vpld4.top
-wybod.run
-xizaf.run
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
-zumil.run
 ```
 
 0 used cloudfront (0.0%):
@@ -141,7 +136,7 @@ zumil.run
 
 ```
 
-1 used ddosguard (0.19157088122605362%):
+1 used ddosguard (0.18656716417910446%):
 ```
 stealer.cy
 ```
@@ -151,12 +146,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19157088122605362%):
+1 used fastly (0.18656716417910446%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.38314176245210724%):
+2 used sucuri (0.3731343283582089%):
 ```
 allstarstriping.com
 scf.com
