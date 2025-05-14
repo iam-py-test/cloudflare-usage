@@ -1,4 +1,4 @@
-536 domains tested. 66.97761194029852% were behind nothing (177 were behind something). 65 domains could not be tested.<br>
+538 domains tested. 68.58736059479554% were behind nothing (169 were behind something). 56 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-108 used cloudflare (20.149253731343283%):
+109 used cloudflare (20.260223048327138%):
 ```
 24x7support.top
 acc.cbihelp.top
@@ -30,57 +30,56 @@ acc.tishelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
+adf6.adf6.com
 agd-yrr1.top
 alephmim.com
 allendostmen.com
 api.ewfiles.net
-apioeaesr.icu
+apioeses.icu
 axhelp.top
 back2-bgtw74.top
+bedym.ru
 bestieslos.com
 bfjduf2.top
-captcha.xajy.press
-ciwid.run
-cryptauth.net
 crystalpvp.ru
-cyleb.run
+cujob.ru
+cylud.ru
 deviceprotect.top
 dl.aginjector.com
 erde3-ew5.top
 expay.ru
-fepez.run
+fastdocumentshared.com
 fvia.id.vn
 galabau-life.de
 gbnace7.top
 gcxew-33w.top
+gypuq.ru
 gzeed-33w.top
+h1.suavefrisk.bet
 hitman-pro.ru
 jdsfrw-11.top
+jevun.ru
 jrqh-hk.com
-kepov.run
 laetef-87t.top
 lindenappliances.co.za
-login.zcqhelp.top
+lygep.ru
 m.anphelp.top
 m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
+m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 miner-tolken.com
-mygar.run
-nnnpanel.top
-nusatoyota.co.id
+mxews5.top
 onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -95,20 +94,21 @@ onyxshieldcore.de
 onyxstealthnet.de
 ou.qymj.ru
 patch.achaplus.com
-pexab.run
-pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
+qaxib.ru
+qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
 roamdetail.com
 rocketibt.com
+ronnin-v2.com
 rxquickpay.com
-sorov.run
 symbietic.com
 tcrm-m3.top
 trtmyanmar.com
 u9b.top
+ubftr3.top
 uhmd-rw2.top
 utorrent-servers.xyz
 vresp-91w.top
@@ -126,6 +126,7 @@ www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.polersx.top
+www.vpld4.top
 xn--yh4bx88a.com
 xqwa87.top
 ybcer92.top
@@ -136,7 +137,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.18656716417910446%):
+1 used ddosguard (0.18587360594795538%):
 ```
 stealer.cy
 ```
@@ -146,12 +147,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.18656716417910446%):
+1 used fastly (0.18587360594795538%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.3731343283582089%):
+2 used sucuri (0.37174721189591076%):
 ```
 allstarstriping.com
 scf.com
