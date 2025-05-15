@@ -5,7 +5,6 @@ api.nextgen.guardianapps.co.uk
 api.shipt.com
 ar.pinterest.com
 assets.guim.co.uk
-at.pinterest.com
 atc.spotify.map.fastly.net
 au.pinterest.com
 b.thumbs.redditmedia.com
@@ -20,7 +19,6 @@ cdn.jsdelivr.net
 cdn.speedcurve.com
 cdn.taboola.com
 ch.pinterest.com
-cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
 co.pinterest.com
@@ -47,12 +45,10 @@ ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
 es.pinterest.com
-etsy.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
 forbes.com
-fr.pinterest.com
 g1.nyt.com
 github.github.io
 github.githubassets.com
@@ -67,8 +63,6 @@ h2.twitch.map.fastly.net
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
-i.ebayimg.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
@@ -77,9 +71,9 @@ id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
 imgix.datadoghq.com
-in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -95,7 +89,6 @@ media.guim.co.uk
 mosaic.scdn.co
 mx.pinterest.com
 n.sni.global.fastly.net
-nl.pinterest.com
 no.pinterest.com
 nytimes.map.fastly.net
 nz.pinterest.com
@@ -113,7 +106,6 @@ paypal-dynamic.map.fastly.net
 paypal.map.fastly.net
 ph.pinterest.com
 pickasso.spotifycdn.com
-pl.pinterest.com
 play.vidyard.com
 preview.redd.it
 prod.pinterest.global.map.fastly.net
@@ -125,12 +117,14 @@ resources.digital-cloud-west.medallia.com
 resources.digital-cloud.medallia.eu
 ro.pinterest.com
 rss.nytimes.com
+ru.pinterest.com
 rum.hlx.page
 s.imgur.com
 s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
+sk.pinterest.com
 sourcepoint.theguardian.com
 staging-images.shipt.com
 static.guim.co.uk
@@ -151,6 +145,7 @@ tr.pinterest.com
 twimg.twitter.map.fastly.net
 twitch.map.fastly.net
 ui.trailhead.com
+uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
@@ -170,17 +165,15 @@ www.i.cdn.cnn.com
 www.nytimes.com
 www.paypal.com
 www.paypalobjects.com
-www.pinterest.cl
-www.pinterest.co.kr
+www.pinterest.ca
 www.pinterest.co.uk
 www.pinterest.com
 www.pinterest.com.au
 www.pinterest.com.mx
-www.pinterest.de
+www.pinterest.es
 www.pinterest.fr
 www.pinterest.jp
 www.pinterest.nz
-www.pinterest.pt
 www.pinterest.se
 www.reddit.com
 www.redditstatic.com
@@ -188,3 +181,4 @@ www.shipt.com
 www.taboola.com
 www.theguardian.com
 www.twitch.tv
+za.pinterest.com

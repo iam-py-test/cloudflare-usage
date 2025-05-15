@@ -1,4 +1,4 @@
-218 domains tested. 60.09174311926605% were behind nothing (87 were behind something). 6 domains could not be tested.<br>
+218 domains tested. 58.256880733944946% were behind nothing (91 were behind something). 9 domains could not be tested.<br>
 5 used akamai (2.293577981651376%):
 ```
 easylist-downloads.adblockplus.org
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-53 used cloudflare (24.31192660550459%):
+54 used cloudflare (24.770642201834864%):
 ```
 1275.ru
 abp.tt.codes
@@ -71,6 +71,7 @@ stanev.org
 tgc.cloud
 theantisocialengineer.com
 threatshare.io
+www.accs-net.com
 www.binarydefense.com
 www.botvrij.eu
 www.fanboy.co.nz
