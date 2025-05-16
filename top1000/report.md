@@ -1,5 +1,5 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 58 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -19,6 +19,7 @@ intel.com
 intuit.com
 lowes.com
 macys.com
+marriott.com
 mi.com
 mobile.de
 mysql.com
@@ -44,12 +45,11 @@ b-cdn.net
 
 ```
 
-139 used cloudflare (13.900000000000002%):
+137 used cloudflare (13.700000000000001%):
 ```
 33across.com
 addtoany.com
 allaboutcookies.org
-alphonso.tv
 ancestry.com
 apnews.com
 applovin.com
@@ -97,7 +97,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -196,19 +195,19 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
-amazon.es
-amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
+aniview.com
 anydesk.com
 appsflyer.com
 appsflyersdk.com
