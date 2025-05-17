@@ -1,4 +1,4 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-137 used cloudflare (13.700000000000001%):
+140 used cloudflare (14.000000000000002%):
 ```
 33across.com
 addtoany.com
@@ -97,6 +97,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -156,6 +157,7 @@ shopify.com
 singular.net
 sourceforge.net
 spamhaus.org
+split.io
 sportradar.com
 stackoverflow.com
 stripchat.com
@@ -184,9 +186,10 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
+zoom.us
 ```
 
-109 used cloudfront (10.9%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -195,13 +198,15 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
-amazon.in
+amazon.es
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -296,7 +301,6 @@ wattpad.com
 wired.com
 wsj.com
 zillow.com
-zoom.us
 ```
 
 4 used ddosguard (0.4%):
@@ -312,11 +316,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
