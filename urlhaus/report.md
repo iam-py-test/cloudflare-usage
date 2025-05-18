@@ -1,4 +1,4 @@
-553 domains tested. 68.1735985533454% were behind nothing (176 were behind something). 72 domains could not be tested.<br>
+501 domains tested. 73.05389221556887% were behind nothing (135 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,13 @@
 
 ```
 
-100 used cloudflare (18.083182640144667%):
+89 used cloudflare (17.764471057884233%):
 ```
-12.innospark.cloud
 24x7support.top
-8r.czlw.ru
-acc.cbihelp.top
 acc.crjhelp.top
 acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
-acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
@@ -41,26 +37,24 @@ back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
 crystalpvp.ru
+cvcxv23423sv.com
 deviceprotect.top
-dl.aginjector.com
-download-cleanshot.cfd
+elomaio.com
 erde3-ew5.top
 expay.ru
 fvia.id.vn
-galabau-life.de
+fwefwefeasd.shop
 gbnace7.top
 gcxew-33w.top
+gdfgdfgdfgweqr.pro
 gzeed-33w.top
-h4.tykeblot.today
 hitman-pro.ru
 jbstrckng.com
 jrqh-hk.com
 l96.org
 lindenappliances.co.za
-login.zcqhelp.top
 m.anphelp.top
 m.hlghelp.top
-m.mzihelp.top
 m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
@@ -68,7 +62,7 @@ mabsa13.top
 macrescuehub.cloud
 microsoft-analyse.com
 mxews5.top
-nusatoyota.co.id
+onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -77,12 +71,11 @@ onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
-onyxguardwave.de
 onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxsafecrypt.de
 onyxsafenova.de
-onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
@@ -94,25 +87,21 @@ qoyerx-9i.top
 reusable-flex.com
 rmkaio1.top
 rxquickpay.com
-ssagovdocumont.com
 symbietic.com
 tcrm-m3.top
-trtmyanmar.com
 u9b.top
 ubftr3.top
 uhmd-rw2.top
-utorrent-servers.xyz
 vresp-91w.top
+web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
-wnhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
-www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
@@ -128,9 +117,9 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.18083182640144665%):
+0 used ddosguard (0.0%):
 ```
-stealer.cy
+
 ```
 
 0 used edgecast (0.0%):
@@ -138,12 +127,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.18083182640144665%):
+1 used fastly (0.19960079840319359%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.3616636528028933%):
+2 used sucuri (0.39920159680638717%):
 ```
 allstarstriping.com
 scf.com
