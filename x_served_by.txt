@@ -1,94 +1,114 @@
-cache-iad-kiad7000164-IAD
-cache-hel1410021-HEL, cache-iad-kiad7000061-IAD
-cache-iad-kcgs7200033-IAD
-cache-iad-kiad7000152-IAD
-cache-iad-kiad7000168-IAD
-cache-iad-kiad7000150-IAD
-cache-iad-kiad7000139-IAD
-cache-iad-kcgs7200087-IAD, cache-iad-kiad7000137-IAD
-cache-chi-klot8100123-CHI, cache-iad-kiad7000048-IAD, cache-iad-kcgs7200045-IAD, cache-iad-kcgs7200045-IAD
-cache-chi-kigq8000050-CHI, cache-iad-kiad7000088-IAD
-cache-iad-kiad7000071-IAD
-cache-iad-kiad7000053-IAD
-cache-iad-kcgs7200105-IAD, cache-iad-kiad7000117-IAD
-cache-iad-kcgs7200045-IAD
-cache-iad-kcgs7200038-IAD
-cache-sjc10062-SJC, cache-sjc1000088-SJC, cache-iad-kiad7000165-IAD
-cache-iad-kcgs7200025-IAD
-cache-iad-kiad7000146-IAD
-cache-par-lfpg1960091-PAR, cache-iad-kiad7000170-IAD
-cache-sjc10043-SJC, cache-wk-sjc11420-SJC, cache-iad-kcgs7200030-IAD
-cache-nyc-kteb1890093-NYC
-cache-par-lfpg1960020-PAR, cache-iad-kiad7000142-IAD
-cache-iad-kcgs7200043-IAD
-cache-iad-kiad7000131-IAD
-cache-iad-kcgs7200175-IAD, cache-iad-kcgs7200137-IAD
+cache-dfw-kdal2120064-DFW
+cache-dfw-kdal2120129-DFW
+cache-hel1410021-HEL, cache-dfw-kdal2120121-DFW
+cache-lga21980-LGA, cache-dfw-kdal2120099-DFW
+cache-dfw-kdfw8210070-DFW
+cache-dfw-kdal2120036-DFW
+cache-dfw-kdal2120024-DFW
+cache-iad-kcgs7200051-IAD, cache-dfw-kdal2120128-DFW
+cache-iad-kiad7000098-IAD, cache-dfw-kdal2120136-DFW
+cache-iad-kcgs7200079-IAD, cache-iad-kcgs7200113-IAD, cache-dfw-kdfw8210104-DFW
+cache-dfw-kdfw8210033-DFW
+cache-chi-kigq8000050-CHI, cache-iad-kiad7000064-IAD
+cache-chi-kigq8000107-CHI, cache-dfw-kdal2120020-DFW, cache-dfw-kdal2120020-DFW, cache-dfw-kdal2120020-DFW
+cache-chi-klot8100123-CHI, cache-dfw-ktki8620029-DFW, cache-dfw-kdal2120044-DFW, cache-dfw-kdal2120044-DFW
+cache-dfw-kdal2120131-DFW
+cache-dfw-kdal2120111-DFW
+cache-dfw-kdfw8210078-DFW
+cache-ams21079-AMS, cache-ams21079-AMS, cache-dfw-kdfw8210114-DFW
+cache-dfw-kdal2120083-DFW
+cache-dfw-kdal2120039-DFW
+cache-dfw-kdal2120117-DFW
+cache-sjc10056-SJC, cache-sjc1000097-SJC, cache-dfw-kdal2120027-DFW
+cache-sjc1000144-SJC, cache-wk-sjc11421-SJC, cache-dfw-kdal2120141-DFW
+cache-dfw-ktki8620092-DFW, cache-dfw-kdal2120071-DFW
+cache-iad-kiad7000082-IAD, cache-iad-kiad7000161-IAD, cache-dfw-kdfw8210111-DFW
+cache-ams2100138-AMS, cache-dfw-kdal2120132-DFW
+cache-par-lfpg1960020-PAR, cache-dfw-kdal2120094-DFW
+cache-dfw-kdfw8210136-DFW, cache-dfw-kdal2120075-DFW
 cache-iad-kjyo7100079-IAD
-cache-iad-kiad7000066-IAD, cache-iad-kiad7000057-IAD
-cache-iad-kcgs7200143-IAD, cache-iad-kiad7000163-IAD
-cache-iad-kjyo7100092-IAD
-cache-fra-etou8220104-FRA, cache-fra-etou8220082-FRA, cache-iad-kcgs7200119-IAD
-cache-lga21921-LGA, cache-nyc-kteb1890082-NYC
-cache-iad-kcgs7200167-IAD
-cache-iad-kiad7000075-IAD, cache-iad-kiad7000075-IAD
-cache-iad-kcgs7200118-IAD, cache-iad-kiad7000142-IAD
+cache-iad-kiad7000176-IAD, cache-dfw-kdal2120131-DFW
+cache-chi-klot8100077-CHI, cache-dfw-ktki8620028-DFW, cache-dfw-ktki8620028-DFW, cache-dfw-ktki8620028-DFW, cache-dfw-ktki8620028-DFW, cache-dfw-kdal2120053-DFW
+cache-bfi-krnt7300077-BFI, cache-bfi-krnt7300077-BFI, cache-dfw-kdfw8210098-DFW
+cache-iad-kjyo7100053-IAD
+cache-lga21963-LGA, cache-dfw-kdal2120076-DFW
+cache-dfw-kdfw8210073-DFW
+cache-iad-kiad7000176-IAD, cache-dfw-kdal2120087-DFW
+cache-dfw-kdal2120132-DFW, cache-dfw-kdal2120080-DFW
+cache-dfw-kdal2120056-DFW, cache-dfw-kdal2120071-DFW
+cache-chi-klot8100093-CHI, cache-dfw-kdal2120088-DFW, cache-dfw-kdal2120027-DFW
+cache-chi-kigq8000165-CHI, cache-dfw-kdal2120138-DFW
+cache-dfw-ktki8620026-DFW, cache-dfw-kdal2120051-DFW
+pod-www-render-nginx-6df9fbc89f-gszxn
+cache-lga21948-LGA, cache-dfw-kdal2120069-DFW
+cache-dfw-kdfw8210133-DFW, cache-dfw-kdfw8210082-DFW
+cache-dfw-kdal2120139-DFW, cache-dfw-kdal2120139-DFW
+cache-dfw-kdal2120118-DFW, cache-dfw-kdal2120118-DFW
+cache-iad-kiad7000081-IAD, cache-iad-kiad7000081-IAD, cache-dfw-kdal2120140-DFW
+cache-bfi-kbfi7400047-BFI, cache-bfi-kbfi7400047-BFI, cache-dfw-kdal2120101-DFW
+cache-dfw-kdfw8210158-DFW
+cache-dfw-kdal2120071-DFW
+cache-bfi-kbfi7400085-BFI
+cache-dfw-kdfw8210169-DFW
+cache-iad-kjyo7100104-IAD, cache-iad-kjyo7100119-IAD, cache-dfw-kdal2120082-DFW
+cache-chi-kigq8000116-CHI, cache-chi-kigq8000116-CHI, cache-dfw-kdfw8210095-DFW
+cache-dfw-kdal2120106-DFW
+cache-iad-kiad7000122-IAD, cache-dfw-kdal2120094-DFW
+cache-dfw-ktki8620042-DFW, cache-dfw-kdfw8210040-DFW
+cache-dfw-kdal2120062-DFW
+cache-iad-kiad7000107-IAD
+cache-iad-kiad7000058-IAD, cache-dfw-kdfw8210090-DFW
+td_c7ede76bda06, cache-iad-kcgs7200064-IAD, cache-dfw-kdfw8210141-DFW
+cache-ac69d0f8-internal, cache-dfw-kdal2120118-DFW
+cache-dfw-kdal2120089-DFW
+cache-dfw-kdfw8210083-DFW
+cache-dfw-kdfw8210107-DFW
+cache-dfw-kdfw8210045-DFW, cache-dfw-kdfw8210027-DFW
+cache-dfw-kdfw8210077-DFW
+cache-iad-kiad7000141-IAD, cache-dfw-kdal2120108-DFW
+cache-dfw-kdal2120075-DFW
+cache-dfw-kdal2120063-DFW
+cache-iad-kcgs7200105-IAD, cache-iad-kcgs7200105-IAD, cache-dfw-kdal2120038-DFW
+cache-par-lfpg1960091-PAR, cache-dfw-kdal2120029-DFW
+cache-iad-kcgs7200149-IAD, cache-dfw-kdal2120138-DFW
+cache-iad-kcgs7200075-IAD, cache-dfw-kdal2120101-DFW
+cache-fra-etou8220065-FRA, cache-fra-etou8220082-FRA, cache-dfw-kdal2120126-DFW
+cache-dfw-kdal2120046-DFW
 thumblr-7c4f7b4dc5-m7rxr, wk-cdn-r7
-cache-iad-kiad7000049-IAD
-cache-iad-kjyo7100146-IAD, cache-iad-kiad7000057-IAD
-cache-iad-kcgs7200103-IAD
-cache-iad-kjyo7100097-IAD, cache-iad-kjyo7100133-IAD
-cache-iad-kcgs7200034-IAD
+cache-dfw-kdal2120038-DFW, cache-dfw-kdfw8210120-DFW
+cache-dfw-kdfw8210139-DFW
+cache-dfw-kdfw8210121-DFW
 gian.com.ar
-cache-iad-kjyo7100159-IAD, cache-iad-kiad7000077-IAD
-cache-nyc-kteb1890072-NYC
-cache-iad-kcgs7200163-IAD
-cache-iad-kcgs7200069-IAD
-cache-iad-kcgs7200046-IAD
-cache-iad-kcgs7200143-IAD
-cache-iad-kcgs7200127-IAD
-cache-iad-kcgs7200099-IAD
-cache-iad-kcgs7200173-IAD
-cache-iad-kcgs7200044-IAD
-cache-iad-kcgs7200124-IAD
-cache-iad-kcgs7200139-IAD
-cache-iad-kcgs7200161-IAD
-cache-iad-kcgs7200075-IAD
-cache-iad-kcgs7200062-IAD, cache-nyc-kteb1890080-NYC
-cache-iad-kcgs7200062-IAD, cache-nyc-kteb1890038-NYC
-cache-iad-kcgs7200036-IAD
-cache-iad-kiad7000113-IAD, cache-iad-kiad7000139-IAD
-cache-iad-kiad7000082-IAD, cache-iad-kiad7000169-IAD
-cache-iad-kiad7000027-IAD
-cache-iad-kiad7000113-IAD
-cache-iad-kiad7000073-IAD, cache-iad-kiad7000083-IAD
-pod-www-render-nginx-65765959db-wsvpk
-cache-lga21963-LGA, cache-nyc-kteb1890048-NYC
-cache-iad-kiad7000069-IAD
-cache-par-lfpg1960089-PAR, cache-iad-kiad7000052-IAD
-cache-iad-kiad7000043-IAD
-cache-ams2100138-AMS, cache-iad-kiad7000174-IAD
-cache-syd10153-SYD, cache-syd10173-SYD, cache-iad-kiad7000028-IAD
-cache-iad-kiad7000087-IAD
-cache-iad-kiad7000035-IAD
-cache-syd10153-SYD, cache-syd10173-SYD, cache-iad-kiad7000154-IAD
-cache-iad-kiad7000143-IAD
-cache-ams2100094-AMS, cache-ams21067-AMS, cache-iad-kiad7000162-IAD
-cache-syd10163-SYD, cache-syd10167-SYD, cache-iad-kiad7000165-IAD
-cache-iad-kiad7000102-IAD, cache-iad-kiad7000102-IAD
-cache-iad-kcgs7200107-IAD
-cache-iad-kjyo7100088-IAD, cache-iad-kcgs7200137-IAD
-cache-iad-kiad7000150-IAD, cache-iad-kcgs7200076-IAD
-cache-iad-kiad7000114-IAD
-cache-iad-kiad7000046-IAD
-cache-iad-kiad7000156-IAD
-cache-ams21079-AMS, cache-ams21079-AMS, cache-iad-kiad7000097-IAD
-cache-iad-kiad7000179-IAD
-cache-chi-kigq8000066-CHI, cache-iad-kcgs7200107-IAD
-cache-chi-kigq8000053-CHI, cache-iad-kcgs7200074-IAD, cache-iad-kcgs7200084-IAD, cache-iad-kcgs7200084-IAD
-cache-chi-kigq8000167-CHI, cache-iad-kcgs7200045-IAD
-cache-iad-kiad7000080-IAD, cache-iad-kiad7000098-IAD
-cache-chi-kigq8000110-CHI, cache-iad-kcgs7200107-IAD
-cache-iad-kjyo7100090-IAD, cache-iad-kcgs7200161-IAD
-cache-iad-kiad7000162-IAD
-cache-fra-etou8220129-FRA, cache-iad-kiad7000118-IAD
-cache-hel1410029-HEL, cache-iad-kcgs7200036-IAD
+cache-dfw-kdfw8210106-DFW, cache-dfw-kdal2120044-DFW
+cache-dfw-kdfw8210127-DFW
+cache-dfw-kdal2120119-DFW
+cache-dfw-kdal2120072-DFW
+cache-dfw-kdal2120099-DFW
+cache-dfw-kdal2120076-DFW
+cache-dfw-kdal2120088-DFW
+cache-dfw-kdal2120146-DFW
+cache-dfw-kdal2120102-DFW
+cache-dfw-kdal2120134-DFW
+cache-dfw-kdal2120042-DFW
+cache-iad-kiad7000137-IAD, cache-iad-kiad7000137-IAD, cache-dfw-kdfw8210076-DFW
+cache-iad-kiad7000068-IAD, cache-iad-kiad7000157-IAD, cache-dfw-kdal2120051-DFW
+cache-par-lfpb1150055-PAR, cache-dfw-kdfw8210148-DFW
+cache-dfw-kdal2120080-DFW
+cache-syd10132-SYD, cache-syd10167-SYD, cache-dfw-kdfw8210095-DFW
+cache-iad-kjyo7100100-IAD, cache-dfw-kdfw8210143-DFW
+cache-dfw-kdfw8210125-DFW, cache-dfw-kdal2120139-DFW
+cache-syd10132-SYD, cache-syd10173-SYD, cache-dfw-kdfw8210090-DFW
+cache-syd10132-SYD, cache-syd10173-SYD, cache-dfw-kdfw8210141-DFW
+cache-dfw-kdal2120141-DFW
+cache-iad-kcgs7200044-IAD, cache-dfw-kdal2120116-DFW
+cache-dfw-kdfw8210156-DFW
+cache-ams2100131-AMS, cache-ams21067-AMS, cache-dfw-kdal2120026-DFW
+cache-chi-kigq8000066-CHI, cache-dfw-kdal2120105-DFW
+cache-dfw-kdfw8210043-DFW
+cache-iad-kiad7000146-IAD, cache-iad-kiad7000041-IAD, cache-dfw-kdal2120076-DFW
+cache-chi-kigq8000053-CHI, cache-dfw-kdal2120138-DFW, cache-dfw-kdal2120044-DFW, cache-dfw-kdal2120044-DFW
+cache-chi-kigq8000167-CHI, cache-dfw-kdal2120020-DFW
+cache-chi-kigq8000110-CHI, cache-dfw-kdal2120105-DFW
+cache-iad-kjyo7100090-IAD, cache-iad-kjyo7100039-IAD, cache-dfw-kdal2120111-DFW
+cache-hel1410029-HEL, cache-dfw-kdal2120039-DFW
+cache-fra-etou8220129-FRA, cache-dfw-kdal2120137-DFW
