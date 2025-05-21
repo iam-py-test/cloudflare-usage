@@ -1,4 +1,4 @@
-501 domains tested. 70.85828343313374% were behind nothing (146 were behind something). 38 domains could not be tested.<br>
+523 domains tested. 66.73040152963671% were behind nothing (174 were behind something). 63 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-104 used cloudflare (20.758483033932134%):
+107 used cloudflare (20.45889101338432%):
 ```
 24x7support.top
-8t.tattlererun.life
 acc.cbihelp.top
 acc.crjhelp.top
 acc.mcohelp.top
@@ -39,10 +38,10 @@ axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
-chantalrae.com
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
+edgeburst.sbs
 erde3-ew5.top
 expay.ru
 fvia.id.vn
@@ -50,18 +49,15 @@ galabau-life.de
 gbnace7.top
 gcxew-33w.top
 gzeed-33w.top
-h1.jockstrapdisown.today
-h4.fringezipping.bet
-h4.groutlandlady.top
-h4.ripcordbuffalo.run
-h4.tattlererun.life
 hitman-pro.ru
-in.alrightjawed.bet
+hubservices.vip
+imtoken8.cc
 jdsfrw-11.top
 jrqh-hk.com
 l96.org
 laetef-87t.top
 lindenappliances.co.za
+login.zcqhelp.top
 m.anphelp.top
 m.hlghelp.top
 m.mzihelp.top
@@ -71,8 +67,10 @@ m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 mxews5.top
-nnnpanel.top
+ndxs439.top
+nk.zujer.ru
 nusatoyota.co.id
+nxsw-tq2.top
 onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -82,21 +80,24 @@ onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
+onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
+onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
-pumpfun.exposed
 qoyerx-9i.top
+quickrack.sbs
 reusable-flex.com
 rmkaio1.top
 rxquickpay.com
@@ -109,7 +110,8 @@ uhmd-rw2.top
 utorrent-servers.xyz
 verifseccloud.com
 vresp-91w.top
-wakiss.com
+web.bqxhelp.top
+web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
@@ -119,6 +121,7 @@ www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
 www.kogtp.top
+www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
 www.polersx.top
@@ -132,7 +135,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.19960079840319359%):
+1 used ddosguard (0.19120458891013384%):
 ```
 stealer.cy
 ```
@@ -142,12 +145,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19960079840319359%):
+1 used fastly (0.19120458891013384%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.39920159680638717%):
+2 used sucuri (0.3824091778202677%):
 ```
 allstarstriping.com
 scf.com
