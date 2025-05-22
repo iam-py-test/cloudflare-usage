@@ -1,4 +1,4 @@
-523 domains tested. 66.73040152963671% were behind nothing (174 were behind something). 63 domains could not be tested.<br>
+535 domains tested. 70.09345794392523% were behind nothing (160 were behind something). 61 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,11 @@
 
 ```
 
-107 used cloudflare (20.45889101338432%):
+96 used cloudflare (17.94392523364486%):
 ```
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
-acc.mcohelp.top
 acc.nmphelp.top
 acc.tishelp.top
 acc.trjsp41.top
@@ -38,6 +37,7 @@ axhelp.top
 back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
+cachepeak.cfd
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
@@ -45,7 +45,6 @@ edgeburst.sbs
 erde3-ew5.top
 expay.ru
 fvia.id.vn
-galabau-life.de
 gbnace7.top
 gcxew-33w.top
 gzeed-33w.top
@@ -53,7 +52,6 @@ hitman-pro.ru
 hubservices.vip
 imtoken8.cc
 jdsfrw-11.top
-jrqh-hk.com
 l96.org
 laetef-87t.top
 lindenappliances.co.za
@@ -67,11 +65,9 @@ m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 mxews5.top
-ndxs439.top
-nk.zujer.ru
+nnnpanel.top
 nusatoyota.co.id
 nxsw-tq2.top
-onbr-12es.top
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -90,32 +86,25 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-pnbf-gv.top
 prloglink.prsa7.top
 psloglink.psur7.top
-qoyerx-9i.top
 quickrack.sbs
 reusable-flex.com
-rmkaio1.top
 rxquickpay.com
-symbietic.com
-tcrm-m3.top
+streamfast.cfd
 trtmyanmar.com
 u9b.top
 ubftr3.top
-uhmd-rw2.top
+upgradegc.com
 utorrent-servers.xyz
-verifseccloud.com
 vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
-wnhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
@@ -135,7 +124,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.19120458891013384%):
+1 used ddosguard (0.1869158878504673%):
 ```
 stealer.cy
 ```
@@ -145,15 +134,14 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19120458891013384%):
+1 used fastly (0.1869158878504673%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.3824091778202677%):
+1 used sucuri (0.1869158878504673%):
 ```
 allstarstriping.com
-scf.com
 ```
 
 0 used myracloud (0.0%):

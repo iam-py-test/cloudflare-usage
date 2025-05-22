@@ -1,4 +1,4 @@
-361 domains tested. 57.06371191135734% were behind nothing (155 were behind something). 54 domains could not be tested.<br>
+361 domains tested. 57.06371191135734% were behind nothing (155 were behind something). 53 domains could not be tested.<br>
 23 used akamai (6.3711911357340725%):
 ```
 alhurra.com
@@ -41,10 +41,11 @@ usfa.fema.gov
 
 ```
 
-39 used cloudflare (10.80332409972299%):
+40 used cloudflare (11.080332409972298%):
 ```
 aoc.gov
 bjs.gov
+blm.gov
 cftc.gov
 commerce.gov
 constitutioncenter.org
