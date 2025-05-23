@@ -1,4 +1,4 @@
-535 domains tested. 70.09345794392523% were behind nothing (160 were behind something). 61 domains could not be tested.<br>
+529 domains tested. 67.48582230623819% were behind nothing (172 were behind something). 71 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-96 used cloudflare (17.94392523364486%):
+99 used cloudflare (18.714555765595463%):
 ```
 24x7support.top
+6t.czlw.ru
 acc.cbihelp.top
 acc.crjhelp.top
 acc.nmphelp.top
@@ -31,6 +32,7 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
@@ -38,22 +40,22 @@ back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
 cachepeak.cfd
+counterstrike2cheats.com
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
-edgeburst.sbs
 erde3-ew5.top
 expay.ru
 fvia.id.vn
+galabau-life.de
 gbnace7.top
 gcxew-33w.top
 gzeed-33w.top
+h4.ascent-reference.digital
 hitman-pro.ru
-hubservices.vip
 imtoken8.cc
 jdsfrw-11.top
-l96.org
-laetef-87t.top
+jrqh-hk.com
 lindenappliances.co.za
 login.zcqhelp.top
 m.anphelp.top
@@ -65,8 +67,7 @@ m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 mxews5.top
-nnnpanel.top
-nusatoyota.co.id
+nexoracheat.com
 nxsw-tq2.top
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -86,6 +87,7 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
+onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
@@ -93,11 +95,12 @@ psloglink.psur7.top
 quickrack.sbs
 reusable-flex.com
 rxquickpay.com
-streamfast.cfd
+symbietic.com
 trtmyanmar.com
 u9b.top
 ubftr3.top
 upgradegc.com
+usdofiles.us
 utorrent-servers.xyz
 vresp-91w.top
 web.bqxhelp.top
@@ -124,9 +127,9 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.1869158878504673%):
+0 used ddosguard (0.0%):
 ```
-stealer.cy
+
 ```
 
 0 used edgecast (0.0%):
@@ -134,12 +137,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1869158878504673%):
+1 used fastly (0.1890359168241966%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1869158878504673%):
+1 used sucuri (0.1890359168241966%):
 ```
 allstarstriping.com
 ```
