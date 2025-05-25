@@ -1,4 +1,4 @@
-509 domains tested. 68.17288801571709% were behind nothing (162 were behind something). 64 domains could not be tested.<br>
+519 domains tested. 68.20809248554913% were behind nothing (165 were behind something). 64 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-94 used cloudflare (18.467583497053045%):
+97 used cloudflare (18.689788053949904%):
 ```
 24x7support.top
-6t.czlw.ru
 acc.cbihelp.top
 acc.crjhelp.top
 acc.nmphelp.top
@@ -35,9 +34,10 @@ agd-yrr1.top
 allendostmen.com
 api.ewfiles.net
 axhelp.top
+back2-bgtw74.top
 bestieslos.com
 bfjduf2.top
-counterstrike2cheats.com
+crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
 eqybaskreen.top
@@ -46,25 +46,28 @@ expay.ru
 fvia.id.vn
 galabau-life.de
 gbnace7.top
+gcxew-33w.top
+gknkargo.com
 gzeed-33w.top
-h4.ascent-reference.digital
 h4.postcard-upscale.shop
 h4.renewed-landline.top
 hitman-pro.ru
 imtoken8.cc
 jdsfrw-11.top
 jrqh-hk.com
+klikshop.buzz
 l96.org
 lindenappliances.co.za
 login.zcqhelp.top
 m.anphelp.top
+m.hlghelp.top
 m.mzihelp.top
 m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
-nexoracheat.com
+mxews5.top
 nexuss.international
 nnnpanel.top
 nusatoyota.co.id
@@ -77,26 +80,26 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
-onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
-onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+prloglink.prsa7.top
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
 sinnersfollower.com
-symbietic.com
+t1.handprintscariness.ru
+testmylivekdkdk.cloud
 trtmyanmar.com
 ubftr3.top
 upgradegc.com
-usdofiles.us
 utorrent-servers.xyz
 vresp-91w.top
 web.bqxhelp.top
@@ -104,9 +107,9 @@ web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
 wlop10.top
-www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
+www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
@@ -117,12 +120,12 @@ xn--yh4bx88a.com
 ybcer92.top
 ```
 
-1 used cloudfront (0.19646365422396855%):
+1 used cloudfront (0.1926782273603083%):
 ```
 windows.defender.kim
 ```
 
-1 used ddosguard (0.19646365422396855%):
+1 used ddosguard (0.1926782273603083%):
 ```
 stealer.cy
 ```
@@ -132,12 +135,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19646365422396855%):
+1 used fastly (0.1926782273603083%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.19646365422396855%):
+1 used sucuri (0.1926782273603083%):
 ```
 allstarstriping.com
 ```

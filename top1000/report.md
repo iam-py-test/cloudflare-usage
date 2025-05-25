@@ -1,4 +1,4 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 59 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-142 used cloudflare (14.2%):
+141 used cloudflare (14.099999999999998%):
 ```
 2gis.com
 33across.com
@@ -57,7 +57,6 @@ applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
-bitdefender.com
 bluehost.com
 box.com
 branch.io
@@ -97,7 +96,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -187,11 +185,12 @@ workers.dev
 wyzecam.com
 x.com
 xhamster.com
+xhamster.desi
 zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -200,14 +199,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.es
-amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -261,7 +257,6 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
-monster.ie
 name.com
 nationalgeographic.com
 netflix.net
@@ -297,7 +292,6 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
-utorrent.com
 warnerbros.com
 wattpad.com
 wired.com
