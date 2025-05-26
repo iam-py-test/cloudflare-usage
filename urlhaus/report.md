@@ -1,4 +1,4 @@
-519 domains tested. 68.20809248554913% were behind nothing (165 were behind something). 64 domains could not be tested.<br>
+489 domains tested. 74.43762781186093% were behind nothing (125 were behind something). 33 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-97 used cloudflare (18.689788053949904%):
+88 used cloudflare (17.995910020449898%):
 ```
 24x7support.top
 acc.cbihelp.top
@@ -31,28 +31,21 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
-back2-bgtw74.top
 bestieslos.com
-bfjduf2.top
 crystalpvp.ru
+dayzcheatcheck.online
 deviceprotect.top
 dl.aginjector.com
-eqybaskreen.top
-erde3-ew5.top
 expay.ru
 fvia.id.vn
 galabau-life.de
-gbnace7.top
 gcxew-33w.top
 gknkargo.com
-gzeed-33w.top
-h4.postcard-upscale.shop
-h4.renewed-landline.top
 hitman-pro.ru
-imtoken8.cc
 jdsfrw-11.top
 jrqh-hk.com
 klikshop.buzz
@@ -68,7 +61,6 @@ m.qxfhelp.top
 mabsa13.top
 microsoft-analyse.com
 mxews5.top
-nexuss.international
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
@@ -80,12 +72,12 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
 onyxnexguard.de
-onyxprotectech.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
+onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
@@ -94,19 +86,19 @@ prloglink.prsa7.top
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
-sinnersfollower.com
 t1.handprintscariness.ru
 testmylivekdkdk.cloud
 trtmyanmar.com
+u9b.top
 ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
-vresp-91w.top
+vuwzer.com
 web.bqxhelp.top
 web.hlghelp.top
 web.nexhelp.top
 web.qxfhelp.top
-wlop10.top
+www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
@@ -114,18 +106,17 @@ www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
-www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
 ybcer92.top
 ```
 
-1 used cloudfront (0.1926782273603083%):
+1 used cloudfront (0.2044989775051125%):
 ```
 windows.defender.kim
 ```
 
-1 used ddosguard (0.1926782273603083%):
+1 used ddosguard (0.2044989775051125%):
 ```
 stealer.cy
 ```
@@ -135,12 +126,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1926782273603083%):
+1 used fastly (0.2044989775051125%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1926782273603083%):
+1 used sucuri (0.2044989775051125%):
 ```
 allstarstriping.com
 ```
