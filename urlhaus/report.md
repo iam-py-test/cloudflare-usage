@@ -1,12 +1,12 @@
-490 domains tested. 73.67346938775509% were behind nothing (129 were behind something). 36 domains could not be tested.<br>
+509 domains tested. 74.06679764243614% were behind nothing (132 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-0 used bunnycdn (0.0%):
+1 used bunnycdn (0.19646365422396855%):
 ```
-
+static.s123-cdn-static.com
 ```
 
 0 used cachefly (0.0%):
@@ -19,8 +19,9 @@
 
 ```
 
-90 used cloudflare (18.367346938775512%):
+91 used cloudflare (17.87819253438114%):
 ```
+0daydreams.net
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
@@ -31,14 +32,11 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
-alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-bkngvvfer.com
 cia.tf
-ciaoai.cc
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
@@ -46,10 +44,11 @@ expay.ru
 fvia.id.vn
 galabau-life.de
 gcxew-33w.top
-h4.residue-player.world
+gzeed-33w.top
 hitman-pro.ru
 imtoken8.cc
 insideedgepr.com
+irozysk.ru
 jdsfrw-11.top
 jrqh-hk.com
 lindenappliances.co.za
@@ -60,10 +59,10 @@ m.mzihelp.top
 m.nexhelp.top
 m.nsdhelp.top
 m.qxfhelp.top
+mi.citationcompany.bet
 microsoft-analyse.com
 mxews5.top
 nnnpanel.top
-nodestack.sbs
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -76,18 +75,20 @@ onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
+onyxsecuregate.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
+pubshierstext.top
 reusable-flex.com
 rxquickpay.com
-secure-dn1rea.de
 trtmyanmar.com
 u9b.top
 ubftr3.top
@@ -118,7 +119,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.20408163265306123%):
+1 used ddosguard (0.19646365422396855%):
 ```
 stealer.cy
 ```
@@ -128,12 +129,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20408163265306123%):
+1 used fastly (0.19646365422396855%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20408163265306123%):
+1 used sucuri (0.19646365422396855%):
 ```
 allstarstriping.com
 ```

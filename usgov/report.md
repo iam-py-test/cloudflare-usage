@@ -1,4 +1,4 @@
-361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 52 domains could not be tested.<br>
+361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 51 domains could not be tested.<br>
 22 used akamai (6.094182825484765%):
 ```
 amtrak.com
@@ -40,7 +40,7 @@ usfa.fema.gov
 
 ```
 
-40 used cloudflare (11.080332409972298%):
+41 used cloudflare (11.357340720221606%):
 ```
 aoc.gov
 bjs.gov
@@ -78,6 +78,7 @@ ntsb.gov
 ojp.gov
 oshrc.gov
 peacecorps.gov
+si.edu
 srbc.net
 tva.com
 uscirf.gov
