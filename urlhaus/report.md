@@ -1,10 +1,10 @@
-509 domains tested. 74.06679764243614% were behind nothing (132 were behind something). 37 domains could not be tested.<br>
+492 domains tested. 73.98373983739837% were behind nothing (128 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.19646365422396855%):
+1 used bunnycdn (0.20325203252032523%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,9 +19,8 @@ static.s123-cdn-static.com
 
 ```
 
-91 used cloudflare (17.87819253438114%):
+87 used cloudflare (17.682926829268293%):
 ```
-0daydreams.net
 24x7support.top
 acc.cbihelp.top
 acc.crjhelp.top
@@ -34,13 +33,15 @@ adf6.adf6.com
 agd-yrr1.top
 allendostmen.com
 api.ewfiles.net
+apioeses.icu
 axhelp.top
 bestieslos.com
-cia.tf
+captcha123.com
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
 expay.ru
+extranet-listing.com
 fvia.id.vn
 galabau-life.de
 gcxew-33w.top
@@ -68,8 +69,6 @@ onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
-onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
@@ -77,18 +76,16 @@ onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
-pubshierstext.top
 reusable-flex.com
-rxquickpay.com
 trtmyanmar.com
 u9b.top
 ubftr3.top
@@ -107,7 +104,6 @@ www.insideedgepr.com
 www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
-www.luuk-lifestyle.eu
 www.nywl7.top
 www.vpld4.top
 xn--yh4bx88a.com
@@ -119,7 +115,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.19646365422396855%):
+1 used ddosguard (0.20325203252032523%):
 ```
 stealer.cy
 ```
@@ -129,12 +125,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19646365422396855%):
+1 used fastly (0.20325203252032523%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.19646365422396855%):
+1 used sucuri (0.20325203252032523%):
 ```
 allstarstriping.com
 ```

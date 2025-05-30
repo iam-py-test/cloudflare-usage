@@ -72,6 +72,7 @@ nist.gov
 openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
+pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 performance.radar.cloudflare.com
 player.vimeo.com
@@ -103,7 +104,6 @@ static-cflr.licdn.com.cdn.cloudflare.net
 static.cloudflareinsights.com
 static.deepl.com
 static.elfsight.com
-static.licdn.com
 static.licdn.com.cdn.cloudflare.net
 static.zdassets.com
 t.co
@@ -122,7 +122,6 @@ workers.cloudflare.com
 workers.dev
 www.artfut.com
 www.cloudflare.com
-www.linkedin.com
 www.linkedin.com.cdn.cloudflare.net
 www.nist.gov
 www.paypalobjects.com.cdn.cloudflare.net
