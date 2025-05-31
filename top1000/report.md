@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 57 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -59,6 +59,7 @@ attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
+bootstrapcdn.com
 box.com
 branch.io
 braze.com
@@ -113,7 +114,6 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-lieferando.de
 life360.com
 liftoff.io
 linktr.ee
@@ -166,7 +166,6 @@ statcounter.com
 stripchat.com
 substack.com
 t.co
-takeaway.com
 tandfonline.com
 teamviewer.com
 themeforest.net
@@ -184,6 +183,7 @@ weebly.com
 who.int
 wiley.com
 workers.dev
+worldbank.org
 wyzecam.com
 x.com
 xhamster.com
@@ -192,7 +192,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -202,8 +202,8 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.es
 amazon.fr
@@ -225,7 +225,6 @@ brave.com
 calendly.com
 checkpoint.com
 clever.com
-coinmarketcap.com
 cox.net
 curseforge.com
 datadoghq.com
@@ -255,11 +254,13 @@ imdb.com
 intentiq.com
 intercom.io
 ipify.org
+jetbrains.com
 kargo.com
 latimes.com
 lijit.com
 line.me
 merriam-webster.com
+monster.ie
 name.com
 nationalgeographic.com
 netflix.net
@@ -295,6 +296,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -315,10 +317,11 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 forbes.com
 github.io
