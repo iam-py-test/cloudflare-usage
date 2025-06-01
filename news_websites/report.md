@@ -57,7 +57,7 @@ thewire.in
 washingtontimes.com
 ```
 
-29 used cloudfront (14.499999999999998%):
+30 used cloudfront (15.0%):
 ```
 SeattleTimes.com
 abcnews.go.com
@@ -84,6 +84,7 @@ slashgear.com
 sueddeutsche.de
 suntimes.com
 theoutline.com
+thetimes.co.uk
 vanityfair.com
 wired.com
 wired.com
@@ -100,11 +101,10 @@ wsj.com
 
 ```
 
-5 used fastly (2.5%):
+4 used fastly (2.0%):
 ```
 bbc.com
 bbc.com
-bloomberg.com
 cbsnews.com
 forbes.com
 ```
