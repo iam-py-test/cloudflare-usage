@@ -1,4 +1,4 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 59 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -46,7 +46,7 @@ b-cdn.net
 
 ```
 
-142 used cloudflare (14.2%):
+143 used cloudflare (14.299999999999999%):
 ```
 2gis.com
 33across.com
@@ -99,11 +99,13 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
 hugedomains.com
 ietf.org
+ikea.com
 indeed.com
 indexww.com
 innovid.com
@@ -124,7 +126,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-menulog.com.au
 mgid.com
 myshopify.com
 networkadvertising.org
@@ -192,7 +193,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -201,13 +202,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
-amazon.co.uk
-amazon.com
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -228,13 +227,11 @@ clever.com
 cox.net
 curseforge.com
 datadoghq.com
-deltaork.com
 deviantart.com
 doi.org
 dotomi.com
 dribbble.com
 dynatrace.com
-easycruit.com
 elasticbeanstalk.com
 epa.gov
 espn.com
@@ -262,6 +259,7 @@ line.me
 merriam-webster.com
 monster.ie
 name.com
+namestudio.com
 nationalgeographic.com
 netflix.net
 netgear.com
@@ -317,12 +315,13 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
