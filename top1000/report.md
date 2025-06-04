@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 59 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 60 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -20,6 +20,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -46,7 +47,7 @@ b-cdn.net
 
 ```
 
-143 used cloudflare (14.299999999999999%):
+144 used cloudflare (14.399999999999999%):
 ```
 2gis.com
 33across.com
@@ -75,6 +76,7 @@ chatgpt.com
 chaturbate.com
 chess.com
 classlink.com
+clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -99,7 +101,6 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -118,6 +119,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -193,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -202,7 +204,9 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.com.br
+amazon.co.jp
+amazon.co.uk
+amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
@@ -223,7 +227,6 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
-clever.com
 cox.net
 curseforge.com
 datadoghq.com
@@ -315,11 +318,10 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com

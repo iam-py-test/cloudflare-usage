@@ -1,10 +1,10 @@
-499 domains tested. 73.14629258517033% were behind nothing (134 were behind something). 38 domains could not be tested.<br>
+496 domains tested. 75.0% were behind nothing (124 were behind something). 33 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.2004008016032064%):
+1 used bunnycdn (0.20161290322580644%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,46 +19,49 @@ static.s123-cdn-static.com
 
 ```
 
-92 used cloudflare (18.43687374749499%):
+87 used cloudflare (17.540322580645164%):
 ```
+1password.click
 24x7support.top
 acc.crjhelp.top
 acc.nmphelp.top
-acc.tishelp.top
+acc.trjsp41.top
+acc.wtshelp.top
 adf6.adf6.com
+agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
-app-updater1.app
+avanllc.top
 axhelp.top
 bestieslos.com
+broserty.cfd
+classroomseven.com
 clickcease.biz
 crystalpvp.ru
 deviceprotect.top
 dl.aginjector.com
-dropcheats.pro
+evolve.sx
 expay.ru
 galabau-life.de
+gameupdate-endpoint.com
 gcxew-33w.top
 gzeed-33w.top
+h4.blousethrift.com
 hitman-pro.ru
 imtoken8.cc
 jdsfrw-11.top
 jrqh-hk.com
-legaliti.pro
 lindenappliances.co.za
-login.zcqhelp.top
+listen-hard.com
 lrs-statementviewer.sbs
 m.anphelp.top
 m.hlghelp.top
-m.mzihelp.top
 m.nsdhelp.top
 m.qxfhelp.top
-matchashop.icu
-mi.ricespider.digital
-mi.spokesmangraveyard.top
 microsoft-analyse.com
+ms-team-connect.com
 mxews5.top
-nenrava.life
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
@@ -78,41 +81,33 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
-pumpum.blog
 rxquickpay.com
-silentclickteam.co
 tokengen.ru
 trtmyanmar.com
-u9b.top
 ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
 vresp-91w.top
 web.bqxhelp.top
-web.hlghelp.top
 web.qxfhelp.top
 wlop10.top
 www.axhelp.top
 www.blackhattoolz.com
-www.glavgazik.com
 www.hdpw3.top
 www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
-www.luuk-lifestyle.eu
-www.nenrava.life
 www.nywl7.top
 www.polersx.top
-www.trampik.pro
 www.vpld4.top
 xn--yh4bx88a.com
 ybcer92.top
-zloiy.com
 ```
 
 0 used cloudfront (0.0%):
@@ -120,7 +115,7 @@ zloiy.com
 
 ```
 
-1 used ddosguard (0.2004008016032064%):
+1 used ddosguard (0.20161290322580644%):
 ```
 stealer.cy
 ```
@@ -130,12 +125,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2004008016032064%):
+1 used fastly (0.20161290322580644%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2004008016032064%):
+1 used sucuri (0.20161290322580644%):
 ```
 allstarstriping.com
 ```
