@@ -1,10 +1,10 @@
-496 domains tested. 75.0% were behind nothing (124 were behind something). 33 domains could not be tested.<br>
+499 domains tested. 75.75150300601202% were behind nothing (121 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.20161290322580644%):
+1 used bunnycdn (0.2004008016032064%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,7 +19,7 @@ static.s123-cdn-static.com
 
 ```
 
-87 used cloudflare (17.540322580645164%):
+83 used cloudflare (16.63326653306613%):
 ```
 1password.click
 24x7support.top
@@ -27,19 +27,17 @@ acc.crjhelp.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
+accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
-alephmim.com
 allendostmen.com
 api.ewfiles.net
 avanllc.top
 axhelp.top
 bestieslos.com
-broserty.cfd
 classroomseven.com
 clickcease.biz
 crystalpvp.ru
-deviceprotect.top
 dl.aginjector.com
 evolve.sx
 expay.ru
@@ -54,7 +52,6 @@ jdsfrw-11.top
 jrqh-hk.com
 lindenappliances.co.za
 listen-hard.com
-lrs-statementviewer.sbs
 m.anphelp.top
 m.hlghelp.top
 m.nsdhelp.top
@@ -82,7 +79,6 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
@@ -101,8 +97,8 @@ www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
-www.kogtp.top
 www.livhelp.top
+www.luuk-lifestyle.eu
 www.nywl7.top
 www.polersx.top
 www.vpld4.top
@@ -115,7 +111,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.20161290322580644%):
+1 used ddosguard (0.2004008016032064%):
 ```
 stealer.cy
 ```
@@ -125,12 +121,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20161290322580644%):
+1 used fastly (0.2004008016032064%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20161290322580644%):
+1 used sucuri (0.2004008016032064%):
 ```
 allstarstriping.com
 ```

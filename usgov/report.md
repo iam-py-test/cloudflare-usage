@@ -1,6 +1,7 @@
-361 domains tested. 57.340720221606645% were behind nothing (154 were behind something). 52 domains could not be tested.<br>
-23 used akamai (6.3711911357340725%):
+361 domains tested. 56.78670360110804% were behind nothing (156 were behind something). 53 domains could not be tested.<br>
+24 used akamai (6.64819944598338%):
 ```
+amtrak.com
 atsdr.cdc.gov
 cic.ndu.edu
 clerk.house.gov
