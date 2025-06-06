@@ -1,10 +1,10 @@
-499 domains tested. 75.75150300601202% were behind nothing (121 were behind something). 34 domains could not be tested.<br>
+487 domains tested. 75.7700205338809% were behind nothing (118 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.2004008016032064%):
+1 used bunnycdn (0.20533880903490762%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,33 +19,29 @@ static.s123-cdn-static.com
 
 ```
 
-83 used cloudflare (16.63326653306613%):
+78 used cloudflare (16.01642710472279%):
 ```
-1password.click
 24x7support.top
-acc.crjhelp.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
+alephmim.com
 allendostmen.com
 api.ewfiles.net
-avanllc.top
 axhelp.top
 bestieslos.com
-classroomseven.com
-clickcease.biz
+confirm-id22.click
 crystalpvp.ru
+daviddarle.fr
 dl.aginjector.com
-evolve.sx
 expay.ru
 galabau-life.de
-gameupdate-endpoint.com
 gcxew-33w.top
 gzeed-33w.top
-h4.blousethrift.com
+h4.wiryexclusion.top
 hitman-pro.ru
 imtoken8.cc
 jdsfrw-11.top
@@ -54,21 +50,17 @@ lindenappliances.co.za
 listen-hard.com
 m.anphelp.top
 m.hlghelp.top
-m.nsdhelp.top
 m.qxfhelp.top
 microsoft-analyse.com
-ms-team-connect.com
 mxews5.top
 nnnpanel.top
 nusatoyota.co.id
-onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -79,18 +71,21 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
+onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
 rxquickpay.com
 tokengen.ru
+tqidskreen.top
 trtmyanmar.com
 ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
 vresp-91w.top
 web.bqxhelp.top
+web.hlghelp.top
 web.qxfhelp.top
 wlop10.top
 www.axhelp.top
@@ -111,7 +106,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.2004008016032064%):
+1 used ddosguard (0.20533880903490762%):
 ```
 stealer.cy
 ```
@@ -121,12 +116,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2004008016032064%):
+1 used fastly (0.20533880903490762%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2004008016032064%):
+1 used sucuri (0.20533880903490762%):
 ```
 allstarstriping.com
 ```
