@@ -1,10 +1,10 @@
-487 domains tested. 75.7700205338809% were behind nothing (118 were behind something). 36 domains could not be tested.<br>
+475 domains tested. 76.63157894736841% were behind nothing (111 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.20533880903490762%):
+1 used bunnycdn (0.21052631578947367%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,7 +19,7 @@ static.s123-cdn-static.com
 
 ```
 
-78 used cloudflare (16.01642710472279%):
+78 used cloudflare (16.42105263157895%):
 ```
 24x7support.top
 acc.nmphelp.top
@@ -28,17 +28,15 @@ acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
-alephmim.com
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
 confirm-id22.click
-crystalpvp.ru
+cosmic-cheats.com
 daviddarle.fr
 dl.aginjector.com
 expay.ru
-galabau-life.de
 gcxew-33w.top
 gzeed-33w.top
 h4.wiryexclusion.top
@@ -47,7 +45,6 @@ imtoken8.cc
 jdsfrw-11.top
 jrqh-hk.com
 lindenappliances.co.za
-listen-hard.com
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
@@ -55,12 +52,14 @@ microsoft-analyse.com
 mxews5.top
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -76,6 +75,7 @@ onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
+reusable-flex.com
 rxquickpay.com
 tokengen.ru
 tqidskreen.top
@@ -106,7 +106,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.20533880903490762%):
+1 used ddosguard (0.21052631578947367%):
 ```
 stealer.cy
 ```
@@ -116,12 +116,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20533880903490762%):
+1 used fastly (0.21052631578947367%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20533880903490762%):
+1 used sucuri (0.21052631578947367%):
 ```
 allstarstriping.com
 ```
