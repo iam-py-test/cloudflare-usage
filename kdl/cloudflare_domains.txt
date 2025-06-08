@@ -65,6 +65,7 @@ i1.rgstatic.net
 indeed.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
+linkedin.com
 maxcdn.bootstrapcdn.com
 medium.com
 miro.medium.com
@@ -73,7 +74,6 @@ nist.gov
 openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
-pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 performance.radar.cloudflare.com
 player.vimeo.com
@@ -117,6 +117,7 @@ us01ccistatic-c.zoom.us
 us01ccistatic.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
+video.twimg.com
 vimeo.com
 w3.org
 who.int
@@ -124,7 +125,6 @@ workers.cloudflare.com
 workers.dev
 www.artfut.com
 www.cloudflare.com
-www.linkedin.com
 www.linkedin.com.cdn.cloudflare.net
 www.nist.gov
 www.paypalobjects.com.cdn.cloudflare.net

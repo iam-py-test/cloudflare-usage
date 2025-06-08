@@ -1,10 +1,10 @@
-475 domains tested. 76.63157894736841% were behind nothing (111 were behind something). 29 domains could not be tested.<br>
+503 domains tested. 74.95029821073558% were behind nothing (126 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.21052631578947367%):
+1 used bunnycdn (0.19880715705765406%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,9 +19,13 @@ static.s123-cdn-static.com
 
 ```
 
-78 used cloudflare (16.42105263157895%):
+94 used cloudflare (18.687872763419485%):
 ```
 24x7support.top
+378945.cfd
+7297383.cfd
+987233.cfd
+994521.cfd
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -32,14 +36,16 @@ allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-confirm-id22.click
+bktfvaq.com
+blackhathaven.com
 cosmic-cheats.com
+crystalpvp.ru
 daviddarle.fr
 dl.aginjector.com
 expay.ru
+galabau-life.de
 gcxew-33w.top
 gzeed-33w.top
-h4.wiryexclusion.top
 hitman-pro.ru
 imtoken8.cc
 jdsfrw-11.top
@@ -59,11 +65,9 @@ onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
-onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
@@ -73,20 +77,30 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+payment-comfirmation.com
+pic.wzy1999.wang
 prloglink.prsa7.top
+proccess-verify.com
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
+saftyplace.com
+sony-verified.com
+streamfast.sbs
 tokengen.ru
-tqidskreen.top
 trtmyanmar.com
 ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
+verific-processing.com
+verlfication-process.com
+viriffic-processing.com
 vresp-91w.top
+wallet-sollare.com
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
+wio-business.com
 wlop10.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -95,8 +109,10 @@ www.jnhelp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
+www.payment-verify.com
 www.polersx.top
 www.vpld4.top
+www.wio-business.com
 xn--yh4bx88a.com
 ybcer92.top
 ```
@@ -106,7 +122,7 @@ ybcer92.top
 
 ```
 
-1 used ddosguard (0.21052631578947367%):
+1 used ddosguard (0.19880715705765406%):
 ```
 stealer.cy
 ```
@@ -116,12 +132,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.21052631578947367%):
+1 used fastly (0.19880715705765406%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.21052631578947367%):
+1 used sucuri (0.19880715705765406%):
 ```
 allstarstriping.com
 ```
