@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 60 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 60 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -17,17 +17,16 @@ hm.com
 hp.com
 intel.com
 intuit.com
+kohls.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mi.com
 mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -47,7 +46,7 @@ b-cdn.net
 
 ```
 
-144 used cloudflare (14.399999999999999%):
+143 used cloudflare (14.299999999999999%):
 ```
 2gis.com
 33across.com
@@ -119,16 +118,15 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
-maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
 mgid.com
+moengage.com
 myshopify.com
 networkadvertising.org
 nexusmods.com
@@ -148,7 +146,6 @@ pexels.com
 pixabay.com
 pixiv.net
 plesk.com
-princeton.edu
 prnewswire.com
 quizlet.com
 quora.com
@@ -157,11 +154,12 @@ readthedocs.io
 researchgate.net
 roku.com
 sciencedirect.com
+seedtag.com
 sharethrough.com
 shopify.com
 singular.net
+smartadserver.com
 sourceforge.net
-spamhaus.org
 split.io
 sportradar.com
 stackoverflow.com
@@ -195,7 +193,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -206,11 +204,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.au
+amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -226,13 +224,16 @@ binance.com
 booking.com
 brave.com
 calendly.com
+chartbeat.net
 checkpoint.com
+clevertap-prod.com
 cox.net
 curseforge.com
 datadoghq.com
 deviantart.com
 doi.org
 dotomi.com
+dreamhost.com
 dribbble.com
 dynatrace.com
 elasticbeanstalk.com
@@ -365,11 +366,12 @@ php.net
 
 ```
 
-3 used netlify (0.3%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+sendbird.com
 ```
 
 1 used imperva (0.1%):
