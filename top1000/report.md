@@ -1,5 +1,5 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 60 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -17,7 +17,6 @@ hm.com
 hp.com
 intel.com
 intuit.com
-kohls.com
 lowes.com
 macys.com
 marriott.com
@@ -74,7 +73,6 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
-classlink.com
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -116,8 +114,10 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
+kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -188,12 +188,11 @@ worldbank.org
 wyzecam.com
 x.com
 xhamster.com
-xhamster.desi
 zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
@@ -205,10 +204,12 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
