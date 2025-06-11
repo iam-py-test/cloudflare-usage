@@ -1,4 +1,4 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 58 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -18,7 +18,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mi.com
 mobile.de
@@ -26,6 +25,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -50,6 +50,7 @@ b-cdn.net
 2gis.com
 33across.com
 addtoany.com
+adsmoloco.com
 allaboutcookies.org
 ancestry.com
 apnews.com
@@ -117,7 +118,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -192,7 +192,7 @@ zendesk.com
 zoom.us
 ```
 
-111 used cloudfront (11.1%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -205,10 +205,8 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com

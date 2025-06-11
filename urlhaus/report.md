@@ -1,10 +1,10 @@
-484 domains tested. 72.93388429752066% were behind nothing (131 were behind something). 34 domains could not be tested.<br>
+516 domains tested. 71.31782945736434% were behind nothing (148 were behind something). 56 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.2066115702479339%):
+1 used bunnycdn (0.1937984496124031%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,10 +19,9 @@ static.s123-cdn-static.com
 
 ```
 
-92 used cloudflare (19.00826446280992%):
+87 used cloudflare (16.86046511627907%):
 ```
 24x7support.top
-acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
@@ -37,33 +36,32 @@ ballotlinllc.top
 baquskreen.top
 beecz.cafe
 bestieslos.com
-content.legacyupdate.net
 crystalpvp.ru
+dffd520sst.shop
 dl.aginjector.com
+dxs.info
 expay.ru
+filerift.com
 galabau-life.de
 gcxew-33w.top
 gzeed-33w.top
-hitman-pro.ru
 imtoken8.cc
-jdsfrw-11.top
+infotic.cl
 jrqh-hk.com
-lightsense.top
-lindenappliances.co.za
 lumennex.pro
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
 microsoft-analyse.com
-mxews5.top
-myxorra.com
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -79,7 +77,6 @@ onyxstealthnet.de
 patch.achaplus.com
 payment-verify.com
 prloglink.prsa7.top
-proccess-verify.com
 proprtrmsvstr.world
 psloglink.psur7.top
 reusable-flex.com
@@ -90,7 +87,6 @@ telegrcm.ing
 tokengen.ru
 trtmyanmar.com
 ubftr3.top
-upgradegc.com
 utorrent-servers.xyz
 verific-processing.com
 verlfication-process.com
@@ -99,6 +95,7 @@ vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
+wlop10.top
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
@@ -106,21 +103,19 @@ www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
-www.nywl7.top
-www.payment-verify.com
+www.polersx.top
 www.verifseccloud.com
-www.vpld4.top
 xlogin.io
 xn--yh4bx88a.com
 ybcer92.top
 ```
 
-1 used cloudfront (0.2066115702479339%):
+1 used cloudfront (0.1937984496124031%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.2066115702479339%):
+1 used ddosguard (0.1937984496124031%):
 ```
 stealer.cy
 ```
@@ -130,12 +125,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2066115702479339%):
+1 used fastly (0.1937984496124031%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2066115702479339%):
+1 used sucuri (0.1937984496124031%):
 ```
 allstarstriping.com
 ```
