@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 58 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -25,7 +25,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -50,7 +49,6 @@ b-cdn.net
 2gis.com
 33across.com
 addtoany.com
-adsmoloco.com
 allaboutcookies.org
 ancestry.com
 apnews.com
@@ -118,6 +116,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -192,7 +191,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -200,13 +199,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.de
 amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -318,10 +316,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com

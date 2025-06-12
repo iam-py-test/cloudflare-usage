@@ -1,10 +1,10 @@
-516 domains tested. 71.31782945736434% were behind nothing (148 were behind something). 56 domains could not be tested.<br>
+465 domains tested. 73.33333333333333% were behind nothing (124 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.1937984496124031%):
+1 used bunnycdn (0.21505376344086022%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,7 +19,7 @@ static.s123-cdn-static.com
 
 ```
 
-87 used cloudflare (16.86046511627907%):
+70 used cloudflare (15.053763440860216%):
 ```
 24x7support.top
 acc.trjsp41.top
@@ -28,40 +28,37 @@ accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
 allendostmen.com
-api.baimless.com
-api.centinyxlivetagfile.com
 api.ewfiles.net
 axhelp.top
-ballotlinllc.top
-baquskreen.top
-beecz.cafe
 bestieslos.com
 crystalpvp.ru
 dffd520sst.shop
 dl.aginjector.com
+documentnx.storagedrvi.com
 dxs.info
-expay.ru
 filerift.com
-galabau-life.de
-gcxew-33w.top
-gzeed-33w.top
+h4.possumdefense.digital
+hitman-pro.ru
 imtoken8.cc
 infotic.cl
+jdsfrw-11.top
 jrqh-hk.com
-lumennex.pro
+lindenappliances.co.za
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
+macostutorial.com
 microsoft-analyse.com
+mxews5.top
+my-team-space.com
 nnnpanel.top
-nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
+onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -71,51 +68,37 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
-onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-payment-verify.com
+pizdecpridyot.cfd
 prloglink.prsa7.top
-proprtrmsvstr.world
 psloglink.psur7.top
-reusable-flex.com
-roomnum-9983674.world
-rxquickpay.com
 sanhack.com
-telegrcm.ing
 tokengen.ru
 trtmyanmar.com
 ubftr3.top
+upgradegc.com
 utorrent-servers.xyz
-verific-processing.com
-verlfication-process.com
-viriffic-processing.com
 vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
-wlop10.top
-www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
-www.kogtp.top
 www.livhelp.top
-www.luuk-lifestyle.eu
 www.polersx.top
-www.verifseccloud.com
-xlogin.io
+www.vpld4.top
 xn--yh4bx88a.com
-ybcer92.top
+xtibh.com
 ```
 
-1 used cloudfront (0.1937984496124031%):
+1 used cloudfront (0.21505376344086022%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.1937984496124031%):
+1 used ddosguard (0.21505376344086022%):
 ```
 stealer.cy
 ```
@@ -125,12 +108,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1937984496124031%):
+1 used fastly (0.21505376344086022%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1937984496124031%):
+1 used sucuri (0.21505376344086022%):
 ```
 allstarstriping.com
 ```
