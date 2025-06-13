@@ -191,7 +191,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -199,12 +199,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
+amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -258,6 +259,7 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
+mongodb.com
 monster.ie
 name.com
 namestudio.com
@@ -316,13 +318,11 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

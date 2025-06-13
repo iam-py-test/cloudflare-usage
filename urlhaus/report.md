@@ -1,10 +1,10 @@
-465 domains tested. 73.33333333333333% were behind nothing (124 were behind something). 49 domains could not be tested.<br>
+499 domains tested. 71.34268537074149% were behind nothing (143 were behind something). 59 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.21505376344086022%):
+1 used bunnycdn (0.2004008016032064%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,24 +19,27 @@ static.s123-cdn-static.com
 
 ```
 
-70 used cloudflare (15.053763440860216%):
+79 used cloudflare (15.831663326653306%):
 ```
 24x7support.top
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 agd-yrr1.top
 allendostmen.com
+anydeske.icu
+api.baimless.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+clouds-verrify.com
 crystalpvp.ru
-dffd520sst.shop
-dl.aginjector.com
 documentnx.storagedrvi.com
 dxs.info
-filerift.com
+expay.ru
+gzeed-33w.top
 h4.possumdefense.digital
 hitman-pro.ru
 imtoken8.cc
@@ -52,53 +55,59 @@ microsoft-analyse.com
 mxews5.top
 my-team-space.com
 nnnpanel.top
+nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
+onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 pizdecpridyot.cfd
 prloglink.prsa7.top
 psloglink.psur7.top
+reusable-flex.com
 sanhack.com
 tokengen.ru
 trtmyanmar.com
-ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
-vresp-91w.top
+verific-processing.com
+viriffic-processing.com
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
+www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
 www.livhelp.top
+www.luuk-lifestyle.eu
+www.nywl7.top
+www.payment-verify.com
 www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
 xtibh.com
 ```
 
-1 used cloudfront (0.21505376344086022%):
+1 used cloudfront (0.2004008016032064%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.21505376344086022%):
+1 used ddosguard (0.2004008016032064%):
 ```
 stealer.cy
 ```
@@ -108,12 +117,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.21505376344086022%):
+1 used fastly (0.2004008016032064%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.21505376344086022%):
+1 used sucuri (0.2004008016032064%):
 ```
 allstarstriping.com
 ```
