@@ -1,10 +1,10 @@
-500 domains tested. 72.8% were behind nothing (136 were behind something). 51 domains could not be tested.<br>
+490 domains tested. 73.87755102040816% were behind nothing (128 were behind something). 51 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.2%):
+1 used bunnycdn (0.20408163265306123%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,7 +19,7 @@ static.s123-cdn-static.com
 
 ```
 
-81 used cloudflare (16.2%):
+72 used cloudflare (14.69387755102041%):
 ```
 24x7support.top
 acc.nmphelp.top
@@ -36,20 +36,15 @@ bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
-gzeed-33w.top
 h4.possumdefense.digital
 hitman-pro.ru
 imtoken8.cc
-jdsfrw-11.top
 jrqh-hk.com
 lindenappliances.co.za
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
 microsoft-analyse.com
-mxews5.top
-my-team-space.com
-nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -72,20 +67,18 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-pizdecpridyot.cfd
 prloglink.prsa7.top
+proccess-verify.com
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
 sanhack.com
 tokengen.ru
 trtmyanmar.com
-ubftr3.top
 upgradegc.com
 utorrent-servers.xyz
-verific-processing.com
+verlfication-process.com
 viriffic-processing.com
-vresp-91w.top
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
@@ -96,22 +89,20 @@ www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
-www.nywl7.top
 www.payment-verify.com
 www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
-ybcer92.top
 ```
 
-1 used cloudfront (0.2%):
+1 used cloudfront (0.20408163265306123%):
 ```
 cdn.tagbox.io
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.20408163265306123%):
 ```
-
+stealer.cy
 ```
 
 0 used edgecast (0.0%):
@@ -119,12 +110,12 @@ cdn.tagbox.io
 
 ```
 
-1 used fastly (0.2%):
+1 used fastly (0.20408163265306123%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2%):
+1 used sucuri (0.20408163265306123%):
 ```
 allstarstriping.com
 ```
