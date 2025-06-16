@@ -1,10 +1,10 @@
-490 domains tested. 73.87755102040816% were behind nothing (128 were behind something). 51 domains could not be tested.<br>
+474 domains tested. 75.9493670886076% were behind nothing (114 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.20408163265306123%):
+1 used bunnycdn (0.21097046413502107%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,16 +19,14 @@ static.s123-cdn-static.com
 
 ```
 
-72 used cloudflare (14.69387755102041%):
+68 used cloudflare (14.345991561181433%):
 ```
-24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 allendostmen.com
-anydeske.icu
 api.baimless.com
 api.ewfiles.net
 axhelp.top
@@ -36,7 +34,6 @@ bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
-h4.possumdefense.digital
 hitman-pro.ru
 imtoken8.cc
 jrqh-hk.com
@@ -44,7 +41,6 @@ lindenappliances.co.za
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
-microsoft-analyse.com
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -67,16 +63,15 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-prloglink.prsa7.top
 proccess-verify.com
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
-sanhack.com
 tokengen.ru
 trtmyanmar.com
 upgradegc.com
 utorrent-servers.xyz
+verific-processing.com
 verlfication-process.com
 viriffic-processing.com
 web.bqxhelp.top
@@ -89,18 +84,19 @@ www.jnhelp.top
 www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
+www.nywl7.top
 www.payment-verify.com
 www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.20408163265306123%):
+1 used cloudfront (0.21097046413502107%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.20408163265306123%):
+1 used ddosguard (0.21097046413502107%):
 ```
 stealer.cy
 ```
@@ -110,12 +106,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20408163265306123%):
+1 used fastly (0.21097046413502107%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20408163265306123%):
+1 used sucuri (0.21097046413502107%):
 ```
 allstarstriping.com
 ```
