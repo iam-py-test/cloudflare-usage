@@ -1,10 +1,10 @@
-474 domains tested. 75.9493670886076% were behind nothing (114 were behind something). 41 domains could not be tested.<br>
+473 domains tested. 75.68710359408034% were behind nothing (115 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.21097046413502107%):
+1 used bunnycdn (0.21141649048625794%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,9 +19,9 @@ static.s123-cdn-static.com
 
 ```
 
-68 used cloudflare (14.345991561181433%):
+69 used cloudflare (14.587737843551796%):
 ```
-acc.nmphelp.top
+24x7support.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
@@ -41,6 +41,7 @@ lindenappliances.co.za
 m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
+microsoft-analyse.com
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -60,13 +61,13 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-proccess-verify.com
+prloglink.prsa7.top
 psloglink.psur7.top
 reusable-flex.com
 rxquickpay.com
+sanhack.com
 tokengen.ru
 trtmyanmar.com
 upgradegc.com
@@ -77,6 +78,7 @@ viriffic-processing.com
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
+wesupply.cx
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
@@ -85,18 +87,17 @@ www.kogtp.top
 www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
-www.payment-verify.com
 www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.21097046413502107%):
+1 used cloudfront (0.21141649048625794%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.21097046413502107%):
+1 used ddosguard (0.21141649048625794%):
 ```
 stealer.cy
 ```
@@ -106,12 +107,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.21097046413502107%):
+1 used fastly (0.21141649048625794%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.21097046413502107%):
+1 used sucuri (0.21141649048625794%):
 ```
 allstarstriping.com
 ```
