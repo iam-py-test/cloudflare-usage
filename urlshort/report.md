@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (48.161764705882355%):
+132 used cloudflare (48.529411764705884%):
 ```
 02ip.ru
 1sta.com
@@ -122,6 +122,7 @@ screenshot.best
 shorten.ee
 shorten.is
 shorten.world
+shorterall.com
 shorturl.at
 shorturl.com
 shorturl.gg
@@ -155,9 +156,8 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.779411764705882%):
+12 used cloudfront (4.411764705882353%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly

@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -19,9 +19,9 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mobile.de
+moneycontrol.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-145 used cloudflare (14.499999999999998%):
+146 used cloudflare (14.6%):
 ```
 2gis.com
 33across.com
@@ -171,6 +171,7 @@ substack.com
 t.co
 tandfonline.com
 teamviewer.com
+theatlantic.com
 themeforest.net
 tinyurl.com
 twitter.com
@@ -194,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -205,8 +206,10 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazonaws.com
@@ -291,7 +294,6 @@ tp-link.com
 tradingview.com
 tremorhub.com
 trustpilot.com
-twilio.com
 typeform.com
 ubi.com
 ubnt.com
@@ -319,11 +321,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
