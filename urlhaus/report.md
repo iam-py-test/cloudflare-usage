@@ -1,10 +1,10 @@
-513 domains tested. 77.58284600389864% were behind nothing (115 were behind something). 42 domains could not be tested.<br>
+528 domains tested. 77.46212121212122% were behind nothing (119 were behind something). 40 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.1949317738791423%):
+1 used bunnycdn (0.1893939393939394%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,11 +19,12 @@ static.s123-cdn-static.com
 
 ```
 
-69 used cloudflare (13.450292397660817%):
+74 used cloudflare (14.015151515151514%):
 ```
 24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
+acc.wtshelp.top
 accesspoint.cc
 adf6.adf6.com
 allendostmen.com
@@ -34,10 +35,11 @@ bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
+fdsgfdsgdfgdf3446534653.icu
 hitman-pro.ru
+imtoken8.cc
 jrqh-hk.com
 lindenappliances.co.za
-m.anphelp.top
 m.hlghelp.top
 m.qxfhelp.top
 microsoft-analyse.com
@@ -56,6 +58,7 @@ onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
+onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
@@ -70,34 +73,36 @@ reusable-flex.com
 rxquickpay.com
 sanhack.com
 tokengen.ru
-trtmyanmar.com
 upgradegc.com
 utorrent-servers.xyz
+verific-processing.com
+verlfication-process.com
 viriffic-processing.com
 web.bqxhelp.top
 web.hlghelp.top
 web.qxfhelp.top
-wesupply.cx
 www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
 www.kogtp.top
-www.livhelp.top
 www.luuk-lifestyle.eu
 www.nywl7.top
 www.payment-verify.com
 www.polersx.top
 www.vpld4.top
 xn--yh4bx88a.com
+zap.plugmax.app
+zedhdesign.com
+ziriesgranada.com
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.1893939393939394%):
+```
+cdn.tagbox.io
 ```
 
-```
-
-1 used ddosguard (0.1949317738791423%):
+1 used ddosguard (0.1893939393939394%):
 ```
 stealer.cy
 ```
@@ -107,12 +112,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1949317738791423%):
+1 used fastly (0.1893939393939394%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1949317738791423%):
+1 used sucuri (0.1893939393939394%):
 ```
 allstarstriping.com
 ```
