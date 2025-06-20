@@ -1,10 +1,10 @@
-528 domains tested. 77.46212121212122% were behind nothing (119 were behind something). 40 domains could not be tested.<br>
+521 domains tested. 78.50287907869482% were behind nothing (112 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.1893939393939394%):
+1 used bunnycdn (0.19193857965451055%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,7 +19,7 @@ static.s123-cdn-static.com
 
 ```
 
-74 used cloudflare (14.015151515151514%):
+71 used cloudflare (13.62763915547025%):
 ```
 24x7support.top
 acc.nmphelp.top
@@ -32,7 +32,6 @@ api.baimless.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-crystalpvp.ru
 dl.aginjector.com
 expay.ru
 fdsgfdsgdfgdf3446534653.icu
@@ -49,8 +48,6 @@ onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
-onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
@@ -61,7 +58,6 @@ onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
-onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
@@ -73,6 +69,7 @@ reusable-flex.com
 rxquickpay.com
 sanhack.com
 tokengen.ru
+trtmyanmar.com
 upgradegc.com
 utorrent-servers.xyz
 verific-processing.com
@@ -97,12 +94,12 @@ zedhdesign.com
 ziriesgranada.com
 ```
 
-1 used cloudfront (0.1893939393939394%):
+1 used cloudfront (0.19193857965451055%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.1893939393939394%):
+1 used ddosguard (0.19193857965451055%):
 ```
 stealer.cy
 ```
@@ -112,12 +109,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1893939393939394%):
+1 used fastly (0.19193857965451055%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1893939393939394%):
+1 used sucuri (0.19193857965451055%):
 ```
 allstarstriping.com
 ```
