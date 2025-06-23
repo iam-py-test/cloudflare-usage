@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 58 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -19,7 +19,6 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -46,7 +45,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+146 used cloudflare (14.6%):
 ```
 2gis.com
 33across.com
@@ -79,7 +78,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-cloudinary.com
 columbia.edu
 cookielaw.org
 creativecommons.org
@@ -145,6 +143,7 @@ optimizely.com
 pages.dev
 patreon.com
 pendo.io
+people.com
 perfectdomain.com
 pexels.com
 pixabay.com
@@ -153,7 +152,6 @@ plesk.com
 prnewswire.com
 quizlet.com
 quora.com
-rapid7.com
 readthedocs.io
 researchgate.net
 roku.com
@@ -197,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -207,13 +205,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.it
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -279,6 +276,7 @@ pbs.org
 presage.io
 primevideo.com
 pubmatic.com
+rapid7.com
 rayjump.com
 redfin.com
 repubblica.it
@@ -303,7 +301,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com

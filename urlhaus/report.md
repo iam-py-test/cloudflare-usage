@@ -1,10 +1,10 @@
-697 domains tested. 80.34433285509326% were behind nothing (137 were behind something). 46 domains could not be tested.<br>
+483 domains tested. 74.53416149068323% were behind nothing (123 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.1434720229555237%):
+1 used bunnycdn (0.2070393374741201%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,17 +19,11 @@ static.s123-cdn-static.com
 
 ```
 
-83 used cloudflare (11.908177905308465%):
+66 used cloudflare (13.664596273291925%):
 ```
 24x7support.top
-4mafia.com
-678betcom.com
-888-easy.net
-900southwashington.com
-abguzellik.com
 acc.nmphelp.top
 acc.trjsp41.top
-acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 api.baimless.com
@@ -37,13 +31,6 @@ api.ewfiles.net
 axhelp.top
 bestieslos.com
 crystalpvp.ru
-deepcleaning.me
-deinhandy-gmbh.de
-deltaen.mk
-demo-digitalmag.actionlabs.com.br
-demo.techsarathy.com
-dentalevant.lamanify.com
-dentworld.net
 dl.aginjector.com
 expay.ru
 hitman-pro.ru
@@ -51,10 +38,8 @@ imtoken8.cc
 jrqh-hk.com
 lindenappliances.co.za
 m.hlghelp.top
-m.qxfhelp.top
 microsoft-analyse.com
 nnnpanel.top
-ok.fish-cloud-jar.us
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -76,7 +61,7 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-prloglink.prsa7.top
+proccess-verify.com
 psloglink.psur7.top
 reauthenticator.com
 reusable-flex.com
@@ -86,12 +71,10 @@ tokengen.ru
 trtmyanmar.com
 upgradegc.com
 utorrent-servers.xyz
-verific-processing.com
 verlfication-process.com
 viriffic-processing.com
 web.bqxhelp.top
 web.hlghelp.top
-web.qxfhelp.top
 welcometimes.info
 www.axhelp.top
 www.blackhattoolz.com
@@ -106,7 +89,7 @@ www.vpld4.top
 xn--yh4bx88a.com
 ```
 
-4 used cloudfront (0.5738880918220948%):
+4 used cloudfront (0.8281573498964804%):
 ```
 capforbein.com
 cptchverf.com
@@ -114,7 +97,7 @@ humacep.com
 humachopa.com
 ```
 
-1 used ddosguard (0.1434720229555237%):
+1 used ddosguard (0.2070393374741201%):
 ```
 stealer.cy
 ```
@@ -124,12 +107,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1434720229555237%):
+1 used fastly (0.2070393374741201%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1434720229555237%):
+1 used sucuri (0.2070393374741201%):
 ```
 allstarstriping.com
 ```

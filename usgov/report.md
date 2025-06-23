@@ -1,4 +1,4 @@
-361 domains tested. 56.78670360110804% were behind nothing (156 were behind something). 56 domains could not be tested.<br>
+361 domains tested. 57.06371191135734% were behind nothing (155 were behind something). 54 domains could not be tested.<br>
 22 used akamai (6.094182825484765%):
 ```
 amtrak.com
@@ -84,7 +84,7 @@ uscirf.gov
 usmint.gov
 ```
 
-36 used cloudfront (9.97229916897507%):
+37 used cloudfront (10.249307479224377%):
 ```
 ahrq.gov
 alabama.gov
@@ -115,6 +115,7 @@ sss.gov
 state.gov
 usa.gov
 usbg.gov
+usgs.gov
 ushmm.org
 uspto.gov
 ustaxcourt.gov
