@@ -1,4 +1,4 @@
-218 domains tested. 57.798165137614674% were behind nothing (92 were behind something). 14 domains could not be tested.<br>
+218 domains tested. 57.3394495412844% were behind nothing (93 were behind something). 14 domains could not be tested.<br>
 5 used akamai (2.293577981651376%):
 ```
 easylist-downloads.adblockplus.org
@@ -85,9 +85,9 @@ zonefiles.io
 www.topcashback.com
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.45871559633027525%):
 ```
-
+gitflic.ru
 ```
 
 0 used edgecast (0.0%):
