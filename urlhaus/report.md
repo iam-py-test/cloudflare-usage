@@ -1,10 +1,10 @@
-475 domains tested. 75.36842105263158% were behind nothing (117 were behind something). 51 domains could not be tested.<br>
+507 domains tested. 72.58382642998028% were behind nothing (139 were behind something). 70 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.21052631578947367%):
+1 used bunnycdn (0.19723865877712032%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,10 +19,9 @@ static.s123-cdn-static.com
 
 ```
 
-62 used cloudflare (13.052631578947368%):
+61 used cloudflare (12.03155818540434%):
 ```
-24x7support.top
-acc.nmphelp.top
+acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
@@ -32,23 +31,25 @@ axhelp.top
 bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
-expay.ru
+follow.oaksazure.su
 hitman-pro.ru
 imtoken8.cc
+lindenappliances.co.za
 m.hlghelp.top
 microsoft-analyse.com
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
+onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
-onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
@@ -63,17 +64,15 @@ proccess-verify.com
 psloglink.psur7.top
 reauthenticator.com
 reusable-flex.com
-rxquickpay.com
 sanhack.com
 tokengen.ru
-trtmyanmar.com
 upgradegc.com
-utorrent-servers.xyz
 verific-processing.com
 verlfication-process.com
 viriffic-processing.com
-web.bqxhelp.top
 web.hlghelp.top
+wmpag.zeltronic.com
+www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
@@ -85,14 +84,17 @@ www.polersx.top
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.21052631578947367%):
+4 used cloudfront (0.7889546351084813%):
 ```
+capforbein.com
+cptchverf.com
+humacep.com
 humachopa.com
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.19723865877712032%):
 ```
-
+stealer.cy
 ```
 
 0 used edgecast (0.0%):
@@ -100,12 +102,12 @@ humachopa.com
 
 ```
 
-1 used fastly (0.21052631578947367%):
+1 used fastly (0.19723865877712032%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.21052631578947367%):
+1 used sucuri (0.19723865877712032%):
 ```
 allstarstriping.com
 ```
