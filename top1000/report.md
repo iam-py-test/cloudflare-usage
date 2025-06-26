@@ -1,5 +1,5 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 60 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 59 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -26,7 +26,6 @@ news.com.au
 rakuten.co.jp
 webex.com
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -110,6 +109,7 @@ indeed.com
 indexww.com
 innovid.com
 installatiegereedschap.nl
+investopedia.com
 iso.org
 jotform.com
 jquery.com
@@ -130,7 +130,6 @@ medium.com
 mgid.com
 moengage.com
 myshopify.com
-name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
@@ -197,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -206,12 +205,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -220,6 +220,7 @@ aniview.com
 anydesk.com
 appsflyer.com
 appsflyersdk.com
+arcgis.com
 atlassian.com
 atlassian.net
 biblegateway.com
@@ -266,6 +267,7 @@ line.me
 merriam-webster.com
 mongodb.com
 monster.ie
+name.com
 namestudio.com
 nationalgeographic.com
 netflix.net
@@ -301,7 +303,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com

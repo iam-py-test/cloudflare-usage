@@ -1,10 +1,10 @@
-507 domains tested. 72.58382642998028% were behind nothing (139 were behind something). 70 domains could not be tested.<br>
+519 domains tested. 70.52023121387283% were behind nothing (153 were behind something). 72 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.19723865877712032%):
+1 used bunnycdn (0.1926782273603083%):
 ```
 static.s123-cdn-static.com
 ```
@@ -19,8 +19,10 @@ static.s123-cdn-static.com
 
 ```
 
-61 used cloudflare (12.03155818540434%):
+69 used cloudflare (13.294797687861271%):
 ```
+24x7support.top
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
@@ -31,6 +33,7 @@ axhelp.top
 bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
+expay.ru
 follow.oaksazure.su
 hitman-pro.ru
 imtoken8.cc
@@ -42,7 +45,6 @@ nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
-onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
@@ -50,6 +52,7 @@ onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
@@ -59,17 +62,22 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+potana.pw
 prloglink.prsa7.top
-proccess-verify.com
 psloglink.psur7.top
 reauthenticator.com
 reusable-flex.com
+rxquickpay.com
 sanhack.com
 tokengen.ru
+trtmyanmar.com
 upgradegc.com
+utorrent-servers.xyz
 verific-processing.com
 verlfication-process.com
 viriffic-processing.com
+voice.symphonymoss.su
+web.bqxhelp.top
 web.hlghelp.top
 wmpag.zeltronic.com
 www.axhelp.top
@@ -84,15 +92,19 @@ www.polersx.top
 xn--yh4bx88a.com
 ```
 
-4 used cloudfront (0.7889546351084813%):
+8 used cloudfront (1.5414258188824663%):
 ```
 capforbein.com
 cptchverf.com
+cptchvrf.com
+cptchvrff.com
+fhasjcasd.click
+h1dd-page.com
 humacep.com
 humachopa.com
 ```
 
-1 used ddosguard (0.19723865877712032%):
+1 used ddosguard (0.1926782273603083%):
 ```
 stealer.cy
 ```
@@ -102,12 +114,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19723865877712032%):
+1 used fastly (0.1926782273603083%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.19723865877712032%):
+1 used sucuri (0.1926782273603083%):
 ```
 allstarstriping.com
 ```

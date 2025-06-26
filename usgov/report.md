@@ -96,7 +96,6 @@ cio.gov
 energy.gov
 epa.gov
 exim.gov
-fec.gov
 gsa.gov
 health.gov
 jobcorps.gov
@@ -116,6 +115,7 @@ state.gov
 usa.gov
 usbg.gov
 usgs.gov
+ushmm.org
 uspto.gov
 ustaxcourt.gov
 ustda.gov
