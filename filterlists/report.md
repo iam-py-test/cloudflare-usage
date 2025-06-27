@@ -39,6 +39,7 @@ azorult-tracker.net
 block.energized.pro
 blokada.org
 cdn.adblockcdn.com
+combinatronics.io
 dns-family.adguard.com
 dns.adgk.net
 dns.adguard.com
@@ -68,7 +69,6 @@ stanev.org
 tgc.cloud
 theantisocialengineer.com
 threatshare.io
-www.accs-net.com
 www.binarydefense.com
 www.botvrij.eu
 www.fanboy.co.nz

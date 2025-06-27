@@ -1,5 +1,5 @@
-272 domains tested. 42.64705882352941% were behind nothing (156 were behind something). 8 domains could not be tested.<br>
-2 used akamai (0.7352941176470588%):
+274 domains tested. 42.700729927007295% were behind nothing (157 were behind something). 7 domains could not be tested.<br>
+2 used akamai (0.7299270072992701%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (48.161764705882355%):
+133 used cloudflare (48.54014598540146%):
 ```
 02ip.ru
 1sta.com
@@ -114,6 +114,8 @@ pichost.pics
 picshost.pics
 prettylinks.com
 qrco.de
+rekonise.com
+rkns.link
 rotf.lol
 s.id
 screenshare.pics
@@ -155,7 +157,7 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.779411764705882%):
+13 used cloudfront (4.744525547445255%):
 ```
 a.co
 bstore.smsb.co
@@ -172,7 +174,7 @@ trk.klclick3.com
 zpr.io
 ```
 
-1 used ddosguard (0.3676470588235294%):
+1 used ddosguard (0.36496350364963503%):
 ```
 u.to
 ```
@@ -187,7 +189,7 @@ u.to
 
 ```
 
-1 used sucuri (0.3676470588235294%):
+1 used sucuri (0.36496350364963503%):
 ```
 wee.so
 ```
