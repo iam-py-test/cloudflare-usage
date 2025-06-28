@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 59 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,7 @@ lowes.com
 marriott.com
 mi.com
 mobile.de
+moneycontrol.com
 mysql.com
 news.com.au
 rakuten.co.jp
@@ -119,6 +120,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -127,7 +129,6 @@ mediafire.com
 mediatek.com
 medium.com
 mgid.com
-moengage.com
 myshopify.com
 networkadvertising.org
 nexusmods.com
@@ -195,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -205,10 +206,13 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.com
-amazon.com.au
+amazon.co.uk
+amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -227,7 +231,6 @@ brave.com
 calendly.com
 chartbeat.net
 checkpoint.com
-clevertap-prod.com
 cox.net
 curseforge.com
 datadoghq.com
@@ -283,7 +286,6 @@ reuters.com
 ryanair.com
 shalltry.com
 shutterstock.com
-smadex.com
 soundcloud.com
 state.gov
 supercell.com

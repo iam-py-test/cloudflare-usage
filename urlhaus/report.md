@@ -1,12 +1,12 @@
-536 domains tested. 67.16417910447761% were behind nothing (176 were behind something). 97 domains could not be tested.<br>
+519 domains tested. 69.7495183044316% were behind nothing (157 were behind something). 86 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.18656716417910446%):
+0 used bunnycdn (0.0%):
 ```
-static.s123-cdn-static.com
+
 ```
 
 0 used cachefly (0.0%):
@@ -19,13 +19,11 @@ static.s123-cdn-static.com
 
 ```
 
-69 used cloudflare (12.87313432835821%):
+64 used cloudflare (12.33140655105973%):
 ```
-24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
-accesspoint.cc
 allendostmen.com
 api.baimless.com
 api.ewfiles.net
@@ -34,7 +32,6 @@ bestieslos.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
-follow.oaksazure.su
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
@@ -52,6 +49,7 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -60,10 +58,8 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-potana.pw
 prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
@@ -78,7 +74,6 @@ tokengen.ru
 trtmyanmar.com
 upgradegc.com
 utorrent-servers.xyz
-voice.symphonymoss.su
 web.bqxhelp.top
 web.hlghelp.top
 www.axhelp.top
@@ -92,17 +87,15 @@ www.tf2leader.com
 xn--yh4bx88a.com
 ```
 
-6 used cloudfront (1.1194029850746268%):
+4 used cloudfront (0.7707129094412332%):
 ```
-cptchverf.com
 cptchvrf.com
 cptchvrff.com
 fhasjcasd.click
 h1dd-page.com
-humacep.com
 ```
 
-1 used ddosguard (0.18656716417910446%):
+1 used ddosguard (0.1926782273603083%):
 ```
 stealer.cy
 ```
@@ -112,12 +105,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.18656716417910446%):
+1 used fastly (0.1926782273603083%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.18656716417910446%):
+1 used sucuri (0.1926782273603083%):
 ```
 allstarstriping.com
 ```
