@@ -1,4 +1,4 @@
-487 domains tested. 73.71663244353182% were behind nothing (128 were behind something). 63 domains could not be tested.<br>
+481 domains tested. 75.46777546777547% were behind nothing (118 were behind something). 56 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,33 @@
 
 ```
 
-58 used cloudflare (11.90965092402464%):
+58 used cloudflare (12.058212058212058%):
 ```
 24x7support.top
-acc.nmphelp.top
 acc.trjsp41.top
+acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 api.baimless.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
+h4.subfloorpurgatory.life
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
-m.hlghelp.top
 microsoft-analyse.com
 nhatheptienchebinhduong.com
-nitrorub.com
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
+onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
@@ -62,9 +63,10 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
+reusable-flex.com
+rxquickpay.com
 sanhack.com
 tokengen.ru
 trtmyanmar.com
@@ -75,21 +77,16 @@ www.axhelp.top
 www.blackhattoolz.com
 www.hdpw3.top
 www.jnhelp.top
-www.kogtp.top
 www.luuk-lifestyle.eu
-www.nywl7.top
 xn--yh4bx88a.com
 ```
 
-4 used cloudfront (0.8213552361396305%):
+1 used cloudfront (0.2079002079002079%):
 ```
 cptchvrf.com
-cptchvrff.com
-fhasjcasd.click
-h1dd-page.com
 ```
 
-1 used ddosguard (0.20533880903490762%):
+1 used ddosguard (0.2079002079002079%):
 ```
 stealer.cy
 ```
@@ -99,12 +96,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20533880903490762%):
+1 used fastly (0.2079002079002079%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20533880903490762%):
+1 used sucuri (0.2079002079002079%):
 ```
 allstarstriping.com
 ```

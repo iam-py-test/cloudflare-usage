@@ -1,4 +1,4 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 6 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-55 used cloudflare (29.56989247311828%):
+57 used cloudflare (30.64516129032258%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -29,6 +29,7 @@ comingto.org
 cybergladius.social
 dicekey.jp
 eigenmagic.net
+elderscrolls.space
 freifunk.social
 india.goonj.xyz
 indiegameskey.net
@@ -51,6 +52,7 @@ milkiyatelier.quest
 misskey.3dcg.love
 misskey.doujin.games
 misskey.favskey.online
+misskey.gg
 misskey.mofumofu.me
 misskey.v-nr.net
 mk.chiwa.net
