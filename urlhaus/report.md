@@ -1,4 +1,4 @@
-481 domains tested. 75.46777546777547% were behind nothing (118 were behind something). 56 domains could not be tested.<br>
+504 domains tested. 75.79365079365078% were behind nothing (122 were behind something). 58 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,26 @@
 
 ```
 
-58 used cloudflare (12.058212058212058%):
+61 used cloudflare (12.103174603174603%):
 ```
 24x7support.top
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 api.baimless.com
 api.ewfiles.net
+apiordrg.icu
 axhelp.top
 bestieslos.com
 checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
 expay.ru
-h4.subfloorpurgatory.life
 hitman-pro.ru
 imtoken8.cc
+kopin5896yi.xyz
 lindenappliances.co.za
 microsoft-analyse.com
 nhatheptienchebinhduong.com
@@ -60,16 +62,17 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
-sanhack.com
 tokengen.ru
 trtmyanmar.com
+trungtambaohanhmaylanh.com
+turbogliderig.pro
 upgradegc.com
 utorrent-servers.xyz
 web.bqxhelp.top
@@ -81,12 +84,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.2079002079002079%):
-```
-cptchvrf.com
+0 used cloudfront (0.0%):
 ```
 
-1 used ddosguard (0.2079002079002079%):
+```
+
+1 used ddosguard (0.1984126984126984%):
 ```
 stealer.cy
 ```
@@ -96,12 +99,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2079002079002079%):
+1 used fastly (0.1984126984126984%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2079002079002079%):
+1 used sucuri (0.1984126984126984%):
 ```
 allstarstriping.com
 ```
