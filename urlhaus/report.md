@@ -1,4 +1,4 @@
-504 domains tested. 75.79365079365078% were behind nothing (122 were behind something). 58 domains could not be tested.<br>
+487 domains tested. 75.35934291581108% were behind nothing (120 were behind something). 57 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,23 +19,21 @@
 
 ```
 
-61 used cloudflare (12.103174603174603%):
+60 used cloudflare (12.320328542094455%):
 ```
 24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
-accesspoint.cc
 allendostmen.com
 api.baimless.com
 api.ewfiles.net
-apiordrg.icu
 axhelp.top
 bestieslos.com
+certifica-lt.com
 checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
-expay.ru
 hitman-pro.ru
 imtoken8.cc
 kopin5896yi.xyz
@@ -49,10 +47,8 @@ onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
-onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
@@ -62,6 +58,7 @@ onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
+onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
@@ -69,19 +66,21 @@ psloglink.psur7.top
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
+sanhack.com
 tokengen.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 turbogliderig.pro
 upgradegc.com
 utorrent-servers.xyz
+verification84125.info
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
-www.hdpw3.top
 www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
+zetkay.com
 ```
 
 0 used cloudfront (0.0%):
@@ -89,7 +88,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.1984126984126984%):
+1 used ddosguard (0.20533880903490762%):
 ```
 stealer.cy
 ```
@@ -99,12 +98,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1984126984126984%):
+1 used fastly (0.20533880903490762%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.1984126984126984%):
+1 used sucuri (0.20533880903490762%):
 ```
 allstarstriping.com
 ```
