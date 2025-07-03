@@ -1,5 +1,5 @@
-2554 domains tested. 50.07830853563039% were behind nothing (1275 were behind something). 330 domains could not be tested.<br>
-336 used akamai (13.155833985904463%):
+2554 domains tested. 50.23492560689115% were behind nothing (1271 were behind something). 329 domains could not be tested.<br>
+331 used akamai (12.960062646828504%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -57,6 +57,7 @@ assets.adobedtm.com
 assets.alicdn.com
 assets.msn.com
 assets.onestore.ms
+assets.pinterest.com
 assets.staples-static.com
 azure.microsoft.com
 b.alicdn.com
@@ -185,7 +186,6 @@ emp.bbci.co.uk
 encore.scdn.co
 es.t-mobile.com
 framework-assets.external.xerox.com
-g.alicdn.com
 gt.ebay.com
 help.nflxext.com
 hn.ebay.com
@@ -198,18 +198,19 @@ ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
-images-na.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
+in.pinterest.com
 inews.gtimg.com
 intuit.com
-ir.ebaystatic.com
 kz.ebay.com
 lf16-cdn-tos.tiktokcdn-us.com
 lf16-tiktok-web.tiktokcdn-us.com
 lib.intuitcdn.net
 lineup-images.scdn.co
+m.media-amazon.com
 media.mcafeeassets.com
 munchkin.marketo.net
 mx.ebay.com
@@ -237,8 +238,8 @@ quickbooks.intuit.com
 r.bing.com
 raka.bing.com
 res.cdn.office.net
-ro.pinterest.com
 s.go-mpulse.net
+s.pinimg.com
 s05.appmifile.com
 s20.tiktokcdn.com
 secure.ally.com
@@ -277,7 +278,6 @@ vam-image.imds-cdn.com
 ve.ebay.com
 webex.com
 widgets.outbrain.com
-windows.com
 www.adobe.com
 www.ally.com
 www.apple.com
@@ -313,10 +313,6 @@ www.mi.com
 www.microsoft.com
 www.nih.gov
 www.oracle.com
-www.pinterest.com
-www.pinterest.de
-www.pinterest.dk
-www.pinterest.se
 www.salesforce.com
 www.samsung.com
 www.staples.com
@@ -336,7 +332,6 @@ www.zemanta.com
 www17.wellsfargomedia.com
 www8.hp.com
 xiaomi.com
-za.pinterest.com
 ```
 
 1 used bunnycdn (0.03915426781519186%):
@@ -440,7 +435,6 @@ indeed.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 legacy-hostedseal-prod2-2000933319.us-east-1.elb.amazonaws.com
-linkedin.com
 maxcdn.bootstrapcdn.com
 medium.com
 miro.medium.com
@@ -493,6 +487,7 @@ us01ccistatic-c.zoom.us
 us01ccistatic.zoom.us
 use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
+video.twimg.com
 vimeo.com
 vungle.com
 w3.org
@@ -667,7 +662,7 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-fe.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 images.rbxcdn.com
@@ -776,7 +771,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-194 used fastly (7.595927956147221%):
+196 used fastly (7.674236491777604%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -785,7 +780,6 @@ api.nextgen.guardianapps.co.uk
 api.shipt.com
 ar.pinterest.com
 assets.guim.co.uk
-assets.pinterest.com
 at.pinterest.com
 atc.spotify.map.fastly.net
 au.pinterest.com
@@ -857,11 +851,11 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-images-eu.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 imgix.datadoghq.com
-in.pinterest.com
 int.nyt.com
 interactive.guim.co.uk
+ir.ebaystatic.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
@@ -869,7 +863,6 @@ jp.pinterest.com
 jsdelivr.map.fastly.net
 kr.pinterest.com
 linkedin.map.fastly.net
-m.media-amazon.com
 m.sni.global.fastly.net
 medallia2.map.fastly.net
 media.amazon.map.fastly.net
@@ -906,11 +899,11 @@ reddit.map.fastly.net
 registry.api.cnn.io
 resources.digital-cloud-west.medallia.com
 resources.digital-cloud.medallia.eu
+ro.pinterest.com
 rss.nytimes.com
 ru.pinterest.com
 rum.hlx.page
 s.imgur.com
-s.pinimg.com
 s.sni.global.fastly.net
 scdnco.spotify.map.fastly.net
 se.pinterest.com
@@ -938,7 +931,6 @@ uk.pinterest.com
 uploads.guim.co.uk
 us.bytedance.map.fastly.net
 v.redd.it
-video.twimg.com
 vimeo-video.map.fastly.net
 vimeo.map.fastly.net
 vp.nyt.com
@@ -959,19 +951,24 @@ www.pinterest.ca
 www.pinterest.cl
 www.pinterest.co.kr
 www.pinterest.co.uk
+www.pinterest.com
 www.pinterest.com.au
 www.pinterest.com.mx
+www.pinterest.de
+www.pinterest.dk
 www.pinterest.es
 www.pinterest.fr
 www.pinterest.jp
 www.pinterest.nz
 www.pinterest.pt
+www.pinterest.se
 www.reddit.com
 www.redditstatic.com
 www.shipt.com
 www.taboola.com
 www.theguardian.com
 www.twitch.tv
+za.pinterest.com
 ```
 
 0 used sucuri (0.0%):

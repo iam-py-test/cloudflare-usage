@@ -1,4 +1,4 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 56 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -13,6 +13,7 @@ ebay.com
 ebay.de
 fda.gov
 godaddy.com
+hindustantimes.com
 hm.com
 hp.com
 intel.com
@@ -27,7 +28,6 @@ rakuten.co.jp
 staples.com
 webex.com
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -47,7 +47,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+145 used cloudflare (14.499999999999998%):
 ```
 2gis.com
 33across.com
@@ -101,7 +101,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -122,7 +121,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -198,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -212,6 +210,7 @@ amazon.com
 amazon.com.au
 amazon.de
 amazon.es
+amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com

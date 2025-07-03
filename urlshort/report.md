@@ -1,4 +1,4 @@
-274 domains tested. 42.700729927007295% were behind nothing (157 were behind something). 19 domains could not be tested.<br>
+274 domains tested. 43.06569343065693% were behind nothing (156 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7299270072992701%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-122 used cloudflare (44.52554744525548%):
+133 used cloudflare (48.54014598540146%):
 ```
 02ip.ru
 1sta.com
@@ -67,8 +67,10 @@ ezstat.ru
 fc-lc.com
 fc.lc
 filetap.com
+foot.wiki
 funurl.com
-goo.su
+gamergirl.pro
+gamingfun.me
 grabify.link
 grabify.world
 headplug.com
@@ -76,6 +78,7 @@ hereweb.com
 heylink.me
 hitart.com
 ibf.tw
+imghost.pics
 ipgraber.ru
 iplogger.co
 iplogger.com
@@ -102,15 +105,21 @@ lnkd.in
 lyksoomu.com
 mgnet.xyz
 mirrorz.com
+myprivate.pics
 n9.cl
 nyl.as
 ouo.io
+photovault.pics
+pichost.pics
+picshost.pics
 prettylinks.com
 qrco.de
 rekonise.com
 rkns.link
 rotf.lol
 s.id
+screenshare.pics
+screenshot.best
 shorten.ee
 shorten.is
 shorten.world
@@ -119,6 +128,7 @@ shorturl.at
 shorturl.com
 shorturl.gg
 shre.su
+shrekis.life
 shrink.pe
 shrinkearn.com
 shrinkme.io
@@ -129,6 +139,7 @@ sor.bz
 spoo.me
 spoo.me
 stfly.xyz
+stopify.co
 streak-link.com
 t.co
 t.ly
@@ -146,8 +157,9 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-12 used cloudfront (4.37956204379562%):
+13 used cloudfront (4.744525547445255%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
