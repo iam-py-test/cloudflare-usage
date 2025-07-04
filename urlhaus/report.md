@@ -1,4 +1,4 @@
-573 domains tested. 82.54799301919721% were behind nothing (100 were behind something). 31 domains could not be tested.<br>
+496 domains tested. 81.25% were behind nothing (93 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,13 @@
 
 ```
 
-66 used cloudflare (11.518324607329843%):
+63 used cloudflare (12.701612903225806%):
 ```
 24x7support.top
-a1alphaclean.com
-abguzellik.com
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
+accesspoint.cc
 allendostmen.com
 anonymfile.com
 api.baimless.com
@@ -35,19 +34,15 @@ axhelp.top
 bestieslos.com
 checkinetverifk.com
 crystalpvp.ru
-deepcleaning.me
-deltaen.mk
-demo-digitalmag.actionlabs.com.br
-demo.techsarathy.com
-dentalevant.lamanify.com
 desk-app-now.com
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
+kaczor.org
 lindenappliances.co.za
 microsoft-analyse.com
 nhatheptienchebinhduong.com
-nusatoyota.co.id
+nnnpanel.top
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -57,6 +52,7 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -67,6 +63,7 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+otorh.com.br
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
@@ -75,11 +72,11 @@ reusable-flex.com
 rxquickpay.com
 sanhack.com
 soap.apesirises.com
+tmy.tmgdhizmetleri.com
 tokengen.ru
-trtmyanmar.com
+trungtambaohanhmaylanh.com
 upgradegc.com
 utorrent-servers.xyz
-verification84125.info
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -94,7 +91,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.17452006980802792%):
+1 used ddosguard (0.20161290322580644%):
 ```
 stealer.cy
 ```
@@ -104,12 +101,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.17452006980802792%):
+1 used fastly (0.20161290322580644%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.17452006980802792%):
+1 used sucuri (0.20161290322580644%):
 ```
 allstarstriping.com
 ```
