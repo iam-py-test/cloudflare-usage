@@ -1,5 +1,5 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 58 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 58 domains could not be tested.<br>
+31 used akamai (3.1%):
 ```
 accuweather.com
 adobe.com
@@ -12,6 +12,7 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
+godaddy.com
 hindustantimes.com
 hm.com
 hp.com
@@ -19,6 +20,7 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
+mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -47,7 +49,7 @@ b-cdn.net
 
 ```
 
-146 used cloudflare (14.6%):
+147 used cloudflare (14.7%):
 ```
 2gis.com
 33across.com
@@ -194,10 +196,11 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
+zoom.com
 zoom.us
 ```
 
-111 used cloudfront (11.1%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -211,10 +214,7 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
-amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -305,6 +305,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -325,12 +326,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
@@ -372,12 +372,11 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-sendbird.com
 ```
 
 1 used imperva (0.1%):
