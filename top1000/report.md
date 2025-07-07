@@ -1,5 +1,5 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 58 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 57 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mobile.de
 mysql.com
@@ -49,7 +48,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+146 used cloudflare (14.6%):
 ```
 2gis.com
 33across.com
@@ -76,7 +75,6 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
-clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -102,7 +100,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -133,6 +130,7 @@ mediatek.com
 medium.com
 mgid.com
 myshopify.com
+name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
@@ -172,6 +170,7 @@ stackoverflow.com
 statcounter.com
 stripchat.com
 substack.com
+surfshark.com
 t.co
 tandfonline.com
 teamviewer.com
@@ -196,11 +195,10 @@ wyzecam.com
 x.com
 xhamster.com
 zendesk.com
-zoom.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -210,12 +208,10 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
-amazon.fr
-amazon.it
+amazon.de
+amazon.es
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -269,7 +265,6 @@ lijit.com
 line.me
 merriam-webster.com
 mongodb.com
-name.com
 namestudio.com
 nationalgeographic.com
 netflix.net
@@ -305,7 +300,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -326,11 +320,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
