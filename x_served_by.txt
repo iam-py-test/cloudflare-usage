@@ -1,106 +1,116 @@
-cache-chi-kigq8000152-CHI
-cache-lga21980-LGA, cache-chi-kigq8000112-CHI
-cache-chi-kigq8000057-CHI
-cache-chi-kigq8000158-CHI
-cache-chi-kigq8000040-CHI
-cache-hel1410021-HEL, cache-chi-kigq8000160-CHI
-cache-chi-kigq8000120-CHI
-cache-chi-kigq8000067-CHI
-cache-chi-kigq8000038-CHI
-cache-chi-kigq8000153-CHI
-cache-iad-kcgs7200126-IAD, cache-iad-kcgs7200113-IAD, cache-chi-kigq8000096-CHI
-cache-iad-kiad7000039-IAD, cache-chi-kigq8000064-CHI
-cache-iad-kcgs7200150-IAD, cache-chi-kigq8000048-CHI
-cache-chi-kigq8000081-CHI
-cache-chi-klot8100054-CHI
-cache-chi-kigq8000126-CHI
-cache-chi-klot8100105-CHI, cache-chi-kigq8000056-CHI, cache-chi-kigq8000056-CHI
-cache-chi-kigq8000061-CHI, cache-chi-kigq8000143-CHI, cache-chi-kigq8000143-CHI
-cache-chi-kigq8000050-CHI, cache-iad-kiad7000029-IAD
-cache-ams2100107-AMS, cache-ams21079-AMS, cache-chi-kigq8000142-CHI
-cache-chi-kigq8000125-CHI
-cache-sjc1000102-SJC, cache-sjc10030-SJC, cache-chi-kigq8000122-CHI
-cache-iad-kiad7000152-IAD, cache-iad-kiad7000161-IAD, cache-chi-klot8100050-CHI
-cache-chi-kigq8000114-CHI, cache-chi-kigq8000092-CHI
-cache-sjc1000144-SJC, cache-wk-sjc11421-SJC, cache-chi-kigq8000020-CHI
-cache-chi-kigq8000168-CHI
-cache-iad-kiad7000176-IAD, cache-chi-kigq8000154-CHI
-cache-chi-kigq8000095-CHI
-cache-par-lfpg1960020-PAR, cache-chi-kigq8000043-CHI
-cache-ams2100138-AMS, cache-chi-kigq8000153-CHI
-cache-chi-kigq8000072-CHI, cache-chi-kigq8000081-CHI
-cache-iad-kiad7000176-IAD, cache-chi-kigq8000048-CHI
-cache-lga21963-LGA, cache-chi-kigq8000051-CHI
-cache-iad-kjyo7100020-IAD
-cache-chi-kigq8000138-CHI
-cache-iad-kjyo7100152-IAD
-cache-chi-kigq8000070-CHI, cache-chi-kigq8000056-CHI
-cache-chi-klot8100131-CHI
-cache-chi-klot8100118-CHI, cache-chi-kigq8000064-CHI
-cache-chi-klot8100074-CHI, cache-chi-kigq8000092-CHI
-cache-iad-kjyo7100084-IAD, cache-iad-kjyo7100158-IAD, cache-chi-kigq8000108-CHI, cache-chi-kigq8000084-CHI
-cache-chi-klot8100074-CHI, cache-chi-kigq8000113-CHI
-cache-chi-klot8100164-CHI, cache-chi-klot8100040-CHI
-pod-www-render-nginx-5847dcd49c-n6wqt
-cache-lga21983-LGA, cache-chi-kigq8000114-CHI
-cache-chi-kigq8000111-CHI, cache-chi-kigq8000111-CHI
-cache-chi-kigq8000166-CHI, cache-chi-kigq8000166-CHI
-cache-chi-kigq8000140-CHI
-cache-iad-kiad7000081-IAD, cache-iad-kiad7000081-IAD, cache-chi-kigq8000030-CHI
-cache-chi-kigq8000157-CHI
-cache-bfi-krnt7300039-BFI
-cache-chi-kigq8000046-CHI
-cache-chi-kigq8000133-CHI
-cache-iad-kiad7000122-IAD, cache-chi-kigq8000108-CHI
-cache-chi-kigq8000068-CHI, cache-chi-kigq8000113-CHI
-td_c7ede76bda06, cache-chi-kigq8000081-CHI
-cache-iad-kiad7000169-IAD
-cache-4d0b58de-internal, cache-chi-kigq8000166-CHI
-cache-iad-kjyo7100084-IAD, cache-iad-kjyo7100066-IAD, cache-chi-kigq8000131-CHI
-cache-chi-kigq8000104-CHI, cache-chi-kigq8000104-CHI
-cache-chi-klot8100082-CHI, cache-chi-klot8100087-CHI
-cache-chi-klot8100123-CHI
-cache-chi-kigq8000076-CHI
-cache-chi-kigq8000089-CHI
-cache-iad-kiad7000141-IAD, cache-chi-kigq8000134-CHI
-cache-chi-kigq8000053-CHI
-cache-chi-kigq8000074-CHI
-cache-iad-kcgs7200105-IAD, cache-iad-kcgs7200105-IAD, cache-chi-kigq8000072-CHI
-cache-par-lfpg1960091-PAR, cache-chi-kigq8000156-CHI
-cache-chi-kigq8000176-CHI
-cache-iad-kcgs7200149-IAD, cache-chi-kigq8000155-CHI
-cache-iad-kcgs7200039-IAD, cache-chi-kigq8000168-CHI
-cache-fra-etou8220126-FRA, cache-fra-etou8220082-FRA, cache-chi-kigq8000158-CHI
+cache-dfw-kdfw8210054-DFW
+cache-hel1410021-HEL, cache-dfw-kdfw8210055-DFW
+cache-lga21980-LGA, cache-dfw-kdfw8210045-DFW
+cache-dfw-kdfw8210113-DFW
+cache-dfw-kdfw8210151-DFW
+cache-dfw-kdfw8210023-DFW
+cache-dfw-kdal2120033-DFW
+cache-dfw-kdfw8210109-DFW
+cache-dfw-kdfw8210050-DFW
+cache-iad-kcgs7200108-IAD, cache-iad-kcgs7200113-IAD, cache-dfw-kdfw8210091-DFW
+cache-iad-kcgs7200149-IAD, cache-dfw-kdfw8210110-DFW
+cache-dfw-kdfw8210039-DFW
+cache-chi-kigq8000050-CHI, cache-iad-kiad7000169-IAD
+cache-iad-kcgs7200150-IAD, cache-dfw-kdfw8210115-DFW
+cache-dfw-kdfw8210120-DFW
+cache-chi-kigq8000107-CHI, cache-dfw-kdfw8210114-DFW, cache-dfw-kdfw8210095-DFW, cache-dfw-kdfw8210095-DFW
+cache-chi-klot8100123-CHI, cache-dfw-kdfw8210086-DFW, cache-dfw-kdfw8210126-DFW, cache-dfw-kdfw8210126-DFW
+cache-dfw-kdfw8210029-DFW
+cache-dfw-kdfw8210124-DFW
+cache-ams2100106-AMS, cache-ams21079-AMS, cache-dfw-kdfw8210075-DFW
+cache-sjc1000102-SJC, cache-sjc1000104-SJC, cache-dfw-kdal2120035-DFW
+cache-dfw-kdfw8210144-DFW
+cache-dfw-kdal2120070-DFW
+cache-dfw-kdfw8210053-DFW
+cache-sjc10050-SJC, cache-wk-sjc11420-SJC, cache-dfw-kdfw8210077-DFW
+cache-dfw-kdal2120124-DFW
+cache-dfw-ktki8620086-DFW, cache-dfw-kdal2120021-DFW
+cache-iad-kiad7000043-IAD, cache-iad-kiad7000161-IAD, cache-dfw-kdfw8210094-DFW
+cache-iad-kiad7000176-IAD, cache-dfw-kdfw8210046-DFW
+cache-par-lfpg1960020-PAR, cache-dfw-kdfw8210087-DFW
+cache-ams2100138-AMS, cache-dfw-kdfw8210075-DFW
+cache-dfw-kdfw8210073-DFW, cache-dfw-kdfw8210088-DFW
+cache-iad-kjyo7100079-IAD
+cache-iad-kiad7000176-IAD, cache-dfw-kdfw8210115-DFW
+cache-iad-kjyo7100033-IAD
+cache-chi-kigq8000165-CHI, cache-dfw-kdal2120035-DFW
+cache-dfw-kdfw8210102-DFW
+cache-dfw-kdal2120111-DFW, cache-dfw-kdal2120107-DFW
+cache-lga21963-LGA, cache-dfw-kdal2120077-DFW
+cache-chi-klot8100093-CHI, cache-dfw-kdal2120145-DFW, cache-dfw-kdfw8210079-DFW
+cache-dfw-kdal2120062-DFW, cache-dfw-kdal2120021-DFW
+cache-dfw-ktki8620078-DFW, cache-dfw-kdal2120101-DFW
+cache-lga21942-LGA, cache-dfw-kdal2120083-DFW
+cache-iad-kjyo7100047-IAD, cache-iad-kjyo7100158-IAD, cache-dfw-ktki8620027-DFW, cache-dfw-kdfw8210103-DFW
+pod-www-render-nginx-689bbb8ffb-cw2vk
+cache-dfw-kdfw8210081-DFW, cache-dfw-kdfw8210094-DFW
+cache-dfw-kdal2120037-DFW, cache-dfw-kdal2120037-DFW
+cache-dfw-kdfw8210112-DFW, cache-dfw-kdfw8210112-DFW
+cache-iad-kiad7000163-IAD, cache-iad-kiad7000081-IAD, cache-dfw-kdfw8210115-DFW
+cache-dfw-kdfw8210159-DFW
+cache-dfw-kdfw8210148-DFW
+cache-bfi-krnt7300083-BFI
+cache-dfw-kdal2120082-DFW
+cache-dfw-kdal2120024-DFW
+cache-dfw-kdfw8210088-DFW
+cache-dfw-ktki8620042-DFW, cache-dfw-kdal2120131-DFW
+cache-dfw-kdfw8210098-DFW
+cache-chi-klot8100123-CHI, cache-chi-klot8100123-CHI, cache-dfw-kdfw8210029-DFW
+cache-4d0b58de-internal, cache-dfw-kdfw8210112-DFW
+td_10c58c536180, cache-dfw-kdfw8210102-DFW
+cache-iad-kiad7000122-IAD, cache-dfw-kdfw8210023-DFW
+cache-par-lfpg1960026-PAR
+cache-iad-kjyo7100060-IAD, cache-iad-kcgs7200084-IAD, cache-dfw-kdfw8210047-DFW
+cache-dfw-kdfw8210155-DFW
+cache-dfw-kdfw8210108-DFW
+cache-dfw-kdfw8210080-DFW, cache-dfw-kdfw8210084-DFW
+cache-dfw-kdfw8210086-DFW
+cache-iad-kiad7000141-IAD, cache-dfw-kdfw8210150-DFW
+cache-dfw-kdfw8210043-DFW
+cache-iad-kcgs7200105-IAD, cache-iad-kcgs7200105-IAD, cache-dfw-kdfw8210124-DFW
+cache-par-lfpg1960091-PAR, cache-dfw-kdfw8210072-DFW
+cache-iad-kcgs7200149-IAD, cache-dfw-kdfw8210142-DFW
+cache-dfw-kdfw8210119-DFW
+cache-iad-kcgs7200039-IAD, cache-dfw-kdfw8210108-DFW
+cache-fra-etou8220030-FRA, cache-fra-etou8220082-FRA, cache-dfw-kdfw8210130-DFW
+cache-dfw-kdfw8210059-DFW
 thumblr-747cb44dcc-sg5d2, wk-cdn-r7
-cache-chi-kigq8000136-CHI, cache-chi-kigq8000092-CHI
-cache-chi-klot8100072-CHI
-cache-chi-klot8100096-CHI
+cache-dfw-kdal2120071-DFW, cache-dfw-kdal2120021-DFW
+cache-dfw-kdfw8210164-DFW
+cache-dfw-kdfw8210114-DFW
 gian.com.ar
-cache-chi-kigq8000158-CHI, cache-chi-kigq8000169-CHI
-cache-chi-kigq8000032-CHI
-cache-chi-kigq8000137-CHI
-cache-chi-kigq8000096-CHI
-cache-chi-kigq8000080-CHI
-cache-chi-kigq8000178-CHI
-cache-chi-kigq8000069-CHI
-cache-chi-kigq8000163-CHI
-cache-iad-kiad7000177-IAD, cache-iad-kiad7000157-IAD, cache-chi-kigq8000163-CHI
-cache-par-lfpg1960070-PAR, cache-chi-kigq8000051-CHI
-cache-iad-kjyo7100100-IAD, cache-chi-kigq8000108-CHI
-cache-chi-kigq8000056-CHI
-cache-iad-kiad7000021-IAD, cache-iad-kiad7000137-IAD, cache-chi-kigq8000048-CHI
-cache-syd10142-SYD, cache-syd10173-SYD, cache-chi-kigq8000081-CHI
-cache-syd10142-SYD, cache-syd10173-SYD, cache-chi-kigq8000104-CHI
-cache-chi-kigq8000052-CHI
-cache-chi-kigq8000079-CHI
-cache-syd10163-SYD, cache-syd10167-SYD, cache-chi-kigq8000123-CHI
-cache-ams21082-AMS, cache-ams21067-AMS, cache-chi-kigq8000051-CHI
-cache-chi-kigq8000092-CHI
-cache-chi-kigq8000165-CHI, cache-chi-kigq8000050-CHI
-cache-chi-kigq8000070-CHI
-cache-iad-kjyo7100037-IAD, cache-iad-kjyo7100084-IAD, cache-chi-kigq8000143-CHI
-cache-chi-kigq8000143-CHI
-cache-iad-kjyo7100158-IAD, cache-iad-kjyo7100039-IAD, cache-chi-kigq8000089-CHI
-cache-chi-klot8100158-CHI
-cache-fra-etou8220129-FRA, cache-chi-kigq8000071-CHI
-cache-hel1410029-HEL, cache-chi-kigq8000125-CHI
+cache-dfw-kdfw8210106-DFW, cache-dfw-kdfw8210094-DFW
+cache-dfw-kdal2120039-DFW
+cache-dfw-kdfw8210045-DFW
+cache-dfw-kdfw8210077-DFW
+cache-dfw-kdfw8210064-DFW
+cache-dfw-kdfw8210126-DFW
+cache-dfw-kdfw8210087-DFW
+cache-dfw-kdfw8210089-DFW
+cache-dfw-kdfw8210049-DFW
+cache-dfw-kdfw8210078-DFW
+cache-dfw-kdfw8210134-DFW
+cache-dfw-kdfw8210052-DFW
+cache-iad-kiad7000135-IAD, cache-iad-kiad7000157-IAD, cache-dfw-kdfw8210053-DFW
+cache-par-lfpg1960070-PAR, cache-dfw-kdfw8210023-DFW
+cache-iad-kjyo7100100-IAD, cache-dfw-kdfw8210040-DFW
+cache-syd10126-SYD, cache-syd10173-SYD, cache-dfw-kdfw8210169-DFW
+cache-dfw-kdfw8210061-DFW
+cache-dfw-kdal2120099-DFW
+cache-syd10126-SYD, cache-syd10173-SYD, cache-dfw-kdal2120114-DFW
+cache-iad-kiad7000137-IAD, cache-iad-kiad7000137-IAD, cache-dfw-kdfw8210115-DFW
+cache-dfw-kdfw8210119-DFW, cache-dfw-kdfw8210133-DFW
+cache-syd10169-SYD, cache-syd10167-SYD, cache-dfw-kdal2120124-DFW
+cache-ams2100095-AMS, cache-ams21067-AMS, cache-dfw-kdal2120059-DFW
+cache-dfw-kdfw8210048-DFW
+cache-dfw-kdfw8210127-DFW
+cache-dfw-kdfw8210106-DFW
+cache-chi-kigq8000066-CHI, cache-dfw-kdfw8210168-DFW
+cache-dfw-kdfw8210092-DFW
+cache-iad-kjyo7100147-IAD, cache-iad-kjyo7100084-IAD, cache-dfw-kdfw8210129-DFW
+cache-chi-kigq8000026-CHI, cache-dfw-kdfw8210095-DFW
+cache-chi-kigq8000053-CHI, cache-dfw-kdfw8210126-DFW
+cache-chi-kigq8000110-CHI, cache-dfw-kdfw8210168-DFW
+cache-iad-kjyo7100158-IAD, cache-iad-kjyo7100039-IAD, cache-dfw-kdfw8210072-DFW
+cache-hel1410029-HEL, cache-dfw-kdfw8210113-DFW
+cache-fra-etou8220129-FRA, cache-dfw-kdfw8210047-DFW

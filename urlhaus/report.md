@@ -1,4 +1,4 @@
-499 domains tested. 82.96593186372746% were behind nothing (85 were behind something). 27 domains could not be tested.<br>
+499 domains tested. 80.7615230460922% were behind nothing (96 were behind something). 33 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-55 used cloudflare (11.022044088176353%):
+60 used cloudflare (12.024048096192384%):
 ```
 24x7support.top
+a1alphaclean.com
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -30,11 +31,11 @@ allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
 hitman-pro.ru
 imtoken8.cc
-kaczor.org
 lindenappliances.co.za
 microsoft-analyse.com
 nhatheptienchebinhduong.com
@@ -53,6 +54,7 @@ onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
+onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
@@ -63,17 +65,20 @@ patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
 sanhack.com
+security-malware.com
+tokengen.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
-utorrent-servers.xyz
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.jnhelp.top
 www.luuk-lifestyle.eu
+www.machelp.cloud
 xn--yh4bx88a.com
 zetkay.com
 ```
