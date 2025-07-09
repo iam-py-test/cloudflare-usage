@@ -1,4 +1,4 @@
-499 domains tested. 80.7615230460922% were behind nothing (96 were behind something). 33 domains could not be tested.<br>
+462 domains tested. 79.22077922077922% were behind nothing (96 were behind something). 35 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-60 used cloudflare (12.024048096192384%):
+58 used cloudflare (12.554112554112553%):
 ```
 24x7support.top
-a1alphaclean.com
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -53,7 +52,6 @@ onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
@@ -69,10 +67,10 @@ reusable-flex.com
 rxquickpay.com
 sanhack.com
 security-malware.com
-tokengen.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
+utorrent-servers.xyz
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -88,7 +86,7 @@ zetkay.com
 
 ```
 
-1 used ddosguard (0.2004008016032064%):
+1 used ddosguard (0.21645021645021645%):
 ```
 stealer.cy
 ```
@@ -98,12 +96,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2004008016032064%):
+1 used fastly (0.21645021645021645%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2004008016032064%):
+1 used sucuri (0.21645021645021645%):
 ```
 allstarstriping.com
 ```

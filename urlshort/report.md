@@ -1,4 +1,4 @@
-274 domains tested. 41.97080291970803% were behind nothing (159 were behind something). 9 domains could not be tested.<br>
+274 domains tested. 41.605839416058394% were behind nothing (160 were behind something). 9 domains could not be tested.<br>
 2 used akamai (0.7299270072992701%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-133 used cloudflare (48.54014598540146%):
+134 used cloudflare (48.9051094890511%):
 ```
 02ip.ru
 1sta.com
@@ -124,6 +124,7 @@ shorten.ee
 shorten.is
 shorten.world
 shorterall.com
+shortest.link
 shorturl.at
 shorturl.com
 shorturl.gg
