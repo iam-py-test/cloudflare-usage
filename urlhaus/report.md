@@ -1,4 +1,4 @@
-492 domains tested. 76.6260162601626% were behind nothing (115 were behind something). 52 domains could not be tested.<br>
+507 domains tested. 74.55621301775149% were behind nothing (129 were behind something). 65 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,10 @@
 
 ```
 
-60 used cloudflare (12.195121951219512%):
+61 used cloudflare (12.03155818540434%):
 ```
 24x7support.top
-6ixportal.ca
+a1alphaclean.com
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -33,9 +33,9 @@ axhelp.top
 bestieslos.com
 checkinetverifk.com
 crystalpvp.ru
-diamondvsgolden.com
 dl.aginjector.com
 embedone.com
+exortsoft.pro
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
@@ -43,13 +43,13 @@ microsoft-analyse.com
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
+onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
@@ -65,11 +65,12 @@ patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sanhack.com
+scsjwskreen.top
 servecore.today
 suakhoaketsattphcm.com
+t0urist.cv
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
@@ -88,7 +89,7 @@ zetkay.com
 
 ```
 
-1 used ddosguard (0.20325203252032523%):
+1 used ddosguard (0.19723865877712032%):
 ```
 stealer.cy
 ```
@@ -98,12 +99,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20325203252032523%):
+1 used fastly (0.19723865877712032%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.20325203252032523%):
+1 used sucuri (0.19723865877712032%):
 ```
 allstarstriping.com
 ```

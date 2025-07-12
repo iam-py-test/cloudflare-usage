@@ -1,5 +1,5 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 59 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -12,7 +12,6 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
-godaddy.com
 hindustantimes.com
 hm.com
 hp.com
@@ -27,7 +26,6 @@ news.com.au
 rakuten.co.jp
 webex.com
 weforum.org
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -119,7 +117,6 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -137,6 +134,7 @@ nexusmods.com
 nist.gov
 nowsari.com
 okta.com
+olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -199,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -210,9 +208,9 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -258,7 +256,6 @@ healthline.com
 hotjar.com
 ieee.org
 imdb.com
-intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
