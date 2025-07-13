@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 60 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 58 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -12,6 +12,7 @@ ebay.co.uk
 ebay.com
 ebay.de
 fda.gov
+godaddy.com
 hindustantimes.com
 hm.com
 hp.com
@@ -45,7 +46,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+147 used cloudflare (14.7%):
 ```
 2gis.com
 33across.com
@@ -99,7 +100,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -108,7 +108,6 @@ ietf.org
 ikea.com
 indeed.com
 indexww.com
-innovid.com
 installatiegereedschap.nl
 investopedia.com
 iso.org
@@ -129,6 +128,7 @@ mediatek.com
 medium.com
 mgid.com
 myshopify.com
+name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
@@ -197,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -205,12 +205,10 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com.au
-amazon.com.br
+amazon.com
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -256,6 +254,7 @@ healthline.com
 hotjar.com
 ieee.org
 imdb.com
+intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
@@ -265,7 +264,6 @@ lijit.com
 line.me
 merriam-webster.com
 mongodb.com
-name.com
 namestudio.com
 nationalgeographic.com
 netflix.net
