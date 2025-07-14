@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 58 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 57 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ news.com.au
 rakuten.co.jp
 webex.com
 weforum.org
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -46,7 +47,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+146 used cloudflare (14.6%):
 ```
 2gis.com
 33across.com
@@ -128,13 +129,11 @@ mediatek.com
 medium.com
 mgid.com
 myshopify.com
-name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
 nowsari.com
 okta.com
-olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -164,6 +163,7 @@ shopify.com
 singular.net
 smartadserver.com
 sourceforge.net
+spamhaus.org
 split.io
 sportradar.com
 stackoverflow.com
@@ -197,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -205,13 +205,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -264,6 +265,7 @@ lijit.com
 line.me
 merriam-webster.com
 mongodb.com
+name.com
 namestudio.com
 nationalgeographic.com
 netflix.net
@@ -324,8 +326,8 @@ pikabu.ru
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
