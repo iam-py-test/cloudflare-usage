@@ -1,10 +1,9 @@
-218 domains tested. 57.798165137614674% were behind nothing (92 were behind something). 12 domains could not be tested.<br>
-5 used akamai (2.293577981651376%):
+218 domains tested. 58.71559633027523% were behind nothing (90 were behind something). 11 domains could not be tested.<br>
+4 used akamai (1.834862385321101%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
-www.microsoft.com
 www.rakuten.ca
 ```
 
