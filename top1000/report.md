@@ -1,4 +1,4 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 58 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -92,6 +92,7 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
+ecosia.org
 elwsira.com
 entrust.net
 epicgames.com
@@ -135,6 +136,7 @@ nexusmods.com
 nist.gov
 nowsari.com
 okta.com
+olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -161,12 +163,10 @@ sedo.com
 seedtag.com
 sharethrough.com
 shopify.com
-singular.net
 smartadserver.com
 sourceforge.net
 spamhaus.org
 split.io
-sportradar.com
 stackoverflow.com
 statcounter.com
 stripchat.com
@@ -198,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -207,11 +207,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.co.jp
-amazon.co.uk
+amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -259,7 +260,6 @@ intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
-kargo.com
 latimes.com
 lijit.com
 line.me
@@ -271,6 +271,7 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+note.com
 onelink.me
 onet.pl
 pbs.org
