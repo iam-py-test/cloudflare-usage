@@ -1,7 +1,6 @@
-275 domains tested. 42.90909090909091% were behind nothing (157 were behind something). 5 domains could not be tested.<br>
-2 used akamai (0.7272727272727273%):
+275 domains tested. 42.90909090909091% were behind nothing (157 were behind something). 8 domains could not be tested.<br>
+1 used akamai (0.36363636363636365%):
 ```
-eepurl.com
 email-sendgrid-deep-linking.chewy.com
 ```
 
@@ -20,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-135 used cloudflare (49.09090909090909%):
+133 used cloudflare (48.36363636363637%):
 ```
 02ip.ru
 1sta.com
@@ -44,7 +43,6 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
-ceesty.com
 chilp.it
 cleanuri.com
 cli.re
@@ -52,7 +50,6 @@ click.discord.com
 clk.asia
 clk.sh
 clks.pro
-corneey.com
 cutt.ly
 cuty.io
 dealtap.com

@@ -1,4 +1,4 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 58 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -92,7 +92,6 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-ecosia.org
 elwsira.com
 entrust.net
 epicgames.com
@@ -103,6 +102,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -198,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -206,11 +206,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.it
@@ -302,6 +303,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -322,12 +324,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
