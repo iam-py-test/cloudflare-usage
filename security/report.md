@@ -1,4 +1,4 @@
-34 domains tested. 47.05882352941176% were behind nothing (18 were behind something). 1 domains could not be tested.<br>
+34 domains tested. 47.05882352941176% were behind nothing (18 were behind something). 0 domains could not be tested.<br>
 2 used akamai (5.88235294117647%):
 ```
 alienvault.com
@@ -20,7 +20,7 @@ avira.com
 
 ```
 
-13 used cloudflare (38.23529411764706%):
+14 used cloudflare (41.17647058823529%):
 ```
 abuseipdb.com
 any.run
@@ -35,6 +35,7 @@ hybrid-analysis.com
 id-ransomware.malwarehunterteam.com
 netcraft.com
 talosintelligence.com
+tria.ge
 ```
 
 1 used cloudfront (2.941176470588235%):

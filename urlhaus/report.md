@@ -1,4 +1,4 @@
-574 domains tested. 73.34494773519164% were behind nothing (153 were behind something). 86 domains could not be tested.<br>
+532 domains tested. 77.81954887218046% were behind nothing (118 were behind something). 51 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,15 @@
 
 ```
 
-64 used cloudflare (11.149825783972126%):
+64 used cloudflare (12.030075187969924%):
 ```
 24x7support.top
+6ixportal.ca
 acc.nmphelp.top
-acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-adrianfrieg.com
 allendostmen.com
 api.ewfiles.net
-api.spurdo.me
 arjen.top
 axhelp.top
 bestieslos.com
@@ -41,10 +39,11 @@ dl.aginjector.com
 embedone.com
 hitman-pro.ru
 imtoken8.cc
-isnimitz.com
 lindenappliances.co.za
 microsoft-analyse.com
 nhatheptienchebinhduong.com
+nimbusvaults.com
+nnnpanel.top
 nusatoyota.co.id
 oh-my-oh.my
 onyxaquarius.de
@@ -68,21 +67,22 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
+prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sanhack.com
-stanprinston.com
 suakhoaketsattphcm.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
+upgradegc.com
+utorrent-servers.xyz
+verdicheck2.mosco.cc
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.jnhelp.top
 www.luuk-lifestyle.eu
-www.wgetfiles.com
 xn--yh4bx88a.com
 zetkay.com
 ```
@@ -92,7 +92,7 @@ zetkay.com
 
 ```
 
-1 used ddosguard (0.17421602787456447%):
+1 used ddosguard (0.18796992481203006%):
 ```
 stealer.cy
 ```
@@ -102,12 +102,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.17421602787456447%):
+1 used fastly (0.18796992481203006%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.17421602787456447%):
+1 used sucuri (0.18796992481203006%):
 ```
 allstarstriping.com
 ```

@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 58 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -214,6 +214,7 @@ amazon.com.au
 amazon.com.br
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -303,7 +304,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -324,11 +324,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net

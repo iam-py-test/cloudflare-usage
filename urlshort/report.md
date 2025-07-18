@@ -1,6 +1,7 @@
-275 domains tested. 42.90909090909091% were behind nothing (157 were behind something). 8 domains could not be tested.<br>
-1 used akamai (0.36363636363636365%):
+275 domains tested. 44.0% were behind nothing (154 were behind something). 6 domains could not be tested.<br>
+2 used akamai (0.7272727272727273%):
 ```
+eepurl.com
 email-sendgrid-deep-linking.chewy.com
 ```
 
@@ -19,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-133 used cloudflare (48.36363636363637%):
+132 used cloudflare (48.0%):
 ```
 02ip.ru
 1sta.com
@@ -121,7 +122,6 @@ screenshot.best
 shorten.ee
 shorten.is
 shorten.world
-shorterall.com
 shortest.link
 shorturl.at
 shorturl.com
@@ -156,9 +156,8 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.7272727272727275%):
+12 used cloudfront (4.363636363636364%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
