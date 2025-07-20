@@ -1,4 +1,4 @@
-522 domains tested. 78.73563218390804% were behind nothing (111 were behind something). 45 domains could not be tested.<br>
+429 domains tested. 76.92307692307693% were behind nothing (99 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-61 used cloudflare (11.685823754789272%):
+54 used cloudflare (12.587412587412588%):
 ```
 24x7support.top
-6ixportal.ca
-a1alphaclean.com
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
@@ -33,18 +32,16 @@ bestieslos.com
 checkinetverifk.com
 cloudflare.blazing-cloud.com
 crystalpvp.ru
-dl.aginjector.com
 embedone.com
 hitman-pro.ru
 imtoken8.cc
 kahraba4u.com
 lindenappliances.co.za
 nhatheptienchebinhduong.com
-nimbusvaults.com
 nnnpanel.top
-nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
+onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -57,6 +54,7 @@ onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
+onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
@@ -65,15 +63,11 @@ patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sanhack.com
 suakhoaketsattphcm.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
-upgradegc.com
-utorrent-servers.xyz
-verdicheck2.mosco.cc
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -81,15 +75,14 @@ www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 youredoinggreat.today
-zetkay.com
 ```
 
-1 used cloudfront (0.19157088122605362%):
+1 used cloudfront (0.2331002331002331%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.19157088122605362%):
+1 used ddosguard (0.2331002331002331%):
 ```
 stealer.cy
 ```
@@ -99,12 +92,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19157088122605362%):
+1 used fastly (0.2331002331002331%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.19157088122605362%):
+1 used sucuri (0.2331002331002331%):
 ```
 allstarstriping.com
 ```
@@ -142,9 +135,4 @@ allstarstriping.com
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.19157088122605362%):
-```
-yummajoryum.com
 ```
