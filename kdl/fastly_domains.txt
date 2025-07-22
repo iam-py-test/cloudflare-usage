@@ -5,7 +5,6 @@ api.nextgen.guardianapps.co.uk
 api.shipt.com
 ar.pinterest.com
 assets.guim.co.uk
-assets.pinterest.com
 at.pinterest.com
 atc.spotify.map.fastly.net
 au.pinterest.com
@@ -17,6 +16,7 @@ br.pinterest.com
 browser.sentry-cdn.com
 ca.pinterest.com
 cdn.intellimize.co
+cdn.jsdelivr.net
 cdn.speedcurve.com
 cdn.taboola.com
 ch.pinterest.com
@@ -47,7 +47,6 @@ ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
 es.pinterest.com
-etsy.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
@@ -69,7 +68,6 @@ hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
 i.ebayimg.com
-i.etsystatic.com
 i.forbesimg.com
 i.guim.co.uk
 i.pinimg.com
@@ -78,17 +76,18 @@ i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
 imageio.forbes.com
-int.nyt.com
 interactive.guim.co.uk
 it.pinterest.com
+j.ophan.co.uk
 j.sni.global.fastly.net
-jp.pinterest.com
 jsdelivr.map.fastly.net
 linkedin.map.fastly.net
 outbrain.map.fastly.net
-paypal.map.fastly.net
+p.shared.global.fastly.net
+paypal-dynamic-2.map.fastly.net
+prod.www-fastly-com.map.fastly.net
 static.guim.co.uk
-tls13.spotifycdn.map.fastly.net
-tls130rtt.spotifycdn.map.fastly.net
-www.fastly-insights.com
-www.forbes.com
+twimg.twitter.map.fastly.net
+us.bytedance.map.fastly.net
+www.bbc.co.uk
+www.fastly.com

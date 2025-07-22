@@ -1,4 +1,4 @@
-436 domains tested. 74.31192660550458% were behind nothing (112 were behind something). 46 domains could not be tested.<br>
+427 domains tested. 74.7072599531616% were behind nothing (108 were behind something). 42 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-62 used cloudflare (14.220183486238533%):
+63 used cloudflare (14.754098360655737%):
 ```
-24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -30,10 +29,10 @@ allendostmen.com
 axhelp.top
 bestieslos.com
 checkinetverifk.com
-cloudflare.blazing-cloud.com
 crystalpvp.ru
 dl.aginjector.com
 ekochist.com
+embedone.com
 hitman-pro.ru
 imtoken8.cc
 jupagroup.com
@@ -50,6 +49,7 @@ onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
+onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -68,6 +68,7 @@ psloglink.psur7.top
 reauthenticator.com
 redempti.com
 reusable-flex.com
+rxquickpay.com
 sanhack.com
 scygas.com
 suakhoaketsattphcm.com
@@ -85,12 +86,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.22935779816513763%):
-```
-cdn.tagbox.io
+0 used cloudfront (0.0%):
 ```
 
-1 used ddosguard (0.22935779816513763%):
+```
+
+1 used ddosguard (0.234192037470726%):
 ```
 stealer.cy
 ```
@@ -100,12 +101,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.22935779816513763%):
+1 used fastly (0.234192037470726%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.22935779816513763%):
+1 used sucuri (0.234192037470726%):
 ```
 allstarstriping.com
 ```
