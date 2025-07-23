@@ -1,4 +1,4 @@
-427 domains tested. 74.7072599531616% were behind nothing (108 were behind something). 42 domains could not be tested.<br>
+433 domains tested. 72.74826789838336% were behind nothing (118 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,18 @@
 
 ```
 
-63 used cloudflare (14.754098360655737%):
+66 used cloudflare (15.242494226327944%):
 ```
+24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
+api.ewfiles.net
 axhelp.top
 bestieslos.com
+bin.bunnybots.ru
 checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
@@ -39,6 +42,7 @@ jupagroup.com
 laccalhdc.com
 lindenappliances.co.za
 misshon.com
+mynode.olb-portals.net.tr
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
@@ -51,7 +55,6 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
-onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -91,7 +94,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.234192037470726%):
+1 used ddosguard (0.23094688221709006%):
 ```
 stealer.cy
 ```
@@ -101,12 +104,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.234192037470726%):
+1 used fastly (0.23094688221709006%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.234192037470726%):
+1 used sucuri (0.23094688221709006%):
 ```
 allstarstriping.com
 ```
