@@ -1,4 +1,4 @@
-405 domains tested. 72.5925925925926% were behind nothing (111 were behind something). 57 domains could not be tested.<br>
+412 domains tested. 74.27184466019418% were behind nothing (106 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-51 used cloudflare (12.592592592592592%):
+54 used cloudflare (13.106796116504855%):
 ```
+24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -33,23 +34,25 @@ checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
 embedone.com
+frozi.cc
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
-mynode.olb-portals.net.tr
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
+onyxcyberedge.de
+onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
@@ -60,17 +63,17 @@ onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
 psloglink.psur7.top
-reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
 suakhoaketsattphcm.com
 trtmyanmar.com
-trungtambaohanhmaylanh.com
 upgradegc.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
+www.jnhelp.top
+www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
@@ -79,7 +82,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.24691358024691357%):
+1 used ddosguard (0.24271844660194172%):
 ```
 stealer.cy
 ```
@@ -89,12 +92,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.24691358024691357%):
+1 used fastly (0.24271844660194172%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.24691358024691357%):
+1 used sucuri (0.24271844660194172%):
 ```
 allstarstriping.com
 ```
