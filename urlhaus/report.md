@@ -1,4 +1,4 @@
-461 domains tested. 63.99132321041214% were behind nothing (166 were behind something). 102 domains could not be tested.<br>
+436 domains tested. 69.03669724770643% were behind nothing (135 were behind something). 80 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-61 used cloudflare (13.232104121475055%):
+52 used cloudflare (11.926605504587156%):
 ```
-24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -32,24 +31,21 @@ axhelp.top
 bestieslos.com
 checkinetverifk.com
 crystalpvp.ru
-ctx3.com
 dl.aginjector.com
+embedone.com
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
-onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
-onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
-onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -61,20 +57,15 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
-pcicalogla2024.com
-peremogemmo.com.ua
-peremogimo.com.ua
 prloglink.prsa7.top
-psyyhalogiya2024.com
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
-sihologia2024.com
+sanhack.com
 suakhoaketsattphcm.com
-telegram-success.com.ua
-telegram-success.live
 trtmyanmar.com
 trungtambaohanhmaylanh.com
+valewear.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -89,7 +80,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.21691973969631237%):
+1 used ddosguard (0.22935779816513763%):
 ```
 stealer.cy
 ```
@@ -99,12 +90,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.21691973969631237%):
+1 used fastly (0.22935779816513763%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.21691973969631237%):
+1 used sucuri (0.22935779816513763%):
 ```
 allstarstriping.com
 ```
