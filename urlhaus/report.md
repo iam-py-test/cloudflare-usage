@@ -1,4 +1,4 @@
-436 domains tested. 69.03669724770643% were behind nothing (135 were behind something). 80 domains could not be tested.<br>
+430 domains tested. 75.5813953488372% were behind nothing (105 were behind something). 48 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,16 @@
 
 ```
 
-52 used cloudflare (11.926605504587156%):
+54 used cloudflare (12.558139534883722%):
 ```
+24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
-acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
 embedone.com
@@ -42,10 +41,12 @@ nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
+onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -58,13 +59,14 @@ onyxshieldcore.de
 onyxstealthnet.de
 patch.achaplus.com
 prloglink.prsa7.top
-reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
 suakhoaketsattphcm.com
+toolsswift.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
+upgradegc.com
 valewear.com
 web.bqxhelp.top
 www.axhelp.top
@@ -80,7 +82,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.22935779816513763%):
+1 used ddosguard (0.23255813953488372%):
 ```
 stealer.cy
 ```
@@ -90,12 +92,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.22935779816513763%):
+1 used fastly (0.23255813953488372%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.22935779816513763%):
+1 used sucuri (0.23255813953488372%):
 ```
 allstarstriping.com
 ```

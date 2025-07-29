@@ -1,4 +1,4 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,6 @@ b-cdn.net
 
 146 used cloudflare (14.6%):
 ```
-2gis.com
 33across.com
 addtoany.com
 allaboutcookies.org
@@ -104,6 +103,7 @@ fontawesome.com
 forter.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -170,6 +170,7 @@ stackoverflow.com
 statcounter.com
 stripchat.com
 substack.com
+surfshark.com
 t.co
 tandfonline.com
 teamviewer.com
@@ -179,7 +180,6 @@ tinyurl.com
 tucows.com
 twitter.com
 uber.com
-umich.edu
 unpkg.com
 upwork.com
 vimeo.com
@@ -212,7 +212,8 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
+amazon.es
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -301,7 +302,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -323,12 +323,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
