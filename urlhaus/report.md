@@ -1,4 +1,4 @@
-430 domains tested. 75.5813953488372% were behind nothing (105 were behind something). 48 domains could not be tested.<br>
+421 domains tested. 73.15914489311164% were behind nothing (113 were behind something). 54 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,34 @@
 
 ```
 
-54 used cloudflare (12.558139534883722%):
+56 used cloudflare (13.30166270783848%):
 ```
 24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
+acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+checkinetverifk.com
+cia.tf
 crystalpvp.ru
 dl.aginjector.com
-embedone.com
 hitman-pro.ru
 imtoken8.cc
 lindenappliances.co.za
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
+onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
-onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
@@ -57,8 +59,8 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-patch.achaplus.com
 prloglink.prsa7.top
+reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
@@ -67,13 +69,13 @@ toolsswift.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
-valewear.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.frontier.net.pk
 www.jnhelp.top
 www.luuk-lifestyle.eu
+www.sodiumlaurethsulfatedesyroyer.com
 xn--yh4bx88a.com
 ```
 
@@ -82,7 +84,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.23255813953488372%):
+1 used ddosguard (0.23752969121140144%):
 ```
 stealer.cy
 ```
@@ -92,12 +94,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.23255813953488372%):
+1 used fastly (0.23752969121140144%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.23255813953488372%):
+1 used sucuri (0.23752969121140144%):
 ```
 allstarstriping.com
 ```

@@ -1,10 +1,9 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-afternic.com
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -28,7 +27,6 @@ news.com.au
 rakuten.co.jp
 staples.com
 webex.com
-weforum.org
 xiaomi.com
 xiaomi.net
 ```
@@ -48,7 +46,7 @@ b-cdn.net
 
 ```
 
-146 used cloudflare (14.6%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -94,6 +92,7 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
+ecosia.org
 elwsira.com
 entrust.net
 epicgames.com
@@ -114,6 +113,7 @@ indeed.com
 indexww.com
 investopedia.com
 iso.org
+it.com
 jotform.com
 jquery.com
 kick.com
@@ -198,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+112 used cloudfront (11.200000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -212,7 +212,9 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -232,6 +234,7 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
+company-target.com
 cox.net
 curseforge.com
 datadoghq.com
@@ -302,6 +305,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -323,11 +327,12 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net

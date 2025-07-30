@@ -1,5 +1,5 @@
-218 domains tested. 58.71559633027523% were behind nothing (90 were behind something). 11 domains could not be tested.<br>
-4 used akamai (1.834862385321101%):
+223 domains tested. 57.847533632286996% were behind nothing (94 were behind something). 12 domains could not be tested.<br>
+4 used akamai (1.7937219730941705%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
@@ -7,7 +7,7 @@ www.barclaycardrewardsboost.com
 www.rakuten.ca
 ```
 
-2 used bunnycdn (0.9174311926605505%):
+2 used bunnycdn (0.8968609865470852%):
 ```
 oooo.b-cdn.net
 www.bentasker.co.uk
@@ -18,12 +18,12 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.45871559633027525%):
+1 used cdn77 (0.4484304932735426%):
 ```
 filters.adtidy.org
 ```
 
-53 used cloudflare (24.31192660550459%):
+57 used cloudflare (25.56053811659193%):
 ```
 abp.tt.codes
 abpvn.com
@@ -37,6 +37,7 @@ azorult-tracker.net
 block.energized.pro
 blokada.org
 cdn.adblockcdn.com
+cdn.jsdelivr.net
 combinatronics.io
 dns-family.adguard.com
 dns.adgk.net
@@ -53,12 +54,15 @@ gitlab.com
 iplists.firehol.org
 jansal.net
 lpt.lrv.lt
+malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
+netmountains.de
 nonio.pt
 osint.bambenekconsulting.com
 pastebin.com
 phishing.army
+raw.githack.com
 rawcdn.githack.com
 repo.andnixsh.com
 secure.fanboy.co.nz
@@ -80,12 +84,12 @@ www.zoso.ro
 zonefiles.io
 ```
 
-1 used cloudfront (0.45871559633027525%):
+1 used cloudfront (0.4484304932735426%):
 ```
 www.topcashback.com
 ```
 
-1 used ddosguard (0.45871559633027525%):
+1 used ddosguard (0.4484304932735426%):
 ```
 gitflic.ru
 ```
@@ -95,12 +99,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.339449541284404%):
+15 used fastly (6.726457399103139%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
 easydutch-ubo.github.io
@@ -155,7 +158,7 @@ www.thedumbterminal.co.uk
 
 ```
 
-1 used imperva (0.45871559633027525%):
+1 used imperva (0.4484304932735426%):
 ```
 isc.sans.edu
 ```
