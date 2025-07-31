@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -13,7 +13,6 @@ ebay.com
 ebay.de
 fda.gov
 godaddy.com
-hindustantimes.com
 hm.com
 hp.com
 intel.com
@@ -25,7 +24,6 @@ mobile.de
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -46,7 +44,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+150 used cloudflare (15.0%):
 ```
 33across.com
 addtoany.com
@@ -111,6 +109,7 @@ ietf.org
 ikea.com
 indeed.com
 indexww.com
+innovid.com
 investopedia.com
 iso.org
 it.com
@@ -124,6 +123,7 @@ liftoff.io
 linkedin.com
 linktr.ee
 loc.gov
+maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -198,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-112 used cloudfront (11.200000000000001%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -214,7 +214,6 @@ amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -290,7 +289,6 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
-state.gov
 supercell.com
 surveymonkey.com
 synology.com
@@ -306,7 +304,6 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
-utorrent.com
 warnerbros.com
 wattpad.com
 wired.com
