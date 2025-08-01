@@ -1,4 +1,4 @@
-407 domains tested. 72.72727272727273% were behind nothing (111 were behind something). 49 domains could not be tested.<br>
+412 domains tested. 74.75728155339806% were behind nothing (104 were behind something). 42 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-58 used cloudflare (14.250614250614252%):
+59 used cloudflare (14.320388349514563%):
 ```
 24x7support.top
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
@@ -30,21 +31,23 @@ api.ewfiles.net
 axhelp.top
 bestieslos.com
 checkinetverifk.com
-cia.tf
+codeveinsurance.info
 crystalpvp.ru
 cserkiado.hu
+desk-app-now.com
 dl.aginjector.com
 embedone.com
 hitman-pro.ru
+imtoken8.cc
 letrucvert.com
 lindenappliances.co.za
+media-driversupport.com
 ms-team-ping2.com
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -54,7 +57,6 @@ onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
-onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
@@ -65,19 +67,18 @@ onyxstealthnet.de
 prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
-rxquickpay.com
 sanhack.com
 suakhoaketsattphcm.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 veitzeatz.com
+vvindowsupdate.org
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.frontier.net.pk
 www.jnhelp.top
 www.luuk-lifestyle.eu
-www.sodiumlaurethsulfatedesyroyer.com
 xn--yh4bx88a.com
 ```
 
@@ -86,7 +87,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.2457002457002457%):
+1 used ddosguard (0.24271844660194172%):
 ```
 stealer.cy
 ```
@@ -96,15 +97,14 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2457002457002457%):
+1 used fastly (0.24271844660194172%):
 ```
 riverview-pools.com
 ```
 
-2 used sucuri (0.4914004914004914%):
+1 used sucuri (0.24271844660194172%):
 ```
 allstarstriping.com
-medthermography.com
 ```
 
 0 used myracloud (0.0%):

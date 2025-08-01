@@ -1,4 +1,4 @@
-275 domains tested. 43.27272727272727% were behind nothing (156 were behind something). 5 domains could not be tested.<br>
+275 domains tested. 42.90909090909091% were behind nothing (157 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -71,6 +71,7 @@ foot.wiki
 funurl.com
 gamergirl.pro
 gamingfun.me
+goo.su
 grabify.link
 grabify.world
 headplug.com
@@ -94,7 +95,6 @@ klclick3.com
 link-center.net
 link.sbstck.com
 link.tnlink.in
-link1s.com
 links.e.malwarebytes.com
 linkspy.cc
 linkvertise.com
