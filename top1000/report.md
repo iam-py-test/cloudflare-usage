@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 53 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -23,7 +23,6 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -144,7 +143,6 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
-paypal.com
 pendo.io
 people.com
 perfectdomain.com
@@ -195,6 +193,7 @@ worldbank.org
 wyzecam.com
 x.com
 xhamster.com
+xhamster.desi
 zendesk.com
 zoom.us
 ```
@@ -213,7 +212,6 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -290,6 +288,7 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
+statuspage.io
 supercell.com
 surveymonkey.com
 synology.com
