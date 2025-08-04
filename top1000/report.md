@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 53 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -95,6 +95,7 @@ entrust.net
 epicgames.com
 eu-1-id5-sync.com
 fiverr.com
+flightradar24.com
 fontawesome.com
 forter.com
 genius.com
@@ -143,7 +144,6 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
-pendo.io
 people.com
 perfectdomain.com
 pexels.com
@@ -198,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -207,14 +207,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
-amazon.es
+amazon.de
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -267,7 +264,6 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 name.com
 nationalgeographic.com
 netflix.net
@@ -288,6 +284,7 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
+sprinklr.com
 statuspage.io
 supercell.com
 surveymonkey.com

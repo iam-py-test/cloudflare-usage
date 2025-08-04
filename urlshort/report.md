@@ -1,4 +1,4 @@
-275 domains tested. 42.18181818181818% were behind nothing (159 were behind something). 8 domains could not be tested.<br>
+275 domains tested. 43.27272727272727% were behind nothing (156 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-134 used cloudflare (48.72727272727273%):
+133 used cloudflare (48.36363636363637%):
 ```
 02ip.ru
 1sta.com
@@ -71,7 +71,6 @@ foot.wiki
 funurl.com
 gamergirl.pro
 gamingfun.me
-goo.su
 grabify.link
 grabify.world
 headplug.com
@@ -158,9 +157,8 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.7272727272727275%):
+12 used cloudfront (4.363636363636364%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
@@ -175,8 +173,9 @@ trk.klclick3.com
 zpr.io
 ```
 
-1 used ddosguard (0.36363636363636365%):
+2 used ddosguard (0.7272727272727273%):
 ```
+goo.su
 u.to
 ```
 
