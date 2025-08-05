@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 53 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-151 used cloudflare (15.1%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 addtoany.com
@@ -98,6 +98,7 @@ fiverr.com
 flightradar24.com
 fontawesome.com
 forter.com
+garmin.com
 genius.com
 gitlab.com
 globalsign.com
@@ -198,7 +199,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -211,7 +212,8 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.de
-amazon.fr
+amazon.es
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com

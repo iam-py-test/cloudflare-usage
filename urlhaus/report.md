@@ -1,4 +1,4 @@
-387 domains tested. 75.45219638242894% were behind nothing (95 were behind something). 44 domains could not be tested.<br>
+395 domains tested. 74.43037974683544% were behind nothing (101 were behind something). 39 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-48 used cloudflare (12.4031007751938%):
+59 used cloudflare (14.936708860759493%):
 ```
 24x7support.top
 acc.nmphelp.top
@@ -31,15 +31,19 @@ api.ewfiles.net
 axhelp.top
 bestieslos.com
 checkinetverifk.com
+crixlands.xyz
 crystalpvp.ru
-de-privatkunden.com
+dl.aginjector.com
 embedone.com
+fullemo.online
 hitman-pro.ru
 imtoken8.cc
-kazino-dengi.top
+jezzasnetwork.com
 lindenappliances.co.za
+nexorastudios.net
 nhatheptienchebinhduong.com
 nnnpanel.top
+nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -49,20 +53,27 @@ onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
+onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
-onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+play.arbuzmine.ru
+play.minequest.fun
 prloglink.prsa7.top
 reusable-flex.com
+rtb.my.id
 rxquickpay.com
-upgradegc.com
+sanhack.com
+satisfactory.andresodev.com
+server.seaasses.com
+trtmyanmar.com
+trungtambaohanhmaylanh.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
@@ -76,7 +87,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.2583979328165375%):
+1 used ddosguard (0.25316455696202533%):
 ```
 stealer.cy
 ```
@@ -86,12 +97,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2583979328165375%):
+1 used fastly (0.25316455696202533%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.2583979328165375%):
+1 used sucuri (0.25316455696202533%):
 ```
 allstarstriping.com
 ```
