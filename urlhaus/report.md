@@ -1,4 +1,4 @@
-395 domains tested. 74.43037974683544% were behind nothing (101 were behind something). 39 domains could not be tested.<br>
+395 domains tested. 73.16455696202532% were behind nothing (106 were behind something). 45 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,25 @@
 
 ```
 
-59 used cloudflare (14.936708860759493%):
+58 used cloudflare (14.683544303797468%):
 ```
 24x7support.top
-acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
+accesspoint.cc
+ace-project.org
 adobehelp.net
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
 checkinetverifk.com
-crixlands.xyz
 crystalpvp.ru
 dl.aginjector.com
-embedone.com
 fullemo.online
 hitman-pro.ru
 imtoken8.cc
-jezzasnetwork.com
+klar.gg
 lindenappliances.co.za
 nexorastudios.net
 nhatheptienchebinhduong.com
@@ -57,15 +56,15 @@ onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
+onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
-onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 play.arbuzmine.ru
-play.minequest.fun
 prloglink.prsa7.top
+reauthenticator.com
 reusable-flex.com
 rtb.my.id
 rxquickpay.com
@@ -74,10 +73,10 @@ satisfactory.andresodev.com
 server.seaasses.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
+upgradegc.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
-www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```

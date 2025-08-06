@@ -1,4 +1,4 @@
-223 domains tested. 58.29596412556054% were behind nothing (93 were behind something). 11 domains could not be tested.<br>
+223 domains tested. 57.399103139013455% were behind nothing (95 were behind something). 12 domains could not be tested.<br>
 4 used akamai (1.7937219730941705%):
 ```
 easylist-downloads.adblockplus.org
@@ -83,8 +83,9 @@ www.zoso.ro
 zonefiles.io
 ```
 
-1 used cloudfront (0.4484304932735426%):
+2 used cloudfront (0.8968609865470852%):
 ```
+gitloaf.com
 www.topcashback.com
 ```
 
