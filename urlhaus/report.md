@@ -1,4 +1,4 @@
-395 domains tested. 73.16455696202532% were behind nothing (106 were behind something). 45 domains could not be tested.<br>
+404 domains tested. 72.52475247524752% were behind nothing (111 were behind something). 50 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,12 @@
 
 ```
 
-58 used cloudflare (14.683544303797468%):
+58 used cloudflare (14.356435643564355%):
 ```
 24x7support.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-ace-project.org
 adobehelp.net
 allendostmen.com
 api.ewfiles.net
@@ -45,7 +44,6 @@ nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -60,6 +58,7 @@ onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 play.arbuzmine.ru
@@ -77,6 +76,7 @@ upgradegc.com
 web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
+www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
@@ -86,7 +86,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.25316455696202533%):
+1 used ddosguard (0.24752475247524752%):
 ```
 stealer.cy
 ```
@@ -96,14 +96,14 @@ stealer.cy
 
 ```
 
-1 used fastly (0.25316455696202533%):
+1 used fastly (0.24752475247524752%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.25316455696202533%):
+1 used sucuri (0.24752475247524752%):
 ```
-allstarstriping.com
+annadegismen.com
 ```
 
 0 used myracloud (0.0%):

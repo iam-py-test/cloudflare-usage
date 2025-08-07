@@ -1,7 +1,9 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 54 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -22,7 +24,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -42,9 +43,10 @@ b-cdn.net
 
 ```
 
-150 used cloudflare (15.0%):
+152 used cloudflare (15.2%):
 ```
 33across.com
+academia.edu
 addtoany.com
 allaboutcookies.org
 alphonso.tv
@@ -173,6 +175,7 @@ tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
+theverge.com
 tinyurl.com
 tucows.com
 twitter.com
@@ -196,11 +199,10 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
-academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
@@ -208,11 +210,9 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -300,7 +300,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
