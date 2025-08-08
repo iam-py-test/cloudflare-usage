@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,10 +43,9 @@ b-cdn.net
 
 ```
 
-152 used cloudflare (15.2%):
+153 used cloudflare (15.299999999999999%):
 ```
 33across.com
-academia.edu
 addtoany.com
 allaboutcookies.org
 alphonso.tv
@@ -85,6 +84,7 @@ creativecommons.org
 deepintent.com
 deepl.com
 digitalocean.com
+digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -99,6 +99,7 @@ fiverr.com
 flightradar24.com
 fontawesome.com
 forter.com
+garmin.com
 genius.com
 gitlab.com
 heylink.me
@@ -203,17 +204,17 @@ zoom.us
 ```
 3lift.com
 a-mo.net
+academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -250,7 +251,6 @@ eventbrite.com
 figma.com
 flickr.com
 go.com
-goodreads.com
 grammarly.com
 gumgum.com
 hbr.org
@@ -300,6 +300,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -307,10 +308,9 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
 1c.ru
-crpt.ru
 netangels.ru
 pikabu.ru
 ```

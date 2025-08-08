@@ -1,4 +1,4 @@
-404 domains tested. 72.52475247524752% were behind nothing (111 were behind something). 50 domains could not be tested.<br>
+402 domains tested. 73.6318407960199% were behind nothing (106 were behind something). 45 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,13 @@
 
 ```
 
-58 used cloudflare (14.356435643564355%):
+58 used cloudflare (14.427860696517413%):
 ```
-24x7support.top
+acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
+ace-project.org
 adobehelp.net
 allendostmen.com
 api.ewfiles.net
@@ -33,24 +34,26 @@ bestieslos.com
 checkinetverifk.com
 crystalpvp.ru
 dl.aginjector.com
-fullemo.online
+enabledevmode.dev
+erikobi.com
 hitman-pro.ru
 imtoken8.cc
 klar.gg
+letrucvert.com
 lindenappliances.co.za
-nexorastudios.net
+mizunoaoi.com
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
+onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
-onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -61,15 +64,12 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-play.arbuzmine.ru
+phannarith.com
 prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
-rtb.my.id
 rxquickpay.com
 sanhack.com
-satisfactory.andresodev.com
-server.seaasses.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
@@ -86,7 +86,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.24752475247524752%):
+1 used ddosguard (0.24875621890547264%):
 ```
 stealer.cy
 ```
@@ -96,12 +96,12 @@ stealer.cy
 
 ```
 
-1 used fastly (0.24752475247524752%):
+1 used fastly (0.24875621890547264%):
 ```
 riverview-pools.com
 ```
 
-1 used sucuri (0.24752475247524752%):
+1 used sucuri (0.24875621890547264%):
 ```
 annadegismen.com
 ```

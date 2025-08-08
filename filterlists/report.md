@@ -23,7 +23,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-56 used cloudflare (25.112107623318387%):
+57 used cloudflare (25.56053811659193%):
 ```
 abp.tt.codes
 abpvn.com
@@ -37,6 +37,7 @@ azorult-tracker.net
 block.energized.pro
 blokada.org
 cdn.adblockcdn.com
+cdn.jsdelivr.net
 combinatronics.io
 dns-family.adguard.com
 dns.adgk.net
@@ -99,12 +100,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.174887892376682%):
+15 used fastly (6.726457399103139%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 cdn.statically.io
 downloads.vivaldi.com
 easydutch-ubo.github.io
