@@ -1,4 +1,4 @@
-367 domains tested. 77.65667574931881% were behind nothing (82 were behind something). 34 domains could not be tested.<br>
+357 domains tested. 74.2296918767507% were behind nothing (92 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-47 used cloudflare (12.806539509536785%):
+57 used cloudflare (15.966386554621847%):
 ```
 24x7support.top
 acc.nmphelp.top
@@ -32,41 +32,51 @@ allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+cdn.tempfile.pro
 checkinetverifk.com
 crystalpvp.ru
-desk-app-now.com
-hermitimplode.shop
+dl.aginjector.com
+hitman-pro.ru
 imtoken8.cc
 klar.gg
 lindenappliances.co.za
+lopakia1325a.xyz
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
 onyxaquarius.de
+onyxarmorcrypt.de
 onyxcryptorix.de
+onyxcyberapex.de
 onyxcyberedge.de
+onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
 onyxironvault.de
 onyxleo.de
+onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
 onyxsafetrack.de
+onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 prloglink.prsa7.top
+reauthenticator.com
 reusable-flex.com
+rxquickpay.com
 sanhack.com
+streamcache.site
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
-web.bqxhelp.top
 www.axhelp.top
 www.blackhattoolz.com
 www.jnhelp.top
+www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
@@ -75,7 +85,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.2724795640326975%):
+1 used ddosguard (0.2801120448179272%):
 ```
 stealer.cy
 ```

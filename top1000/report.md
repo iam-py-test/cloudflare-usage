@@ -1,4 +1,4 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+154 used cloudflare (15.4%):
 ```
 33across.com
 addtoany.com
@@ -71,6 +71,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -91,7 +92,6 @@ discord.gg
 discord.media
 discordapp.com
 ecosia.org
-elwsira.com
 entrust.net
 epicgames.com
 eu-1-id5-sync.com
@@ -102,6 +102,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -136,7 +137,6 @@ myshopify.com
 networkadvertising.org
 nexusmods.com
 nist.gov
-nowsari.com
 okta.com
 onesignal.com
 onetrust.com
@@ -163,6 +163,7 @@ sedo.com
 seedtag.com
 sharethrough.com
 shopify.com
+singular.net
 smartadserver.com
 sourceforge.net
 spamhaus.org
@@ -200,7 +201,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -210,10 +211,11 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.au
-amazon.de
+amazon.es
 amazon.fr
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -299,6 +301,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -306,11 +309,10 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 1c.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
