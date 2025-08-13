@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 62.9% were behind nothing (371 were behind something). 69 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+155 used cloudflare (15.5%):
 ```
 33across.com
 addtoany.com
@@ -57,7 +57,6 @@ berkeley.edu
 bidmachine.io
 bitdefender.com
 bluehost.com
-box.com
 branch.io
 braze.com
 britannica.com
@@ -146,6 +145,7 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perfectdomain.com
 pexels.com
@@ -180,6 +180,7 @@ themeforest.net
 theverge.com
 tinyurl.com
 tucows.com
+tvsquared.com
 twitter.com
 uber.com
 unpkg.com
@@ -201,7 +202,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -209,13 +210,15 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.au
+amazon.com
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -302,7 +305,6 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
-warnerbros.com
 wattpad.com
 wired.com
 wsj.com
