@@ -1,5 +1,5 @@
-1000 domains tested. 62.9% were behind nothing (371 were behind something). 69 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 56 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-155 used cloudflare (15.5%):
+151 used cloudflare (15.1%):
 ```
 33across.com
 addtoany.com
@@ -57,6 +58,7 @@ berkeley.edu
 bidmachine.io
 bitdefender.com
 bluehost.com
+box.com
 branch.io
 braze.com
 britannica.com
@@ -70,7 +72,6 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
-clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -95,13 +96,11 @@ entrust.net
 epicgames.com
 eu-1-id5-sync.com
 fiverr.com
-flightradar24.com
 fontawesome.com
 forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -145,7 +144,6 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perfectdomain.com
 pexels.com
@@ -153,7 +151,6 @@ pixabay.com
 pixiv.net
 plesk.com
 prnewswire.com
-quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -210,15 +207,15 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -322,12 +319,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

@@ -1,4 +1,4 @@
-416 domains tested. 79.08653846153845% were behind nothing (87 were behind something). 31 domains could not be tested.<br>
+471 domains tested. 78.55626326963908% were behind nothing (101 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,28 +19,28 @@
 
 ```
 
-52 used cloudflare (12.5%):
+58 used cloudflare (12.314225053078557%):
 ```
 24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-ace-project.org
+adobehelp.net
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-cdn.tempfile.pro
+checkfivem.com
 checkinetverifk.com
-christosberetas.com
 crystalpvp.ru
 dl.aginjector.com
-explorebotswana360.com
 hitman-pro.ru
 imtoken8.cc
 klar.gg
+klikshop.buzz
 lindenappliances.co.za
+metrics.gocloudmaps.com
 nhatheptienchebinhduong.com
 nnnpanel.top
 nusatoyota.co.id
@@ -59,28 +59,34 @@ onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
+onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
+onyxshieldcore.de
+onyxstealthnet.de
 prloglink.prsa7.top
-rebloco.com.br
+reauthenticator.com
+redroademail.com
 reusable-flex.com
+rxquickpay.com
 sanhack.com
-streamcache.site
+trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 www.axhelp.top
 www.blackhattoolz.com
+www.jnhelp.top
 www.luuk-lifestyle.eu
-xhslink.cc
+www.machelp.cloud
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.2403846153846154%):
+1 used cloudfront (0.21231422505307856%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.2403846153846154%):
+1 used ddosguard (0.21231422505307856%):
 ```
 stealer.cy
 ```
@@ -95,9 +101,9 @@ stealer.cy
 
 ```
 
-1 used sucuri (0.2403846153846154%):
+0 used sucuri (0.0%):
 ```
-annadegismen.com
+
 ```
 
 0 used myracloud (0.0%):
@@ -130,7 +136,7 @@ annadegismen.com
 
 ```
 
-1 used netlify (0.2403846153846154%):
+0 used netlify (0.0%):
 ```
-storage-list.com
+
 ```
