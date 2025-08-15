@@ -1,4 +1,4 @@
-471 domains tested. 78.55626326963908% were behind nothing (101 were behind something). 41 domains could not be tested.<br>
+525 domains tested. 79.61904761904762% were behind nothing (107 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,32 @@
 
 ```
 
-58 used cloudflare (12.314225053078557%):
+64 used cloudflare (12.19047619047619%):
 ```
+10086623.top
 24x7support.top
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
-adobehelp.net
 allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
+boylegmfg.com
 checkfivem.com
 checkinetverifk.com
+classroomseven.com
+cosmic-cheats.com
 crystalpvp.ru
 dl.aginjector.com
+gamefury.world
 hitman-pro.ru
 imtoken8.cc
+k1gkl25as.top
 klar.gg
-klikshop.buzz
 lindenappliances.co.za
-metrics.gocloudmaps.com
 nhatheptienchebinhduong.com
-nnnpanel.top
-nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -64,29 +65,34 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+phone-nis-tu.club
 prloglink.prsa7.top
+quickrack.sbs
 reauthenticator.com
-redroademail.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
+seo.cyberdefender.uk
+tradingviewprime.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 www.axhelp.top
 www.blackhattoolz.com
+www.hostingcloud.science
 www.jnhelp.top
 www.luuk-lifestyle.eu
-www.machelp.cloud
 xn--yh4bx88a.com
+xuyo.org
+xxx-click.com
 ```
 
-1 used cloudfront (0.21231422505307856%):
+1 used cloudfront (0.19047619047619047%):
 ```
 cdn.tagbox.io
 ```
 
-1 used ddosguard (0.21231422505307856%):
+1 used ddosguard (0.19047619047619047%):
 ```
 stealer.cy
 ```

@@ -1,177 +1,166 @@
 cloudflare
-sffe
-AkamaiNetStorage
 Apple
-AmazonS3
-Varnish
+Vercel
+nginx/1.25.5
+sffe
 Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0
 nginx
+AmazonS3
 AkamaiGHost
-BBC-GTM
-nginx/1.25.5
-nginx/1.24.0
-Vercel
 Google Frontend
-Apache
-ESF
-ATS
-nginx/1.22.0
 Netlify
-BunnyCDN-IL1-1236
+BBC-GTM
+Apache
+Varnish
+nginx/1.24.0
+ATS
+ESF
+awselb/2.0
+AkamaiNetStorage
+openresty
 Tengine
 Server
-9
+nginx/1.22.0
+BunnyCDN-CLT1-1088
 ddos-guard
-openresty
 QRATOR
+9
 Tengine/Aserver
 nginx/1.18.0 (Ubuntu)
-awselb/2.0
 envoy
 duo-api
-istio-envoy
 TLB
+istio-envoy
 DMS/1.0.42
+github.com
+Heroku
 Artisanal bits
+DataDome
 gws
+nginx/1.18.0
 GitHub.com
 Google Tag Manager
-github.com
-DataDome
-Heroku
 granian
 rhino-core-shield
 PAAS-WEB
 volt-adc
 nginx/1.22.1
 nginx/1.20.0
-cat factory 1.0
 AppleHttpServer/7347b443149f
 Bhoot
-Microsoft-HTTPAPI/2.0
+cat factory 1.0
 msk1/
 gunicorn
 nginx/1.26.2
 OXGW/0.0.0
-nginx/1.27.2
 unified-edge-router
-Oscar Platform 0.1788.0
-nginx/1.28.0
-myracloud
+nginx/1.27.2
+Oscar Platform 0.1789.0
 nginx/1.6.2
-nfront
 Angie
-cloud-gateway/cloud-gateway-4.6.40 (AVM)
+nfront
 nginx/1.26.1
-API Gateway
+cloud-gateway/cloud-gateway-4.6.40 (AVM)
 snooserv
-slack-www-hhvm-main-iad-fuon
-Kestrel
-namecheap-nginx
-Microsoft-IIS/10.0
-SGW
+slack-www-hhvm-main-iad-zrsp
 website
-APISIX/2.15.1
+Microsoft-IIS/10.0
+namecheap-nginx
+SGW
 tRPC-Gateway
+myracloud
+APISIX/2.15.1
 Squarespace
 StackAdapt
+API Gateway
+nginx/1.28.0
 nginx/1.17.8
-nginx/1.18.0
-nginx/1.14.0 (Ubuntu)
-cloudflare tsa_b
 Pepyaka
+cloudflare tsa_b
 ATS/9.2.11
 kittenx
+nginx/1.14.0 (Ubuntu)
 wbaas
 ZGS
+Microsoft-HTTPAPI/2.0
 CDN77-Turbo
 Lego Server
 NWS_Oversea_D1
-Byte-nginx
 jag
+Kestrel
 freenginx
+Byte-nginx
 GSE
 ws
-ab4dfb9ad50b
-7359daba8003
+39e096927fdd
+13da998c27e8
 ca7779061bef
+AMO-cookiemap/1.1
 Fastly
 sfdcedge
-AMO-cookiemap/1.1
-BunnyCDN-IL1-1070
 Skywalker/2.0/40003, istio-envoy
 UploadServer
 FRA7
-WAF
 AliyunOSS
+WAF
+gnv1
 JSP3/2.0.14
-giow2
-mw-web.eqiad.main-7fb99fd54d-qrt89
 dae
 Mastodon
 TencentEdgeOne
 NWS_Oversea_AP
-apache
-MSKTCMWEB12
-fife
-ImgHttp3.0.0
+7359daba8003
 stgw
-marco/3.2
-03bb6222ef3d
+apache
+imgix
+d42204a1e2c1
 QWS
 squid
-fr2/
+ab4dfb9ad50b
+fr1/
 jfe
-13da998c27e8
-9c8a3511aec4
-Skywalker/2.0/24003, openresty
 Apache-Coyote/1.1
-nginx/1.8.1
-Unknown
-support-content-ui
+proxygen-bolt
 web cache
 7742b1c501e2
+fb51760fbfe7
 2211df0df67f
-53cf89d08ed5
-fc09d303c115
-Apache/2.4.58 (Ubuntu)
+8980a0014692
 LiteSpeed
-Apache/2.4.52 (Ubuntu)
-Apache/2.4.41 (Ubuntu)
-Apache/2.4.6 (CentOS)
 Apache/2.2.24 (Unix) DAV/2
-Microsoft-IIS/8.5
-Apache/2.4.43 (Debian)
-Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
-nginx/1.20.1
-nginx/1.4.7
+Apache/2.4.52 (Ubuntu)
+Apache/2.4.6 (CentOS)
+Apache/2.4.58 (Ubuntu)
+Apache/2.4.41 (Ubuntu)
+Apache/2.2.15 (CentOS)
+nginx-reuseport/1.21.1
+nginx/1.24.0 (Ubuntu)
 Microsoft-IIS/6.0
-nginx/1.14.1
-Caddy, Bubbles
 Apache/2.4.7 (Ubuntu)
+nginx/1.4.7
+Microsoft-IIS/8.5
 Apache/2
 hcdn
 nginx/1.10.3 (Ubuntu)
+nginx/1.14.1
+nginx/1.20.1
 Apache/1.3.41 (Unix) PHP/4.4.9
-nginx-reuseport/1.21.1
-Apache/2.4.62 (Debian)
 wts/1.7.4
 Apache/2.4.37 (centos)
-Apache/1.3.34 (Win32) PHP/4.4.2
 OVHcloud
 Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
-Microsoft-IIS/7.5
+Apache/2.4.62 (Debian)
 Microsoft-IIS/8.0
-nginx/1.24.0 (Ubuntu)
 Apache/2.4.46 (cPanel) OpenSSL/1.1.1h mod_bwlimited/1.4 Phusion_Passenger/5.3.7
+Microsoft-IIS/7.5
 Apache/2.4.57 (Unix) OpenSSL/1.0.2k-fips
-DaouIDC
 nginx/1.27.4
-nginx/1.14.0
+Apache/1.3.34 (Win32) PHP/4.4.2
+DaouIDC
 Apache/2.2.17 (Unix) DAV/2 PHP/5.3.4
+nginx/1.14.0
 Apache/2.4.39 (Win32)
 Apache/2.4.41 (Unix) OpenSSL/1.1.1b PHP/5.3.16
-Apache/2.2.15 (CentOS)
 WebServer
 Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16
 openresty/1.21.4.1
@@ -180,37 +169,36 @@ Sucuri/Cloudproxy
 msys-et
 MacBook-Pro/2024
 nc -l -p 80
-qvqnetwork/0.1.0
-Apache/2.4.25 (Debian)
 Apache/2.4.65 (Debian)
+Apache/2.4.25 (Debian)
+qvqnetwork/0.1.0
 Raccoon Gateway
-Caddy
-Werkzeug/2.0.2 Python/3.10.12
-Nginx
 pages-server
-NginX
+Caddy
+Nginx
+Werkzeug/2.0.2 Python/3.10.12
 AtlassianEdge
+NginX
 Apache/ProXad [Jan 23 2019 20:05:46]
 Apache/2.4.59 (Debian)
 ADAS/1.0.214
 Pagely-ARES/1.22.2
-openresty+
 server
-Apache/2.4.62 () PHP/8.1.31
+openresty+
 Apache/2.4.65 (Ubuntu)
+Apache/2.4.62 () PHP/8.1.31
+Apache/2.4.63 (Ubuntu)
+nginx/1.21.5
 Apache/2.4.62 () OpenSSL/1.0.2k-fips PHP/8.1.29
 Apache/2.4.37 (Oracle Linux Server) mod_jk/1.2.48 OpenSSL/1.1.1k
-Apache/2.4.63 (Ubuntu)
-Apache/2.4.51 () OpenSSL/1.0.2k-fips PHP/7.4.21
-nginx/1.21.5
 nginx/1.27.0
 Apache/2.4.62 (Red Hat Enterprise Linux) OpenSSL/3.2.2 PHP/8.3.21
 akamai
 GRC/IIS Hybrid Application Webserver
 Caddy, nginx/1.25.5
 Jetty(11.0.24)
-loma.ml
-Caddy, Mastodon
-nginx/1.26.3
 lighttpd/1.4.59
+loma.ml
+nginx/1.26.3
+Caddy, Mastodon
 Caddy, Kestrel
