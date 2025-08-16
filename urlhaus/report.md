@@ -1,4 +1,4 @@
-525 domains tested. 79.61904761904762% were behind nothing (107 were behind something). 41 domains could not be tested.<br>
+520 domains tested. 77.11538461538461% were behind nothing (119 were behind something). 53 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,11 @@
 
 ```
 
-64 used cloudflare (12.19047619047619%):
+65 used cloudflare (12.5%):
 ```
 10086623.top
 24x7support.top
+6t.czlw.ru
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -32,7 +33,6 @@ api.ewfiles.net
 axhelp.top
 bestieslos.com
 boylegmfg.com
-checkfivem.com
 checkinetverifk.com
 classroomseven.com
 cosmic-cheats.com
@@ -44,7 +44,9 @@ imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
+mychecksecureconnect.cloud
 nhatheptienchebinhduong.com
+nusatoyota.co.id
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -66,33 +68,32 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 phone-nis-tu.club
+powerplayzone.rest
 prloglink.prsa7.top
-quickrack.sbs
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
 seo.cyberdefender.uk
-tradingviewprime.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 www.axhelp.top
 www.blackhattoolz.com
+www.carusoadvogados.com.br
 www.hostingcloud.science
 www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
-xuyo.org
 xxx-click.com
 ```
 
-1 used cloudfront (0.19047619047619047%):
-```
-cdn.tagbox.io
+0 used cloudfront (0.0%):
 ```
 
-1 used ddosguard (0.19047619047619047%):
+```
+
+1 used ddosguard (0.19230769230769232%):
 ```
 stealer.cy
 ```
