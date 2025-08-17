@@ -1,8 +1,7 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 56 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
-adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -24,6 +23,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-152 used cloudflare (15.2%):
+150 used cloudflare (15.0%):
 ```
 33across.com
 addtoany.com
@@ -112,7 +112,6 @@ indexww.com
 innovid.com
 investopedia.com
 iso.org
-it.com
 jotform.com
 jquery.com
 kick.com
@@ -154,7 +153,6 @@ prnewswire.com
 quora.com
 readthedocs.io
 researchgate.net
-ring.com
 roku.com
 sciencedirect.com
 sedo.com
@@ -199,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -207,14 +205,15 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -233,6 +232,7 @@ brave.com
 calendly.com
 checkpoint.com
 company-target.com
+cox.net
 curseforge.com
 datadoghq.com
 deviantart.com
@@ -284,7 +284,6 @@ shutterstock.com
 soundcloud.com
 sprinklr.com
 statuspage.io
-supercell.com
 surveymonkey.com
 synology.com
 t-online.de
@@ -298,12 +297,10 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
 wsj.com
-yelp.com
 zillow.com
 ```
 
@@ -373,8 +370,7 @@ launchdarkly.com
 lencr.org
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
-cox.net
 digicert.com
 ```
