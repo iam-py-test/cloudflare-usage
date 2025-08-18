@@ -1,4 +1,4 @@
-438 domains tested. 78.31050228310502% were behind nothing (95 were behind something). 35 domains could not be tested.<br>
+480 domains tested. 79.16666666666666% were behind nothing (100 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,11 @@
 
 ```
 
-59 used cloudflare (13.470319634703195%):
+65 used cloudflare (13.541666666666666%):
 ```
 10086623.top
 24x7support.top
+6t.czlw.ru
 acc.nmphelp.top
 acc.trjsp41.top
 acc.wtshelp.top
@@ -35,7 +36,7 @@ bkkil.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
-cosmic-cheats.com
+crystalpvp.ru
 dl.aginjector.com
 gamefury.world
 hitman-pro.ru
@@ -65,10 +66,12 @@ onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
+onyxstealthnet.de
 powerplayzone.rest
 prloglink.prsa7.top
 qiuy.org
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
 sanhack.com
 seo.cyberdefender.uk
@@ -76,8 +79,11 @@ toroking.xyz
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
+www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
+www.hostingcloud.science
+www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
@@ -87,7 +93,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.228310502283105%):
+1 used ddosguard (0.20833333333333334%):
 ```
 stealer.cy
 ```
