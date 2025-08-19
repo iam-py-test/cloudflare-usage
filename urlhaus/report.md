@@ -1,4 +1,4 @@
-480 domains tested. 79.16666666666666% were behind nothing (100 were behind something). 34 domains could not be tested.<br>
+475 domains tested. 78.52631578947368% were behind nothing (102 were behind something). 40 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-65 used cloudflare (13.541666666666666%):
+60 used cloudflare (12.631578947368421%):
 ```
 10086623.top
 24x7support.top
@@ -32,7 +32,6 @@ allendostmen.com
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-bkkil.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
@@ -40,7 +39,6 @@ crystalpvp.ru
 dl.aginjector.com
 gamefury.world
 hitman-pro.ru
-imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
@@ -69,9 +67,7 @@ onyxshieldcore.de
 onyxstealthnet.de
 powerplayzone.rest
 prloglink.prsa7.top
-qiuy.org
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sanhack.com
 seo.cyberdefender.uk
@@ -79,7 +75,6 @@ toroking.xyz
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
-www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
@@ -93,7 +88,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.20833333333333334%):
+1 used ddosguard (0.21052631578947367%):
 ```
 stealer.cy
 ```
@@ -103,9 +98,9 @@ stealer.cy
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.21052631578947367%):
 ```
-
+visualwikicloud.com
 ```
 
 0 used sucuri (0.0%):
