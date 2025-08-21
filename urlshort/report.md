@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-133 used cloudflare (48.36363636363637%):
+132 used cloudflare (48.0%):
 ```
 02ip.ru
 1sta.com
@@ -33,7 +33,6 @@ email-sendgrid-deep-linking.chewy.com
 2savvy.com
 2truth.com
 2tunes.com
-2tw.in
 2ya.com
 adf.ly
 adfoc.us
@@ -157,8 +156,9 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-12 used cloudfront (4.363636363636364%):
+13 used cloudfront (4.7272727272727275%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly

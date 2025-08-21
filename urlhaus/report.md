@@ -1,4 +1,4 @@
-487 domains tested. 78.64476386036962% were behind nothing (104 were behind something). 42 domains could not be tested.<br>
+477 domains tested. 79.24528301886792% were behind nothing (99 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,21 @@
 
 ```
 
-60 used cloudflare (12.320328542094455%):
+58 used cloudflare (12.159329140461216%):
 ```
 10086623.top
 24x7support.top
 acc.nmphelp.top
-acc.trjsp41.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
+anydeesk.ink
 api.ewfiles.net
+atm.rip
 axhelp.top
 bestieslos.com
+booking.captcha-message-extranet.com
 boylegmfg.com
-checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
@@ -41,9 +42,8 @@ imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
-mychecksecureconnect.cloud
-nhatheptienchebinhduong.com
 nusatoyota.co.id
+onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -64,13 +64,11 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-powerplayzone.rest
 prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
-seo.cyberdefender.uk
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
@@ -83,12 +81,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.20964360587002098%):
+```
+vault.appsuites.ai
 ```
 
-```
-
-1 used ddosguard (0.20533880903490762%):
+1 used ddosguard (0.20964360587002098%):
 ```
 stealer.cy
 ```
@@ -98,7 +96,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20533880903490762%):
+1 used fastly (0.20964360587002098%):
 ```
 visualwikicloud.com
 ```

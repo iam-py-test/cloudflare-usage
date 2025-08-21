@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+149 used cloudflare (14.899999999999999%):
 ```
 33across.com
 addtoany.com
@@ -101,6 +101,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -195,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -208,10 +209,10 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -282,7 +283,6 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
-sprinklr.com
 statuspage.io
 surveymonkey.com
 synology.com
