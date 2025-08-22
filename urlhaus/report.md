@@ -1,4 +1,4 @@
-477 domains tested. 79.24528301886792% were behind nothing (99 were behind something). 38 domains could not be tested.<br>
+481 domains tested. 77.75467775467776% were behind nothing (107 were behind something). 42 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-58 used cloudflare (12.159329140461216%):
+62 used cloudflare (12.889812889812891%):
 ```
 10086623.top
 24x7support.top
@@ -33,15 +33,19 @@ atm.rip
 axhelp.top
 bestieslos.com
 booking.captcha-message-extranet.com
+boos.caramelmojo.com
 boylegmfg.com
+checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
+frozi.cc
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
+mydllink.xyz
 nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
@@ -81,12 +85,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.20964360587002098%):
+1 used cloudfront (0.2079002079002079%):
 ```
 vault.appsuites.ai
 ```
 
-1 used ddosguard (0.20964360587002098%):
+1 used ddosguard (0.2079002079002079%):
 ```
 stealer.cy
 ```
@@ -96,7 +100,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.20964360587002098%):
+1 used fastly (0.2079002079002079%):
 ```
 visualwikicloud.com
 ```
