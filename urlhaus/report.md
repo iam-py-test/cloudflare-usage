@@ -1,4 +1,4 @@
-481 domains tested. 77.75467775467776% were behind nothing (107 were behind something). 42 domains could not be tested.<br>
+489 domains tested. 78.32310838445807% were behind nothing (106 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-62 used cloudflare (12.889812889812891%):
+62 used cloudflare (12.678936605316974%):
 ```
 10086623.top
 24x7support.top
@@ -27,19 +27,18 @@ acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
-anydeesk.ink
+anondrop.net
 api.ewfiles.net
-atm.rip
 axhelp.top
 bestieslos.com
 booking.captcha-message-extranet.com
-boos.caramelmojo.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
 frozi.cc
+goth.wtf
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
@@ -73,6 +72,7 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
+tok-info.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
@@ -85,12 +85,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.2079002079002079%):
+1 used cloudfront (0.2044989775051125%):
 ```
 vault.appsuites.ai
 ```
 
-1 used ddosguard (0.2079002079002079%):
+1 used ddosguard (0.2044989775051125%):
 ```
 stealer.cy
 ```
@@ -100,7 +100,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2079002079002079%):
+1 used fastly (0.2044989775051125%):
 ```
 visualwikicloud.com
 ```
