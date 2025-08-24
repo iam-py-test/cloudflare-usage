@@ -1,4 +1,4 @@
-489 domains tested. 78.32310838445807% were behind nothing (106 were behind something). 41 domains could not be tested.<br>
+509 domains tested. 76.03143418467585% were behind nothing (122 were behind something). 42 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-62 used cloudflare (12.678936605316974%):
+61 used cloudflare (11.984282907662083%):
 ```
 10086623.top
 24x7support.top
@@ -27,11 +27,12 @@ acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
+amazon-us53.com
 anondrop.net
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-booking.captcha-message-extranet.com
+blackhatusa.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
@@ -44,8 +45,6 @@ imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
-mydllink.xyz
-nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -85,12 +84,28 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-1 used cloudfront (0.2044989775051125%):
+17 used cloudfront (3.3398821218074657%):
 ```
+advancedinternalan.net
+amazeriencequant.net
+businesspdf.net
+cdasynergy.net
+connectdownldcup.net
+connectmediumduo.org
+download01.pdfscraper.site
+download05.masterlifemastermind.net
+download06.internetdownloadhub.biz
+gridnodeessentials.com
+itpdf.org
+ltdpdf.net
+manualsbyonestart.com
+pdffacts.net
+printwithonestart.com
+sendterhubnest.net
 vault.appsuites.ai
 ```
 
-1 used ddosguard (0.2044989775051125%):
+1 used ddosguard (0.19646365422396855%):
 ```
 stealer.cy
 ```
@@ -100,7 +115,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2044989775051125%):
+1 used fastly (0.19646365422396855%):
 ```
 visualwikicloud.com
 ```

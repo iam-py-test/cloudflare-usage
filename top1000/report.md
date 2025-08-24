@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 56 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 57 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -19,7 +19,6 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 news.com.au
@@ -43,7 +42,7 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -121,7 +120,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -196,7 +194,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -204,11 +202,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.de
+amazon.com.br
+amazon.es
 amazon.fr
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -254,7 +255,6 @@ ieee.org
 intentiq.com
 intercom.io
 ipify.org
-jetbrains.com
 latimes.com
 lijit.com
 line.me
@@ -313,11 +313,10 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com
