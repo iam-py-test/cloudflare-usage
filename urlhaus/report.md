@@ -1,4 +1,4 @@
-509 domains tested. 76.03143418467585% were behind nothing (122 were behind something). 42 domains could not be tested.<br>
+502 domains tested. 77.09163346613546% were behind nothing (115 were behind something). 40 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,10 @@
 
 ```
 
-61 used cloudflare (11.984282907662083%):
+60 used cloudflare (11.952191235059761%):
 ```
 10086623.top
+1h.vuregyy1.ru
 24x7support.top
 acc.nmphelp.top
 acc.wtshelp.top
@@ -32,19 +33,19 @@ anondrop.net
 api.ewfiles.net
 axhelp.top
 bestieslos.com
-blackhatusa.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
-frozi.cc
+fastmirror.click
 goth.wtf
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
+my1st.gold
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -71,41 +72,35 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
-tok-info.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 www.axhelp.top
 www.blackhattoolz.com
-www.carusoadvogados.com.br
 www.hostingcloud.science
 www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-17 used cloudfront (3.3398821218074657%):
+13 used cloudfront (2.589641434262948%):
 ```
 advancedinternalan.net
-amazeriencequant.net
-businesspdf.net
 cdasynergy.net
-connectdownldcup.net
-connectmediumduo.org
-download01.pdfscraper.site
+download01.sharkeagle.com
+download03.masterlifemastermind.net
+download04.masterlifemastermind.net
 download05.masterlifemastermind.net
+download05.pdfgj.com
 download06.internetdownloadhub.biz
-gridnodeessentials.com
 itpdf.org
-ltdpdf.net
-manualsbyonestart.com
-pdffacts.net
+pdffilehub.net
+pdfonestart.com
 printwithonestart.com
-sendterhubnest.net
 vault.appsuites.ai
 ```
 
-1 used ddosguard (0.19646365422396855%):
+1 used ddosguard (0.199203187250996%):
 ```
 stealer.cy
 ```
@@ -115,7 +110,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19646365422396855%):
+1 used fastly (0.199203187250996%):
 ```
 visualwikicloud.com
 ```

@@ -1,4 +1,4 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 5 domains could not be tested.<br>
+186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 5 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-56 used cloudflare (30.107526881720432%):
+57 used cloudflare (30.64516129032258%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -41,6 +41,7 @@ lawsocial.org
 lor.sh
 m.einverne.info
 m.n1l.dev
+maaw.social
 mas.to
 masto.es
 mastodon.buzhangjiuzhou.com

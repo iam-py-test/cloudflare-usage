@@ -1,4 +1,4 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 55 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+149 used cloudflare (14.899999999999999%):
 ```
 33across.com
 addtoany.com
@@ -120,6 +120,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -142,6 +143,7 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perfectdomain.com
 pexels.com
@@ -189,12 +191,11 @@ worldbank.org
 wyzecam.com
 x.com
 xhamster.com
-xhamster.desi
 zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -202,11 +203,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.it
@@ -255,6 +257,7 @@ ieee.org
 intentiq.com
 intercom.io
 ipify.org
+jetbrains.com
 latimes.com
 lijit.com
 line.me
@@ -278,6 +281,7 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
+sprinklr.com
 statuspage.io
 surveymonkey.com
 synology.com
@@ -294,18 +298,18 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
-warnerbros.com
 wattpad.com
 wired.com
 wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+4 used ddosguard (0.4%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
+pikabu.ru
 ```
 
 0 used edgecast (0.0%):
