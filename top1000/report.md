@@ -1,5 +1,5 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 55 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 58 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -23,6 +23,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -42,7 +43,7 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -82,6 +83,7 @@ cpanel.net
 creativecommons.org
 deepintent.com
 deepl.com
+dfn.nl
 digitalocean.com
 digitaloceanspaces.com
 discogs.com
@@ -100,7 +102,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -143,7 +144,6 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perfectdomain.com
 pexels.com
@@ -204,10 +204,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -304,12 +304,11 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -317,12 +316,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

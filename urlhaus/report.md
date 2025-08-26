@@ -1,4 +1,4 @@
-502 domains tested. 77.09163346613546% were behind nothing (115 were behind something). 40 domains could not be tested.<br>
+512 domains tested. 78.515625% were behind nothing (110 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-60 used cloudflare (11.952191235059761%):
+62 used cloudflare (12.109375%):
 ```
 10086623.top
 1h.vuregyy1.ru
@@ -28,28 +28,27 @@ acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
-amazon-us53.com
 anondrop.net
 api.ewfiles.net
 axhelp.top
 bestieslos.com
 boylegmfg.com
 checkinetverifk.com
+ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
 fastmirror.click
-goth.wtf
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
 my1st.gold
+nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -70,29 +69,27 @@ onyxstealthnet.de
 prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
+rs.mezi.bet
 rxquickpay.com
 sanhack.com
+tok-info.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 www.axhelp.top
 www.blackhattoolz.com
+www.carusoadvogados.com.br
 www.hostingcloud.science
 www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-13 used cloudfront (2.589641434262948%):
+8 used cloudfront (1.5625%):
 ```
 advancedinternalan.net
-cdasynergy.net
 download01.sharkeagle.com
-download03.masterlifemastermind.net
-download04.masterlifemastermind.net
-download05.masterlifemastermind.net
 download05.pdfgj.com
-download06.internetdownloadhub.biz
 itpdf.org
 pdffilehub.net
 pdfonestart.com
@@ -100,7 +97,7 @@ printwithonestart.com
 vault.appsuites.ai
 ```
 
-1 used ddosguard (0.199203187250996%):
+1 used ddosguard (0.1953125%):
 ```
 stealer.cy
 ```
@@ -110,7 +107,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.199203187250996%):
+1 used fastly (0.1953125%):
 ```
 visualwikicloud.com
 ```
