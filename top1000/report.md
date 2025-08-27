@@ -1,4 +1,4 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 59 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -23,7 +23,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-windows.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+149 used cloudflare (14.899999999999999%):
 ```
 33across.com
 addtoany.com
@@ -102,6 +102,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -204,14 +205,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.it
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -257,7 +258,7 @@ ieee.org
 intentiq.com
 intercom.io
 ipify.org
-jetbrains.com
+kargo.com
 latimes.com
 lijit.com
 line.me
@@ -281,7 +282,6 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
-sprinklr.com
 statuspage.io
 surveymonkey.com
 synology.com
@@ -298,6 +298,7 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
+warnerbros.com
 wattpad.com
 wired.com
 wsj.com
@@ -316,11 +317,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+etsy.com
 forbes.com
 github.io
 speedtest.net
