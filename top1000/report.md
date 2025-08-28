@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +44,7 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -122,7 +123,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -205,14 +205,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -305,11 +305,12 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+4 used ddosguard (0.4%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
+pikabu.ru
 ```
 
 0 used edgecast (0.0%):
@@ -317,10 +318,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 etsy.com
 forbes.com

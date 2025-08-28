@@ -1,4 +1,4 @@
-504 domains tested. 79.16666666666666% were behind nothing (105 were behind something). 35 domains could not be tested.<br>
+500 domains tested. 80.0% were behind nothing (100 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,21 @@
 
 ```
 
-65 used cloudflare (12.896825396825399%):
+61 used cloudflare (12.2%):
 ```
 10086623.top
-1h.vuregyy1.ru
 1h.xeteloi4.ru
-24x7support.top
 acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
+ahmm.ca
 allendostmen.com
 anondrop.net
 api.ewfiles.net
 axhelp.top
 bestieslos.com
 boylegmfg.com
-cdn.amazon-us54.com
 checkinetverifk.com
-ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 classroomseven.com
 clc.is
 crystalpvp.ru
@@ -46,7 +43,6 @@ imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
-nusatoyota.co.id
 omtoi101.com
 onedomainpro.com
 onyxaquarius.de
@@ -73,12 +69,12 @@ prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
 rs.bivemao6.ru
-rs.mezi.bet
 rxquickpay.com
 sanhack.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
+winscp.download
 www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
@@ -88,14 +84,14 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-3 used cloudfront (0.5952380952380952%):
+3 used cloudfront (0.6%):
 ```
 advancedinternalan.net
 itpdf.org
 printwithonestart.com
 ```
 
-1 used ddosguard (0.1984126984126984%):
+1 used ddosguard (0.2%):
 ```
 stealer.cy
 ```
@@ -105,7 +101,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1984126984126984%):
+1 used fastly (0.2%):
 ```
 visualwikicloud.com
 ```
