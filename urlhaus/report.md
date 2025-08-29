@@ -1,4 +1,4 @@
-500 domains tested. 80.0% were behind nothing (100 were behind something). 34 domains could not be tested.<br>
+494 domains tested. 76.11336032388664% were behind nothing (118 were behind something). 39 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,30 @@
 
 ```
 
-61 used cloudflare (12.2%):
+59 used cloudflare (11.94331983805668%):
 ```
 10086623.top
-1h.xeteloi4.ru
 acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 ahmm.ca
 allendostmen.com
-anondrop.net
 api.ewfiles.net
+api.ezilax.com
 axhelp.top
 bestieslos.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
-clc.is
 crystalpvp.ru
 dl.aginjector.com
+fvia.id.vn
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
-omtoi101.com
+nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -68,7 +67,6 @@ onyxstealthnet.de
 prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
-rs.bivemao6.ru
 rxquickpay.com
 sanhack.com
 trtmyanmar.com
@@ -84,14 +82,29 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-3 used cloudfront (0.6%):
+18 used cloudfront (3.643724696356275%):
 ```
 advancedinternalan.net
-itpdf.org
+download01.anxiousai.com
+download01.sharkeagle.com
+download03.pdfgj.com
+download04.pdfgj.com
+download05.pdfgj.com
+dynamicmemchannel.com
+essentialsignaltunnel.com
+generativezmedium.com
+micromacrotechbase.com
+nodesteamlink.net
+pdf-working.net
+pdffilehub.net
+pdfonestart.com
 printwithonestart.com
+tansmittunnel.com
+transmitcdnzion.com
+webdwnload.biz
 ```
 
-1 used ddosguard (0.2%):
+1 used ddosguard (0.20242914979757085%):
 ```
 stealer.cy
 ```
@@ -101,7 +114,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2%):
+1 used fastly (0.20242914979757085%):
 ```
 visualwikicloud.com
 ```
