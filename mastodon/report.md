@@ -1,4 +1,4 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 5 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 6 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-56 used cloudflare (30.107526881720432%):
+57 used cloudflare (30.64516129032258%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -28,6 +28,7 @@ bols.games
 cybergladius.social
 dicekey.jp
 eigenmagic.net
+elderscrolls.space
 freifunk.social
 india.goonj.xyz
 indiegameskey.net
