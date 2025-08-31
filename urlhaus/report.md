@@ -1,4 +1,4 @@
-498 domains tested. 78.1124497991968% were behind nothing (109 were behind something). 36 domains could not be tested.<br>
+516 domains tested. 75.0% were behind nothing (129 were behind something). 52 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-56 used cloudflare (11.244979919678714%):
+60 used cloudflare (11.627906976744185%):
 ```
 10086623.top
 acc.nmphelp.top
@@ -27,19 +27,20 @@ acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 axhelp.top
+belezapuracosmetica.com
 bestieslos.com
 boylegmfg.com
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 dl.aginjector.com
-dw.c4kdeliver.top
 fvia.id.vn
 hitman-pro.ru
 imtoken8.cc
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
+mconnectsz.nsocumentzs.com
 nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
@@ -65,11 +66,14 @@ onyxstealthnet.de
 pf.vozunaa0.ru
 prloglink.prsa7.top
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
+sanhack.com
 tadanohito.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
+we.vupabya1.ru
 www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
@@ -79,8 +83,9 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-14 used cloudfront (2.8112449799196786%):
+15 used cloudfront (2.9069767441860463%):
 ```
+advancedinternalan.net
 advancedtransmitart.net
 download01.anxiousai.com
 download01.sharkeagle.com
@@ -91,13 +96,13 @@ dynamicmemchannel.com
 essentialsignaltunnel.com
 generativezmedium.com
 micromacrotechbase.com
-nodesteamlink.net
+onestartbrowser.com
 pdffilehub.net
 printwithonestart.com
 transmitcdnzion.com
 ```
 
-1 used ddosguard (0.2008032128514056%):
+1 used ddosguard (0.1937984496124031%):
 ```
 stealer.cy
 ```
@@ -107,7 +112,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.2008032128514056%):
+1 used fastly (0.1937984496124031%):
 ```
 visualwikicloud.com
 ```
@@ -147,7 +152,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2008032128514056%):
+0 used netlify (0.0%):
 ```
-paradoxcheat.fun
+
 ```
