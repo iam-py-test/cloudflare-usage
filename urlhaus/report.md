@@ -1,4 +1,4 @@
-516 domains tested. 75.0% were behind nothing (129 were behind something). 52 domains could not be tested.<br>
+501 domains tested. 78.64271457085829% were behind nothing (107 were behind something). 35 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,18 @@
 
 ```
 
-60 used cloudflare (11.627906976744185%):
+57 used cloudflare (11.377245508982035%):
 ```
-10086623.top
 acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 axhelp.top
-belezapuracosmetica.com
 bestieslos.com
+blackhatusa.com
 boylegmfg.com
+bypass188v144.xyz
+ch.hekulei5.ru
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
@@ -41,7 +42,6 @@ k1gkl25as.top
 klar.gg
 lindenappliances.co.za
 mconnectsz.nsocumentzs.com
-nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -51,7 +51,6 @@ onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
-onyxguardwave.de
 onyxironvault.de
 onyxleo.de
 onyxnexguard.de
@@ -64,12 +63,10 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 pf.vozunaa0.ru
-prloglink.prsa7.top
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
-tadanohito.com
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
@@ -83,10 +80,8 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-15 used cloudfront (2.9069767441860463%):
+13 used cloudfront (2.5948103792415167%):
 ```
-advancedinternalan.net
-advancedtransmitart.net
 download01.anxiousai.com
 download01.sharkeagle.com
 download03.pdfgj.com
@@ -102,7 +97,7 @@ printwithonestart.com
 transmitcdnzion.com
 ```
 
-1 used ddosguard (0.1937984496124031%):
+1 used ddosguard (0.19960079840319359%):
 ```
 stealer.cy
 ```
@@ -112,7 +107,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1937984496124031%):
+1 used fastly (0.19960079840319359%):
 ```
 visualwikicloud.com
 ```
