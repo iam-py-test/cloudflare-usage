@@ -1,4 +1,4 @@
-200 domains tested. 63.0% were behind nothing (74 were behind something). 3 domains could not be tested.<br>
+200 domains tested. 60.0% were behind nothing (80 were behind something). 5 domains could not be tested.<br>
 3 used akamai (1.5%):
 ```
 anandabazar.com
@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-34 used cloudflare (17.0%):
+36 used cloudflare (18.0%):
 ```
 972mag.com
 alarabiya.net
@@ -32,6 +32,8 @@ bleepingcomputer.com
 canarymedia.com
 coloradopolitics.com
 dexerto.com
+economist.com
+economist.com
 flatwaterfreepress.org
 freedom.press
 gizmodo.com
@@ -59,15 +61,13 @@ theverge.com
 washingtontimes.com
 ```
 
-30 used cloudfront (15.0%):
+28 used cloudfront (14.000000000000002%):
 ```
 SeattleTimes.com
 abcnews.go.com
 andhrajyothy.com
 csmonitor.com
 drudgereport.com
-economist.com
-economist.com
 espn.com
 fivethirtyeight.com
 fortune.com
@@ -103,12 +103,16 @@ wsj.com
 
 ```
 
-4 used fastly (2.0%):
+8 used fastly (4.0%):
 ```
 bbc.com
 bbc.com
+bloomberg.com
 cbsnews.com
+expressnews.com
 forbes.com
+houstonchronicle.com
+sfgate.com
 ```
 
 0 used sucuri (0.0%):

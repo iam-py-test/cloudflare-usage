@@ -1,4 +1,4 @@
-223 domains tested. 57.399103139013455% were behind nothing (95 were behind something). 12 domains could not be tested.<br>
+223 domains tested. 57.847533632286996% were behind nothing (94 were behind something). 12 domains could not be tested.<br>
 4 used akamai (1.7937219730941705%):
 ```
 easylist-downloads.adblockplus.org
@@ -23,7 +23,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-57 used cloudflare (25.56053811659193%):
+56 used cloudflare (25.112107623318387%):
 ```
 1275.ru
 abp.tt.codes
@@ -81,7 +81,6 @@ www.malwaredomainlist.com
 www.stopforumspam.com
 www.team-cymru.org
 www.zoso.ro
-zonefiles.io
 ```
 
 1 used cloudfront (0.4484304932735426%):
