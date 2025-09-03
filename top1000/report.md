@@ -1,4 +1,4 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 55 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ b-cdn.net
 
 ```
 
-146 used cloudflare (14.6%):
+147 used cloudflare (14.7%):
 ```
 33across.com
 addtoany.com
@@ -91,9 +91,9 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-ecosia.org
 entrust.net
 epicgames.com
+epicgames.dev
 eu-1-id5-sync.com
 expireddomains.com
 fiverr.com
@@ -130,6 +130,7 @@ mediafire.com
 mediatek.com
 medium.com
 mgid.com
+moloco.com
 myshopify.com
 networkadvertising.org
 nexusmods.com
@@ -194,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -202,11 +203,11 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.com
 amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -229,6 +230,7 @@ company-target.com
 cox.net
 curseforge.com
 datadoghq.com
+deltaork.com
 deviantart.com
 doi.org
 dotomi.com
@@ -271,6 +273,7 @@ primevideo.com
 pubmatic.com
 rapid7.com
 rayjump.com
+realtor.com
 redfin.com
 repubblica.it
 reuters.com
@@ -278,6 +281,7 @@ ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
+supercell.com
 surveymonkey.com
 synology.com
 t-online.de
@@ -292,6 +296,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
