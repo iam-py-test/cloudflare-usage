@@ -1,4 +1,4 @@
-275 domains tested. 43.63636363636363% were behind nothing (155 were behind something). 7 domains could not be tested.<br>
+275 domains tested. 43.27272727272727% were behind nothing (156 were behind something). 7 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-132 used cloudflare (48.0%):
+133 used cloudflare (48.36363636363637%):
 ```
 02ip.ru
 1sta.com
@@ -70,6 +70,7 @@ foot.wiki
 funurl.com
 gamergirl.pro
 gamingfun.me
+goo.su
 grabify.link
 grabify.world
 headplug.com
