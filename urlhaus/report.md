@@ -1,4 +1,4 @@
-495 domains tested. 77.17171717171716% were behind nothing (113 were behind something). 36 domains could not be tested.<br>
+501 domains tested. 77.64471057884231% were behind nothing (112 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,30 @@
 
 ```
 
-70 used cloudflare (14.14141414141414%):
+73 used cloudflare (14.570858283433132%):
 ```
 10086623.top
-11.jujosuu4.ru
 acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
 acrobat-updater.com
 allendostmen.com
-avast.cucy.ru
 axhelp.top
 bestieslos.com
 boylegmfg.com
 checkinetverifk.com
 clgnymc.org
-crisp.cucy.ru
 crystalpvp.ru
+cv.bezyweo.ru
+cv.kogudoo.ru
+cv.koxulaa.ru
+cv.pysywao.ru
+cv.radinau.ru
 dl.aginjector.com
-ewg.jujosuu4.ru
+dw.c4kdeliver.top
 fvia.id.vn
 hitman-pro.ru
 imtoken8.cc
-incredibletadoba.com
 it.fobiweu2.ru
 k1gkl25as.top
 klar.gg
@@ -69,9 +70,10 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-ph.safofoe5.ru
+op.koxulaa.ru
+op.pysywao.ru
+op.radinau.ru
 reauthenticator.com
-retirementscholarship.com
 reusable-flex.com
 rxquickpay.com
 sanhack.com
@@ -85,6 +87,7 @@ wtg.xajaqoy.ru
 wug.hekulei5.ru
 wwmariners.com
 www.axhelp.top
+www.bancarioscornelio.com.br
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
@@ -93,15 +96,12 @@ www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
 
-4 used cloudfront (0.8080808080808081%):
-```
-download01.anxiousai.com
-dynamicmemchannel.com
-essentialsignaltunnel.com
-generativezmedium.com
+0 used cloudfront (0.0%):
 ```
 
-1 used ddosguard (0.20202020202020202%):
+```
+
+1 used ddosguard (0.19960079840319359%):
 ```
 stealer.cy
 ```
@@ -111,7 +111,7 @@ stealer.cy
 
 ```
 
-2 used fastly (0.40404040404040403%):
+2 used fastly (0.39920159680638717%):
 ```
 thatdimensionalwebsite.com
 visualwikicloud.com

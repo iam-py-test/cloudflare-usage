@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -101,7 +101,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -121,7 +120,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -133,6 +131,7 @@ medium.com
 mgid.com
 moloco.com
 myshopify.com
+name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
@@ -196,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -207,12 +206,12 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -231,7 +230,6 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
-company-target.com
 cox.net
 curseforge.com
 datadoghq.com
@@ -265,12 +263,10 @@ kargo.com
 latimes.com
 lijit.com
 line.me
-name.com
 nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
-note.com
 onelink.me
 onet.pl
 pbs.org
@@ -302,6 +298,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
