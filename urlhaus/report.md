@@ -1,4 +1,4 @@
-501 domains tested. 77.64471057884231% were behind nothing (112 were behind something). 36 domains could not be tested.<br>
+506 domains tested. 75.49407114624506% were behind nothing (124 were behind something). 48 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,28 @@
 
 ```
 
-73 used cloudflare (14.570858283433132%):
+74 used cloudflare (14.624505928853754%):
 ```
 10086623.top
-acc.nmphelp.top
 acc.wtshelp.top
 accesspoint.cc
-acrobat-updater.com
+agriculture-lawyer.com
 allendostmen.com
 axhelp.top
 bestieslos.com
 boylegmfg.com
 checkinetverifk.com
-clgnymc.org
 crystalpvp.ru
-cv.bezyweo.ru
+ctktravel.com
+cv.bizahao.ru
+cv.bojyqiy.ru
+cv.jikeqye.ru
 cv.kogudoo.ru
 cv.koxulaa.ru
 cv.pysywao.ru
 cv.radinau.ru
+cv.wolyviy.ru
 dl.aginjector.com
-dw.c4kdeliver.top
 fvia.id.vn
 hitman-pro.ru
 imtoken8.cc
@@ -47,7 +48,7 @@ it.fobiweu2.ru
 k1gkl25as.top
 klar.gg
 lindenappliances.co.za
-loe.jujosuu4.ru
+ng.firu6ui8.ru
 nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
@@ -78,20 +79,20 @@ reusable-flex.com
 rxquickpay.com
 sanhack.com
 svp.lecyfoe.ru
+tku.rowe6yi5.ru
+tme.hicymui.ru
+tpr.hati3ea0.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
 vd.kygupyy.ru
 vsa.lalequo.ru
 wtg.xajaqoy.ru
-wug.hekulei5.ru
-wwmariners.com
 www.axhelp.top
 www.bancarioscornelio.com.br
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
-www.jnhelp.top
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 ```
@@ -101,7 +102,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.19960079840319359%):
+1 used ddosguard (0.1976284584980237%):
 ```
 stealer.cy
 ```
@@ -111,9 +112,8 @@ stealer.cy
 
 ```
 
-2 used fastly (0.39920159680638717%):
+1 used fastly (0.1976284584980237%):
 ```
-thatdimensionalwebsite.com
 visualwikicloud.com
 ```
 

@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-148 used cloudflare (14.799999999999999%):
+149 used cloudflare (14.899999999999999%):
 ```
 33across.com
 addtoany.com
@@ -101,6 +101,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -120,6 +121,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -131,7 +133,6 @@ medium.com
 mgid.com
 moloco.com
 myshopify.com
-name.com
 networkadvertising.org
 nexusmods.com
 nist.gov
@@ -195,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -203,15 +204,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -263,10 +262,12 @@ kargo.com
 latimes.com
 lijit.com
 line.me
+name.com
 nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+note.com
 onelink.me
 onet.pl
 pbs.org
@@ -276,7 +277,6 @@ pubmatic.com
 rapid7.com
 rayjump.com
 realtor.com
-redfin.com
 repubblica.it
 reuters.com
 ryanair.com
@@ -298,10 +298,10 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
+wps.com
 wsj.com
 zillow.com
 ```
