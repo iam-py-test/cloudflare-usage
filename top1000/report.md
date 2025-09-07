@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 57 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -18,12 +18,15 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+macys.com
 marriott.com
 mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
+webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +46,7 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -101,16 +104,15 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
+hostgator.com.br
 hubspot.com
 hugedomains.com
 ietf.org
 ikea.com
 indeed.com
 indexww.com
-innovid.com
 investopedia.com
 iso.org
 jotform.com
@@ -196,7 +198,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -209,8 +211,8 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.it
 amazonaws.com
 amazontrust.com
@@ -267,7 +269,6 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
-note.com
 onelink.me
 onet.pl
 pbs.org
@@ -277,6 +278,7 @@ pubmatic.com
 rapid7.com
 rayjump.com
 realtor.com
+redfin.com
 repubblica.it
 reuters.com
 ryanair.com
@@ -298,6 +300,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -319,12 +322,11 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net

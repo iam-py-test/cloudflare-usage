@@ -1,4 +1,4 @@
-506 domains tested. 75.49407114624506% were behind nothing (124 were behind something). 48 domains could not be tested.<br>
+510 domains tested. 73.52941176470588% were behind nothing (135 were behind something). 51 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,41 +19,46 @@
 
 ```
 
-74 used cloudflare (14.624505928853754%):
+82 used cloudflare (16.07843137254902%):
 ```
 10086623.top
 acc.wtshelp.top
+accessdennied.uk
 accesspoint.cc
 agriculture-lawyer.com
 allendostmen.com
 axhelp.top
 bestieslos.com
+bindpagos.org
 boylegmfg.com
 checkinetverifk.com
+cnnetwork.uk
 crystalpvp.ru
 ctktravel.com
 cv.bizahao.ru
 cv.bojyqiy.ru
 cv.jikeqye.ru
-cv.kogudoo.ru
 cv.koxulaa.ru
 cv.pysywao.ru
 cv.radinau.ru
 cv.wolyviy.ru
+dk.fokymeu.ru
 dl.aginjector.com
+dropbox.nowdownloads.com
 fvia.id.vn
 hitman-pro.ru
+hs.tyjyxie.ru
 imtoken8.cc
-it.fobiweu2.ru
 k1gkl25as.top
+kilakila.cl
 klar.gg
 lindenappliances.co.za
+mclighthouse.ir
+mra.teziriy.ru
 ng.firu6ui8.ru
-nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -74,27 +79,30 @@ onyxstealthnet.de
 op.koxulaa.ru
 op.pysywao.ru
 op.radinau.ru
+pk.teziriy.ru
 reauthenticator.com
-reusable-flex.com
+rka.firu6ui8.ru
+roraffle.net
 rxquickpay.com
 sanhack.com
-svp.lecyfoe.ru
-tku.rowe6yi5.ru
-tme.hicymui.ru
 tpr.hati3ea0.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
 upgradegc.com
-vd.kygupyy.ru
-vsa.lalequo.ru
-wtg.xajaqoy.ru
+vipcncnetwork.com
+vra.fokymeu.ru
+vru.xapomyo.ru
 www.axhelp.top
 www.bancarioscornelio.com.br
 www.blackhattoolz.com
 www.carusoadvogados.com.br
+www.cnnetwork.uk
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+www.vipcncnetwork.com
 xn--yh4bx88a.com
+yp.rijo6oe1.ru
+zom.tyjyxie.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -102,7 +110,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used ddosguard (0.1976284584980237%):
+1 used ddosguard (0.19607843137254902%):
 ```
 stealer.cy
 ```
@@ -112,7 +120,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.1976284584980237%):
+1 used fastly (0.19607843137254902%):
 ```
 visualwikicloud.com
 ```
