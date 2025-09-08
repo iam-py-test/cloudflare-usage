@@ -1,4 +1,4 @@
-510 domains tested. 73.52941176470588% were behind nothing (135 were behind something). 51 domains could not be tested.<br>
+503 domains tested. 72.36580516898609% were behind nothing (139 were behind something). 59 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,32 @@
 
 ```
 
-82 used cloudflare (16.07843137254902%):
+78 used cloudflare (15.50695825049702%):
 ```
 10086623.top
-acc.wtshelp.top
 accessdennied.uk
 accesspoint.cc
-agriculture-lawyer.com
 allendostmen.com
 axhelp.top
 bestieslos.com
-bindpagos.org
 boylegmfg.com
+bp.muzodoa.ru
 checkinetverifk.com
 cnnetwork.uk
 crystalpvp.ru
-ctktravel.com
-cv.bizahao.ru
-cv.bojyqiy.ru
-cv.jikeqye.ru
-cv.koxulaa.ru
-cv.pysywao.ru
-cv.radinau.ru
-cv.wolyviy.ru
+ctu.poxyway.ru
 dk.fokymeu.ru
 dl.aginjector.com
+dr.hulenao.ru
 dropbox.nowdownloads.com
 fvia.id.vn
+gri.cyzukae.ru
 hitman-pro.ru
 hs.tyjyxie.ru
 imtoken8.cc
+jl.pubarey.ru
 k1gkl25as.top
-kilakila.cl
+kal.biryquo.ru
 klar.gg
 lindenappliances.co.za
 mclighthouse.ir
@@ -59,7 +53,7 @@ ng.firu6ui8.ru
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
-onyxcyberapex.de
+onyxcryptorix.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
@@ -76,22 +70,23 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-op.koxulaa.ru
-op.pysywao.ru
-op.radinau.ru
 pk.teziriy.ru
+qn.xapomyo.ru
 reauthenticator.com
 rka.firu6ui8.ru
 roraffle.net
 rxquickpay.com
 sanhack.com
-tpr.hati3ea0.ru
+sno.pubarey.ru
 trtmyanmar.com
 trungtambaohanhmaylanh.com
+tz.vikidii.ru
 upgradegc.com
-vipcncnetwork.com
+ve.penodoa.ru
+vm.cyzukae.ru
 vra.fokymeu.ru
 vru.xapomyo.ru
+wa.poxyway.ru
 www.axhelp.top
 www.bancarioscornelio.com.br
 www.blackhattoolz.com
@@ -102,6 +97,7 @@ www.luuk-lifestyle.eu
 www.vipcncnetwork.com
 xn--yh4bx88a.com
 yp.rijo6oe1.ru
+zod.fypufea.ru
 zom.tyjyxie.ru
 ```
 
@@ -110,7 +106,7 @@ zom.tyjyxie.ru
 
 ```
 
-1 used ddosguard (0.19607843137254902%):
+1 used ddosguard (0.19880715705765406%):
 ```
 stealer.cy
 ```
@@ -120,7 +116,7 @@ stealer.cy
 
 ```
 
-1 used fastly (0.19607843137254902%):
+1 used fastly (0.19880715705765406%):
 ```
 visualwikicloud.com
 ```
