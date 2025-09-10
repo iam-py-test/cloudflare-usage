@@ -1,4 +1,4 @@
-481 domains tested. 74.22037422037423% were behind nothing (124 were behind something). 42 domains could not be tested.<br>
+489 domains tested. 76.48261758691206% were behind nothing (115 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,53 @@
 
 ```
 
-81 used cloudflare (16.839916839916842%):
+78 used cloudflare (15.950920245398773%):
 ```
 10086623.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 axhelp.top
+best.zyrupoe.ru
 bestieslos.com
 boylegmfg.com
 bp.muzodoa.ru
 cdn.hyrule.pics
 checkinetverifk.com
+classroomseven.com
 crystalpvp.ru
 ctu.poxyway.ru
 dl.aginjector.com
-dr.hulenao.ru
 fileripple.com
 fvia.id.vn
-gri.cyzukae.ru
+gla.niwunae.ru
+go.pemi9cai6.ru
 hitman-pro.ru
-hs.tyjyxie.ru
+hs.fypufea.ru
 imtoken8.cc
-indialign.com
 jl.dovagua.ru
-jl.pubarey.ru
 k1gkl25as.top
-kal.biryquo.ru
 klar.gg
 kro.sehamyu.ru
 lindenappliances.co.za
 mclighthouse.ir
-mra.teziriy.ru
+ms-team-ping1.com
+ms-team-ping2.com
+ms-team-ping3.com
+ms-team-ping4.com
+ms-team-ping5.com
+ms-team-ping6.com
 nusatoyota.co.id
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
+onyxcryptorix.de
 onyxcyberapex.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxfortitech.de
 onyxguardshift.de
 onyxguardwave.de
-onyxironvault.de
 onyxleo.de
 onyxnexguard.de
 onyxprotectech.de
@@ -72,35 +76,28 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-pk.teziriy.ru
-pubshierstext.top
-qn.xapomyo.ru
 reauthenticator.com
 reusable-flex.com
 roraffle.net
 rxquickpay.com
 sanhack.com
+sne.dovagua.ru
 sno.pubarey.ru
 tma.penodoa.ru
-trtmyanmar.com
 trungtambaohanhmaylanh.com
-tz.vikidii.ru
 upgradegc.com
 va.sehamyu.ru
 ve.penodoa.ru
-vm.cyzukae.ru
-vru.xapomyo.ru
+vk.denumeu.ru
 wa.poxyway.ru
 www.axhelp.top
 www.bancarioscornelio.com.br
 www.blackhattoolz.com
 www.carusoadvogados.com.br
-www.cnnetwork.uk
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 zod.fypufea.ru
-zom.tyjyxie.ru
 zu.niwunae.ru
 ```
 
@@ -119,7 +116,7 @@ zu.niwunae.ru
 
 ```
 
-1 used fastly (0.2079002079002079%):
+1 used fastly (0.2044989775051125%):
 ```
 visualwikicloud.com
 ```
