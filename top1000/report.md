@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 addtoany.com
@@ -160,6 +160,7 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
+skroutz.gr
 smartadserver.com
 sourceforge.net
 spamhaus.org
@@ -194,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -203,11 +204,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
+amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -296,6 +299,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -305,12 +309,11 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):

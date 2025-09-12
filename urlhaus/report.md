@@ -1,4 +1,4 @@
-503 domains tested. 74.75149105367794% were behind nothing (127 were behind something). 37 domains could not be tested.<br>
+559 domains tested. 69.23076923076923% were behind nothing (172 were behind something). 56 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,47 +19,65 @@
 
 ```
 
-89 used cloudflare (17.693836978131213%):
+115 used cloudflare (20.572450805008945%):
 ```
 10086623.top
 2908.photolives.info
+a.dasurie36.ru
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
+also.pykokiu43.ru
+app-ups.com
+as.ty1un.ru
 axhelp.top
-best.zyrupoe.ru
 bestieslos.com
+bet.pykokiu43.ru
+bo.gunim5yi8.ru
 boylegmfg.com
+by.ty1un.ru
 checkinetverifk.com
+classroomseven.com
 crystalpvp.ru
+cute.jibiw8aa5.ru
+dear.kuryc7yy1.ru
+deep.lilek4au2.ru
 dl.aginjector.com
 dr.gowuhei.ru
 dr.sapafou.ru
+e.kilut4ou8.ru
 fvia.id.vn
-gla.niwunae.ru
+g.kilut4ou8.ru
 go.pemi9cai6.ru
+hb.wi9ik.ru
 hitman-pro.ru
 hl.naberui.ru
-hs.fypufea.ru
 imtoken8.cc
-jl.dovagua.ru
 k1gkl25as.top
-kl.zyrupoe.ru
+kj.by3iq.ru
 klar.gg
 kli.sojokiy.ru
-kro.sehamyu.ru
-ks.rawimoi.ru
+l.dasurie36.ru
+lean.jibiw8aa5.ru
 lindenappliances.co.za
+luck.pykokiu43.ru
 lup.gowuhei.ru
+mclighthouse.ir
+md.rexykye2.ru
 mri.jozotea.ru
+mro.cubaqay.ru
 ms-team-ping1.com
 ms-team-ping2.com
 ms-team-ping3.com
 ms-team-ping4.com
 ms-team-ping5.com
 ms-team-ping6.com
+ms-team-ping7.com
 mta.sapafou.ru
+n.wofaraa29.ru
+neat.kuryc7yy1.ru
 nusatoyota.co.id
+on.kilut4ou8.ru
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -81,35 +99,43 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-ql.dapusey.ru
+pe.gunim5yi8.ru
+pink.kuryc7yy1.ru
+poppy.monster
 qm.sojokiy.ru
 qx.jozotea.ru
 reauthenticator.com
 reusable-flex.com
+rich.jibiw8aa5.ru
 rka.qisytui.ru
 roraffle.net
 rxquickpay.com
+s.kilut4ou8.ru
 sanhack.com
-sne.dovagua.ru
+star.gunim5yi8.ru
+t.kilut4ou8.ru
+tall.jibiw8aa5.ru
+te.gunim5yi8.ru
 tildaras.shop
-tiv.lizusey.ru
+tiny.kuryc7yy1.ru
 trungtambaohanhmaylanh.com
 upgradegc.com
-va.sehamyu.ru
+ups-supp.com
+vast.kuryc7yy1.ru
 vex.naberui.ru
-vex.zyrupoe.ru
 vk.denumeu.ru
+wd.gunim5yi8.ru
+wise.jibiw8aa5.ru
+wo.by3iq.ru
 www.axhelp.top
-www.bancarioscornelio.com.br
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
-ym.lizusey.ru
+xrp.dasurie36.ru
 yn.qisytui.ru
-zod.fypufea.ru
-zu.niwunae.ru
+za.cubaqay.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -127,7 +153,7 @@ zu.niwunae.ru
 
 ```
 
-1 used fastly (0.19880715705765406%):
+1 used fastly (0.17889087656529518%):
 ```
 visualwikicloud.com
 ```
