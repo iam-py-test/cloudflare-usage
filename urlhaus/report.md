@@ -1,4 +1,4 @@
-559 domains tested. 69.23076923076923% were behind nothing (172 were behind something). 56 domains could not be tested.<br>
+591 domains tested. 65.82064297800339% were behind nothing (202 were behind something). 70 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-115 used cloudflare (20.572450805008945%):
+131 used cloudflare (22.165820642978005%):
 ```
 10086623.top
 2908.photolives.info
@@ -28,55 +28,68 @@ acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 also.pykokiu43.ru
+an.boku0.ru
+anythingcanbethissub.chat1.store
 app-ups.com
-as.ty1un.ru
+as.boku0.ru
+at.boku0.ru
 axhelp.top
+be.boku0.ru
 bestieslos.com
 bet.pykokiu43.ru
 bo.gunim5yi8.ru
 boylegmfg.com
-by.ty1un.ru
+bti.fo1od.ru
+by.boku0.ru
+by.xe3ax.ru
+calm.vudeh0ae3.ru
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
 cute.jibiw8aa5.ru
+cy.fo1od.ru
 dear.kuryc7yy1.ru
 deep.lilek4au2.ru
 dl.aginjector.com
-dr.gowuhei.ru
-dr.sapafou.ru
+do.boku-0.ru
+du.xe3ax.ru
 e.kilut4ou8.ru
 fvia.id.vn
 g.kilut4ou8.ru
-go.pemi9cai6.ru
-hb.wi9ik.ru
+go.boku-0.ru
+ha.bi3ux.ru
+he.boku-0.ru
 hitman-pro.ru
-hl.naberui.ru
+if.boku-0.ru
 imtoken8.cc
+in.boku-0.ru
+is.buno8.ru
+it.buno8.ru
+jo.qe3yn.ru
 k1gkl25as.top
-kj.by3iq.ru
+keen.vudeh0ae3.ru
 klar.gg
-kli.sojokiy.ru
+kri.xe3ax.ru
+l.bi3ux.ru
 l.dasurie36.ru
 lean.jibiw8aa5.ru
 lindenappliances.co.za
 luck.pykokiu43.ru
-lup.gowuhei.ru
-mclighthouse.ir
+lv.we4ex.ru
+md.cykugeu.ru
 md.rexykye2.ru
-mri.jozotea.ru
-mro.cubaqay.ru
-ms-team-ping1.com
-ms-team-ping2.com
-ms-team-ping3.com
-ms-team-ping4.com
-ms-team-ping5.com
-ms-team-ping6.com
-ms-team-ping7.com
-mta.sapafou.ru
+me.buno8.ru
+me.fo1od.ru
+microsoft-analyse.com
+mox.we4ex.ru
+mri.bi3ux.ru
 n.wofaraa29.ru
 neat.kuryc7yy1.ru
+nl.qe3yn.ru
+no.buno8.ru
 nusatoyota.co.id
+of.buno8.ru
+on.ciqe8.ru
 on.kilut4ou8.ru
 onedomainpro.com
 onyxaquarius.de
@@ -99,43 +112,46 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+or.ciqe8.ru
 pe.gunim5yi8.ru
 pink.kuryc7yy1.ru
+pne.xe3ax.ru
 poppy.monster
-qm.sojokiy.ru
-qx.jozotea.ru
+pru.qe3yn.ru
+qra.we4ex.ru
 reauthenticator.com
 reusable-flex.com
 rich.jibiw8aa5.ru
-rka.qisytui.ru
 roraffle.net
+rq.fo1od.ru
 rxquickpay.com
 s.kilut4ou8.ru
 sanhack.com
 star.gunim5yi8.ru
 t.kilut4ou8.ru
+ta.qe3yn.ru
 tall.jibiw8aa5.ru
 te.gunim5yi8.ru
 tildaras.shop
 tiny.kuryc7yy1.ru
+tne.we4ex.ru
 trungtambaohanhmaylanh.com
 upgradegc.com
 ups-supp.com
+va.xe3ax.ru
 vast.kuryc7yy1.ru
-vex.naberui.ru
-vk.denumeu.ru
+vex.qe3yn.ru
 wd.gunim5yi8.ru
 wise.jibiw8aa5.ru
-wo.by3iq.ru
 www.axhelp.top
 www.blackhattoolz.com
-www.carusoadvogados.com.br
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+xal.fo1od.ru
 xn--yh4bx88a.com
 xrp.dasurie36.ru
-yn.qisytui.ru
-za.cubaqay.ru
+zi.we4ex.ru
+zpa.bi3ux.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -153,7 +169,7 @@ za.cubaqay.ru
 
 ```
 
-1 used fastly (0.17889087656529518%):
+1 used fastly (0.1692047377326565%):
 ```
 visualwikicloud.com
 ```

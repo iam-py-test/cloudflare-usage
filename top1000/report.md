@@ -1,5 +1,5 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,7 @@ mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
+tesla.com
 xiaomi.com
 xiaomi.net
 ```
@@ -55,7 +56,6 @@ applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
-bitdefender.com
 bluehost.com
 box.com
 branch.io
@@ -152,6 +152,7 @@ pixiv.net
 plesk.com
 prnewswire.com
 quora.com
+readthedocs.io
 researchgate.net
 roku.com
 sciencedirect.com
@@ -195,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -204,7 +205,7 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -269,7 +270,6 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
-note.com
 onelink.me
 onet.pl
 pbs.org
