@@ -1,5 +1,5 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 57 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -144,6 +145,7 @@ openstreetmap.org
 optimizely.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perfectdomain.com
 pexels.com
@@ -164,7 +166,6 @@ singular.net
 skroutz.gr
 smartadserver.com
 sourceforge.net
-spamhaus.org
 split.io
 stackoverflow.com
 stripchat.com
@@ -206,12 +207,11 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -265,6 +265,7 @@ kargo.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 name.com
 nationalgeographic.com
 netflix.net
@@ -325,8 +326,8 @@ netangels.ru
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
