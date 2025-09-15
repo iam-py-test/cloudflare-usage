@@ -1,4 +1,4 @@
-552 domains tested. 68.84057971014492% were behind nothing (172 were behind something). 59 domains could not be tested.<br>
+497 domains tested. 77.46478873239437% were behind nothing (112 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,67 +19,37 @@
 
 ```
 
-111 used cloudflare (20.108695652173914%):
+68 used cloudflare (13.682092555331993%):
 ```
 10086623.top
 acc.wtshelp.top
 accesspoint.cc
 allendostmen.com
 am.devy3.ru
-an.boku0.ru
 an.devy3.ru
-anythingcanbethissub.chat1.store
-as.boku0.ru
 as.devy3.ru
-at.boku0.ru
 at.devy3.ru
 axhelp.top
-be.boku0.ru
 be.devy-3.ru
-belezapuracosmetica.com
 bestieslos.com
 boylegmfg.com
-bti.fo1od.ru
-by.boku0.ru
 by.devy-3.ru
-by.xe3ax.ru
-calm.vudeh0ae3.ru
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
-cy.fo1od.ru
 dl.aginjector.com
-do.boku-0.ru
-du.xe3ax.ru
 fvia.id.vn
-go.boku-0.ru
-ha.bi3ux.ru
-he.boku-0.ru
 hitman-pro.ru
-if.boku-0.ru
 imtoken8.cc
-in.boku-0.ru
-is.buno8.ru
-it.buno8.ru
-jo.qe3yn.ru
 k1gkl25as.top
-keen.vudeh0ae3.ru
 klar.gg
-kri.xe3ax.ru
-l.bi3ux.ru
 lindenappliances.co.za
-lv.we4ex.ru
-md.cykugeu.ru
-me.buno8.ru
-me.fo1od.ru
-mox.we4ex.ru
-mri.bi3ux.ru
-nl.qe3yn.ru
+loja-vinicolathera.site
+lojadevinhovaldug.site
+lojavinicolathera.site
+nffbrasill.site
 nnnpanel.top
-no.buno8.ru
 nusatoyota.co.id
-of.buno8.ru
-on.ciqe8.ru
 onedomainpro.com
 onyxaquarius.de
 onyxarmorcrypt.de
@@ -96,42 +66,29 @@ onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
-onyxsafetrack.de
 onyxsecuregate.de
-onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-or.ciqe8.ru
-pne.xe3ax.ru
-poppy.monster
-pru.qe3yn.ru
-qra.we4ex.ru
+portaldopedidos.site
 reauthenticator.com
 reusable-flex.com
 roraffle.net
-rq.fo1od.ru
 rxquickpay.com
 sanhack.com
 so.ciqe8.ru
-ta.qe3yn.ru
-tildaras.shop
-tne.we4ex.ru
+tissotwatchfrance.site
 to.ciqe8.ru
 trungtambaohanhmaylanh.com
 up.ciqe8.ru
 upgradegc.com
-va.xe3ax.ru
-vex.qe3yn.ru
+vinschateaumargax.site
 we.devy3.ru
 www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
 www.luuk-lifestyle.eu
-xal.fo1od.ru
 xn--yh4bx88a.com
-zi.we4ex.ru
-zpa.bi3ux.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -149,7 +106,7 @@ zpa.bi3ux.ru
 
 ```
 
-1 used fastly (0.18115942028985507%):
+1 used fastly (0.2012072434607646%):
 ```
 visualwikicloud.com
 ```
@@ -189,7 +146,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.18115942028985507%):
+0 used netlify (0.0%):
 ```
-shadowsouls.site
+
 ```
