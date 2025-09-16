@@ -1,4 +1,4 @@
-497 domains tested. 77.46478873239437% were behind nothing (112 were behind something). 43 domains could not be tested.<br>
+535 domains tested. 75.70093457943925% were behind nothing (130 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,38 @@
 
 ```
 
-68 used cloudflare (13.682092555331993%):
+92 used cloudflare (17.19626168224299%):
 ```
 10086623.top
+4m.v-9542.ru
 acc.wtshelp.top
 accesspoint.cc
+af.b5x1g.ru
+al.f8t6m.ru
 allendostmen.com
-am.devy3.ru
-an.devy3.ru
-as.devy3.ru
-at.devy3.ru
+ao.f8t6m.ru
+ap.b5x1g.ru
+aq.b5x1g.ru
 axhelp.top
-be.devy-3.ru
+b.g3w2p.ru
+bc.b5x1g.ru
 bestieslos.com
+bg.f8t6m.ru
+bh.f0z1n.ru
+bi.f0z1n.ru
+bl.f8t6m.ru
 boylegmfg.com
-by.devy-3.ru
+br.g3w2p.ru
+bv.f0z1n.ru
+c2.kdesu.ru
 checkinetverifk.com
 classroomseven.com
 crystalpvp.ru
+d1.h934.ru
 dl.aginjector.com
+dw.c4kdeliver.top
+fck.n50e.ru
+fcx.n50e.ru
 fvia.id.vn
 hitman-pro.ru
 imtoken8.cc
@@ -47,6 +60,10 @@ lindenappliances.co.za
 loja-vinicolathera.site
 lojadevinhovaldug.site
 lojavinicolathera.site
+lst.n50e.ru
+m.kdesu.ru
+md.gazecoe.ru
+n.l48i.ru
 nffbrasill.site
 nnnpanel.top
 nusatoyota.co.id
@@ -66,29 +83,36 @@ onyxnexguard.de
 onyxprotectech.de
 onyxsafecrypt.de
 onyxsafenova.de
+onyxsafetrack.de
 onyxsecuregate.de
+onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 portaldopedidos.site
+r.k26i.ru
 reauthenticator.com
-reusable-flex.com
 roraffle.net
 rxquickpay.com
+s.f0z1n.ru
 sanhack.com
-so.ciqe8.ru
+sparrowwalllet.com
+tf.hecynya.ru
 tissotwatchfrance.site
-to.ciqe8.ru
+tjthjd.icu
+trtmyanmar.com
 trungtambaohanhmaylanh.com
-up.ciqe8.ru
+u.v-9542.ru
 upgradegc.com
 vinschateaumargax.site
-we.devy3.ru
+wq9.l48i.ru
 www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
+y7.t408.ru
+z.h934.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -106,7 +130,7 @@ xn--yh4bx88a.com
 
 ```
 
-1 used fastly (0.2012072434607646%):
+1 used fastly (0.1869158878504673%):
 ```
 visualwikicloud.com
 ```
