@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -25,8 +25,6 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
-webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -46,7 +44,7 @@ b-cdn.net
 
 ```
 
-146 used cloudflare (14.6%):
+147 used cloudflare (14.7%):
 ```
 33across.com
 addtoany.com
@@ -93,7 +91,6 @@ discord.media
 discordapp.com
 entrust.net
 epicgames.com
-epicgames.dev
 eu-1-id5-sync.com
 expireddomains.com
 fiverr.com
@@ -102,6 +99,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -163,6 +161,7 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
+skroutz.gr
 smartadserver.com
 sourceforge.net
 split.io
@@ -196,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -206,10 +205,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
