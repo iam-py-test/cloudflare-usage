@@ -1,4 +1,4 @@
-566 domains tested. 73.32155477031802% were behind nothing (151 were behind something). 34 domains could not be tested.<br>
+557 domains tested. 70.3770197486535% were behind nothing (165 were behind something). 45 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,51 +19,43 @@
 
 ```
 
-114 used cloudflare (20.141342756183743%):
+119 used cloudflare (21.364452423698385%):
 ```
-10086623.top
+0zq.802d.ru
+1m.526r.ru
+2w1.527w.ru
 4h.97jt.ru
-4m.v-9542.ru
 5n.97qm.ru
 a1.k26i.ru
 a1x.81dm.ru
-acc.wtshelp.top
+ab2.z-20.ru
+ac.s3i1.ru
 accesspoint.cc
-af.b5x1g.ru
-al.f8t6m.ru
+ai.s9i1.ru
 allendostmen.com
-ao.f8t6m.ru
-ap.b5x1g.ru
 app-ups.com
-aq.b5x1g.ru
+ax.s3i1.ru
 axhelp.top
-b.g3w2p.ru
-bc.b5x1g.ru
 bestieslos.com
-bg.f8t6m.ru
-bh.f0z1n.ru
-bi.f0z1n.ru
-bl.f8t6m.ru
-blotal.analistadoido.fun
-boylegmfg.com
-br.g3w2p.ru
-brutonfel366.analistadoido.fun
-bv.f0z1n.ru
+bq.s9i1.ru
 bzr.29rs.ru
-c2.kdesu.ru
+c.f-11.ru
+c8.526r.ru
 checkinetverifk.com
 classroomseven.com
 clebonvinsar.prendaminha.help
+cm0.s57o.ru
 cridintum.vendendosonhos.icu
 crofennontil00.doutrinadaweb.rest
 crofenpunfil.vendendosonhos.shop
 crystalpvp.ru
-d1.h934.ru
+d.x-05.ru
+d1.v51o.ru
 dl.aginjector.com
 dreninvinsar.vendendosonhos.icu
+e.s3i1.ru
+e.z-67.ru
 e2.97jt.ru
-fck.n50e.ru
-fcx.n50e.ru
 flocal.vendendosonhos.cyou
 fralunlhar.analistadoido.cyou
 frefinnil.vendendosonhos.help
@@ -71,18 +63,21 @@ fvia.id.vn
 g.527w.ru
 glalannal.vendendosonhos.click
 gordon-and-son.com
+h1.802d.ru
 hitman-pro.ru
+i.s9i1.ru
 imtoken8.cc
 j.29rs.ru
+j.p-81.ru
 k.97qm.ru
-k1gkl25as.top
+k.z-20.ru
+k2.z-67.ru
 k3x.k26i.ru
 klar.gg
-kms.com.bd
+l.v51o.ru
 lindenappliances.co.za
-lst.n50e.ru
-m.kdesu.ru
-md.gazecoe.ru
+m1.p-81.ru
+m3.g-22.ru
 md.jaxusoo.ru
 md.rexykye2.ru
 mkt.97jt.ru
@@ -111,30 +106,40 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+p.526r.ru
+pq5.x-05.ru
+q5.f-11.ru
+qz7.g-22.ru
+r.h-18.ru
 r.k26i.ru
 reauthenticator.com
 reusable-flex.com
 roraffle.net
+rxe.526r.ru
 rxquickpay.com
-s.f0z1n.ru
+s.802d.ru
 sanhack.com
+tc.527w.ru
 tf.hecynya.ru
-trtmyanmar.com
 trungtambaohanhmaylanh.com
-u.v-9542.ru
-upgradegc.com
+u.s9i1.ru
+u3.x-05.ru
+v.g-22.ru
+v3.802d.ru
+v5.s57o.ru
+w.s3i1.ru
 wq9.l48i.ru
 www.axhelp.top
 www.blackhattoolz.com
 www.carusoadvogados.com.br
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+x0r.v51o.ru
 xn--yh4bx88a.com
 y.97jt.ru
-y7.t408.ru
-z.h934.ru
 z.s57o.ru
 z1.97qm.ru
+zr3.f-11.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -152,7 +157,7 @@ z1.97qm.ru
 
 ```
 
-1 used fastly (0.17667844522968199%):
+1 used fastly (0.17953321364452424%):
 ```
 visualwikicloud.com
 ```
@@ -192,8 +197,7 @@ visualwikicloud.com
 
 ```
 
-2 used netlify (0.35335689045936397%):
+0 used netlify (0.0%):
 ```
-gitdownloadmbz.cfd
-installergitb.icu
+
 ```
