@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 59 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -24,7 +24,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 tesla.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -44,7 +43,7 @@ b-cdn.net
 
 ```
 
-145 used cloudflare (14.499999999999998%):
+144 used cloudflare (14.399999999999999%):
 ```
 33across.com
 addtoany.com
@@ -56,7 +55,6 @@ applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
-blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -193,7 +191,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -201,14 +199,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -227,7 +223,6 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
-cox.net
 curseforge.com
 datadoghq.com
 deltaork.com
@@ -295,6 +290,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -371,7 +367,8 @@ launchdarkly.com
 lencr.org
 ```
 
-1 used imperva (0.1%):
+2 used imperva (0.2%):
 ```
+cox.net
 digicert.com
 ```
