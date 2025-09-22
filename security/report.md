@@ -1,4 +1,4 @@
-34 domains tested. 44.11764705882353% were behind nothing (19 were behind something). 1 domains could not be tested.<br>
+34 domains tested. 47.05882352941176% were behind nothing (18 were behind something). 0 domains could not be tested.<br>
 2 used akamai (5.88235294117647%):
 ```
 alienvault.com

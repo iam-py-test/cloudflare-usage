@@ -1,4 +1,4 @@
-275 domains tested. 43.63636363636363% were behind nothing (155 were behind something). 7 domains could not be tested.<br>
+275 domains tested. 45.09090909090909% were behind nothing (151 were behind something). 8 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (47.63636363636364%):
+126 used cloudflare (45.81818181818182%):
 ```
 02ip.ru
 1sta.com
@@ -76,7 +76,6 @@ hereweb.com
 heylink.me
 hitart.com
 ibf.tw
-imghost.pics
 ipgraber.ru
 iplogger.co
 iplogger.com
@@ -93,7 +92,6 @@ link-center.net
 link.sbstck.com
 link.tnlink.in
 links.e.malwarebytes.com
-linkspy.cc
 linkvertise.com
 linkvertise.net
 llili.li
@@ -106,9 +104,6 @@ mub.me
 myprivate.pics
 n9.cl
 ouo.io
-photovault.pics
-pichost.pics
-picshost.pics
 prettylinks.com
 qrco.de
 rekonise.com

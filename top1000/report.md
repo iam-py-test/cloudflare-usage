@@ -1,5 +1,5 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 58 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -23,6 +23,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+staples.com
 tesla.com
 xiaomi.com
 xiaomi.net
@@ -116,6 +117,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -157,19 +159,18 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
+skroutz.gr
 smartadserver.com
 sourceforge.net
 spamhaus.org
 split.io
 stackoverflow.com
-stripchat.com
 substack.com
 t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
-theverge.com
 tinyurl.com
 twitter.com
 uber.com
@@ -191,7 +192,7 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -199,13 +200,15 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.au
 amazon.com.br
 amazon.es
+amazon.fr
+amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -223,6 +226,7 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
+cox.net
 curseforge.com
 datadoghq.com
 deltaork.com
@@ -312,13 +316,12 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
 cbsnews.com
-etsy.com
 forbes.com
 github.io
 speedtest.net
@@ -367,8 +370,7 @@ launchdarkly.com
 lencr.org
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
-cox.net
 digicert.com
 ```
