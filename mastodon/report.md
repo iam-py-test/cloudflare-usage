@@ -1,4 +1,4 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 6 domains could not be tested.<br>
+186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-55 used cloudflare (29.56989247311828%):
+54 used cloudflare (29.03225806451613%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -28,7 +28,6 @@ bols.games
 cybergladius.social
 dicekey.jp
 eigenmagic.net
-elderscrolls.space
 freifunk.social
 india.goonj.xyz
 jiaojiao.org
