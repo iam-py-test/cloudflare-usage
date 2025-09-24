@@ -1,5 +1,5 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 59 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 58 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-145 used cloudflare (14.499999999999998%):
+144 used cloudflare (14.399999999999999%):
 ```
 33across.com
 addtoany.com
@@ -82,7 +83,6 @@ cpanel.net
 creativecommons.org
 deepintent.com
 deepl.com
-dfn.nl
 digitalocean.com
 discogs.com
 discord.com
@@ -99,7 +99,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -141,6 +140,7 @@ openai.com
 openstreetmap.org
 optimizely.com
 oup.com
+overload.su
 pages.dev
 patreon.com
 people.com
@@ -193,7 +193,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -201,14 +201,12 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
-amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -295,6 +293,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -320,8 +319,8 @@ netangels.ru
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
-corriere.it
 forbes.com
 github.io
 speedtest.net
