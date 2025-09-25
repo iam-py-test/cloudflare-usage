@@ -1,8 +1,7 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 58 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 60 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
-adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -45,7 +44,7 @@ b-cdn.net
 
 ```
 
-144 used cloudflare (14.399999999999999%):
+145 used cloudflare (14.499999999999998%):
 ```
 33across.com
 addtoany.com
@@ -57,6 +56,7 @@ applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
+blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -99,6 +99,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -160,7 +161,6 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
-skroutz.gr
 smartadserver.com
 sourceforge.net
 spamhaus.org
@@ -201,12 +201,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -288,7 +289,6 @@ tradingview.com
 tremorhub.com
 trustpilot.com
 typeform.com
-ubi.com
 ubnt.com
 ui.com
 un.org
