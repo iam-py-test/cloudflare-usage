@@ -1,7 +1,8 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 59 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
+adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -24,7 +25,8 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
-webex.com
+weforum.org
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -44,7 +46,7 @@ b-cdn.net
 
 ```
 
-145 used cloudflare (14.499999999999998%):
+146 used cloudflare (14.6%):
 ```
 33across.com
 addtoany.com
@@ -132,6 +134,7 @@ moloco.com
 myshopify.com
 networkadvertising.org
 nexusmods.com
+nic.network
 nist.gov
 okta.com
 onesignal.com
@@ -193,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -201,12 +204,15 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -229,7 +235,6 @@ checkpoint.com
 cox.net
 curseforge.com
 datadoghq.com
-deltaork.com
 deviantart.com
 doi.org
 dotomi.com
@@ -283,7 +288,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-thesun.co.uk
 tp-link.com
 tradingview.com
 tremorhub.com

@@ -1,4 +1,4 @@
-275 domains tested. 45.09090909090909% were behind nothing (151 were behind something). 8 domains could not be tested.<br>
+275 domains tested. 45.45454545454545% were behind nothing (150 were behind something). 8 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-126 used cloudflare (45.81818181818182%):
+125 used cloudflare (45.45454545454545%):
 ```
 02ip.ru
 1sta.com
@@ -83,7 +83,6 @@ iplogger.info
 iplogger.org
 iplogger.ru
 is.gd
-kingshortener.com
 klclick.com
 klclick1.com
 klclick2.com
