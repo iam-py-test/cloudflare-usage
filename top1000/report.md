@@ -1,5 +1,5 @@
 1000 domains tested. 65.0% were behind nothing (350 were behind something). 57 domains could not be tested.<br>
-26 used akamai (2.6%):
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -14,7 +14,6 @@ ebay.de
 fda.gov
 godaddy.com
 hm.com
-hp.com
 intel.com
 intuit.com
 lowes.com
@@ -44,12 +43,11 @@ b-cdn.net
 
 ```
 
-143 used cloudflare (14.299999999999999%):
+145 used cloudflare (14.499999999999998%):
 ```
 33across.com
 addtoany.com
 allaboutcookies.org
-alphonso.tv
 ancestry.com
 apnews.com
 applovin.com
@@ -70,6 +68,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -116,6 +115,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -125,6 +125,7 @@ mediafire.com
 mediatek.com
 medium.com
 mgid.com
+moengage.com
 moloco.com
 myshopify.com
 networkadvertising.org
@@ -200,10 +201,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
+amazon.com.au
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -249,6 +250,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+hp.com
 ieee.org
 intentiq.com
 intercom.io
@@ -291,7 +293,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -314,11 +315,10 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 forbes.com
 github.io
