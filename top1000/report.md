@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 57 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -14,6 +14,7 @@ ebay.de
 fda.gov
 godaddy.com
 hm.com
+hp.com
 intel.com
 intuit.com
 lowes.com
@@ -97,9 +98,9 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
-hostgator.com.br
 hubspot.com
 ietf.org
 ikea.com
@@ -125,7 +126,6 @@ mediafire.com
 mediatek.com
 medium.com
 mgid.com
-moengage.com
 moloco.com
 myshopify.com
 networkadvertising.org
@@ -160,6 +160,7 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
+skroutz.gr
 smartadserver.com
 sourceforge.net
 spamhaus.org
@@ -192,7 +193,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -201,14 +202,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -242,6 +243,7 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
+fidelity.com
 figma.com
 flickr.com
 go.com
@@ -250,7 +252,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-hp.com
 ieee.org
 intentiq.com
 intercom.io
@@ -272,6 +273,7 @@ pbs.org
 presage.io
 primevideo.com
 pubmatic.com
+rainberrytv.com
 rayjump.com
 realtor.com
 repubblica.it
@@ -293,6 +295,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -315,10 +318,11 @@ onlinepbx.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 forbes.com
 github.io
