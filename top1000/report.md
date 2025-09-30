@@ -1,5 +1,5 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 57 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 57 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -19,6 +19,7 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 news.com.au
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-145 used cloudflare (14.499999999999998%):
+146 used cloudflare (14.6%):
 ```
 33across.com
 addtoany.com
@@ -55,6 +56,7 @@ applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
+blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -98,7 +100,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -126,6 +127,7 @@ mediafire.com
 mediatek.com
 medium.com
 mgid.com
+moengage.com
 moloco.com
 myshopify.com
 networkadvertising.org
@@ -193,7 +195,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -202,14 +204,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -243,7 +243,6 @@ epa.gov
 espn.com
 europa.eu
 eventbrite.com
-fidelity.com
 figma.com
 flickr.com
 go.com

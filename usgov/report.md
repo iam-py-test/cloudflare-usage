@@ -1,4 +1,4 @@
-361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 55 domains could not be tested.<br>
+361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 56 domains could not be tested.<br>
 20 used akamai (5.540166204986149%):
 ```
 atsdr.cdc.gov
@@ -83,7 +83,7 @@ uscirf.gov
 usmint.gov
 ```
 
-35 used cloudfront (9.695290858725762%):
+34 used cloudfront (9.418282548476455%):
 ```
 ahrq.gov
 alabama.gov
@@ -103,7 +103,6 @@ mcc.gov
 minorityhealth.hhs.gov
 msha.gov
 nccih.nih.gov
-ncd.gov
 nlm.nih.gov
 noaa.gov
 nps.gov
