@@ -1,4 +1,4 @@
-275 domains tested. 44.72727272727273% were behind nothing (152 were behind something). 9 domains could not be tested.<br>
+275 domains tested. 45.81818181818182% were behind nothing (149 were behind something). 7 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-126 used cloudflare (45.81818181818182%):
+127 used cloudflare (46.18181818181818%):
 ```
 02ip.ru
 1sta.com
@@ -106,6 +106,7 @@ nyl.as
 ouo.io
 prettylinks.com
 qrco.de
+rb.gy
 rekonise.com
 rkns.link
 rotf.lol
@@ -150,13 +151,11 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-13 used cloudfront (4.7272727272727275%):
+11 used cloudfront (4.0%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
-rb.gy
 rebrand.ly
 rebrandly.com
 short.gy

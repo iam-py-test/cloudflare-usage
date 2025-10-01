@@ -1,5 +1,5 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 57 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 58 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -19,13 +19,15 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
+webex.com
+weforum.org
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -45,18 +47,16 @@ b-cdn.net
 
 ```
 
-146 used cloudflare (14.6%):
+142 used cloudflare (14.2%):
 ```
 33across.com
 addtoany.com
 allaboutcookies.org
 ancestry.com
 apnews.com
-applovin.com
 attn.tv
 berkeley.edu
 bidmachine.io
-blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -146,7 +146,6 @@ overload.su
 pages.dev
 patreon.com
 people.com
-perfectdomain.com
 pexels.com
 pixabay.com
 pixiv.net
@@ -162,7 +161,6 @@ seedtag.com
 sharethrough.com
 shopify.com
 singular.net
-skroutz.gr
 smartadserver.com
 sourceforge.net
 spamhaus.org
@@ -195,7 +193,7 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
@@ -203,13 +201,16 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -269,6 +270,7 @@ noaa.gov
 onelink.me
 onet.pl
 pbs.org
+playrix.com
 presage.io
 primevideo.com
 pubmatic.com
@@ -317,11 +319,10 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 forbes.com
 github.io
