@@ -1,8 +1,7 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 57 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 58 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
-adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -45,7 +44,7 @@ b-cdn.net
 
 ```
 
-142 used cloudflare (14.2%):
+144 used cloudflare (14.399999999999999%):
 ```
 33across.com
 addtoany.com
@@ -98,6 +97,7 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -163,6 +163,7 @@ smartadserver.com
 sourceforge.net
 spamhaus.org
 split.io
+sportradar.com
 stackoverflow.com
 substack.com
 t.co
@@ -191,20 +192,21 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-agora.io
-amazon.ca
-amazon.co.jp
-amazon.co.uk
+amazon.com
+amazon.com.au
+amazon.com.br
+amazon.de
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -288,6 +290,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -297,9 +300,8 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
-1c.ru
 crpt.ru
 netangels.ru
 onlinepbx.ru

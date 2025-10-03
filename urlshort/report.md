@@ -1,4 +1,4 @@
-275 domains tested. 45.81818181818182% were behind nothing (149 were behind something). 7 domains could not be tested.<br>
+275 domains tested. 46.18181818181818% were behind nothing (148 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -140,10 +140,10 @@ tii.la
 tinyurl.com
 track.canva.com
 uprot.net
-url1.io
 urlshortx.com
 usheethe.com
 v.gd
+vipurl.pro
 vze.com
 www.bl.ink
 www.encurtador.com.br
