@@ -2,6 +2,7 @@
 26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
@@ -24,7 +25,6 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
-webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -192,19 +192,21 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.fr
-amazon.in
+amazon.es
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -290,7 +292,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -312,13 +313,12 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 bloomberg.com
 cbsnews.com
-forbes.com
 github.io
 speedtest.net
 www.gov.uk
