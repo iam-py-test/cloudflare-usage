@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 58 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 59 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ news.com.au
 rakuten.co.jp
 staples.com
 tesla.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -44,7 +45,7 @@ b-cdn.net
 
 ```
 
-144 used cloudflare (14.399999999999999%):
+143 used cloudflare (14.299999999999999%):
 ```
 33across.com
 addtoany.com
@@ -68,6 +69,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+classlink.com
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -87,7 +89,6 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-entrust.net
 epicgames.com
 eu-1-id5-sync.com
 expireddomains.com
@@ -97,7 +98,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -192,22 +192,19 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
-amazon.de
 amazon.es
-amazon.it
+amazon.fr
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -292,6 +289,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
