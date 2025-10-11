@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 61 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 61 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -24,9 +24,6 @@ mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
-tesla.com
-webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -46,7 +43,7 @@ b-cdn.net
 
 ```
 
-144 used cloudflare (14.399999999999999%):
+143 used cloudflare (14.299999999999999%):
 ```
 33across.com
 addtoany.com
@@ -99,7 +96,6 @@ forter.com
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hubspot.com
@@ -194,7 +190,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -206,6 +202,7 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -316,10 +313,11 @@ onlinepbx.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 corriere.it
 github.io
