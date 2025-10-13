@@ -1,5 +1,5 @@
-2628 domains tested. 69.67275494672755% were behind nothing (797 were behind something). 172 domains could not be tested.<br>
-222 used akamai (8.447488584474886%):
+2629 domains tested. 69.7223278813237% were behind nothing (796 were behind something). 169 domains could not be tested.<br>
+227 used akamai (8.634461772537087%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -59,6 +59,7 @@ assets.alicdn.com
 assets.intuit.com
 assets.msn.com
 assets.onestore.ms
+assets.pinterest.com
 assets.staples-static.com
 azure.microsoft.com
 b.alicdn.com
@@ -198,34 +199,38 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.pinimg.com
 i.scdn.co
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-eu.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 intuit.com
-ir.ebaystatic.com
 kz.ebay.com
-pa.ebay.com
-py.ebay.com
-th.bing.com
-webex.com
-windows.com
+lib.intuitcdn.net
+r.bing.com
+res.public.onecdn.static.microsoft
+ru.pinterest.com
+seeded-session-images.scdn.co
+sm.dell.com
+ssl.www8.hp.com
+static-global-s-msn-com.akamaized.net
+static.files.bbci.co.uk
+uy.ebay.com
+www.ally.com
 www.ebay.at
-www.ebay.com
-www.ebay.ie
+www.ebay.ch
+www.ebay.com.hk
+www.ebay.com.sg
+www.ebay.fr
+www.ebay.nl
 www.mi.com
-www.microsoft.com
-www.nih.gov
-www.oracle.com
-www.webex.com
 xiaomi.com
 ```
 
-6 used bunnycdn (0.228310502283105%):
+6 used bunnycdn (0.2282236591860023%):
 ```
 Bunny-Reddit.b-cdn.net
 b-cdn.net
@@ -235,12 +240,12 @@ bunnynetassets.b-cdn.net
 fonts.bunny.net
 ```
 
-1 used cachefly (0.0380517503805175%):
+1 used cachefly (0.038037276531000384%):
 ```
 roblox-js.cachefly.net
 ```
 
-7 used cdn77 (0.2663622526636225%):
+8 used cdn77 (0.3042982122480031%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
@@ -249,9 +254,10 @@ roblox-js.cachefly.net
 c.ptgncdn.com
 cdn.userway.org
 f1-eu.readspeaker.com
+p77-sign-va.tiktokcdn.com
 ```
 
-108 used cloudflare (4.10958904109589%):
+106 used cloudflare (4.03195131228604%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -280,7 +286,6 @@ cdn-client.medium.com
 cdn-static-1.medium.com
 cdn.cookielaw.org
 cdn.discordapp.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-ingest.io
 cdn.optimizely.com
@@ -333,37 +338,36 @@ medium.com
 myshopify.com
 nist.gov
 openai.com
-pbs.twimg.com
-ps71jnim0s.kameleoon.io
+performance.radar.cloudflare.com
 quora.com
+rcf.bing.com.cdn.cloudflare.net
 researchgate.net
+roblox-api.arkoselabs.com.cdn.cloudflare.net
 roku.com
 rubiconproject.com
 sciencedirect.com
+script.crazyegg.com.cdn.cloudflare.net
+sdfestaticassets-eu-west-1.sciencedirectassets.com
 shopify.com
 sourceforge.net
-st1.zoom.us
-st3.zoom.us
 stackoverflow.com
-static-cflr.licdn.com.cdn.cloudflare.net
-static.zdassets.com
 t.co
 twitter.com
 unpkg.com
+video.twimg.com.cdn.cloudflare.net
 vimeo.com
 vungle.com
 w3.org
 who.int
 workers.dev
-www.linkedin.com
-www.w3.org.cdn.cloudflare.net
+www.w3.org
 x.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-184 used cloudfront (7.00152207001522%):
+180 used cloudfront (6.846709775580069%):
 ```
 a-v2.sndcdn.com
 a.deviantart.net
@@ -375,7 +379,7 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
-amazon.com
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -515,9 +519,7 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
-images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 images.sr.roku.com
@@ -528,27 +530,25 @@ invite.soundcloud.com
 js-cdn.dynatrace.com
 js.adsrvr.org
 js.media-lab.ai
-js.rbxcdn.com
 kendo.cdn.telerik.com
 lp.datadoghq.com
+m.soundcloud.com
 netflix.net
-passport.twitch.tv
+prod.pa.cdn.uis.awsstatic.com
 pubmatic.com
+roblox-api.arkoselabs.com
+s0.awsstatic.com
+s4.cnnx.io
 script.crazyegg.com
 soundcloud.com
-static.ada.support
-static.yieldmo.com
+static.isu.pub
 t-online.de
 tags.tiqcdn.com
-tms.oracle.com
 tree-nation.com
 ui.com
-us01st-cf.zoom.us
-uxfabric.intuitcdn.net
+va.sndcdn.com
 warnerbros.com
-widget.trustpilot.com
-widgets.q4app.com
-www.flickr.com
+www2.telekom.de
 ```
 
 0 used ddosguard (0.0%):
@@ -556,7 +556,7 @@ www.flickr.com
 
 ```
 
-6 used edgecast (0.228310502283105%):
+6 used edgecast (0.2282236591860023%):
 ```
 cs189.wpc.edgecastcdn.net
 cs45.wac.edgecastcdn.net
@@ -566,7 +566,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-86 used fastly (3.272450532724505%):
+87 used fastly (3.3092430581970333%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -575,7 +575,6 @@ api.nextgen.guardianapps.co.uk
 api.shipt.com
 ar.pinterest.com
 assets.guim.co.uk
-assets.pinterest.com
 at.pinterest.com
 atc.spotify.map.fastly.net
 au.pinterest.com
@@ -587,6 +586,7 @@ br.pinterest.com
 browser.sentry-cdn.com
 ca.pinterest.com
 cdn.intellimize.co
+cdn.jsdelivr.net
 cdn.speedcurve.com
 cdn.taboola.com
 ch.pinterest.com
@@ -636,24 +636,25 @@ harvesthq.github.io
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
+i.ebayimg.com
+i.forbesimg.com
 i.guim.co.uk
+i.pinimg.com
 i.redd.it
 i.vimeocdn.com
 id.pinterest.com
 ie.pinterest.com
-imageio.forbes.com
-in.pinterest.com
+ir.ebaystatic.com
 j.ophan.co.uk
 j.sni.global.fastly.net
-jp.pinterest.com
 jsdelivr.map.fastly.net
-linkedin.map.fastly.net
-outbrain.map.fastly.net
-paypal-dynamic-2.map.fastly.net
-paypal-dynamic.map.fastly.net
-scdnco.spotify.map.fastly.net
-www.bbc.co.uk
-www.theguardian.com
+paypal-dynamic-cdn.map.fastly.net
+preview.redd.it
+tls13.spotifycdn.map.fastly.net
+tls13.taboola.map.fastly.net
+tls130rtt.spotifycdn.map.fastly.net
+twimg.twitter.map.fastly.net
+www.cnn.com
 ```
 
 0 used sucuri (0.0%):
@@ -691,15 +692,16 @@ www.theguardian.com
 
 ```
 
-3 used netlify (0.1141552511415525%):
+3 used netlify (0.11411182959300115%):
 ```
 amp.dev
 ampproject.org
 lencr.org
 ```
 
-2 used imperva (0.076103500761035%):
+3 used imperva (0.11411182959300115%):
 ```
 3ivgup7.x.incapdns.net
 digicert.com
+www.digicert.com
 ```
