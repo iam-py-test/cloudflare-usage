@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 58 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 59 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -23,6 +23,8 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+staples.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -42,7 +44,7 @@ b-cdn.net
 
 ```
 
-143 used cloudflare (14.299999999999999%):
+146 used cloudflare (14.6%):
 ```
 33across.com
 addtoany.com
@@ -113,6 +115,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -136,6 +139,7 @@ openai.com
 openstreetmap.org
 optimizely.com
 oup.com
+overload.su
 pages.dev
 patreon.com
 people.com
@@ -154,6 +158,7 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
+shein.com
 shopify.com
 singular.net
 smartadserver.com
@@ -189,21 +194,21 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+agora.io
 amazon.ca
 amazon.co.jp
 amazon.com.au
-amazon.com.br
-amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -287,7 +292,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
