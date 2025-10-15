@@ -1,4 +1,4 @@
-2630 domains tested. 68.36501901140684% were behind nothing (832 were behind something). 179 domains could not be tested.<br>
+2630 domains tested. 68.59315589353612% were behind nothing (826 were behind something). 178 domains could not be tested.<br>
 229 used akamai (8.70722433460076%):
 ```
 1.www.s81c.com
@@ -199,40 +199,40 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
-i.ebayimg.com
-ichef.bbc.co.uk
+i.etsystatic.com
+i.scdn.co
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
-images-fe.ssl-images-amazon.com
+images-eu.ssl-images-amazon.com
+images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
+img-s-msn-com.akamaized.net
 intuit.com
-p16-sign-sg.tiktokcdn.com
+munchkin.marketo.net
+p16-sign-va.tiktokcdn.com
 pages.ebay.com
-pmd.cdn.turner.com
+pe.ebay.com
+r.bing.com
 raka.bing.com
-rover.ebay.com
+res.public.onecdn.static.microsoft
 staples.com
-static.iqiyi.com
-tags-eu.tiqcdn.com
-v16.tiktokcdn.com
-ve.ebay.com
-windows.com
-www.benl.ebay.be
-www.cafr.ebay.ca
-www.ebay.com.au
-www.ebay.com.my
-www.pinterest.cl
+sv.ebay.com
+th.bing.com
+uy.ebay.com
+www.ebay.co.uk
+www.ebay.com
+www.ebay.com.sg
+www.intuit.com
+www.mcafee.com
+www.mi.com
 www.staples.com
-www.xerox.com
-www.xerox.es
-www.xerox.it
 www8.hp.com
 xiaomi.com
 ```
 
-7 used bunnycdn (0.2661596958174905%):
+6 used bunnycdn (0.22813688212927757%):
 ```
 Bunny-Reddit.b-cdn.net
 b-cdn.net
@@ -240,28 +240,23 @@ bunny.net
 bunnyfonts.b-cdn.net
 bunnynetassets.b-cdn.net
 fonts.bunny.net
-plausible.io
 ```
 
-3 used cachefly (0.11406844106463879%):
-```
-roblox-css.cachefly.net
-roblox-images.cachefly.net
-roblox-static.cachefly.net
+0 used cachefly (0.0%):
 ```
 
-7 used cdn77 (0.2661596958174905%):
+```
+
+5 used cdn77 (0.19011406844106463%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
-1667503734.rsc.cdn77.org
 c.ptgncdn.com
-cdn.userway.org
 f1-eu.readspeaker.com
 ```
 
-113 used cloudflare (4.2965779467680605%):
+112 used cloudflare (4.258555133079848%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -320,6 +315,7 @@ deliver.ptgncdn.com
 discord.com
 discord.gg
 donorbox.org
+doubleverify.com
 dsum-sec.casalemedia.com
 embed.cloudflarestream.com
 epicgames.com
@@ -339,47 +335,46 @@ indeed.com
 js-eu1.hs-scripts.com
 js-sec.indexww.com
 linkedin.com
+maxcdn.bootstrapcdn.com
 medium.com
 myshopify.com
 nist.gov
 openai.com
+player.vimeo.com
+privacy-policy.truste.com
 quora.com
 researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
+sdfestaticassets-us-east-1.sciencedirectassets.com
 shopify.com
+sj16.mktossl.com
 sourceforge.net
 st1.zoom.us
 st2.zoom.us
 stackoverflow.com
-static-cflr.licdn.com.cdn.cloudflare.net
-static.deepl.com
-static.licdn.com.cdn.cloudflare.net
 t.co
-t.paypal.com
 twitter.com
 unpkg.com
-use.fontawesome.com
-use.fontawesome.com.cdn.cloudflare.net
 vimeo.com
 vungle.com
 w3.org
 who.int
-workers.cloudflare.com
 workers.dev
-www.linkedin.com
+www.nist.gov
+www.paypal.com.cdn.cloudflare.net
 www.researchgate.net
 www.shopify.com
-www.w3.org.cdn.cloudflare.net
 x.com
 xhamster.com
 zendesk.com
 zoom.us
 ```
 
-189 used cloudfront (7.186311787072243%):
+192 used cloudfront (7.300380228136882%):
 ```
+1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -390,6 +385,8 @@ aax.amazon-adsystem.com
 account.samsung.com
 aem.dropbox.com
 amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -418,6 +415,7 @@ cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
 cdn.statuspage.io
+cdn.userway.org
 cdnssl.clicktale.net
 cf.bstatic.com
 cigars.roku.com
@@ -529,11 +527,11 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
-images.rbxcdn.com
+images.scanalert.com
 images.sr.roku.com
 images.t-online.de
 img-deviantart.wixmp.com
@@ -544,31 +542,30 @@ js.adsrvr.org
 js.media-lab.ai
 js.rbxcdn.com
 kendo.cdn.telerik.com
-m.soundcloud.com
+milanuncios.com
 mybbc-analytics.files.bbci.co.uk
 netflix.net
-prod.pa.cdn.uis.awsstatic.com
-prod.weather.stroeerws.de
+pubmatic.co.jp
 pubmatic.com
-s0.awsstatic.com
-s4.cnnx.io
+sb.scorecardresearch.com
 sdc-next-statics-prod.dcp.stroeerws.de
 soundcloud.com
-sourcepoint.theguardian.com
+st.deviantart.net
 static-cdn.jtvnw.net
-static-web-assets.gnl-common.bbcverticals.com
-static.snapchat.com
-static.yieldmo.com
+static.chartbeat.com
+static.rbxcdn.com
+style.sndcdn.com
 t-online.de
-token.us-west-2.prod.site.p.awsstatic.com
+t0.m.awsstatic.com
 tree-nation.com
 ui.com
-us01st-cf.zoom.us
-vimeo.bynder.com
-w3.siemens.com
+uxfabric.intuitcdn.a.intuit.com
+uxfabric.intuitcdn.net
 warnerbros.com
-www.appsflyer.com
+widget.trustpilot.com
+www.flickr.com
 www.flickrprints.com
+www2.telekom.de
 ```
 
 0 used ddosguard (0.0%):
@@ -586,7 +583,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-94 used fastly (3.574144486692015%):
+93 used fastly (3.5361216730038025%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -657,31 +654,30 @@ harvesthq.github.io
 hits-secure.theguardian.com
 hu.pinterest.com
 hw-cdn2.adtng.com
+i.ebayimg.com
+i.forbesimg.com
 i.guim.co.uk
 i.redd.it
 i.vimeocdn.com
-ie.pinterest.com
+id.pinterest.com
 imageio.forbes.com
 images.forbes.com
-in.pinterest.com
+imgix.datadoghq.com
 int.nyt.com
-interactive.guim.co.uk
 j.ophan.co.uk
 j.sni.global.fastly.net
+jp.pinterest.com
 jsdelivr.map.fastly.net
-kr.pinterest.com
-medallia2.map.fastly.net
-media.amazon.map.fastly.net
-outbrain.map.fastly.net
+linkedin.map.fastly.net
+mosaic.scdn.co
+n.sni.global.fastly.net
 pages.github.com
-paypal.map.fastly.net
-prod.pinterest.global.map.fastly.net
-pt.pinterest.com
-s.imgur.com
-s.pinimg.com
-static.guim.co.uk
-twitch.map.fastly.net
-www.pinterest.com
+paypal-dynamic-2.map.fastly.net
+preview.redd.it
+scdnco.spotify.map.fastly.net
+vimeo-video.map.fastly.net
+www.i.cdn.cnn.com
+www.shipt.com
 ```
 
 0 used sucuri (0.0%):
