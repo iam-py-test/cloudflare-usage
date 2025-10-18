@@ -1,4 +1,4 @@
-607 domains tested. 63.75617792421746% were behind nothing (220 were behind something). 75 domains could not be tested.<br>
+547 domains tested. 72.0292504570384% were behind nothing (153 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,83 +19,57 @@
 
 ```
 
-144 used cloudflare (23.72322899505766%):
+109 used cloudflare (19.926873857404022%):
 ```
-08.ckar-4.ru
-1n.gyj-0.ru
-3k.rxir-9.ru
 3r.bid-5.ru
-3x1.rxir-9.ru
-428.ckyq-9.ru
-4a.cfob-5.ru
-5c.blyp-9.ru
-65o.pot-5.ru
-65y.ckar-4.ru
-6dx.cfob-5.ru
-77.blyp-9.ru
-7l.ckar-4.ru
+482.99y401874.ru
+9031.99y401874.ru
 932.wir-2.ru
 9t4.wir-2.ru
 accesspoint.cc
 allendostmen.com
-ar.qcet-8.ru
-auf.blyp-9.ru
-av.qcet-8.ru
-baj.pot-5.ru
-bb.rxir-9.ru
+app.surrogatesolutions.net
+ash.web-d-n-45.ru
+axe.run-c-you.ru
 bestieslos.com
-bgu.qcet-8.ru
 boat.ndoq-0.ru
 book.1a2e6.ru
-c9.cfob-5.ru
 car.gdyl-2.ru
 checkinetverifk.com
-chp.gyj-0.ru
 classroomseven.com
 cloud.8u2a9.ru
 cloud.8y7o4.ru
+cop.joy-2-way.ru
+corestresser.cc
 crystalpvp.ru
-cyc.rxir-9.ru
+cup.tag-b-s3.ru
+dip.net-0-prosa.ru
 dl.aginjector.com
-e6.pot-5.ru
-e9u.blyp-9.ru
+dw.c4kdeliver.top
 eg.unspokentinkling.digital
-fe.gyj-0.ru
+er.hop-g-3.ru
 fire.8y7o4.ru
 fire.bvuf-2.ru
 flint.wqix-5.ru
 forest.4i1e2.ru
 forest.bvuf-2.ru
-fs.ckar-4.ru
 fvia.id.vn
-g1s.obvp-2.ru
-gi.obvp-2.ru
 glue.rjuq-3.ru
 gordon-and-son.com
-h7.4a8u6.ru
 h9.5e7i0.ru
 hitman-pro.ru
-hpc.cfob-5.ru
-hv.qcet-8.ru
-inr.pot-5.ru
-it.ibzr-2.ru
+hum.hop-g3.ru
+jar.zen-and.ru
 k1gkl25as.top
+k4nz.vbep-3.ru
 klar.gg
-kt.ckyq-9.ru
-l5.rxir-9.ru
 leaf.4i1e2.ru
 light.vbep-3.ru
-lmg.pot-5.ru
-lx6.ckyq-9.ru
-m8.4y2o5.ru
 md.grupflixca.pro
-mje.ckar-4.ru
-mr1.pot-5.ru
 mv.wir-2.ru
-n0.blyp-9.ru
-njv.ckar-4.ru
 nnnpanel.top
-nr1.ckyq-9.ru
+no.net-0-prosa.ru
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -112,59 +86,50 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-oo.ckyq-9.ru
-ov6.pot-5.ru
-oy.cfob-5.ru
+p7w2c9.vbep-3.ru
 p9.1o6y4.ru
 path.4i1e2.ru
-pau.ckyq-9.ru
-pd.qcet-8.ru
-pox.ibzr-2.ru
-pt.gyj-0.ru
+paw.bit-e.ru
+pig.fix-fg.ru
 q4.5e7i0.ru
 qd.nqyf-7.ru
-r2.blyp-9.ru
 r7.4y2o5.ru
 rain.4i1e2.ru
 reauthenticator.com
 reusable-flex.com
 rice.vbep-3.ru
-rq8.ckyq-9.ru
+rig.bit-e.ru
 rxquickpay.com
 saffron.wtok-2.ru
+sip.run-c-you.ru
 slash.gdyl-2.ru
 stone.4i1e2.ru
 stone.ndoq-0.ru
 stone.vbep-3.ru
 storm.bvuf-2.ru
 sun.8u2a9.ru
-t9f.qcet-8.ru
+t1mze9.fox-ab.ru
 t9k.wir-2.ru
 topaz.mcej-9.ru
 tree.bvuf-2.ru
 trtmyanmar.com
-tune.pot5.ru
-tx8.qcet-8.ru
-u7.cfob-5.ru
 u7j.wir-2.ru
-v7b.rxir-9.ru
-v8.ckar-4.ru
 velvet.wqix-5.ru
 w8v.bid-5.ru
+w8y3n2d.vbep-3.ru
 war.rjuq-3.ru
 water.4i1e2.ru
 wave.ndoq-0.ru
+wet.app-6-v.ru
 wolf.8u2a9.ru
-wu.gyj-0.ru
 www.blackhattoolz.com
 www.frontier.net.pk
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
-y7.blyp-9.ru
+y0n3qv2.tape-5-x.ru
 z1.5e7i0.ru
 z2.bid-5.ru
-zit-5.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -182,7 +147,7 @@ zit-5.ru
 
 ```
 
-1 used fastly (0.16474464579901155%):
+1 used fastly (0.18281535648994515%):
 ```
 visualwikicloud.com
 ```
