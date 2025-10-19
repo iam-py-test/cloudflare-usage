@@ -1,4 +1,4 @@
-547 domains tested. 72.0292504570384% were behind nothing (153 were behind something). 43 domains could not be tested.<br>
+552 domains tested. 66.48550724637681% were behind nothing (185 were behind something). 63 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,56 +19,81 @@
 
 ```
 
-109 used cloudflare (19.926873857404022%):
+121 used cloudflare (21.920289855072465%):
 ```
-3r.bid-5.ru
+028.11u812580.ru
+0482.54o477354.ru
+06d1.93i197934.ru
+07c9.31e854642.ru
+080.37i658094.ru
+219.93i197934.ru
+30951.49o103159.ru
+3135.31e854642.ru
+333.37i658094.ru
+41002.31e854642.ru
 482.99y401874.ru
+4920.37i658094.ru
+5002201.60e533569.ru
+501.49o103159.ru
+581.31e854642.ru
+6901420.49o103159.ru
+706391.31e854642.ru
+72563.37i658094.ru
+777012.49o103159.ru
+8427.49o103159.ru
+8451203.31e854642.ru
+851.93i197934.ru
 9031.99y401874.ru
-932.wir-2.ru
-9t4.wir-2.ru
+918274.08u073852.ru
+925.31e854642.ru
+93055.93i197934.ru
+964.30u241207.ru
 accesspoint.cc
+air.wkej2.ru
 allendostmen.com
+ape.qvik5.ru
 app.surrogatesolutions.net
+art.mzas7.ru
 ash.web-d-n-45.ru
 axe.run-c-you.ru
+ban.jrih5.ru
+bed.sjyj1.ru
 bestieslos.com
-boat.ndoq-0.ru
-book.1a2e6.ru
-car.gdyl-2.ru
+bog.qvik5.ru
+can.jsuv0.ru
+cat.khoc9.ru
 checkinetverifk.com
 classroomseven.com
-cloud.8u2a9.ru
-cloud.8y7o4.ru
+cloudflare.passthrough.cloud
 cop.joy-2-way.ru
 corestresser.cc
 crystalpvp.ru
+cup.mzas7.ru
 cup.tag-b-s3.ru
 dip.net-0-prosa.ru
 dl.aginjector.com
-dw.c4kdeliver.top
-eg.unspokentinkling.digital
 er.hop-g-3.ru
-fire.8y7o4.ru
-fire.bvuf-2.ru
-flint.wqix-5.ru
-forest.4i1e2.ru
-forest.bvuf-2.ru
+er.npoj2.ru
+era.mzas7.ru
+few.cqom9.ru
 fvia.id.vn
-glue.rjuq-3.ru
+gab.qvik5.ru
 gordon-and-son.com
-h9.5e7i0.ru
+hag.rqyp1.ru
+has.cqom9.ru
 hitman-pro.ru
 hum.hop-g3.ru
+inn.jrih5.ru
+its.npoj2.ru
 jar.zen-and.ru
+jet.khoc9.ru
 k1gkl25as.top
 k4nz.vbep-3.ru
 klar.gg
-leaf.4i1e2.ru
-light.vbep-3.ru
-md.grupflixca.pro
-mv.wir-2.ru
+nap.rqyp1.ru
 nnnpanel.top
 no.net-0-prosa.ru
+nod.qvik5.ru
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -86,50 +111,37 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+ow.khoc9.ru
 p7w2c9.vbep-3.ru
-p9.1o6y4.ru
-path.4i1e2.ru
+pat.wkej2.ru
 paw.bit-e.ru
+pet.rqyp1.ru
 pig.fix-fg.ru
-q4.5e7i0.ru
-qd.nqyf-7.ru
-r7.4y2o5.ru
-rain.4i1e2.ru
+ran.sjyj1.ru
 reauthenticator.com
 reusable-flex.com
-rice.vbep-3.ru
 rig.bit-e.ru
 rxquickpay.com
-saffron.wtok-2.ru
+s.5e8y8.ru
+s0fthub.com
 sip.run-c-you.ru
-slash.gdyl-2.ru
-stone.4i1e2.ru
-stone.ndoq-0.ru
-stone.vbep-3.ru
-storm.bvuf-2.ru
-sun.8u2a9.ru
+ski.jsuv0.ru
 t1mze9.fox-ab.ru
-t9k.wir-2.ru
-topaz.mcej-9.ru
-tree.bvuf-2.ru
+tic.jsuv0.ru
 trtmyanmar.com
-u7j.wir-2.ru
-velvet.wqix-5.ru
-w8v.bid-5.ru
+try.sjyj1.ru
+v3.5e8y8.ru
 w8y3n2d.vbep-3.ru
-war.rjuq-3.ru
-water.4i1e2.ru
-wave.ndoq-0.ru
 wet.app-6-v.ru
-wolf.8u2a9.ru
+wgd.slideshowimprison.digital
 www.blackhattoolz.com
 www.frontier.net.pk
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 xn--yh4bx88a.com
 y0n3qv2.tape-5-x.ru
-z1.5e7i0.ru
-z2.bid-5.ru
+yap.npoj2.ru
+yo.mzas7.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -147,7 +159,7 @@ z2.bid-5.ru
 
 ```
 
-1 used fastly (0.18281535648994515%):
+1 used fastly (0.18115942028985507%):
 ```
 visualwikicloud.com
 ```

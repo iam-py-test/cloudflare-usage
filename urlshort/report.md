@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-130 used cloudflare (47.27272727272727%):
+129 used cloudflare (46.909090909090914%):
 ```
 02ip.ru
 1sta.com
@@ -129,7 +129,6 @@ shrink.pe
 shrinkearn.com
 shrinkme.io
 shrtm.nu
-smarturl.it
 snip.ly
 sor.bz
 spoo.me
@@ -154,8 +153,9 @@ www.encurtador.com.br
 www.jdoqocy.com
 ```
 
-9 used cloudfront (3.272727272727273%):
+10 used cloudfront (3.6363636363636362%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
