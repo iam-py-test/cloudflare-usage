@@ -1,4 +1,4 @@
-361 domains tested. 57.89473684210527% were behind nothing (152 were behind something). 57 domains could not be tested.<br>
+361 domains tested. 58.17174515235457% were behind nothing (151 were behind something). 55 domains could not be tested.<br>
 20 used akamai (5.540166204986149%):
 ```
 atsdr.cdc.gov
@@ -83,13 +83,15 @@ uscirf.gov
 usmint.gov
 ```
 
-31 used cloudfront (8.587257617728532%):
+33 used cloudfront (9.141274238227147%):
 ```
 ahrq.gov
 alabama.gov
 archives.gov
 bernco.gov
 boem.gov
+cfo.gov
+cio.gov
 eca.state.gov
 energy.gov
 exim.gov
@@ -128,9 +130,9 @@ visitthecapitol.gov
 
 ```
 
-1 used fastly (0.2770083102493075%):
+0 used fastly (0.0%):
 ```
-cbo.gov
+
 ```
 
 1 used sucuri (0.2770083102493075%):

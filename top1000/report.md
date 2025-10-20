@@ -1,4 +1,4 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ b-cdn.net
 
 ```
 
-152 used cloudflare (15.2%):
+151 used cloudflare (15.1%):
 ```
 33across.com
 addtoany.com
@@ -147,7 +147,6 @@ oup.com
 overload.su
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -209,16 +208,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -274,6 +271,7 @@ nationalgeographic.com
 netflix.net
 netgear.com
 noaa.gov
+note.com
 onelink.me
 onet.pl
 pbs.org
@@ -281,6 +279,7 @@ playrix.com
 presage.io
 primevideo.com
 pubmatic.com
+rainberrytv.com
 rayjump.com
 repubblica.it
 reuters.com
@@ -323,11 +322,10 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
