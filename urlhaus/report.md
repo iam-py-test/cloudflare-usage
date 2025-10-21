@@ -1,4 +1,4 @@
-558 domains tested. 65.77060931899642% were behind nothing (191 were behind something). 60 domains could not be tested.<br>
+537 domains tested. 67.22532588454376% were behind nothing (176 were behind something). 62 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,94 +19,81 @@
 
 ```
 
-129 used cloudflare (23.118279569892472%):
+113 used cloudflare (21.042830540037244%):
 ```
-028.11u812580.ru
+034d2.bl8205.ru
 034d2.u069653.ru
-0482.54o477354.ru
-06d1.93i197934.ru
-07c9.31e854642.ru
-080.37i658094.ru
+061.rv6324.ru
 080.i327147.ru
+118.bl8205.ru
+160287.rv6324.ru
 160287.u521483.ru
-219.93i197934.ru
-30951.49o103159.ru
+219.rv6324.ru
+30951.bl8205.ru
 30951.u069653.ru
-3135.31e854642.ru
 3135.y438414.ru
-333.37i658094.ru
+324.5m9081.ru
 333.i327147.ru
 3998107.i327147.ru
-41002.31e854642.ru
-4920.37i658094.ru
+4084.rv6324.ru
 4920.i327147.ru
-5002201.60e533569.ru
-501.49o103159.ru
+501.bl8205.ru
 501.u069653.ru
 55027.i373582.ru
-581.31e854642.ru
 581.y438414.ru
 610294.i327147.ru
 615162.freedomandchance.digital
-6901420.49o103159.ru
-706391.31e854642.ru
+6901420.bl8205.ru
 706391.y438414.ru
 719.o411213.ru
-72563.37i658094.ru
 72563.i327147.ru
+7436901.rv6324.ru
 7652190.o303024.ru
-777012.49o103159.ru
+777012.bl8205.ru
 77950.i554000.ru
-8427.49o103159.ru
+8427.bl8205.ru
 8427.u069653.ru
-8451203.31e854642.ru
-851.93i197934.ru
-918274.08u073852.ru
-925.31e854642.ru
+851.rv6324.ru
 925.y438414.ru
-93055.93i197934.ru
+93055.rv6324.ru
 93055.u521483.ru
-964.30u241207.ru
+9s.qcet8.ru
 accesspoint.cc
-air.wkej2.ru
+actor.1-byhih-05-ey.ru
+album.0-rohyp-5-yu.ru
 allendostmen.com
-ape.qvik5.ru
+amber3.run-c-you.online
+anger.2-pukeg-36-oy.ru
+angle.hop-g-3.online
 app.surrogatesolutions.net
-art.mzas7.ru
-ban.jrih5.ru
-bed.sjyj1.ru
+b0t.4y328.online
+began.5-forez-515-o.ru
+begun.7-nenop-38-oy.ru
 bestieslos.com
 bit.bkud4.ru
-bog.qvik5.ru
-can.jsuv0.ru
-cat.khoc9.ru
+bla.backloghelme.digital
+brown6.1-mafus-044-e.ru
 checkinetverifk.com
 classroomseven.com
-cloudflare.passthrough.cloud
-corestresser.cc
+coast0.5-forez-515-o.ru
+cross.xiqek-40-ye-8.ru
 crystalpvp.ru
-cup.mzas7.ru
 dad.kpyb0.ru
+delay.5-ninet-1-ou.ru
 dip.hxit8.ru
 dl.aginjector.com
-er.npoj2.ru
-era.mzas7.ru
-few.cqom9.ru
+event53.5-juzeb-0-io.ru
+fairy.2-pukeg-36-oy.ru
+focus.7-doxok-46-eu.ru
 fvia.id.vn
-gab.qvik5.ru
 gordon-and-son.com
-hag.rqyp1.ru
-has.cqom9.ru
+h2k.4y328.online
 hip.kduk8.ru
 hitman-pro.ru
-inn.jrih5.ru
-its.npoj2.ru
-jet.khoc9.ru
 k1gkl25as.top
+k2.5h4553.online
 klar.gg
-nap.rqyp1.ru
 nnnpanel.top
-nod.qvik5.ru
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -124,32 +111,29 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-ow.khoc9.ru
-pat.wkej2.ru
-pet.rqyp1.ru
-ran.sjyj1.ru
+ox.fix-fg.online
+oxy7.joy-2-way.online
+p9y3.4y328.online
+qm4z.4y328.online
+qz1a.5h4553.online
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
-s.5e8y8.ru
-s0fthub.com
 see.ckon0.ru
 sit.ngiz5.ru
-ski.jsuv0.ru
 tap.cpak0.ru
-tic.jsuv0.ru
 trtmyanmar.com
-try.sjyj1.ru
-v3.5e8y8.ru
-wearjora.com
-wgd.slideshowimprison.digital
+uf8.qcet8.ru
+vaew-varen-investment.sbs
+w7.4y328.online
 www.blackhattoolz.com
 www.frontier.net.pk
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+www.siegelpigeons.com
+x.4y328.online
 xn--yh4bx88a.com
-yap.npoj2.ru
-yo.mzas7.ru
+zdj.qcet8.ru
 ```
 
 0 used cloudfront (0.0%):
@@ -167,14 +151,14 @@ yo.mzas7.ru
 
 ```
 
-1 used fastly (0.17921146953405018%):
+1 used fastly (0.186219739292365%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.17921146953405018%):
+0 used sucuri (0.0%):
 ```
-techcusp.com
+
 ```
 
 0 used myracloud (0.0%):
