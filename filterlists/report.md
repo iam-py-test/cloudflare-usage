@@ -1,4 +1,4 @@
-223 domains tested. 55.60538116591929% were behind nothing (99 were behind something). 15 domains could not be tested.<br>
+223 domains tested. 55.15695067264574% were behind nothing (100 were behind something). 15 domains could not be tested.<br>
 4 used akamai (1.7937219730941705%):
 ```
 easylist-downloads.adblockplus.org
@@ -101,10 +101,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.174887892376682%):
+17 used fastly (7.623318385650224%):
 ```
 adaway.org
 adblock-thai.github.io
+adblock.ee
 badmojr.github.io
 cdn.jsdelivr.net
 cdn.statically.io
