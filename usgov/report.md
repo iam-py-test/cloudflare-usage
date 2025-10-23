@@ -1,4 +1,4 @@
-361 domains tested. 57.89473684210527% were behind nothing (152 were behind something). 55 domains could not be tested.<br>
+361 domains tested. 58.448753462603875% were behind nothing (150 were behind something). 54 domains could not be tested.<br>
 20 used akamai (5.540166204986149%):
 ```
 atsdr.cdc.gov
@@ -130,9 +130,9 @@ visitthecapitol.gov
 
 ```
 
-1 used fastly (0.2770083102493075%):
+0 used fastly (0.0%):
 ```
-cbo.gov
+
 ```
 
 1 used sucuri (0.2770083102493075%):

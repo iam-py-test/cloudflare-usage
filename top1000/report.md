@@ -1,5 +1,5 @@
 1000 domains tested. 63.7% were behind nothing (363 were behind something). 58 domains could not be tested.<br>
-27 used akamai (2.7%):
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -24,7 +24,6 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
 weforum.org
 xiaomi.com
 xiaomi.net
@@ -45,7 +44,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 addtoany.com
@@ -149,7 +148,6 @@ oup.com
 overload.su
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -202,7 +200,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
@@ -214,9 +212,10 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.de
+amazon.com.au
+amazon.com.br
 amazon.es
-amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -306,6 +305,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
