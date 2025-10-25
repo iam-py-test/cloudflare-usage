@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-152 used cloudflare (15.2%):
+153 used cloudflare (15.299999999999999%):
 ```
 33across.com
 addtoany.com
@@ -100,6 +100,7 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -146,7 +147,6 @@ oup.com
 overload.su
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -179,6 +179,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+transunion.com
 twitter.com
 uber.com
 unpkg.com
@@ -199,7 +200,7 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+110 used cloudfront (11.0%):
 ```
 3lift.com
 a-mo.net
@@ -207,12 +208,16 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
+amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -277,7 +282,6 @@ playrix.com
 presage.io
 primevideo.com
 pubmatic.com
-rainberrytv.com
 rayjump.com
 repubblica.it
 reuters.com
@@ -322,10 +326,11 @@ onlinepbx.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 corriere.it
 github.io
