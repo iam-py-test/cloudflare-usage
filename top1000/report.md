@@ -1,5 +1,5 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,8 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+staples.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +45,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 addtoany.com
@@ -53,7 +55,6 @@ apnews.com
 attn.tv
 berkeley.edu
 bidmachine.io
-blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -100,7 +101,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -147,6 +147,7 @@ oup.com
 overload.su
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -200,7 +201,7 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -209,13 +210,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -304,7 +304,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -326,11 +325,10 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
