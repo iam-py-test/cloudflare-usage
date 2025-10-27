@@ -1,4 +1,4 @@
-275 domains tested. 49.81818181818182% were behind nothing (138 were behind something). 7 domains could not be tested.<br>
+275 domains tested. 45.45454545454545% were behind nothing (150 were behind something). 6 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-123 used cloudflare (44.72727272727273%):
+130 used cloudflare (47.27272727272727%):
 ```
 02ip.ru
 1sta.com
@@ -141,19 +141,31 @@ t.co
 t.ly
 tii.la
 tinyurl.com
+track.canva.com
 uprot.net
 url1.io
+urlshortx.com
+usheethe.com
 v.gd
+vipurl.pro
+vze.com
 www.bl.ink
+www.encurtador.com.br
+www.jdoqocy.com
 ```
 
-5 used cloudfront (1.8181818181818181%):
+10 used cloudfront (3.6363636363636362%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
 short.gy
+trk.klclick.com
+trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
+zpr.io
 ```
 
 1 used ddosguard (0.36363636363636365%):
@@ -171,9 +183,9 @@ u.to
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.36363636363636365%):
 ```
-
+wee.so
 ```
 
 0 used myracloud (0.0%):
