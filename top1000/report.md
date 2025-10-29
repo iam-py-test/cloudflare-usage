@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 60 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -20,13 +20,13 @@ intuit.com
 kohls.com
 lowes.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
 webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -46,7 +46,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 addtoany.com
@@ -149,7 +149,6 @@ oup.com
 overload.su
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -203,7 +202,7 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -212,11 +211,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.de
+amazon.es
+amazon.fr
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -257,6 +256,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intentiq.com
 intercom.io
