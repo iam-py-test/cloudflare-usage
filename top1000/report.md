@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 61 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -41,9 +41,10 @@ b-cdn.net
 
 ```
 
-151 used cloudflare (15.1%):
+152 used cloudflare (15.2%):
 ```
 33across.com
+ad-delivery.net
 addtoany.com
 allaboutcookies.org
 apnews.com
@@ -94,7 +95,6 @@ fiverr.com
 fontawesome.com
 forter.com
 fwmrm.net
-garmin.com
 genius.com
 gitlab.com
 globalsign.com
@@ -162,6 +162,7 @@ sharethrough.com
 shein.com
 shopify.com
 smartadserver.com
+smilewanted.com
 sourceforge.net
 split.io
 sportradar.com
@@ -196,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -204,12 +205,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
-amazon.com
-amazon.com.br
+amazon.co.jp
+amazon.co.uk
+amazon.com.au
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
