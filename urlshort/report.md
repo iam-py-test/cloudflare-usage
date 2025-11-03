@@ -1,8 +1,7 @@
-275 domains tested. 45.81818181818182% were behind nothing (149 were behind something). 6 domains could not be tested.<br>
-2 used akamai (0.7272727272727273%):
+275 domains tested. 64.36363636363637% were behind nothing (98 were behind something). 3 domains could not be tested.<br>
+1 used akamai (0.36363636363636365%):
 ```
 eepurl.com
-email-sendgrid-deep-linking.chewy.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -20,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-130 used cloudflare (47.27272727272727%):
+91 used cloudflare (33.09090909090909%):
 ```
 02ip.ru
 1sta.com
@@ -101,75 +100,30 @@ lyksoomu.com
 mgnet.xyz
 mirrorz.com
 mub.me
-myprivate.pics
 n9.cl
 nyl.as
-ouo.io
-prettylinks.com
-qrco.de
-rb.gy
 rebrand.ly
 rebrandly.com
-rekonise.com
 rkns.link
-rotf.lol
 s.id
 screenshare.pics
-screenshot.best
-shorten.ee
-shorten.is
-shorten.world
-shortest.link
-shorturl.at
-shorturl.com
-shorturl.gg
 shre.su
-shrekis.life
-shrink.pe
 shrinkearn.com
-shrinkme.io
-shrtm.nu
-smarturl.it
-snip.ly
-sor.bz
-spoo.me
-spoo.me
-stfly.xyz
-stopify.co
 streak-link.com
 t.co
-t.ly
-tii.la
 tinyurl.com
-track.canva.com
-uprot.net
-url1.io
-urlshortx.com
-usheethe.com
-v.gd
-vipurl.pro
-vze.com
-www.bl.ink
-www.encurtador.com.br
-www.jdoqocy.com
 ```
 
-9 used cloudfront (3.272727272727273%):
+3 used cloudfront (1.090909090909091%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
-qrs.ly
-short.gy
-trk.klclick.com
-trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
-zpr.io
 ```
 
-1 used ddosguard (0.36363636363636365%):
+0 used ddosguard (0.0%):
 ```
-u.to
+
 ```
 
 0 used edgecast (0.0%):
@@ -182,9 +136,9 @@ u.to
 
 ```
 
-1 used sucuri (0.36363636363636365%):
+0 used sucuri (0.0%):
 ```
-wee.so
+
 ```
 
 0 used myracloud (0.0%):
