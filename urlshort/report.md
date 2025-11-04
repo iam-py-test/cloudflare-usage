@@ -1,7 +1,8 @@
-275 domains tested. 64.36363636363637% were behind nothing (98 were behind something). 3 domains could not be tested.<br>
-1 used akamai (0.36363636363636365%):
+275 domains tested. 63.63636363636363% were behind nothing (100 were behind something). 6 domains could not be tested.<br>
+2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
+email-sendgrid-deep-linking.chewy.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,7 +20,7 @@ eepurl.com
 
 ```
 
-91 used cloudflare (33.09090909090909%):
+88 used cloudflare (32.0%):
 ```
 02ip.ru
 1sta.com
@@ -100,18 +101,15 @@ lyksoomu.com
 mgnet.xyz
 mirrorz.com
 mub.me
+myprivate.pics
 n9.cl
-nyl.as
-rebrand.ly
-rebrandly.com
-rkns.link
-s.id
-screenshare.pics
-shre.su
-shrinkearn.com
-streak-link.com
+qrco.de
+rekonise.com
+shrtm.nu
 t.co
 tinyurl.com
+urlshortx.com
+www.jdoqocy.com
 ```
 
 3 used cloudfront (1.090909090909091%):
@@ -136,9 +134,9 @@ clicks.eventbrite.com
 
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.36363636363636365%):
 ```
-
+wee.so
 ```
 
 0 used myracloud (0.0%):

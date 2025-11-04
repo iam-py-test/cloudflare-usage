@@ -1,4 +1,4 @@
-361 domains tested. 58.17174515235457% were behind nothing (151 were behind something). 55 domains could not be tested.<br>
+361 domains tested. 58.72576177285319% were behind nothing (149 were behind something). 53 domains could not be tested.<br>
 20 used akamai (5.540166204986149%):
 ```
 atsdr.cdc.gov
