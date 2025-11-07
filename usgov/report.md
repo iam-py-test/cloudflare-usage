@@ -1,5 +1,5 @@
-361 domains tested. 58.17174515235457% were behind nothing (151 were behind something). 52 domains could not be tested.<br>
-23 used akamai (6.3711911357340725%):
+361 domains tested. 58.72576177285319% were behind nothing (149 were behind something). 49 domains could not be tested.<br>
+24 used akamai (6.64819944598338%):
 ```
 atsdr.cdc.gov
 cic.ndu.edu
@@ -23,6 +23,7 @@ stats.bls.gov
 studentaid.gov
 transit.dot.gov
 transportation.gov
+usda.gov
 usfa.fema.gov
 ```
 
