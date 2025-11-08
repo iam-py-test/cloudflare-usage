@@ -1,5 +1,5 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 62 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 60 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
@@ -20,10 +20,6 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
-usda.gov
-webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +39,7 @@ b-cdn.net
 
 ```
 
-147 used cloudflare (14.7%):
+148 used cloudflare (14.799999999999999%):
 ```
 33across.com
 ad-delivery.net
@@ -74,6 +70,7 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
+columbia.edu
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -116,7 +113,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -162,6 +158,7 @@ shopify.com
 smartadserver.com
 smilewanted.com
 sourceforge.net
+split.io
 sportradar.com
 stackoverflow.com
 statcounter.com
@@ -194,7 +191,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
@@ -204,11 +201,9 @@ adsrvr.org
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.br
-amazon.de
+amazon.com.au
 amazon.fr
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
