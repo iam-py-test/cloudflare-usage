@@ -1,5 +1,5 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 60 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 60 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -20,6 +20,8 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -39,7 +41,7 @@ b-cdn.net
 
 ```
 
-150 used cloudflare (15.0%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 ad-delivery.net
@@ -95,6 +97,7 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -112,6 +115,7 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
+letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -200,11 +204,12 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -295,7 +300,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -305,11 +309,10 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 crpt.ru
 netangels.ru
-onlinepbx.ru
 ```
 
 0 used edgecast (0.0%):
