@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 60 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 58 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -10,11 +10,13 @@ dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
+homedepot.com
 hp.com
 intel.com
 intuit.com
 kohls.com
 lowes.com
+macys.com
 marriott.com
 mi.com
 mysql.com
@@ -40,13 +42,12 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+150 used cloudflare (15.0%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 apnews.com
 attn.tv
 berkeley.edu
@@ -97,7 +98,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -126,7 +126,6 @@ markmonitor.com
 mediafire.com
 mediatek.com
 medium.com
-mgid.com
 moloco.com
 myshopify.com
 networkadvertising.org
@@ -143,7 +142,6 @@ optimizely.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -198,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
@@ -206,12 +204,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com.au
 amazon.com.br
 amazon.de
-amazon.fr
-amazonalexa.com
+amazon.es
+amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
