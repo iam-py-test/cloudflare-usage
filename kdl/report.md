@@ -1,4 +1,4 @@
-2657 domains tested. 71.96085811065112% were behind nothing (745 were behind something). 122 domains could not be tested.<br>
+2657 domains tested. 69.8908543470079% were behind nothing (800 were behind something). 188 domains could not be tested.<br>
 225 used akamai (8.468197214904027%):
 ```
 1.www.s81c.com
@@ -80,6 +80,7 @@ cdn.cnn.com
 cdn.tmobile.com
 charts-images.scdn.co
 cl.ebay.com
+cl.pinterest.com
 cn.ebay.com
 co.ebay.com
 co.pinterest.com
@@ -88,12 +89,12 @@ consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
 css.rbxcdn.com
-ct.pinterest.com
 cz.pinterest.com
 d.oracleinfinity.io
 dds.dell.com
 de.pinterest.com
 digitalasset.intuit.com
+dk.pinterest.com
 do.ebay.com
 e100.a.akamaiedge.net
 e100.x.akamaiedge.net
@@ -205,26 +206,25 @@ g.alicdn.com
 godaddy.com
 gr.pinterest.com
 gt.ebay.com
-hn.ebay.com
 hp.com
 ht.cdn.turner.com
+hu.pinterest.com
 i.etsystatic.com
-i.pinimg.com
+i.scdn.co
+ichef.bbc.co.uk
 ichef.bbci.co.uk
-il.ebay.com
+ie.pinterest.com
 image-us.samsung.com
-images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
-inews.gtimg.com
 intuit.com
-media.mcafeeassets.com
-munchkin.marketo.net
-p16-sign.tiktokcdn-us.com
-seeded-session-images.scdn.co
-staples.com
-www.bing.com
-www.intuit.com
+p16-sign-useast2a.tiktokcdn.com
+query.prod.cms.rt.microsoft.com
+static-global-s-msn-com.akamaized.net
+webex.com
+www.cafr.ebay.ca
+www.salesforce.com
+www.xerox.ca
 xiaomi.com
 ```
 
@@ -248,13 +248,13 @@ fonts.bunny.net
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
-1667503734.rsc.cdn77.org
 c.ptgncdn.com
-cdn.userway.org
 f1-eu.readspeaker.com
+p77-sign-sg.tiktokcdn.com
+static-lvlt.xhcdn.com
 ```
 
-114 used cloudflare (4.290553255551374%):
+112 used cloudflare (4.215280391418894%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -283,6 +283,7 @@ cdn-client.medium.com
 cdn-static-1.medium.com
 cdn.cookielaw.org
 cdn.discordapp.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-ingest.io
 cdn.optimizely.com
@@ -336,36 +337,33 @@ linkedin.com
 medium.com
 myshopify.com
 nist.gov
+no-cache.hubspot.com
 openai.com
-optimizely-edge.salesforce.com
-ot.www.cloudflare.com
-pbs.twimg.com.cdn.cloudflare.net
-qsc.cf2.quoracdn.net
 quora.com
 researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
+sdfestaticassets-us-east-1.sciencedirectassets.com
 shopify.com
 sj16.mktoedge.com
 sourceforge.net
 st3.zoom.us
 stackoverflow.com
+static-cflr.licdn.com.cdn.cloudflare.net
 t.co
-tb.sb-cd.com
-transcend-cdn.com
 transunion.com
 twitter.com
 unpkg.com
+use.fontawesome.com
+video.twimg.com.cdn.cloudflare.net
 vimeo.com
 vungle.com
 w3.org
 who.int
 workers.dev
-www.nist.gov
-www.paypal.com
 www.paypalobjects.com.cdn.cloudflare.net
-www.roku.com
+www.w3.org.cdn.cloudflare.net
 x.com
 xhamster.com
 zendesk.com
@@ -374,6 +372,7 @@ zoom.us
 
 182 used cloudfront (6.849830636055702%):
 ```
+1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -386,6 +385,7 @@ adsrvr.org
 aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -414,6 +414,7 @@ cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
 cdn.statuspage.io
+cdn.userway.org
 cdnssl.clicktale.net
 cf.bstatic.com
 cigars.roku.com
@@ -524,38 +525,35 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
 images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.rbxcdn.com
 images.sr.roku.com
 images.t-online.de
 img-deviantart.wixmp.com
 img.hipages.com.au
 invite.soundcloud.com
-js-cdn.dynatrace.com
-js.adsrvr.org
-milanuncios.com
-mktg.tags.f5.com
+loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 netflix.net
-privacy-cdn.a.intuit.com
-prod.weather.stroeerws.de
+privacy-policy.truste.com
 pubmatic.com
+quickbooks.intuit.com
 roblox-api.arkoselabs.com
-s0.awsstatic.com
-script.crazyegg.com
-sdk.sharethrough.com
+s4.cnnx.io
+snapengage.dropbox.com
 soundcloud.com
-static-web-assets.gnl-common.bbcverticals.com
-static.snapchat.com
+sourcepoint.theguardian.com
+standards.digital.gov
+static.ring.com
 static.yieldmo.com
 t-online.de
-t0.m.awsstatic.com
-token.us-west-2.prod.site.p.awsstatic.com
 ui.com
-vimeo.bynder.com
 warnerbros.com
+widget.trustpilot.com
+widgets.q4app.com
+www.amazon.com
 ```
 
 0 used ddosguard (0.0%):
@@ -573,7 +571,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-77 used fastly (2.898005269100489%):
+69 used fastly (2.5969138125705684%):
 ```
 a.thumbs.redditmedia.com
 a3.shared.global.fastly.net
@@ -590,20 +588,18 @@ bbc.map.fastly.net
 br.pinterest.com
 browser.sentry-cdn.com
 cdn.intellimize.co
-cdn.jsdelivr.net
 cdn.speedcurve.com
 cdn.taboola.com
 ch.pinterest.com
-cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
+ct.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
 data.cnn.com
 design-cdn.shipt.com
 devforce.map.fastly.net
-dk.pinterest.com
 dsom-imager-prod.shipt.com
 dualstack.brightcove.map.fastly.net
 dualstack.com.imgix.map.fastly.net
@@ -629,7 +625,6 @@ gtm.shipt.com
 guardian.map.fastly.net
 h2.twitch.map.fastly.net
 harvesthq.github.io
-hits-secure.theguardian.com
 hw-cdn2.adtng.com
 i.ebayimg.com
 i.forbesimg.com
@@ -637,21 +632,16 @@ i.guim.co.uk
 i.redd.it
 i.vimeocdn.com
 imageio.forbes.com
+images.forbes.com
 imgix.datadoghq.com
-interactive.guim.co.uk
-ir.ebaystatic.com
+in.pinterest.com
 it.pinterest.com
 j.ophan.co.uk
 j.sni.global.fastly.net
+medallia2.map.fastly.net
 nytimes.com
-outbrain.map.fastly.net
-paypal.map.fastly.net
-scdnco.spotify.map.fastly.net
-staging-images.shipt.com
+tls130rtt.spotifycdn.map.fastly.net
 vimeo-video.map.fastly.net
-www.bbc.com
-www.fastly-insights.com
-www.nytimes.com
 ```
 
 0 used sucuri (0.0%):
@@ -689,12 +679,11 @@ www.nytimes.com
 
 ```
 
-4 used netlify (0.1505457282649605%):
+3 used netlify (0.11290929619872037%):
 ```
 amp.dev
 ampproject.org
 lencr.org
-outreach.abetterinternet.org
 ```
 
 2 used imperva (0.07527286413248024%):

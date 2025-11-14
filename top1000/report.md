@@ -1,4 +1,4 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 59 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -22,7 +22,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -42,14 +42,13 @@ b-cdn.net
 
 ```
 
-150 used cloudflare (15.0%):
+151 used cloudflare (15.1%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
 apnews.com
-attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
@@ -95,9 +94,10 @@ fiverr.com
 fontawesome.com
 forter.com
 fwmrm.net
-garmin.com
 genius.com
 gitlab.com
+globalsign.com
+groksearch.net
 heylink.me
 hostgator.com
 hostgator.com.br
@@ -123,6 +123,7 @@ linklist.bio
 linktr.ee
 loc.gov
 markmonitor.com
+media.net
 mediafire.com
 mediatek.com
 medium.com
@@ -196,21 +197,23 @@ zendesk.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -318,10 +321,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
+bloomberg.com
 cbsnews.com
 corriere.it
 github.io
