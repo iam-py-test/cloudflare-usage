@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -18,6 +18,7 @@ kohls.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 news.com.au
@@ -144,7 +145,6 @@ optimizely.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -181,6 +181,7 @@ tinyurl.com
 transunion.com
 twitter.com
 uber.com
+umich.edu
 unpkg.com
 upwork.com
 vimeo.com
@@ -199,7 +200,7 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -208,13 +209,12 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -303,7 +303,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -313,10 +312,11 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
 crpt.ru
 netangels.ru
+onlinepbx.ru
 ```
 
 0 used edgecast (0.0%):
@@ -324,11 +324,10 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
