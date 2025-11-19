@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -20,10 +20,10 @@ macys.com
 marriott.com
 mi.com
 mysql.com
-news.com.au
 rakuten.co.jp
 usda.gov
 webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +43,7 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+151 used cloudflare (15.1%):
 ```
 33across.com
 ad-delivery.net
@@ -139,12 +139,10 @@ onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
-openstreetmap.org
 optimizely.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -184,7 +182,6 @@ twitter.com
 uber.com
 umich.edu
 unpkg.com
-upwork.com
 vimeo.com
 vungle.com
 w3.org
@@ -201,19 +198,18 @@ zendesk.com
 zoom.us
 ```
 
-110 used cloudfront (11.0%):
+109 used cloudfront (10.9%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -261,10 +257,10 @@ healthline.com
 hotjar.com
 ieee.org
 imdb.com
-intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
+kahoot.it
 kargo.com
 latimes.com
 lijit.com
@@ -327,11 +323,10 @@ onlinepbx.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
