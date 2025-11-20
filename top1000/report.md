@@ -1,11 +1,10 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -21,9 +20,7 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
-usda.gov
 webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -43,7 +40,7 @@ b-cdn.net
 
 ```
 
-151 used cloudflare (15.1%):
+153 used cloudflare (15.299999999999999%):
 ```
 33across.com
 ad-delivery.net
@@ -98,6 +95,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 groksearch.net
 heylink.me
 hostgator.com
@@ -143,6 +141,7 @@ optimizely.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -198,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-109 used cloudfront (10.9%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
@@ -206,11 +205,10 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -226,6 +224,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -260,7 +259,6 @@ imdb.com
 intercom.io
 ipify.org
 jetbrains.com
-kahoot.it
 kargo.com
 latimes.com
 lijit.com
