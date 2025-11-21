@@ -1,10 +1,11 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 58 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -40,7 +41,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+151 used cloudflare (15.1%):
 ```
 33across.com
 ad-delivery.net
@@ -95,7 +96,6 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 groksearch.net
 heylink.me
 hostgator.com
@@ -167,7 +167,6 @@ spamhaus.org
 split.io
 sportradar.com
 stackoverflow.com
-statcounter.com
 substack.com
 t.co
 tandfonline.com
@@ -197,7 +196,7 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+111 used cloudfront (11.1%):
 ```
 3lift.com
 a-mo.net
@@ -209,6 +208,9 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -224,7 +226,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -259,6 +260,7 @@ imdb.com
 intercom.io
 ipify.org
 jetbrains.com
+kahoot.it
 kargo.com
 latimes.com
 lijit.com
