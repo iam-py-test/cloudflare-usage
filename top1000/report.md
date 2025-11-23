@@ -1,5 +1,5 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 58 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,8 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
+webex.com
+windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -40,7 +42,7 @@ b-cdn.net
 
 ```
 
-150 used cloudflare (15.0%):
+149 used cloudflare (14.899999999999999%):
 ```
 33across.com
 ad-delivery.net
@@ -52,7 +54,6 @@ berkeley.edu
 bidmachine.io
 bluehost.com
 box.com
-branch.io
 braze.com
 britannica.com
 btloader.com
@@ -194,18 +195,20 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -255,7 +258,6 @@ intercom.io
 ipify.org
 jetbrains.com
 kahoot.it
-kargo.com
 latimes.com
 lijit.com
 line.me
@@ -295,6 +297,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
@@ -316,11 +319,10 @@ onlinepbx.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
