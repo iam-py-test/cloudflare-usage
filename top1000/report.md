@@ -1,5 +1,5 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 58 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 56 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -21,8 +21,6 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
-webex.com
-windows.com
 xiaomi.com
 xiaomi.net
 ```
@@ -42,18 +40,21 @@ b-cdn.net
 
 ```
 
-149 used cloudflare (14.899999999999999%):
+153 used cloudflare (15.299999999999999%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
 ancestry.com
+anydesk.com
 apnews.com
+attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
 box.com
+branch.io
 braze.com
 britannica.com
 btloader.com
@@ -96,6 +97,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 groksearch.net
 heylink.me
 hostgator.com
@@ -195,29 +197,23 @@ zendesk.com
 zoom.us
 ```
 
-108 used cloudfront (10.8%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.br
-amazon.es
+amazon.com.au
 amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
 aniview.com
-anydesk.com
 appsflyer.com
 appsflyersdk.com
 arcgis.com
