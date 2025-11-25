@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 56 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 57 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,7 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -40,7 +41,7 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+154 used cloudflare (15.4%):
 ```
 33across.com
 ad-delivery.net
@@ -58,6 +59,7 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+byteconnect.io
 cambridge.org
 canva.com
 casalemedia.com
@@ -81,6 +83,7 @@ crazygames.com
 creativecommons.org
 deepintent.com
 deepl.com
+dfn.nl
 digitalocean.com
 discogs.com
 discord.com
@@ -97,7 +100,6 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 groksearch.net
 heylink.me
 hostgator.com
@@ -144,6 +146,7 @@ oup.com
 pages.dev
 patreon.com
 people.com
+perplexity.ai
 pexels.com
 pixabay.com
 pixiv.net
@@ -176,7 +179,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-transunion.com
 twitter.com
 uber.com
 umich.edu
@@ -204,9 +206,10 @@ a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.co.jp
-amazon.co.uk
+amazon.ca
 amazon.com.au
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazonaws.com
@@ -285,7 +288,6 @@ synology.com
 t-online.de
 tp-link.com
 tradingview.com
-tremorhub.com
 tripadvisor.com
 trustpilot.com
 typeform.com
