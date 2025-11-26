@@ -1,9 +1,8 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 57 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
-adobe.net
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -21,7 +20,6 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
-webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -100,12 +98,13 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 groksearch.net
+hcaptcha.com
 heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ietf.org
 ikea.com
 indeed.com
@@ -121,7 +120,6 @@ kueezrtb.com
 letterboxd.com
 life360.com
 liftoff.io
-linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -199,7 +197,7 @@ zendesk.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
@@ -207,11 +205,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 amazon.ca
+amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
-amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -271,7 +272,6 @@ onelink.me
 onet.pl
 pbs.org
 playrix.com
-presage.io
 primevideo.com
 pubmatic.com
 rayjump.com
