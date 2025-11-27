@@ -1,13 +1,13 @@
-275 domains tested. 44.72727272727273% were behind nothing (152 were behind something). 9 domains could not be tested.<br>
+275 domains tested. 45.45454545454545% were behind nothing (150 were behind something). 8 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
 ```
 
-1 used bunnycdn (0.36363636363636365%):
+0 used bunnycdn (0.0%):
 ```
-goo.su
+
 ```
 
 0 used cachefly (0.0%):

@@ -1,8 +1,9 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 57 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -39,7 +40,7 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+155 used cloudflare (15.5%):
 ```
 33across.com
 ad-delivery.net
@@ -120,6 +121,7 @@ kueezrtb.com
 letterboxd.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -197,22 +199,19 @@ zendesk.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
-amazon.es
+amazon.de
+amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -317,12 +316,11 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net
