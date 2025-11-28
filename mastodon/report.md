@@ -1,4 +1,4 @@
-186 domains tested. 67.20430107526882% were behind nothing (61 were behind something). 7 domains could not be tested.<br>
+186 domains tested. 67.74193548387096% were behind nothing (60 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-52 used cloudflare (27.956989247311824%):
+51 used cloudflare (27.419354838709676%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -63,7 +63,6 @@ noagendasocial.com
 nsfwmisskey.narazaka.net
 oyasumi.ski
 pixelfed.social
-pogs.cafe
 qaf.men
 rhythmisskey.games
 social.skynetcloud.site
