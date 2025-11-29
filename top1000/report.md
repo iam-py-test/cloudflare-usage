@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 55 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -18,6 +18,7 @@ kohls.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -41,7 +42,7 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+155 used cloudflare (15.5%):
 ```
 33across.com
 ad-delivery.net
@@ -171,6 +172,7 @@ spamhaus.org
 split.io
 sportradar.com
 stackoverflow.com
+stripchat.com
 substack.com
 t.co
 tandfonline.com
@@ -208,12 +210,13 @@ adsafeprotected.com
 adsrvr.org
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.it
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -254,7 +257,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -319,11 +321,10 @@ onlinepbx.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
-bloomberg.com
 cbsnews.com
 corriere.it
 github.io
