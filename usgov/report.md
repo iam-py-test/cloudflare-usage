@@ -1,4 +1,4 @@
-361 domains tested. 57.89473684210527% were behind nothing (152 were behind something). 49 domains could not be tested.<br>
+361 domains tested. 57.61772853185596% were behind nothing (153 were behind something). 49 domains could not be tested.<br>
 23 used akamai (6.3711911357340725%):
 ```
 atsdr.cdc.gov
@@ -41,7 +41,7 @@ usfa.fema.gov
 
 ```
 
-42 used cloudflare (11.634349030470915%):
+43 used cloudflare (11.911357340720222%):
 ```
 aoc.gov
 bia.gov
@@ -84,6 +84,7 @@ si.edu
 srbc.net
 tva.com
 uscirf.gov
+usip.org
 usmint.gov
 ```
 
