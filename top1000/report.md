@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 54 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-155 used cloudflare (15.5%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
@@ -93,6 +93,7 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
+epicgames.dev
 eu-1-id5-sync.com
 expireddomains.com
 fiverr.com
@@ -101,6 +102,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -137,6 +139,7 @@ nexusmods.com
 nic.network
 nist.gov
 okta.com
+olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -145,6 +148,7 @@ optimizely.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -201,19 +205,17 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -301,7 +303,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

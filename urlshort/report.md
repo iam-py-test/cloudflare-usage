@@ -1,4 +1,4 @@
-275 domains tested. 43.63636363636363% were behind nothing (155 were behind something). 14 domains could not be tested.<br>
+275 domains tested. 55.63636363636364% were behind nothing (122 were behind something). 7 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-129 used cloudflare (46.909090909090914%):
+105 used cloudflare (38.18181818181819%):
 ```
 02ip.ru
 1sta.com
@@ -120,54 +120,29 @@ shorten.ee
 shorten.is
 shorten.world
 shortest.link
-shorturl.at
-shorturl.com
-shorturl.gg
-shre.su
 shrekis.life
-shrink.pe
-shrinkearn.com
-shrinkme.io
-shrtm.nu
-smarturl.it
-snip.ly
-sor.bz
 spoo.me
-spoo.me
-stfly.xyz
-stopify.co
-streak-link.com
 t.co
-t.ly
-tii.la
 tinyurl.com
-track.canva.com
 uprot.net
-url1.io
 urlshortx.com
-usheethe.com
-v.gd
-vipurl.pro
 vze.com
-www.bl.ink
-www.jdoqocy.com
 ```
 
-8 used cloudfront (2.909090909090909%):
+7 used cloudfront (2.5454545454545454%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 short.gy
 trk.klclick.com
-trk.klclick1.com
 trk.klclick2.com
 trk.klclick3.com
-zpr.io
 ```
 
-1 used ddosguard (0.36363636363636365%):
+0 used ddosguard (0.0%):
 ```
-u.to
+
 ```
 
 0 used edgecast (0.0%):
