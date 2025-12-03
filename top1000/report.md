@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ b-cdn.net
 
 ```
 
-159 used cloudflare (15.9%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 ad-delivery.net
@@ -102,7 +102,6 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -123,10 +122,10 @@ kueezrtb.com
 letterboxd.com
 life360.com
 liftoff.io
-linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
+maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -148,7 +147,6 @@ optimizely.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -205,20 +203,20 @@ zendesk.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+106 used cloudfront (10.6%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -267,6 +265,7 @@ ipify.org
 jetbrains.com
 kahoot.it
 latimes.com
+lavanguardia.com
 lijit.com
 line.me
 merriam-webster.com
@@ -286,6 +285,7 @@ rayjump.com
 repubblica.it
 reuters.com
 ryanair.com
+serasaexperian.com.br
 shalltry.com
 shutterstock.com
 soundcloud.com
@@ -303,6 +303,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com
