@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 51 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -22,6 +22,7 @@ mi.com
 mysql.com
 ouest-france.fr
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -42,7 +43,7 @@ b-cdn.net
 
 ```
 
-157 used cloudflare (15.7%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 ad-delivery.net
@@ -102,6 +103,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -122,6 +124,7 @@ kueezrtb.com
 letterboxd.com
 life360.com
 liftoff.io
+linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
@@ -138,7 +141,6 @@ nexusmods.com
 nic.network
 nist.gov
 okta.com
-olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -203,20 +205,22 @@ zendesk.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+108 used cloudfront (10.8%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
