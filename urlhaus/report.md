@@ -1,4 +1,4 @@
-578 domains tested. 79.23875432525952% were behind nothing (120 were behind something). 30 domains could not be tested.<br>
+567 domains tested. 77.95414462081128% were behind nothing (125 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,15 @@
 
 ```
 
-87 used cloudflare (15.051903114186851%):
+96 used cloudflare (16.93121693121693%):
 ```
 1735550459---www.c12o2z33.cc
 1735690331---www.a0102070.cc
 1735701775---www.a0102070.cc
+1bhn.cherl1ber7y.ru
+5c.gl1ntip.ru
 8sapu4d.com
-agenportbet88.club
+9rt5b.dexlotion.ru
 agent188super.org
 allendostmen.com
 app.appzcvb.com
@@ -41,22 +43,29 @@ checkinetverifk.com
 classroomseven.com
 clientetv.crn.re
 clipaid.app
+core.l2nd0fenet.ru
 cpc0392.com
 cpc188.day
 cpc9302.com
 crystalpvp.ru
+d4.l2nd0fenet.ru
 dl.aginjector.com
+f8beta-2.com
 filerit.com
 files.5modapk.com
 files.secureapk.app
 fvia.id.vn
+galaxy88godz.click
+galaxy88newfil.com
 gordon-and-son.com
 gutando.com
-happynewyear2.com
 hezi1.com
 hitman-pro.ru
+ic3ae.l2nd0fenet.ru
+jr.minglecrate.ru
+k1gkl25as.top
+kdnbdbsh.sbs
 ldbgaming24.com
-masuraclone.com
 masuraonline.com
 microsoft-analyse.com
 mintqrisbar88.pro
@@ -82,37 +91,38 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+pixel.he2rthyoun8.ru
+range.s0ckthorn.ru
 reauthenticator.com
-regisidagentshop138.vip
 renew.googleplays.cc
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 sapu4d-x.com
 superbet388.sbs
-sureclear.com.au
 systemsupport.top
-testfortesmasi.cc
 top8onlinegame.com
-trimed.com.au
+topquangcaohieuqua.vip
 trtmyanmar.com
 warkopshopfb138.cc
-wwt.not0r5atush.ru
+wvcqn.qu0rkline.ru
 www.beesoft.vn
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
-www.testfortesmasi.cc
 www.u9zv0uq6tomfchp.store
 www.vuelaviajero.com
+wy3.minglecrate.ru
 xn--yh4bx88a.com
 xupertvapps.com
+ykpb.cherl1ber7y.ru
 youtransfer.net
 ```
 
-2 used cloudfront (0.34602076124567477%):
+3 used cloudfront (0.5291005291005291%):
 ```
 data.windows-update-cdn.com
+reg.ntcccz.com
 zzcc.eghyahl.com
 ```
 
@@ -126,7 +136,7 @@ zzcc.eghyahl.com
 
 ```
 
-1 used fastly (0.17301038062283738%):
+1 used fastly (0.1763668430335097%):
 ```
 visualwikicloud.com
 ```

@@ -1,12 +1,11 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 54 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
-coupang.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -43,7 +42,7 @@ b-cdn.net
 
 ```
 
-157 used cloudflare (15.7%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 ad-delivery.net
@@ -126,6 +125,7 @@ linkedin.com
 linklist.bio
 linktr.ee
 loc.gov
+maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -148,6 +148,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -162,7 +163,6 @@ researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
-sedo.com
 seedtag.com
 sharethrough.com
 shein.com
@@ -204,22 +204,20 @@ zendesk.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+104 used cloudfront (10.4%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
-amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -294,6 +292,7 @@ soundcloud.com
 state.gov
 supercell.com
 surveymonkey.com
+synology.com
 t-online.de
 tp-link.com
 tradingview.com
@@ -304,7 +303,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-utorrent.com
+uol.com.br
 warnerbros.com
 wattpad.com
 wired.com
@@ -325,11 +324,12 @@ onlinepbx.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
