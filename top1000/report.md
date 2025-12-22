@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 54 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 52 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ macys.com
 marriott.com
 mi.com
 mysql.com
-ouest-france.fr
 rakuten.co.jp
 webex.com
 xiaomi.com
@@ -42,7 +41,7 @@ b-cdn.net
 
 ```
 
-158 used cloudflare (15.8%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
@@ -59,7 +58,7 @@ box.com
 branch.io
 braze.com
 britannica.com
-btloader.com
+buitengewoonglasvezel.nl
 byteconnect.io
 cambridge.org
 canva.com
@@ -76,7 +75,7 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
-columbia.edu
+conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -95,6 +94,7 @@ doubleverify.com
 epicgames.com
 epicgames.dev
 eu-1-id5-sync.com
+example.com
 expireddomains.com
 fiverr.com
 fontawesome.com
@@ -122,7 +122,6 @@ letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
-linklist.bio
 linktr.ee
 loc.gov
 maricopa.gov
@@ -138,7 +137,6 @@ nexusmods.com
 nic.network
 nist.gov
 okta.com
-olx.com.br
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -163,6 +161,7 @@ researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
+sedo.com
 seedtag.com
 sharethrough.com
 shein.com
@@ -170,8 +169,8 @@ shopify.com
 singular.net
 smartadserver.com
 smilewanted.com
+sophos.com
 sourceforge.net
-spamhaus.org
 split.io
 sportradar.com
 stackoverflow.com
@@ -183,6 +182,7 @@ teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
+thinkific.com
 tinyurl.com
 twitter.com
 uber.com
@@ -198,26 +198,30 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
+zoom.com
 zoom.us
 ```
 
-104 used cloudfront (10.4%):
+107 used cloudfront (10.7%):
 ```
 3lift.com
 a-mo.net
 academia.edu
 adsafeprotected.com
 adsrvr.org
+agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -236,7 +240,6 @@ brave.com
 calendly.com
 checkpoint.com
 cox.net
-curseforge.com
 datadoghq.com
 deviantart.com
 doi.org
@@ -265,7 +268,6 @@ ipify.org
 jetbrains.com
 kahoot.it
 latimes.com
-lavanguardia.com
 lijit.com
 line.me
 merriam-webster.com
@@ -309,6 +311,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+yahoo.com
 zillow.com
 ```
 

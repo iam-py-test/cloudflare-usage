@@ -1,4 +1,4 @@
-186 domains tested. 67.74193548387096% were behind nothing (60 were behind something). 7 domains could not be tested.<br>
+186 domains tested. 68.27956989247312% were behind nothing (59 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-51 used cloudflare (27.419354838709676%):
+50 used cloudflare (26.881720430107524%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -35,7 +35,6 @@ journa.host
 k.yumeka.xyz
 kitsui.life
 kolektiva.social
-lawsocial.org
 loforo.com
 lor.sh
 m.einverne.info
