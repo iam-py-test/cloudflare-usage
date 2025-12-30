@@ -1,4 +1,4 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -41,13 +41,12 @@ b-cdn.net
 
 ```
 
-159 used cloudflare (15.9%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 attn.tv
@@ -59,7 +58,6 @@ branch.io
 braze.com
 britannica.com
 buitengewoonglasvezel.nl
-byteconnect.io
 cambridge.org
 canva.com
 casalemedia.com
@@ -102,8 +100,8 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
-heylink.me
 hostgator.com
 hostgator.com.br
 hubspot.com
@@ -148,7 +146,6 @@ pages.dev
 patreon.com
 paypal.com
 people.com
-perplexity.ai
 pexels.com
 pixabay.com
 pixiv.net
@@ -160,6 +157,7 @@ readthedocs.io
 researchgate.net
 roku.com
 rubiconproject.com
+rustdesk.com
 sciencedirect.com
 sedo.com
 seedtag.com
@@ -176,7 +174,6 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -186,7 +183,6 @@ thinkific.com
 tinyurl.com
 twitter.com
 uber.com
-umich.edu
 unpkg.com
 vimeo.com
 vungle.com
@@ -198,13 +194,14 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-107 used cloudfront (10.7%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -213,14 +210,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.fr
-amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -239,7 +233,6 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
-cox.net
 datadoghq.com
 deviantart.com
 doi.org
@@ -263,10 +256,10 @@ healthline.com
 hotjar.com
 ieee.org
 imdb.com
+intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
-kahoot.it
 latimes.com
 lijit.com
 line.me
@@ -283,6 +276,7 @@ pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
+rapid7.com
 rayjump.com
 repubblica.it
 reuters.com
@@ -291,7 +285,6 @@ serasaexperian.com.br
 shalltry.com
 shutterstock.com
 soundcloud.com
-state.gov
 supercell.com
 surveymonkey.com
 synology.com
@@ -311,7 +304,6 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
-yahoo.com
 zillow.com
 ```
 
@@ -381,7 +373,8 @@ launchdarkly.com
 lencr.org
 ```
 
-1 used imperva (0.1%):
+2 used imperva (0.2%):
 ```
 digicert.com
+prudential.com
 ```
