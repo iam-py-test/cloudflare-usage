@@ -1,11 +1,10 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -14,7 +13,6 @@ homedepot.com
 hp.com
 intel.com
 intuit.com
-kohls.com
 lowes.com
 macys.com
 marriott.com
@@ -98,6 +96,7 @@ fiverr.com
 fontawesome.com
 forter.com
 fwmrm.net
+garmin.com
 genius.com
 gitlab.com
 globalsign.com
@@ -144,7 +143,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -157,7 +155,6 @@ readthedocs.io
 researchgate.net
 roku.com
 rubiconproject.com
-rustdesk.com
 sciencedirect.com
 sedo.com
 seedtag.com
@@ -174,6 +171,7 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -201,7 +199,7 @@ zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -209,12 +207,13 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
+amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -227,6 +226,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -260,6 +260,7 @@ intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
+kargo.com
 latimes.com
 lijit.com
 line.me
@@ -281,7 +282,6 @@ rayjump.com
 repubblica.it
 reuters.com
 ryanair.com
-serasaexperian.com.br
 shalltry.com
 shutterstock.com
 soundcloud.com
@@ -299,6 +299,7 @@ ui.com
 un.org
 unrulymedia.com
 uol.com.br
+utorrent.com
 warnerbros.com
 wattpad.com
 wired.com
@@ -319,8 +320,9 @@ onlinepbx.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
+0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com

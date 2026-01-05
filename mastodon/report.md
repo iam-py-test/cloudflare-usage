@@ -1,4 +1,4 @@
-186 domains tested. 67.20430107526882% were behind nothing (61 were behind something). 9 domains could not be tested.<br>
+186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,13 @@
 
 ```
 
-50 used cloudflare (26.881720430107524%):
+52 used cloudflare (27.956989247311824%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
 better.boston
 bols.games
+catcore.life
 dicekey.jp
 eigenmagic.net
 elderscrolls.space
@@ -54,6 +55,7 @@ misskey.mofumofu.me
 misskey.v-nr.net
 mk.chiwa.net
 mkacg.com
+moe.social
 morale.ch
 mstdn.ca
 mstdn.io

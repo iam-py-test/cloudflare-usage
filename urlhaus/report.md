@@ -1,4 +1,4 @@
-587 domains tested. 67.6320272572402% were behind nothing (190 were behind something). 23 domains could not be tested.<br>
+534 domains tested. 75.84269662921348% were behind nothing (129 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,99 +19,58 @@
 
 ```
 
-165 used cloudflare (28.109028960817717%):
+90 used cloudflare (16.853932584269664%):
 ```
-0do79h4s.blueh1ll.ru
-10zseo44.5kylight.ru
-15eitnbq.mistysh1eld.ru
-171f42aj.5kylight.ru
-1xucln9y.wind5tone.ru
-2ah4j4gq.stormh1ll.ru
-2h5ydzqo.rainshield.ru
-2i7bgqa2.bi8otz1on.ru
-2tfg15f1.blu3field.ru
-2wwhaoq1.n1ghtsh0re.ru
-2wz05npa.heh0vli8ht.ru
-301tnw8t.f0ursme1ting.ru
-3a4srpk1.harr0wp2i.ru
-3bvphmwg.wind5tone.ru
-3ei6h1fz.udmu7tsw2rp.ru
-3ttsi6qg.cl0udpath.ru
-3uyvehbx.rainfail.ru
-4kgnpztl.deepmi5t.ru
-50oxk787.rainfail.ru
-522bmwhj.cl0udr1dge.ru
-52r1hjg1.ch2ntro1ley.ru
-5l6zy0pd.blu3c0ve.ru
-5o8vbjbm.cl0udv1sta.ru
-5p21lmj4.dep2rtmen0va.ru
-5vjkehxx.fr0stmirr0r.ru
-6hcht7x5.bohem1apred0m.ru
-6r7t5g36.n1ghtsh0re.ru
-7yq9kkyk.5t0rmr1dge.ru
-84hjxo5f.skyf1ow.ru
-85a24fyd.blu3c0ve.ru
-8i60caub.w1ndshift.ru
-8viqlh72.c2nd1esubject.ru
-9nkc9lsf.ch2ntro1ley.ru
-9pm93zo8.br1ghtf0rm.ru
-a5cciv20.rainshield.ru
-a85k99xb.mistysh1eld.ru
+0ouow35c.con8ratken2r.ru
+11mo4fsx.ho1idayt2rn.ru
+3gr8e6lu.n1ghtfaise.ru
+489hkp0t.sunfiare.ru
+7i2b9swt.expe7iencfu9.ru
+929j5tsa.rainriver.ru
 adobehelp.net
-al93cs24.5hadowfiow.ru
+ag9sdh7p.expre5ssme4d.ru
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
+b4g475eq.atte4dh2ve.ru
+b76ctsj1.5kyline.ru
+bestcruisetravelinsurance.com
+betplay138jr.net
 checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crobel3.floresagapanto.cfd
 crystalpvp.ru
-cvgekgnf.b0utontran5fer.ru
-d45m6uxw.n1ghtcre5t.ru
-d64zcw85.harr0wp2i.ru
-dftc360y.r2nkteh2.ru
+d7.tfdl.net
 dl.aginjector.com
-ej7lqmwt.skym0ti0n.ru
-ekei2n7i.sun5tone.ru
-ervy2cgl.deepc0ve.ru
-f36h8hcw.p2ciftamp0n.ru
-f7nm8f7u.mi5tpath.ru
+favoritebet189.online
 filerit.com
 files.5modapk.com
-fp57ddz7.stormh1ll.ru
 fvia.id.vn
-g4q5p73e.fr0stw1ng.ru
+gim0hpzu.ce1lsfeste7.ru
 gordon-and-son.com
+gp0nuv6i.expe7iencfu9.ru
 grafar.floresagapanto.cfd
 gutando.com
-gxcgn6lf.cl0ud5tream.ru
-gz8jlk0r.fr0stline.ru
-h650evc4.cl0ud5tream.ru
 hitman-pro.ru
-hsvltty0.darkc0a5t.ru
-ihfhrpxy.5t0rmr1dge.ru
-ixwuvljz.windb1rd.ru
-jnk9otsf.fr0stmirr0r.ru
-jprglro7.frostm1nd.ru
-jt5d8kku.bi8otz1on.ru
+hywk36mt.gr2vityta1k.ru
+imtoken8.cc
 jxhuyhoang.com
-k6ug314m.a5hsuper1or.ru
-l0hkzeg7.c2nd1esubject.ru
-lbjkxct4.heh0vli8ht.ru
-lkgapm4v.stormc1oud.ru
-ly7p6r10.w1ndshift.ru
-lyciemyh.mi5tpath.ru
+l1e26ikw.5t0rmhiil.ru
+luxor.boscoplus.com
+m1dr52xc.windbioom.ru
+m5yvac5o.gr2vityta1k.ru
+mastergaming138.design
+mastergaming138.games
+masuraturbo.com
+mg-1.us
 microsoft-analyse.com
-mo1lzvar.5hadowfiow.ru
-nkomvdvv.r2nkteh2.ru
-nrx6vae6.pu7eer0d.ru
-o0m22pyf.pu7eer0d.ru
-o7rlcblf.bohem1apred0m.ru
-of03juqh.sun5tone.ru
-onedwm.walmaru.com
-onj3pw7c.windf1eld.ru
+nusatoyota.co.id
+nzrhwm99.d0tte1ran.ru
+officialbet189.online
+ol01a5t4.expe7iencfu9.ru
+onitsuka77.org
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -130,67 +89,33 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-p2ov4cfd.bi8otz1on.ru
 planmenpunval.floresixia.cfd
 presinfer.florescrinum.cfd
-pxe51lm9.frostm1nd.ru
-pzskci29.shadowf1ow.ru
-qhwiamqd.darkf0rm.ru
-qj6bkgrv.n1ghtcre5t.ru
-qrlkhxv2.5hadowfiow.ru
-qyjqlxrj.b0utontran5fer.ru
 reauthenticator.com
-recruitment189.org
 reusable-flex.com
-riseonid.com
-rq5aflxn.blu3field.ru
 rxquickpay.com
-s638zqw3.5t0rmr1dge.ru
-s7gnorm4.f0ursme1ting.ru
 sabungkingbet189.com
 scrowinnal.floresflorestrela.cfd
+servachok.space
 skillnorequired.cc
-t7sk4ia4.f0refraterni5.ru
-topquangcaohieuqua.vip
-tqi7q7rf.deepmi5t.ru
 trtmyanmar.com
-tu6eo4za.windf1eld.ru
-tw7bcy6z.darkf0rm.ru
-tyr2to6g.cl0udpath.ru
-u6mf1131.fr0stw1ng.ru
-ubjqtmom.5t0rmr1dge.ru
-umnj5g1g.skyf1ow.ru
-utxqly52.fr0stline.ru
-uy8h00ja.deepc0ve.ru
-v2s1fwxr.n1ghtcre5t.ru
-v4oof0fy.dep2rtmen0va.ru
-vermclta.deepmi5t.ru
-vghecu28.f0refraterni5.ru
-vhe65fgx.skyc0rest.ru
-vxkap1bk.impercepm0no8.ru
+v65hz4cb.b1ondepi8s.ru
+w6lcjzd6.ei8hthyp0.ru
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.vuelaviajero.com
-x5v04q4u.br1ghtf0rm.ru
 xn--yh4bx88a.com
-xndpt67e.windb1rd.ru
 xupertvapps.com
-xy53k61z.udmu7tsw2rp.ru
-y5i3tc1t.stormc1oud.ru
-y9eygjch.skym0ti0n.ru
-ymr7m49r.a5hsuper1or.ru
+ynr4ubkn.b1tterb0tt.ru
 youtransfer.net
-zb5c8o44.cl0udv1sta.ru
-zjr11tft.impercepm0no8.ru
-zn3foc66.skyc0rest.ru
-zxa96eaf.shadowf1ow.ru
+z9bdth4n.blu3cioud.ru
 ```
 
-1 used cloudfront (0.17035775127768313%):
+0 used cloudfront (0.0%):
 ```
-reg.ntcccz.com
+
 ```
 
 0 used ddosguard (0.0%):
@@ -203,14 +128,14 @@ reg.ntcccz.com
 
 ```
 
-1 used fastly (0.17035775127768313%):
+1 used fastly (0.18726591760299627%):
 ```
 visualwikicloud.com
 ```
 
-0 used sucuri (0.0%):
+1 used sucuri (0.18726591760299627%):
 ```
-
+pizzabyte.com.au
 ```
 
 0 used myracloud (0.0%):
