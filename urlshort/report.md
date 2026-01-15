@@ -1,4 +1,4 @@
-275 domains tested. 42.54545454545455% were behind nothing (158 were behind something). 13 domains could not be tested.<br>
+275 domains tested. 42.54545454545455% were behind nothing (158 were behind something). 14 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -62,7 +62,6 @@ dommania.pl
 ebored.com
 echoz.com
 exe.io
-ezstat.ru
 fc-lc.com
 fc.lc
 filetap.com
@@ -152,6 +151,7 @@ vipurl.pro
 vze.com
 www.bl.ink
 www.jdoqocy.com
+your.ls
 ```
 
 10 used cloudfront (3.6363636363636362%):
@@ -168,9 +168,8 @@ trk.klclick3.com
 zpr.io
 ```
 
-2 used ddosguard (0.7272727272727273%):
+1 used ddosguard (0.36363636363636365%):
 ```
-goo.su
 u.to
 ```
 

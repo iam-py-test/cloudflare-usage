@@ -1,10 +1,12 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 53 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 53 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
+admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -39,14 +41,13 @@ b-cdn.net
 
 ```
 
-157 used cloudflare (15.7%):
+154 used cloudflare (15.4%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
 allrecipes.com
-ancestry.com
 anydesk.com
 apnews.com
 attn.tv
@@ -57,7 +58,6 @@ box.com
 branch.io
 braze.com
 britannica.com
-buitengewoonglasvezel.nl
 cambridge.org
 canva.com
 casalemedia.com
@@ -73,6 +73,7 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
+columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
@@ -81,7 +82,6 @@ crazygames.com
 creativecommons.org
 deepintent.com
 deepl.com
-dfn.nl
 digitalocean.com
 discogs.com
 discord.com
@@ -151,7 +151,6 @@ pixabay.com
 pixiv.net
 plesk.com
 prnewswire.com
-quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -179,8 +178,8 @@ teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
-thinkific.com
 tinyurl.com
+twitter.com
 uber.com
 unpkg.com
 vimeo.com
@@ -200,7 +199,7 @@ zoom.com
 zoom.us
 ```
 
-106 used cloudfront (10.6%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -209,13 +208,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
-amazon.es
+amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -228,7 +226,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -258,7 +255,6 @@ healthline.com
 hotjar.com
 ieee.org
 imdb.com
-intentiq.com
 intercom.io
 ipify.org
 jetbrains.com
@@ -269,7 +265,6 @@ line.me
 merriam-webster.com
 name.com
 nationalgeographic.com
-netflix.net
 netgear.com
 noaa.gov
 note.com
@@ -283,7 +278,6 @@ rapid7.com
 rayjump.com
 repubblica.it
 reuters.com
-ryanair.com
 shalltry.com
 shutterstock.com
 soundcloud.com
@@ -302,7 +296,6 @@ un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
-warnerbros.com
 wattpad.com
 wired.com
 wps.com
