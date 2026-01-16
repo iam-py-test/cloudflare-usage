@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 53 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 65.4% were behind nothing (346 were behind something). 54 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 admanmedia.com
@@ -21,7 +21,6 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
-webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -41,13 +40,12 @@ b-cdn.net
 
 ```
 
-154 used cloudflare (15.4%):
+153 used cloudflare (15.299999999999999%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-allrecipes.com
 anydesk.com
 apnews.com
 attn.tv
@@ -89,6 +87,7 @@ discord.gg
 discord.media
 discordapp.com
 doubleverify.com
+dropcatch.com
 epicgames.com
 epicgames.dev
 eu-1-id5-sync.com
@@ -101,7 +100,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -199,7 +197,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -208,14 +206,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
-amazon.de
-amazon.fr
+amazon.com.br
+amazon.es
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -238,7 +235,6 @@ doi.org
 dotomi.com
 dreamhost.com
 dribbble.com
-dropcatch.com
 dynatrace.com
 elasticbeanstalk.com
 espn.com
@@ -253,7 +249,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
