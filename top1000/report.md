@@ -1,5 +1,5 @@
-1000 domains tested. 65.4% were behind nothing (346 were behind something). 54 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 52 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 admanmedia.com
@@ -18,6 +18,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -40,12 +41,13 @@ b-cdn.net
 
 ```
 
-153 used cloudflare (15.299999999999999%):
+155 used cloudflare (15.5%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anydesk.com
 apnews.com
 attn.tv
@@ -87,7 +89,6 @@ discord.gg
 discord.media
 discordapp.com
 doubleverify.com
-dropcatch.com
 epicgames.com
 epicgames.dev
 eu-1-id5-sync.com
@@ -143,6 +144,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -179,6 +181,7 @@ thenai.org
 tinyurl.com
 twitter.com
 uber.com
+umich.edu
 unpkg.com
 vimeo.com
 vungle.com
@@ -197,7 +200,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -211,6 +214,7 @@ amazon.co.uk
 amazon.com.au
 amazon.com.br
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonaws.com
@@ -235,6 +239,7 @@ doi.org
 dotomi.com
 dreamhost.com
 dribbble.com
+dropcatch.com
 dynatrace.com
 elasticbeanstalk.com
 espn.com
@@ -249,6 +254,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -311,13 +317,12 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

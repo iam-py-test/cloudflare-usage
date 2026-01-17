@@ -1,4 +1,4 @@
-526 domains tested. 82.50950570342205% were behind nothing (92 were behind something). 25 domains could not be tested.<br>
+526 domains tested. 82.12927756653993% were behind nothing (94 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-63 used cloudflare (11.977186311787072%):
+64 used cloudflare (12.167300380228136%):
 ```
 ace-project.org
 adobehelp.net
@@ -40,16 +40,16 @@ dl.aginjector.com
 filerit.com
 files.5modapk.com
 fvia.id.vn
-gistpad.com
+gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
+hostealo.com
 imtoken8.cc
 jakestrack.com
 jxhuyhoang.com
 masuraturbo.com
 microsoft-analyse.com
-midnight-forge.cc
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -81,6 +81,7 @@ warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+www.r57shell.net
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
