@@ -1,12 +1,12 @@
-526 domains tested. 82.12927756653993% were behind nothing (94 were behind something). 26 domains could not be tested.<br>
+513 domains tested. 82.45614035087719% were behind nothing (90 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-0 used bunnycdn (0.0%):
+1 used bunnycdn (0.1949317738791423%):
 ```
-
+cpc188.day
 ```
 
 0 used cachefly (0.0%):
@@ -19,15 +19,13 @@
 
 ```
 
-64 used cloudflare (12.167300380228136%):
+59 used cloudflare (11.500974658869396%):
 ```
 ace-project.org
 adobehelp.net
-agent188menyala.shop
 agent188portal.live
 agentportal188.work
 allendostmen.com
-almacensantangel.com
 app.appzcvb.com
 at0micwallets.com
 checkinetverifk.com
@@ -35,16 +33,13 @@ classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
-daili.1756520.xyz
 dl.aginjector.com
 filerit.com
 files.5modapk.com
 fvia.id.vn
-gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-hostealo.com
 imtoken8.cc
 jakestrack.com
 jxhuyhoang.com
@@ -87,14 +82,14 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.19011406844106463%):
+1 used cloudfront (0.1949317738791423%):
 ```
 reg.ntcccz.com
 ```
 
-1 used ddosguard (0.19011406844106463%):
+0 used ddosguard (0.0%):
 ```
-marsalek.cy
+
 ```
 
 0 used edgecast (0.0%):
@@ -102,7 +97,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.19011406844106463%):
+1 used fastly (0.1949317738791423%):
 ```
 visualwikicloud.com
 ```
@@ -142,7 +137,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19011406844106463%):
+1 used netlify (0.1949317738791423%):
 ```
 swiftfusion.tech
 ```

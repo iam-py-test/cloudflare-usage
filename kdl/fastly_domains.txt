@@ -18,8 +18,7 @@ cdn.speedcurve.com
 cdn.taboola.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
-ct.pinterest.com
-cz.pinterest.com
+co.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
@@ -41,6 +40,7 @@ ebayimg.map.fastly.net
 ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
+es.pinterest.com
 external-preview.redd.it
 f.vimeocdn.com
 g1.nyt.com
@@ -57,7 +57,6 @@ h3.apis.apple.map.fastly.net
 harvesthq.github.io
 hits-secure.theguardian.com
 hw-cdn2.adtng.com
-i.ebayimg.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
@@ -66,13 +65,13 @@ imageio.forbes.com
 images.forbes.com
 int.nyt.com
 interactive.guim.co.uk
-ir.ebaystatic.com
-j.sni.global.fastly.net
+linkedin.map.fastly.net
 nytimes.com
-nytimes.map.fastly.net
-paypal-dynamic-cdn.map.fastly.net
+pages.github.com
+paypal.map.fastly.net
 rss.nytimes.com
-static.guim.co.uk
-tls13.spotifycdn.map.fastly.net
-us.bytedance.map.fastly.net
-www.gandi.net
+uploads.guim.co.uk
+vimeo.map.fastly.net
+www-amazon-com.customer.fastly.net
+www.bbc.co.uk
+www.bbc.com

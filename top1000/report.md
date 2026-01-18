@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 52 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 54 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 admanmedia.com
@@ -22,6 +22,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+webex.com
 xiaomi.com
 xiaomi.net
 ```
@@ -41,15 +42,15 @@ b-cdn.net
 
 ```
 
-155 used cloudflare (15.5%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
+appsflyer.com
 attn.tv
 berkeley.edu
 bidmachine.io
@@ -101,6 +102,7 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -135,6 +137,7 @@ nexusmods.com
 nic.network
 nist.gov
 okta.com
+onelink.me
 onesignal.com
 onetrust.com
 onlyfans.com
@@ -208,21 +211,22 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
 aniview.com
-appsflyer.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
@@ -269,7 +273,6 @@ nationalgeographic.com
 netgear.com
 noaa.gov
 note.com
-onelink.me
 onet.pl
 pbs.org
 playrix.com
@@ -317,12 +320,13 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
