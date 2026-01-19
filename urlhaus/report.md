@@ -1,10 +1,10 @@
-513 domains tested. 82.45614035087719% were behind nothing (90 were behind something). 27 domains could not be tested.<br>
+501 domains tested. 82.23552894211576% were behind nothing (89 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.1949317738791423%):
+1 used bunnycdn (0.19960079840319359%):
 ```
 cpc188.day
 ```
@@ -19,7 +19,7 @@ cpc188.day
 
 ```
 
-59 used cloudflare (11.500974658869396%):
+58 used cloudflare (11.57684630738523%):
 ```
 ace-project.org
 adobehelp.net
@@ -34,6 +34,7 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
+dw.c4kdeliver.top
 filerit.com
 files.5modapk.com
 fvia.id.vn
@@ -71,20 +72,18 @@ sabungkingbet189.com
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
-tykitoks-uzb.sbs
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
-www.r57shell.net
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.1949317738791423%):
+0 used cloudfront (0.0%):
 ```
-reg.ntcccz.com
+
 ```
 
 0 used ddosguard (0.0%):
@@ -97,7 +96,7 @@ reg.ntcccz.com
 
 ```
 
-1 used fastly (0.1949317738791423%):
+1 used fastly (0.19960079840319359%):
 ```
 visualwikicloud.com
 ```
@@ -137,7 +136,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.1949317738791423%):
+1 used netlify (0.19960079840319359%):
 ```
 swiftfusion.tech
 ```

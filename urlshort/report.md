@@ -1,4 +1,4 @@
-275 domains tested. 41.090909090909086% were behind nothing (162 were behind something). 17 domains could not be tested.<br>
+275 domains tested. 41.45454545454545% were behind nothing (161 were behind something). 16 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com

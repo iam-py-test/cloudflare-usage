@@ -1,4 +1,4 @@
-223 domains tested. 56.502242152466366% were behind nothing (97 were behind something). 14 domains could not be tested.<br>
+223 domains tested. 56.502242152466366% were behind nothing (97 were behind something). 15 domains could not be tested.<br>
 4 used akamai (1.7937219730941705%):
 ```
 easylist-downloads.adblockplus.org
@@ -36,6 +36,7 @@ assets.windscribe.com
 azorult-tracker.net
 blokada.org
 cdn.adblockcdn.com
+cdn.jsdelivr.net
 cdn.statically.io
 combinatronics.io
 dns-family.adguard.com
@@ -75,7 +76,6 @@ stanev.org
 tgc.cloud
 theantisocialengineer.com
 threatshare.io
-www.accs-net.com
 www.botvrij.eu
 www.dshield.org
 www.fanboy.co.nz
@@ -101,12 +101,11 @@ gitflic.ru
 
 ```
 
-15 used fastly (6.726457399103139%):
+14 used fastly (6.278026905829597%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ubo.github.io
 iam-py-test.github.io
