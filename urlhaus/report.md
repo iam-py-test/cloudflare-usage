@@ -1,10 +1,10 @@
-501 domains tested. 82.23552894211576% were behind nothing (89 were behind something). 28 domains could not be tested.<br>
+490 domains tested. 83.46938775510205% were behind nothing (81 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.19960079840319359%):
+1 used bunnycdn (0.20408163265306123%):
 ```
 cpc188.day
 ```
@@ -19,7 +19,7 @@ cpc188.day
 
 ```
 
-58 used cloudflare (11.57684630738523%):
+57 used cloudflare (11.63265306122449%):
 ```
 ace-project.org
 adobehelp.net
@@ -34,7 +34,6 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-dw.c4kdeliver.top
 filerit.com
 files.5modapk.com
 fvia.id.vn
@@ -42,7 +41,6 @@ gordon-and-son.com
 gutando.com
 hitman-pro.ru
 imtoken8.cc
-jakestrack.com
 jxhuyhoang.com
 masuraturbo.com
 microsoft-analyse.com
@@ -65,6 +63,7 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+rabbitsbird.info
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
@@ -96,7 +95,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.19960079840319359%):
+1 used fastly (0.20408163265306123%):
 ```
 visualwikicloud.com
 ```
@@ -136,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19960079840319359%):
+1 used netlify (0.20408163265306123%):
 ```
 swiftfusion.tech
 ```
