@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 52 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 54 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -17,6 +17,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -40,13 +41,12 @@ b-cdn.net
 
 ```
 
-157 used cloudflare (15.7%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -67,7 +67,6 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
-classlink.com
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -82,6 +81,7 @@ crazygames.com
 creativecommons.org
 deepintent.com
 deepl.com
+dfn.nl
 digitalocean.com
 discogs.com
 discord.com
@@ -101,7 +101,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -120,6 +119,7 @@ kueezrtb.com
 letterboxd.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -145,6 +145,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -180,7 +181,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -201,7 +201,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -209,11 +209,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -254,7 +252,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -294,6 +291,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

@@ -1,10 +1,10 @@
-490 domains tested. 83.46938775510205% were behind nothing (81 were behind something). 21 domains could not be tested.<br>
+481 domains tested. 81.08108108108108% were behind nothing (91 were behind something). 31 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.20408163265306123%):
+1 used bunnycdn (0.2079002079002079%):
 ```
 cpc188.day
 ```
@@ -19,11 +19,10 @@ cpc188.day
 
 ```
 
-57 used cloudflare (11.63265306122449%):
+57 used cloudflare (11.85031185031185%):
 ```
 ace-project.org
 adobehelp.net
-agent188portal.live
 agentportal188.work
 allendostmen.com
 app.appzcvb.com
@@ -42,7 +41,6 @@ gutando.com
 hitman-pro.ru
 imtoken8.cc
 jxhuyhoang.com
-masuraturbo.com
 microsoft-analyse.com
 nusatoyota.co.id
 onyxarmorcrypt.de
@@ -68,9 +66,11 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
+sdufkghdfshds.cfd
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
+tyahelp.top
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -95,7 +95,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.20408163265306123%):
+1 used fastly (0.2079002079002079%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.20408163265306123%):
+1 used netlify (0.2079002079002079%):
 ```
 swiftfusion.tech
 ```
