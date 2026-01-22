@@ -1,12 +1,12 @@
-481 domains tested. 81.08108108108108% were behind nothing (91 were behind something). 31 domains could not be tested.<br>
-0 used akamai (0.0%):
+482 domains tested. 82.78008298755186% were behind nothing (83 were behind something). 23 domains could not be tested.<br>
+1 used akamai (0.2074688796680498%):
+```
+aerconditionat-arges.ro
 ```
 
+0 used bunnycdn (0.0%):
 ```
 
-1 used bunnycdn (0.2079002079002079%):
-```
-cpc188.day
 ```
 
 0 used cachefly (0.0%):
@@ -19,14 +19,16 @@ cpc188.day
 
 ```
 
-57 used cloudflare (11.85031185031185%):
+57 used cloudflare (11.825726141078837%):
 ```
 ace-project.org
 adobehelp.net
 agentportal188.work
 allendostmen.com
+almacensantangel.com
 app.appzcvb.com
 at0micwallets.com
+bigbins.rebirth.st
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -42,7 +44,6 @@ hitman-pro.ru
 imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
-nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -61,7 +62,6 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-rabbitsbird.info
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
@@ -80,9 +80,9 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.2074688796680498%):
 ```
-
+reg.ntcccz.com
 ```
 
 0 used ddosguard (0.0%):
@@ -95,7 +95,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.2079002079002079%):
+1 used fastly (0.2074688796680498%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2079002079002079%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

@@ -1,4 +1,4 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 51 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -41,7 +41,7 @@ b-cdn.net
 
 ```
 
-156 used cloudflare (15.6%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 ad-delivery.net
@@ -59,6 +59,7 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+caiway.net
 cambridge.org
 canva.com
 casalemedia.com
@@ -67,6 +68,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+classlink.com
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -174,15 +176,14 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
-umich.edu
 unpkg.com
 vimeo.com
 vungle.com
@@ -201,7 +202,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -209,10 +210,11 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.br
-amazon.de
+amazon.com.au
 amazon.es
 amazon.fr
 amazon.in
@@ -226,6 +228,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+att.net
 biblegateway.com
 binance.com
 booking.com
@@ -252,6 +255,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -314,13 +318,12 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

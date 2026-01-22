@@ -1,9 +1,10 @@
-34 domains tested. 41.17647058823529% were behind nothing (20 were behind something). 0 domains could not be tested.<br>
-3 used akamai (8.823529411764707%):
+34 domains tested. 38.23529411764706% were behind nothing (21 were behind something). 0 domains could not be tested.<br>
+4 used akamai (11.76470588235294%):
 ```
 alienvault.com
 avira.com
 mcafee.com
+siteadvisor.com
 ```
 
 0 used bunnycdn (0.0%):
