@@ -1,7 +1,7 @@
-482 domains tested. 82.78008298755186% were behind nothing (83 were behind something). 23 domains could not be tested.<br>
-1 used akamai (0.2074688796680498%):
+486 domains tested. 82.51028806584361% were behind nothing (85 were behind something). 25 domains could not be tested.<br>
+0 used akamai (0.0%):
 ```
-aerconditionat-arges.ro
+
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,7 +19,7 @@ aerconditionat-arges.ro
 
 ```
 
-57 used cloudflare (11.825726141078837%):
+57 used cloudflare (11.728395061728394%):
 ```
 ace-project.org
 adobehelp.net
@@ -28,7 +28,6 @@ allendostmen.com
 almacensantangel.com
 app.appzcvb.com
 at0micwallets.com
-bigbins.rebirth.st
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -44,6 +43,8 @@ hitman-pro.ru
 imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
+nusatoyota.co.id
+olekndx.hoyenoy.com
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -66,7 +67,6 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
-sdufkghdfshds.cfd
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
@@ -80,7 +80,7 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.2074688796680498%):
+1 used cloudfront (0.205761316872428%):
 ```
 reg.ntcccz.com
 ```
@@ -95,7 +95,7 @@ reg.ntcccz.com
 
 ```
 
-1 used fastly (0.2074688796680498%):
+1 used fastly (0.205761316872428%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.205761316872428%):
 ```
-
+swiftfusion.tech
 ```
