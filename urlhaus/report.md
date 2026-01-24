@@ -1,4 +1,4 @@
-486 domains tested. 82.51028806584361% were behind nothing (85 were behind something). 25 domains could not be tested.<br>
+488 domains tested. 82.78688524590164% were behind nothing (84 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,12 @@
 
 ```
 
-57 used cloudflare (11.728395061728394%):
+57 used cloudflare (11.68032786885246%):
 ```
 ace-project.org
 adobehelp.net
 agentportal188.work
 allendostmen.com
-almacensantangel.com
 app.appzcvb.com
 at0micwallets.com
 checkinetverifk.com
@@ -34,6 +33,7 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
+duhsv690.cinderpouch.ru
 filerit.com
 files.5modapk.com
 fvia.id.vn
@@ -42,8 +42,8 @@ gutando.com
 hitman-pro.ru
 imtoken8.cc
 jxhuyhoang.com
+maxbet-88.com
 microsoft-analyse.com
-nusatoyota.co.id
 olekndx.hoyenoy.com
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -80,7 +80,7 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.205761316872428%):
+1 used cloudfront (0.20491803278688525%):
 ```
 reg.ntcccz.com
 ```
@@ -95,7 +95,7 @@ reg.ntcccz.com
 
 ```
 
-1 used fastly (0.205761316872428%):
+1 used fastly (0.20491803278688525%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.205761316872428%):
+1 used netlify (0.20491803278688525%):
 ```
 swiftfusion.tech
 ```

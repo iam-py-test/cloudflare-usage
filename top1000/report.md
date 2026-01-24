@@ -1,10 +1,10 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 51 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 53 domains could not be tested.<br>
+20 used akamai (2.0%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
-autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -14,7 +14,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mi.com
 mysql.com
@@ -39,7 +38,7 @@ b-cdn.net
 
 ```
 
-158 used cloudflare (15.8%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 ad-delivery.net
@@ -72,7 +71,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-columbia.edu
+cloudinary.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
@@ -173,7 +172,6 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -201,7 +199,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -209,9 +207,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
@@ -229,8 +227,8 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+autodesk.com
 biblegateway.com
-binance.com
 booking.com
 brave.com
 calendly.com
@@ -295,6 +293,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 wattpad.com
 wired.com
