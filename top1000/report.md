@@ -1,10 +1,12 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 53 domains could not be tested.<br>
-20 used akamai (2.0%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 52 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
+afternic.com
 arubanetworks.com
+autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -38,7 +40,7 @@ b-cdn.net
 
 ```
 
-157 used cloudflare (15.7%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
@@ -115,7 +117,6 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
-letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -144,6 +145,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -192,14 +194,13 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -207,10 +208,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
@@ -227,7 +227,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
+att.net
 biblegateway.com
 booking.com
 brave.com
@@ -258,7 +258,6 @@ imdb.com
 intercom.io
 ipify.org
 jetbrains.com
-kargo.com
 latimes.com
 lijit.com
 line.me

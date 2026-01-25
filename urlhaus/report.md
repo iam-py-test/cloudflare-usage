@@ -1,4 +1,4 @@
-488 domains tested. 82.78688524590164% were behind nothing (84 were behind something). 24 domains could not be tested.<br>
+481 domains tested. 80.66528066528068% were behind nothing (93 were behind something). 35 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-57 used cloudflare (11.68032786885246%):
+57 used cloudflare (11.85031185031185%):
 ```
 ace-project.org
 adobehelp.net
-agentportal188.work
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
@@ -35,16 +34,16 @@ crystalpvp.ru
 dl.aginjector.com
 duhsv690.cinderpouch.ru
 filerit.com
-files.5modapk.com
+friendsofsclarc.org
 fvia.id.vn
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
+hollow-paper.info
 imtoken8.cc
 jxhuyhoang.com
 maxbet-88.com
 microsoft-analyse.com
-olekndx.hoyenoy.com
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -64,11 +63,12 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 tesllamacapp.com
+tiksok.top
+tokitokusb.sbs
 trtmyanmar.com
 tyahelp.top
 warkopshopfb138.cc
@@ -80,9 +80,9 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.20491803278688525%):
+0 used cloudfront (0.0%):
 ```
-reg.ntcccz.com
+
 ```
 
 0 used ddosguard (0.0%):
@@ -95,7 +95,7 @@ reg.ntcccz.com
 
 ```
 
-1 used fastly (0.20491803278688525%):
+1 used fastly (0.2079002079002079%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +135,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.20491803278688525%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```
