@@ -1,10 +1,9 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 52 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 65.3% were behind nothing (347 were behind something). 50 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-afternic.com
 arubanetworks.com
 autodesk.com
 dailymail.co.uk
@@ -40,7 +39,7 @@ b-cdn.net
 
 ```
 
-156 used cloudflare (15.6%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 ad-delivery.net
@@ -117,6 +116,7 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
+letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -174,13 +174,13 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -194,13 +194,14 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -209,8 +210,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
@@ -227,8 +230,8 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-att.net
 biblegateway.com
+binance.com
 booking.com
 brave.com
 calendly.com
@@ -292,7 +295,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 wattpad.com
 wired.com

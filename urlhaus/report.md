@@ -1,4 +1,4 @@
-481 domains tested. 80.66528066528068% were behind nothing (93 were behind something). 35 domains could not be tested.<br>
+495 domains tested. 82.82828282828282% were behind nothing (85 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-57 used cloudflare (11.85031185031185%):
+55 used cloudflare (11.11111111111111%):
 ```
 ace-project.org
 adobehelp.net
@@ -32,18 +32,17 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-duhsv690.cinderpouch.ru
 filerit.com
-friendsofsclarc.org
 fvia.id.vn
+gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
 hollow-paper.info
 imtoken8.cc
 jxhuyhoang.com
-maxbet-88.com
 microsoft-analyse.com
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -63,12 +62,11 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 tesllamacapp.com
-tiksok.top
-tokitokusb.sbs
 trtmyanmar.com
 tyahelp.top
 warkopshopfb138.cc
@@ -95,7 +93,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.2079002079002079%):
+1 used fastly (0.20202020202020202%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +133,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.20202020202020202%):
 ```
-
+swiftfusion.tech
 ```
