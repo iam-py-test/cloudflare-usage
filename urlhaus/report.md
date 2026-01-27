@@ -1,4 +1,4 @@
-495 domains tested. 82.82828282828282% were behind nothing (85 were behind something). 28 domains could not be tested.<br>
+507 domains tested. 83.4319526627219% were behind nothing (84 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,10 @@
 
 ```
 
-55 used cloudflare (11.11111111111111%):
+54 used cloudflare (10.650887573964498%):
 ```
+2av9bxno.sn1pglacier.ru
 ace-project.org
-adobehelp.net
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
@@ -32,13 +32,12 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
+dw.c4kdeliver.top
 filerit.com
 fvia.id.vn
-gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-hollow-paper.info
 imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
@@ -93,7 +92,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.20202020202020202%):
+1 used fastly (0.19723865877712032%):
 ```
 visualwikicloud.com
 ```
@@ -133,7 +132,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.20202020202020202%):
+1 used netlify (0.19723865877712032%):
 ```
 swiftfusion.tech
 ```

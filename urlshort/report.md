@@ -1,4 +1,4 @@
-275 domains tested. 40.72727272727273% were behind nothing (163 were behind something). 16 domains could not be tested.<br>
+275 domains tested. 41.090909090909086% were behind nothing (162 were behind something). 17 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-132 used cloudflare (48.0%):
+131 used cloudflare (47.63636363636364%):
 ```
 02ip.ru
 1sta.com
@@ -44,7 +44,6 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
-cdn-lv3.de
 ceesty.com
 chilp.it
 cleanuri.com
@@ -158,8 +157,8 @@ your.ls
 
 10 used cloudfront (3.6363636363636362%):
 ```
-a.co
 bstore.smsb.co
+catsnthing.com
 clicks.eventbrite.com
 qrs.ly
 short.gy
@@ -170,9 +169,8 @@ trk.klclick3.com
 zpr.io
 ```
 
-2 used ddosguard (0.7272727272727273%):
+1 used ddosguard (0.36363636363636365%):
 ```
-goo.su
 u.to
 ```
 

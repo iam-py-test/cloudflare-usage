@@ -1,4 +1,4 @@
-1000 domains tested. 65.3% were behind nothing (347 were behind something). 50 domains could not be tested.<br>
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 61 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 accuweather.com
@@ -39,7 +39,7 @@ b-cdn.net
 
 ```
 
-158 used cloudflare (15.8%):
+152 used cloudflare (15.2%):
 ```
 33across.com
 ad-delivery.net
@@ -52,11 +52,9 @@ attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
-box.com
 branch.io
 braze.com
 britannica.com
-btloader.com
 caiway.net
 cambridge.org
 canva.com
@@ -73,6 +71,7 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
+columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
@@ -90,12 +89,10 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
-epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
 fiverr.com
-fontawesome.com
 forter.com
 fwmrm.net
 garmin.com
@@ -145,7 +142,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -162,7 +158,6 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
-shein.com
 shopify.com
 singular.net
 smartadserver.com
@@ -181,6 +176,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -189,11 +185,9 @@ vungle.com
 w3.org
 webmd.com
 weebly.com
-who.int
 wiley.com
 workers.dev
 worldbank.org
-wyzecam.com
 x.com
 xhamster.com
 zendesk.com
@@ -201,7 +195,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -213,10 +207,7 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
-amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -225,7 +216,6 @@ amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
-aniview.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
@@ -295,6 +285,7 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
+uol.com.br
 utorrent.com
 wattpad.com
 wired.com
