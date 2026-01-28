@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 61 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 65.7% were behind nothing (343 were behind something). 52 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -16,6 +16,7 @@ intel.com
 intuit.com
 lowes.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -39,7 +40,7 @@ b-cdn.net
 
 ```
 
-152 used cloudflare (15.2%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
@@ -52,9 +53,11 @@ attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
+box.com
 branch.io
 braze.com
 britannica.com
+btloader.com
 caiway.net
 cambridge.org
 canva.com
@@ -89,15 +92,19 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
+epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
+fandom.com
 fiverr.com
+fontawesome.com
 forter.com
 fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -105,7 +112,6 @@ hubspot.com
 ietf.org
 ikea.com
 indeed.com
-indexww.com
 investopedia.com
 iso.org
 jquery.com
@@ -113,7 +119,6 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
-letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -158,6 +163,7 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
+shein.com
 shopify.com
 singular.net
 smartadserver.com
@@ -169,14 +175,12 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -185,17 +189,18 @@ vungle.com
 w3.org
 webmd.com
 weebly.com
+who.int
 wiley.com
 workers.dev
 worldbank.org
-x.com
+wyzecam.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -205,17 +210,17 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
-amazon.com.br
+amazon.com.au
+amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
+aniview.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
@@ -232,7 +237,6 @@ doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com
-dynatrace.com
 elasticbeanstalk.com
 espn.com
 europa.eu
@@ -265,7 +269,6 @@ pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
-rapid7.com
 rayjump.com
 repubblica.it
 reuters.com

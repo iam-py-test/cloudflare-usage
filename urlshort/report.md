@@ -1,4 +1,4 @@
-275 domains tested. 41.090909090909086% were behind nothing (162 were behind something). 17 domains could not be tested.<br>
+275 domains tested. 41.45454545454545% were behind nothing (161 were behind something). 15 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -44,6 +44,7 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
+cdn-lv3.de
 ceesty.com
 chilp.it
 cleanuri.com
@@ -137,7 +138,6 @@ spoo.me
 stfly.xyz
 stopify.co
 streak-link.com
-t.co
 t.ly
 tii.la
 tinyurl.com
@@ -169,8 +169,9 @@ trk.klclick3.com
 zpr.io
 ```
 
-1 used ddosguard (0.36363636363636365%):
+2 used ddosguard (0.7272727272727273%):
 ```
+goo.su
 u.to
 ```
 

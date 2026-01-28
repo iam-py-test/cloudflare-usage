@@ -1,4 +1,4 @@
-507 domains tested. 83.4319526627219% were behind nothing (84 were behind something). 28 domains could not be tested.<br>
+536 domains tested. 85.26119402985076% were behind nothing (79 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,28 +19,30 @@
 
 ```
 
-54 used cloudflare (10.650887573964498%):
+55 used cloudflare (10.261194029850747%):
 ```
 2av9bxno.sn1pglacier.ru
 ace-project.org
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
+cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-dw.c4kdeliver.top
 filerit.com
 fvia.id.vn
+gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
 imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
+mine.repeatcar.com
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -71,15 +73,14 @@ tyahelp.top
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
-www.luuk-lifestyle.eu
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.18656716417910446%):
 ```
-
+reg.ntcccz.com
 ```
 
 0 used ddosguard (0.0%):
@@ -92,7 +93,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.19723865877712032%):
+1 used fastly (0.18656716417910446%):
 ```
 visualwikicloud.com
 ```
@@ -132,7 +133,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19723865877712032%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```
