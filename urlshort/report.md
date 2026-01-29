@@ -44,7 +44,6 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
-cdn-lv3.de
 ceesty.com
 chilp.it
 cleanuri.com
@@ -138,6 +137,7 @@ spoo.me
 stfly.xyz
 stopify.co
 streak-link.com
+t.co
 t.ly
 tii.la
 tinyurl.com

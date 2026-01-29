@@ -1,5 +1,5 @@
-223 domains tested. 56.05381165919282% were behind nothing (98 were behind something). 15 domains could not be tested.<br>
-4 used akamai (1.7937219730941705%):
+224 domains tested. 55.35714285714286% were behind nothing (100 were behind something). 16 domains could not be tested.<br>
+4 used akamai (1.7857142857142856%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
@@ -7,7 +7,7 @@ www.barclaycardrewardsboost.com
 www.rakuten.ca
 ```
 
-2 used bunnycdn (0.8968609865470852%):
+2 used bunnycdn (0.8928571428571428%):
 ```
 oooo.b-cdn.net
 www.bentasker.co.uk
@@ -18,12 +18,12 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.4484304932735426%):
+1 used cdn77 (0.4464285714285714%):
 ```
 filters.adtidy.org
 ```
 
-60 used cloudflare (26.905829596412556%):
+60 used cloudflare (26.785714285714285%):
 ```
 abp.tt.codes
 abpvn.com
@@ -87,12 +87,12 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-1 used cloudfront (0.4484304932735426%):
+1 used cloudfront (0.4464285714285714%):
 ```
 www.topcashback.com
 ```
 
-1 used ddosguard (0.4484304932735426%):
+1 used ddosguard (0.4464285714285714%):
 ```
 gitflic.ru
 ```
@@ -102,7 +102,7 @@ gitflic.ru
 
 ```
 
-14 used fastly (6.278026905829597%):
+15 used fastly (6.696428571428571%):
 ```
 adaway.org
 adblock-thai.github.io
@@ -113,6 +113,7 @@ iam-py-test.github.io
 mkb2091.github.io
 paulgb.github.io
 rickrolldb.com
+tantalusdrive.github.io
 urlhaus.abuse.ch
 v.firebog.net
 www.eff.org

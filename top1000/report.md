@@ -1,4 +1,4 @@
-1000 domains tested. 65.7% were behind nothing (343 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 52 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
@@ -15,8 +15,8 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+macys.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -40,7 +40,7 @@ b-cdn.net
 
 ```
 
-156 used cloudflare (15.6%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
@@ -147,6 +147,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -175,6 +176,7 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -194,13 +196,14 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -210,12 +213,14 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -237,6 +242,7 @@ doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com
+dynatrace.com
 elasticbeanstalk.com
 espn.com
 europa.eu
