@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 52 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 65.2% were behind nothing (348 were behind something). 53 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -17,6 +17,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -90,13 +91,13 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
+doi.org
 doubleverify.com
 epicgames.com
 epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
-fandom.com
 fiverr.com
 fontawesome.com
 forter.com
@@ -147,7 +148,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -183,6 +183,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -203,7 +204,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -213,14 +214,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com.au
 amazon.com.br
-amazon.es
+amazon.de
 amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -238,7 +237,6 @@ calendly.com
 checkpoint.com
 datadoghq.com
 deviantart.com
-doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com

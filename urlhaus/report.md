@@ -1,4 +1,4 @@
-531 domains tested. 84.36911487758945% were behind nothing (83 were behind something). 26 domains could not be tested.<br>
+536 domains tested. 83.2089552238806% were behind nothing (90 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-53 used cloudflare (9.981167608286253%):
+54 used cloudflare (10.074626865671641%):
 ```
 ace-project.org
 allendostmen.com
@@ -41,6 +41,7 @@ imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
 mine.repeatcar.com
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -76,8 +77,11 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-2 used cloudfront (0.3766478342749529%):
+5 used cloudfront (0.9328358208955223%):
 ```
+dl.vidconvert.io
+download.pdf-tool.com
+get.anypdf.com
 my.onbuka.com
 reg.ntcccz.com
 ```
@@ -92,7 +96,7 @@ reg.ntcccz.com
 
 ```
 
-2 used fastly (0.3766478342749529%):
+2 used fastly (0.3731343283582089%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
@@ -133,7 +137,7 @@ yourmilliondollarsidehustle.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.18656716417910446%):
 ```
-
+swiftfusion.tech
 ```
