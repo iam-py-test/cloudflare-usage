@@ -1,4 +1,4 @@
-536 domains tested. 83.2089552238806% were behind nothing (90 were behind something). 28 domains could not be tested.<br>
+538 domains tested. 82.15613382899627% were behind nothing (96 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-54 used cloudflare (10.074626865671641%):
+55 used cloudflare (10.223048327137546%):
 ```
 ace-project.org
 allendostmen.com
@@ -32,15 +32,15 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
+dw.c4kdeliver.top
 filerit.com
-fvia.id.vn
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
+hqej69yf.v0xenharvest.ru
 imtoken8.cc
 jxhuyhoang.com
 microsoft-analyse.com
-mine.repeatcar.com
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -64,6 +64,7 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
+separadordecc.com
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
@@ -77,11 +78,8 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-5 used cloudfront (0.9328358208955223%):
+2 used cloudfront (0.37174721189591076%):
 ```
-dl.vidconvert.io
-download.pdf-tool.com
-get.anypdf.com
 my.onbuka.com
 reg.ntcccz.com
 ```
@@ -96,7 +94,7 @@ reg.ntcccz.com
 
 ```
 
-2 used fastly (0.3731343283582089%):
+2 used fastly (0.37174721189591076%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
@@ -137,7 +135,7 @@ yourmilliondollarsidehustle.com
 
 ```
 
-1 used netlify (0.18656716417910446%):
+1 used netlify (0.18587360594795538%):
 ```
 swiftfusion.tech
 ```

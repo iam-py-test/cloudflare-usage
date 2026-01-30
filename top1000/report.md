@@ -1,4 +1,4 @@
-1000 domains tested. 65.2% were behind nothing (348 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 53 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -47,6 +47,7 @@ b-cdn.net
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -91,7 +92,6 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-doi.org
 doubleverify.com
 epicgames.com
 epicgames.dev
@@ -105,7 +105,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -120,6 +119,7 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
+letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -148,6 +148,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -183,7 +184,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -204,7 +204,7 @@ zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -214,12 +214,14 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
-amazon.fr
+amazon.es
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -237,6 +239,7 @@ calendly.com
 checkpoint.com
 datadoghq.com
 deviantart.com
+doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com
@@ -254,7 +257,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
