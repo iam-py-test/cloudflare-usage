@@ -1,4 +1,4 @@
-538 domains tested. 82.15613382899627% were behind nothing (96 were behind something). 36 domains could not be tested.<br>
+560 domains tested. 82.67857142857142% were behind nothing (97 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-55 used cloudflare (10.223048327137546%):
+62 used cloudflare (11.071428571428571%):
 ```
 ace-project.org
 allendostmen.com
@@ -32,15 +32,21 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-dw.c4kdeliver.top
+e4gdb4pt.velostager.digital
 filerit.com
+gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
 hqej69yf.v0xenharvest.ru
+ieuxq29f.phyretools.ru
+iiak3udi.graptagreeve.ru
+ijbfi.pk
 imtoken8.cc
 jxhuyhoang.com
+kkx90jas.v0xenharvest.ru
 microsoft-analyse.com
+mine.repeatcar.com
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -75,13 +81,13 @@ www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.vuelaviajero.com
 xn--yh4bx88a.com
+xx4z5ilx.agingfrugally.digital
 youtransfer.net
 ```
 
-2 used cloudfront (0.37174721189591076%):
+0 used cloudfront (0.0%):
 ```
-my.onbuka.com
-reg.ntcccz.com
+
 ```
 
 0 used ddosguard (0.0%):
@@ -94,7 +100,7 @@ reg.ntcccz.com
 
 ```
 
-2 used fastly (0.37174721189591076%):
+2 used fastly (0.35714285714285715%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
@@ -135,7 +141,7 @@ yourmilliondollarsidehustle.com
 
 ```
 
-1 used netlify (0.18587360594795538%):
+1 used netlify (0.17857142857142858%):
 ```
 swiftfusion.tech
 ```

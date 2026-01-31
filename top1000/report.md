@@ -1,5 +1,5 @@
-1000 domains tested. 65.0% were behind nothing (350 were behind something). 53 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 52 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -17,7 +17,6 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -26,9 +25,10 @@ xiaomi.com
 xiaomi.net
 ```
 
-1 used bunnycdn (0.1%):
+2 used bunnycdn (0.2%):
 ```
 b-cdn.net
+erome.com
 ```
 
 0 used cachefly (0.0%):
@@ -41,7 +41,7 @@ b-cdn.net
 
 ```
 
-159 used cloudflare (15.9%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 ad-delivery.net
@@ -83,7 +83,6 @@ cookielaw.org
 cpanel.net
 crazygames.com
 creativecommons.org
-deepintent.com
 deepl.com
 dfn.nl
 digitalocean.com
@@ -105,6 +104,7 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -131,6 +131,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merkle.io
 moloco.com
 myshopify.com
 networkadvertising.org
@@ -148,7 +149,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -184,6 +184,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -204,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -214,11 +215,11 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -257,6 +258,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
