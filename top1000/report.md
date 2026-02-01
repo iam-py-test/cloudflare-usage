@@ -1,11 +1,12 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 52 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 51 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
+coupang.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -17,6 +18,7 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -119,7 +121,6 @@ kick.com
 kickstarter.com
 klaviyo.com
 kueezrtb.com
-letterboxd.com
 life360.com
 liftoff.io
 linkedin.com
@@ -149,11 +150,13 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
 pixiv.net
 plesk.com
+poki.com
 prnewswire.com
 quizlet.com
 quora.com
@@ -198,14 +201,13 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -214,11 +216,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it

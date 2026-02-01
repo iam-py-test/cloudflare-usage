@@ -1,4 +1,4 @@
-275 domains tested. 41.81818181818181% were behind nothing (160 were behind something). 14 domains could not be tested.<br>
+275 domains tested. 41.81818181818181% were behind nothing (160 were behind something). 15 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -44,6 +44,7 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
+cdn-lv3.de
 ceesty.com
 chilp.it
 cleanuri.com
@@ -148,16 +149,14 @@ url1.io
 urlshortx.com
 usheethe.com
 v.gd
-vipurl.pro
 vze.com
 www.bl.ink
 www.jdoqocy.com
 your.ls
 ```
 
-11 used cloudfront (4.0%):
+10 used cloudfront (3.6363636363636362%):
 ```
-a.co
 bstore.smsb.co
 catsnthing.com
 clicks.eventbrite.com

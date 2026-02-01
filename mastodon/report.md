@@ -1,4 +1,4 @@
-186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 10 domains could not be tested.<br>
+186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-52 used cloudflare (27.956989247311824%):
+50 used cloudflare (26.881720430107524%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -28,7 +28,6 @@ bols.games
 catcore.life
 dicekey.jp
 eigenmagic.net
-elderscrolls.space
 freifunk.social
 india.goonj.xyz
 jiaojiao.org
@@ -66,7 +65,6 @@ oyasumi.ski
 pixelfed.social
 qaf.men
 rhythmisskey.games
-social.skynetcloud.site
 stormskey.works
 tapbots.social
 techhub.social

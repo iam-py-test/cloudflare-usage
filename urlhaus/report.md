@@ -1,4 +1,4 @@
-560 domains tested. 82.67857142857142% were behind nothing (97 were behind something). 32 domains could not be tested.<br>
+574 domains tested. 82.05574912891987% were behind nothing (103 were behind something). 37 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,14 @@
 
 ```
 
-62 used cloudflare (11.071428571428571%):
+63 used cloudflare (10.975609756097562%):
 ```
+3uk9rba1.nexorhino.digital
 ace-project.org
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
+awjh0a0e.zentrivio.digital
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
@@ -38,10 +40,8 @@ gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-hqej69yf.v0xenharvest.ru
 ieuxq29f.phyretools.ru
 iiak3udi.graptagreeve.ru
-ijbfi.pk
 imtoken8.cc
 jxhuyhoang.com
 kkx90jas.v0xenharvest.ru
@@ -83,6 +83,7 @@ www.vuelaviajero.com
 xn--yh4bx88a.com
 xx4z5ilx.agingfrugally.digital
 youtransfer.net
+zd4fai56.plancortex.digital
 ```
 
 0 used cloudfront (0.0%):
@@ -100,7 +101,7 @@ youtransfer.net
 
 ```
 
-2 used fastly (0.35714285714285715%):
+2 used fastly (0.34843205574912894%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
@@ -141,7 +142,7 @@ yourmilliondollarsidehustle.com
 
 ```
 
-1 used netlify (0.17857142857142858%):
+1 used netlify (0.17421602787456447%):
 ```
 swiftfusion.tech
 ```
