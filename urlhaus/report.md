@@ -1,4 +1,4 @@
-574 domains tested. 82.05574912891987% were behind nothing (103 were behind something). 37 domains could not be tested.<br>
+707 domains tested. 88.96746817538896% were behind nothing (78 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,12 @@
 
 ```
 
-63 used cloudflare (10.975609756097562%):
+54 used cloudflare (7.637906647807638%):
 ```
-3uk9rba1.nexorhino.digital
 ace-project.org
 allendostmen.com
 app.appzcvb.com
 at0micwallets.com
-awjh0a0e.zentrivio.digital
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
@@ -34,19 +32,13 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-e4gdb4pt.velostager.digital
 filerit.com
-gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-ieuxq29f.phyretools.ru
-iiak3udi.graptagreeve.ru
 imtoken8.cc
 jxhuyhoang.com
-kkx90jas.v0xenharvest.ru
 microsoft-analyse.com
-mine.repeatcar.com
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -81,14 +73,13 @@ www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.vuelaviajero.com
 xn--yh4bx88a.com
-xx4z5ilx.agingfrugally.digital
 youtransfer.net
-zd4fai56.plancortex.digital
+zetolacs-cloud.top
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.14144271570014144%):
 ```
-
+reg.ntcccz.com
 ```
 
 0 used ddosguard (0.0%):
@@ -101,7 +92,7 @@ zd4fai56.plancortex.digital
 
 ```
 
-2 used fastly (0.34843205574912894%):
+2 used fastly (0.2828854314002829%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
@@ -142,7 +133,7 @@ yourmilliondollarsidehustle.com
 
 ```
 
-1 used netlify (0.17421602787456447%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

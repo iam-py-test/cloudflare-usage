@@ -1,5 +1,5 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 51 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 54 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -11,14 +11,12 @@ dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
-homedepot.com
 hp.com
 intel.com
 intuit.com
 lowes.com
 macys.com
 marriott.com
-mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
@@ -43,7 +41,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
@@ -150,7 +148,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -158,6 +155,7 @@ pixiv.net
 plesk.com
 poki.com
 prnewswire.com
+publicnode.com
 quizlet.com
 quora.com
 readthedocs.io
@@ -180,14 +178,12 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -201,13 +197,14 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -215,15 +212,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.com
+amazon.co.jp
+amazon.co.uk
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -245,7 +241,6 @@ doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com
-dynatrace.com
 elasticbeanstalk.com
 espn.com
 europa.eu
@@ -272,7 +267,6 @@ name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
-note.com
 onet.pl
 pbs.org
 playrix.com
@@ -299,6 +293,7 @@ un.org
 unrulymedia.com
 uol.com.br
 utorrent.com
+warnerbros.com
 wattpad.com
 wired.com
 wps.com

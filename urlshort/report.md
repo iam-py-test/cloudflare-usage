@@ -1,4 +1,4 @@
-275 domains tested. 41.81818181818181% were behind nothing (160 were behind something). 15 domains could not be tested.<br>
+275 domains tested. 42.18181818181818% were behind nothing (159 were behind something). 16 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-131 used cloudflare (47.63636363636364%):
+129 used cloudflare (46.909090909090914%):
 ```
 02ip.ru
 1sta.com
@@ -44,7 +44,6 @@ appurl.io
 bc.vc
 bigbig.com
 bitly.cx
-cdn-lv3.de
 ceesty.com
 chilp.it
 cleanuri.com
@@ -138,7 +137,6 @@ spoo.me
 stfly.xyz
 stopify.co
 streak-link.com
-t.co
 t.ly
 tii.la
 tinyurl.com
