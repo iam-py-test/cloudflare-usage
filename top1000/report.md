@@ -1,5 +1,5 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 54 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 53 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -11,6 +11,7 @@ dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
+homedepot.com
 hp.com
 intel.com
 intuit.com
@@ -20,6 +21,7 @@ marriott.com
 mi.com
 mysql.com
 rakuten.co.jp
+staples.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -41,7 +43,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 ad-delivery.net
@@ -51,7 +53,6 @@ ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
-attn.tv
 berkeley.edu
 bidmachine.io
 bluehost.com
@@ -197,14 +198,13 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -212,14 +212,16 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
-amazon.fr
 amazon.in
+amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -241,6 +243,7 @@ doi.org
 dotomi.com
 dreamhost.com
 dropcatch.com
+dynatrace.com
 elasticbeanstalk.com
 espn.com
 europa.eu
@@ -249,7 +252,6 @@ figma.com
 flickr.com
 go.com
 goodreads.com
-grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -362,11 +364,12 @@ php.net
 
 ```
 
-3 used netlify (0.3%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+llamarpc.com
 ```
 
 2 used imperva (0.2%):
