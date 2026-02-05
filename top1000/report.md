@@ -1,5 +1,5 @@
-1000 domains tested. 64.9% were behind nothing (351 were behind something). 53 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 65.0% were behind nothing (350 were behind something). 52 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -18,8 +18,10 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
+news.com.au
 rakuten.co.jp
 staples.com
 webex.com
@@ -43,13 +45,12 @@ erome.com
 
 ```
 
-157 used cloudflare (15.7%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -105,7 +106,6 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -179,6 +179,7 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -204,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+94 used cloudfront (9.4%):
 ```
 3lift.com
 a-mo.net
@@ -217,11 +218,10 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -277,6 +277,7 @@ pubmatic.com
 rayjump.com
 repubblica.it
 reuters.com
+samsungcloud.com
 shalltry.com
 shutterstock.com
 soundcloud.com
@@ -293,7 +294,6 @@ ubnt.com
 ui.com
 un.org
 unrulymedia.com
-uol.com.br
 utorrent.com
 warnerbros.com
 wattpad.com

@@ -1,4 +1,4 @@
-547 domains tested. 85.0091407678245% were behind nothing (82 were behind something). 24 domains could not be tested.<br>
+551 domains tested. 85.48094373865699% were behind nothing (80 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-55 used cloudflare (10.054844606946983%):
+55 used cloudflare (9.98185117967332%):
 ```
 ace-project.org
 allendostmen.com
@@ -32,14 +32,15 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-eurofarm.ge
+dnscdn.top
 filerit.com
+gallivantinggoals.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
 imtoken8.cc
+internet-homepage.digital
 jxhuyhoang.com
-nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -65,7 +66,7 @@ sabungkingbet189.com
 separadordecc.com
 skillnorequired.cc
 tesllamacapp.com
-trtmyanmar.com
+topmatchline.com
 tyahelp.top
 warkopshopfb138.cc
 www.blackhattoolz.com
@@ -75,10 +76,9 @@ www.vuelaviajero.com
 xn--yh4bx88a.com
 yeromas.com
 youtransfer.net
-zetolacs-cloud.top
 ```
 
-1 used cloudfront (0.18281535648994515%):
+1 used cloudfront (0.18148820326678766%):
 ```
 reg.ntcccz.com
 ```
@@ -93,7 +93,7 @@ reg.ntcccz.com
 
 ```
 
-2 used fastly (0.3656307129798903%):
+2 used fastly (0.3629764065335753%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
