@@ -1,4 +1,4 @@
-551 domains tested. 85.48094373865699% were behind nothing (80 were behind something). 22 domains could not be tested.<br>
+554 domains tested. 85.01805054151625% were behind nothing (83 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,12 @@
 
 ```
 
-55 used cloudflare (9.98185117967332%):
+59 used cloudflare (10.649819494584838%):
 ```
+a6u344gi.galloverpower.digital
 ace-project.org
 allendostmen.com
 app.appzcvb.com
-armortra.xyz
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
@@ -32,7 +32,6 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-dnscdn.top
 filerit.com
 gallivantinggoals.com
 gordon-and-son.com
@@ -41,6 +40,7 @@ hitman-pro.ru
 imtoken8.cc
 internet-homepage.digital
 jxhuyhoang.com
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -63,11 +63,15 @@ reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
+scorpcasinos.com
 separadordecc.com
 skillnorequired.cc
 tesllamacapp.com
 topmatchline.com
+trtmyanmar.com
+tukstoks-uzb.sbs
 tyahelp.top
+uljt1y53.inspirpatience.digital
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -78,7 +82,7 @@ yeromas.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.18148820326678766%):
+1 used cloudfront (0.18050541516245489%):
 ```
 reg.ntcccz.com
 ```
@@ -93,7 +97,7 @@ reg.ntcccz.com
 
 ```
 
-2 used fastly (0.3629764065335753%):
+2 used fastly (0.36101083032490977%):
 ```
 visualwikicloud.com
 yourmilliondollarsidehustle.com
