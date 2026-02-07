@@ -1,4 +1,4 @@
-275 domains tested. 42.18181818181818% were behind nothing (159 were behind something). 15 domains could not be tested.<br>
+275 domains tested. 41.81818181818181% were behind nothing (160 were behind something). 17 domains could not be tested.<br>
 2 used akamai (0.7272727272727273%):
 ```
 eepurl.com
@@ -69,6 +69,7 @@ filetap.com
 foot.wiki
 funurl.com
 gamingfun.me
+go.ly
 grabify.link
 grabify.world
 headplug.com
@@ -133,7 +134,6 @@ smarturl.it
 snip.ly
 sor.bz
 spoo.me
-spoo.me
 stfly.xyz
 stopify.co
 streak-link.com
@@ -154,9 +154,8 @@ www.jdoqocy.com
 your.ls
 ```
 
-10 used cloudfront (3.6363636363636362%):
+9 used cloudfront (3.272727272727273%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
