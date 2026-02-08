@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -54,7 +54,6 @@ anydesk.com
 apnews.com
 appsflyer.com
 berkeley.edu
-bidmachine.io
 bluehost.com
 box.com
 branch.io
@@ -170,6 +169,7 @@ sharethrough.com
 shein.com
 shopify.com
 singular.net
+skroutz.gr
 smartadserver.com
 smilewanted.com
 sophos.com
@@ -216,15 +216,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -256,6 +255,7 @@ figma.com
 flickr.com
 go.com
 goodreads.com
+grammarly.com
 gumgum.com
 hbr.org
 healthline.com

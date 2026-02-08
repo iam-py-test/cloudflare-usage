@@ -1,4 +1,4 @@
-186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 11 domains could not be tested.<br>
+186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 12 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-51 used cloudflare (27.419354838709676%):
+50 used cloudflare (26.881720430107524%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -40,7 +40,6 @@ lor.sh
 m.einverne.info
 m.n1l.dev
 mas.to
-masto.es
 masto.popgeeks.com
 mastodon.buzhangjiuzhou.com
 mastodon.scot

@@ -1,4 +1,4 @@
-550 domains tested. 83.81818181818181% were behind nothing (89 were behind something). 30 domains could not be tested.<br>
+480 domains tested. 84.16666666666667% were behind nothing (76 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-57 used cloudflare (10.363636363636363%):
+53 used cloudflare (11.041666666666666%):
 ```
 ace-project.org
 allendostmen.com
@@ -38,9 +38,7 @@ gallivantinggoals.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-imtoken8.cc
 jxhuyhoang.com
-nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -59,18 +57,16 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-powercat.dog
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
-scorpcasinos.com
 separadordecc.com
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
 tukstoks-uzb.sbs
 tyahelp.top
-uljt1y53.inspirpatience.digital
+vcc-library.uk
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -95,10 +91,9 @@ youtransfer.net
 
 ```
 
-2 used fastly (0.36363636363636365%):
+1 used fastly (0.20833333333333334%):
 ```
 visualwikicloud.com
-yourmilliondollarsidehustle.com
 ```
 
 0 used sucuri (0.0%):
