@@ -1,4 +1,4 @@
-480 domains tested. 84.16666666666667% were behind nothing (76 were behind something). 22 domains could not be tested.<br>
+480 domains tested. 84.58333333333333% were behind nothing (74 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,26 @@
 
 ```
 
-53 used cloudflare (11.041666666666666%):
+51 used cloudflare (10.625%):
 ```
+2wjmdomc.breathforgiv.digital
 ace-project.org
+aktivates.fun
 allendostmen.com
 app.appzcvb.com
-bambooware.ru
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
-darkside.cy
 dl.aginjector.com
 filerit.com
 gallivantinggoals.com
 gordon-and-son.com
 gutando.com
 hitman-pro.ru
-jxhuyhoang.com
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -64,9 +64,7 @@ separadordecc.com
 skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
-tukstoks-uzb.sbs
 tyahelp.top
-vcc-library.uk
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
