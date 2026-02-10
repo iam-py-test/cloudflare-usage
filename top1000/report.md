@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -18,12 +18,12 @@ intuit.com
 lowes.com
 macys.com
 marriott.com
+mcafee.com
 mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
 staples.com
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -45,12 +45,13 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -114,7 +115,6 @@ ikea.com
 indeed.com
 investopedia.com
 iso.org
-jotform.com
 jquery.com
 kick.com
 kickstarter.com
@@ -149,7 +149,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -209,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+92 used cloudfront (9.2%):
 ```
 3lift.com
 a-mo.net
@@ -220,18 +219,15 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
-aniview.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
@@ -260,7 +256,6 @@ goodreads.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -309,8 +304,9 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+5 used ddosguard (0.5%):
 ```
+1c.ru
 crpt.ru
 netangels.ru
 onlinepbx.ru

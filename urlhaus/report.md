@@ -1,4 +1,4 @@
-480 domains tested. 84.58333333333333% were behind nothing (74 were behind something). 22 domains could not be tested.<br>
+484 domains tested. 84.29752066115702% were behind nothing (76 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,14 @@
 
 ```
 
-51 used cloudflare (10.625%):
+54 used cloudflare (11.15702479338843%):
 ```
 2wjmdomc.breathforgiv.digital
 ace-project.org
 aktivates.fun
 allendostmen.com
 app.appzcvb.com
+byebopfx.degenjudges.digital
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
@@ -58,6 +59,7 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 separadordecc.com
@@ -65,6 +67,7 @@ skillnorequired.cc
 tesllamacapp.com
 trtmyanmar.com
 tyahelp.top
+vsb.aicyberconsult.com
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -89,7 +92,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.20833333333333334%):
+1 used fastly (0.2066115702479339%):
 ```
 visualwikicloud.com
 ```
