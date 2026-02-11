@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -45,13 +45,12 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -106,6 +105,7 @@ fwmrm.net
 garmin.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -149,6 +149,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -208,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-92 used cloudfront (9.2%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -219,15 +220,19 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
+aniview.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
@@ -256,6 +261,7 @@ goodreads.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
