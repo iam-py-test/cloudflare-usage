@@ -1,4 +1,4 @@
-491 domains tested. 78.61507128309573% were behind nothing (105 were behind something). 36 domains could not be tested.<br>
+503 domains tested. 80.31809145129225% were behind nothing (99 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,15 @@
 
 ```
 
-68 used cloudflare (13.849287169042771%):
+73 used cloudflare (14.512922465208748%):
 ```
 7i84od4b.elastic-refurbish.digital
 ace-project.org
+adobeappsxpyrf-update.click
 allendostmen.com
+anchor.pricepirate.coupons
 app.appzcvb.com
-byebopfx.degenjudges.digital
+breeze.travelvoucher.coupons
 cambodiatouristservice.com
 cdn.semifinal-matching.coupons
 checkinetverifk.com
@@ -33,8 +35,10 @@ cinder.way17call-in.coupons
 classroomseven.com
 clipaid.app
 cloudstay168.com
-cobalt7.overplaymarbles.com
+comet.enter483pro.coupons
+crystal.travelvoucher.coupons
 crystalpvp.ru
+d71j5xk1.highlifeless.digital
 dl.aginjector.com
 edg.aicyberconsult.com
 filerit.com
@@ -44,9 +48,11 @@ get.actiwated.win
 gobiotechpestcontrol.com
 gordon-and-son.com
 gutando.com
+harbor.enter483pro.coupons
 hitman-pro.ru
+hjekd8c.huowdy.com
+jungle.pricepirate.coupons
 mortician.semifinal-matching.coupons
-mosaic.pucker8reined.coupons
 nmp.semifinal-matching.coupons
 nusatoyota.co.id
 onyxarmorcrypt.de
@@ -76,12 +82,11 @@ separadordecc.com
 skillnorequired.cc
 sparrow.way17call-in.coupons
 tesllamacapp.com
-traderhype.com
 trtmyanmar.com
 tyahelp.top
 umbrella.semifinal-matching.coupons
 vcc-library.uk
-vsb.aicyberconsult.com
+vjdisnli.rightsisyphus.digital
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -106,7 +111,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.20366598778004072%):
+1 used fastly (0.19880715705765406%):
 ```
 visualwikicloud.com
 ```
