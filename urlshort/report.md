@@ -1,5 +1,5 @@
-275 domains tested. 42.54545454545455% were behind nothing (158 were behind something). 14 domains could not be tested.<br>
-2 used akamai (0.7272727272727273%):
+339 domains tested. 47.1976401179941% were behind nothing (179 were behind something). 12 domains could not be tested.<br>
+2 used akamai (0.5899705014749262%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -20,9 +20,10 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-130 used cloudflare (47.27272727272727%):
+153 used cloudflare (45.13274336283185%):
 ```
 02ip.ru
+123415.xyz
 1sta.com
 24ex.com
 2fear.com
@@ -40,7 +41,9 @@ adfoc.us
 ahscdn.com
 alturl.com
 antiblog.com
+appcurt.com
 appurl.io
+b1.fr
 bc.vc
 bigbig.com
 bitly.cx
@@ -58,24 +61,31 @@ cuty.io
 dealtap.com
 destyy.com
 direct-link.net
+dollarlink.net
 dommania.pl
+duopro.io
 ebored.com
 echoz.com
 exe.io
 ezstat.ru
 fc-lc.com
 fc.lc
+fic.my.id
 filetap.com
+firefone.com
 foot.wiki
 funurl.com
 gamingfun.me
+go.akbor.org
 go.ly
+go.pedido.me
 grabify.link
 grabify.world
 headplug.com
 hereweb.com
 heylink.me
 hitart.com
+hsh.sh
 ibf.tw
 ipgraber.ru
 iplogger.co
@@ -83,15 +93,20 @@ iplogger.com
 iplogger.info
 iplogger.org
 iplogger.ru
+iqr.im
 is.gd
+itsme.page
 klclick.com
 klclick1.com
 klclick2.com
 klclick3.com
+knpp.online
 link-center.net
+link-z.net
 link.sbstck.com
 link.tnlink.in
 links.e.malwarebytes.com
+linksbr.com.br
 linkvertise.com
 linkvertise.net
 llili.li
@@ -103,6 +118,7 @@ mirrorz.com
 mub.me
 myprivate.pics
 n9.cl
+nxlnk.com
 nyl.as
 ouo.io
 prettylinks.com
@@ -115,12 +131,12 @@ rkns.link
 rotf.lol
 s.id
 screenshare.pics
-screenshot.best
 shhh.lol
 shorten.ee
 shorten.is
 shorten.world
 shortest.link
+shortlink.ad
 shorturl.at
 shorturl.com
 shorturl.gg
@@ -133,7 +149,10 @@ shrtm.nu
 smarturl.it
 snip.ly
 sor.bz
+sosyal.one
 spoo.me
+spoturl.com
+spqr.to
 stfly.xyz
 stopify.co
 streak-link.com
@@ -143,18 +162,22 @@ tii.la
 tinyurl.com
 toldyouso.lol
 track.canva.com
+unim.ma
 uprot.net
+url.or.at
 url1.io
 urlshortx.com
 usheethe.com
+utml.it
 v.gd
 vze.com
 www.bl.ink
 www.jdoqocy.com
+y0utu.be
 your.ls
 ```
 
-10 used cloudfront (3.6363636363636362%):
+10 used cloudfront (2.949852507374631%):
 ```
 a.co
 bstore.smsb.co
@@ -168,7 +191,7 @@ trk.klclick3.com
 zpr.io
 ```
 
-1 used ddosguard (0.36363636363636365%):
+1 used ddosguard (0.2949852507374631%):
 ```
 u.to
 ```
@@ -183,7 +206,7 @@ u.to
 
 ```
 
-1 used sucuri (0.36363636363636365%):
+1 used sucuri (0.2949852507374631%):
 ```
 wee.so
 ```

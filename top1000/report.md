@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 57 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -45,12 +45,13 @@ erome.com
 
 ```
 
-157 used cloudflare (15.7%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -96,13 +97,13 @@ epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
+fandom.com
 fiverr.com
 fontawesome.com
 forter.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -120,7 +121,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -185,7 +185,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -206,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -217,6 +216,7 @@ agora.io
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -253,6 +253,7 @@ figma.com
 flickr.com
 go.com
 goodreads.com
+grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -265,6 +266,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 name.com
 nationalgeographic.com
 netgear.com
@@ -293,7 +295,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
@@ -304,12 +305,11 @@ wsj.com
 zillow.com
 ```
 
-5 used ddosguard (0.5%):
+4 used ddosguard (0.4%):
 ```
 1c.ru
 crpt.ru
 netangels.ru
-onlinepbx.ru
 pikabu.ru
 ```
 
