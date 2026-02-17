@@ -1,4 +1,4 @@
-576 domains tested. 74.47916666666666% were behind nothing (147 were behind something). 20 domains could not be tested.<br>
+639 domains tested. 75.8998435054773% were behind nothing (154 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,65 +19,78 @@
 
 ```
 
-126 used cloudflare (21.875%):
+131 used cloudflare (20.50078247261346%):
 ```
-7wgxbccc.cyberlane.digital
+0bz6vz64.blue128cinder.digital
+3aofxgg5.orbit44kind.digital
 ace-project.org
 allendostmen.com
 api.dealharbor.coupons
 api.files.link
+api.orbit6crate.coupons
 app.appzcvb.com
 app.perk9parcel.coupons
 arnb3r-0rb.amber2vivid.coupons
 auth88.snapbargain.coupons
-b1int-rnix.blint8darvo.coupons
 beta-node.deal4harbor.coupons
 bixyzmodul.com
-bju1b4zl.websphere.digital
+blueocean.frozenshell.coupons
+bookclub.swiftleaf.coupons
 br33ze-llnk.breeze1falcon.coupons
+brightidea.boldstone.coupons
 c9t5q.breeze1falcon.coupons
+calmnight.gentlewind.coupons
 cambodiatouristservice.com
 cascade.amber2vivid.coupons
-cascade.flint1zarco.coupons
 cdn-303-web.flash5saver.coupons
 cdn.mintvoucher.coupons
 checkinetverifk.com
+citypulse.velvetmaple.coupons
 classroomseven.com
+clearview.boldstone.coupons
 clipaid.app
+cloud-m3.plum5parcel.coupons
 cloud-st1.perk9parcel.coupons
 cloudstay168.com
-cr1nt-vvay.crint3valko.coupons
 crystalpvp.ru
+cyx.technok.sbs
+cyx.technol.sbs
 dev.flash5saver.coupons
 direct-web-client.perk9parcel.coupons
+dl.aginjector.com
+dl.plum5parcel.coupons
 e3ys4ixz.mint2layer.digital
 edge-cache2.perkparcel.coupons
-f1int-0rb.flint1zarco.coupons
 fast-track-delivery.dealharbor.coupons
 filerit.com
 formula.fusion2harbor.coupons
 fus10n-vvex.fusion2harbor.coupons
 galaxis.pw
 gallivantinggoals.com
+gardenplan.swiftleaf.coupons
+gate-07.orbit6crate.coupons
 glacier.breeze1falcon.coupons
 global-site-check.bonus3basket.coupons
+global-sync-srv.orbit6crate.coupons
 go.perkparcel.coupons
-gobiotechpestcontrol.com
-gordon-and-son.com
 gutando.com
-harvest.blint8darvo.coupons
 harvest.nebula4tango.coupons
+heavychain.stronghold.coupons
+highmount.silverpeak.coupons
 hitman-pro.ru
 internal-promo-zone.perkparcel.coupons
-joltarena.com
+internal-web-proxy.plum5parcel.coupons
+irongate.stronghold.coupons
 jung1e-rnate.jungle9orbit.coupons
+jyx7jwja.blue128cinder.digital
 k15kqv93.fluxdrive.digital
-keepass-xc.com
 lantern.rocket7flora.coupons
-m-91.stackdump-collector.coupons
+lun.technok.sbs
+luq.technol.sbs
 m-link.bonus3basket.coupons
-m6r8p.prisk7tarvo.coupons
 m9r3p.jungle9orbit.coupons
+metalkey.stronghold.coupons
+morningcoffee.swiftleaf.coupons
 nebula-vv1ng.nebula4tango.coupons
 ns1.bonus3basket.coupons
 onyxarmorcrypt.de
@@ -100,53 +113,45 @@ onyxshieldcore.de
 onyxstealthnet.de
 oracle.shadow6nectar.coupons
 outpost.jungle9orbit.coupons
-outpost.prisk7tarvo.coupons
 p8x1m.shadow6nectar.coupons
-pr1sk-rnate.prisk7tarvo.coupons
-proc-9-auth.browser-crash-report.coupons
 q4m8v.rocket7flora.coupons
-q7m9v.crint3valko.coupons
 qa7sawuw.wildframe41.digital
 r0cket-rnix.rocket7flora.coupons
 r2k6d.fusion2harbor.coupons
 reauthenticator.com
 remote-access-v1.deal4harbor.coupons
 reusable-flex.com
-rnatr1x-vvay.matrix8piano.coupons
 rxquickpay.com
 sabungkingbet189.com
 secure-gateway-app.mintvoucher.coupons
 separadordecc.com
-session-8201.telemetry-api-v1.coupons
 shad0vv-rnix.shadow6nectar.coupons
-signal.matrix8piano.coupons
 skillnorequired.cc
+smartmind.boldstone.coupons
+softbreeze.gentlewind.coupons
 srv-90.dealharbor.coupons
 static-data-srv.snapbargain.coupons
+summerday.gentlewind.coupons
 superbet388.one
-t4k2n.flint1zarco.coupons
 t6k2n.amber2vivid.coupons
 tesllamacapp.com
 trtmyanmar.com
 tyahelp.top
-unique-trace-id.stackdump-collector.coupons
 update-system-srv.flash5saver.coupons
+urbanbike.velvetmaple.coupons
+uri2df93.blue128cinder.digital
 user-node4.mintvoucher.coupons
-v-ref.telemetry-api-v1.coupons
-vcc-library.uk
 warkopshopfb138.cc
+wildriver.silverpeak.coupons
 ws.deal4harbor.coupons
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+www.up3me.cc
 www.vuelaviajero.com
 x7p9a.nebula4tango.coupons
-x8.browser-crash-report.coupons
-x8p3a.blint8darvo.coupons
 xn--yh4bx88a.com
 youtransfer.net
-z-node.telemetry-api-v1.coupons
-z3n7a.matrix8piano.coupons
 ```
 
 0 used cloudfront (0.0%):
@@ -164,7 +169,7 @@ z3n7a.matrix8piano.coupons
 
 ```
 
-1 used fastly (0.1736111111111111%):
+1 used fastly (0.1564945226917058%):
 ```
 visualwikicloud.com
 ```

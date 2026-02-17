@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 56 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -45,13 +45,12 @@ erome.com
 
 ```
 
-156 used cloudflare (15.6%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -98,6 +97,7 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
+faphouse.com
 fiverr.com
 fontawesome.com
 forter.com
@@ -121,6 +121,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -147,6 +148,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -185,6 +187,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -198,7 +201,6 @@ wiley.com
 workers.dev
 worldbank.org
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
 zoom.com
@@ -213,9 +215,9 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.uk
+amazon.ca
+amazon.co.jp
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
@@ -253,7 +255,6 @@ figma.com
 flickr.com
 go.com
 goodreads.com
-grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -295,6 +296,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
