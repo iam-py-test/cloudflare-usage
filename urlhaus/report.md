@@ -1,4 +1,4 @@
-639 domains tested. 75.8998435054773% were behind nothing (154 were behind something). 22 domains could not be tested.<br>
+676 domains tested. 78.55029585798816% were behind nothing (145 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,80 +19,69 @@
 
 ```
 
-131 used cloudflare (20.50078247261346%):
+121 used cloudflare (17.899408284023668%):
 ```
 0bz6vz64.blue128cinder.digital
+0live-vvork.olive4parcel.coupons
+0ufhrxly.chattytolet.digital
 3aofxgg5.orbit44kind.digital
+a5v9n.grape1shipping.coupons
 ace-project.org
+activebrain.conscious86jag.coupons
+agitate6vagina.digital
 allendostmen.com
-api.dealharbor.coupons
-api.files.link
-api.orbit6crate.coupons
 app.appzcvb.com
-app.perk9parcel.coupons
-arnb3r-0rb.amber2vivid.coupons
-auth88.snapbargain.coupons
-beta-node.deal4harbor.coupons
+app1e-vvex.apple2dispatch.coupons
+b3rry-rnove.berry9shipment.coupons
 bixyzmodul.com
-blueocean.frozenshell.coupons
-bookclub.swiftleaf.coupons
-br33ze-llnk.breeze1falcon.coupons
-brightidea.boldstone.coupons
-c9t5q.breeze1falcon.coupons
+c9t5q.lemon8logistics.coupons
 calmnight.gentlewind.coupons
 cambodiatouristservice.com
-cascade.amber2vivid.coupons
-cdn-303-web.flash5saver.coupons
-cdn.mintvoucher.coupons
+ch3rry-rnark.cherry5freight.coupons
 checkinetverifk.com
-citypulse.velvetmaple.coupons
+checknode.censure47contr.coupons
 classroomseven.com
-clearview.boldstone.coupons
 clipaid.app
-cloud-m3.plum5parcel.coupons
-cloud-st1.perk9parcel.coupons
 cloudstay168.com
+consign.grape1shipping.coupons
+crate.peach3package.coupons
 crystalpvp.ru
 cyx.technok.sbs
 cyx.technol.sbs
-dev.flash5saver.coupons
-direct-web-client.perk9parcel.coupons
+cyxr.technok.sbs
+cyxre.technok.sbs
+cyxt.technok.sbs
+de-25x800.com
 dl.aginjector.com
-dl.plum5parcel.coupons
-e3ys4ixz.mint2layer.digital
-edge-cache2.perkparcel.coupons
-fast-track-delivery.dealharbor.coupons
 filerit.com
-formula.fusion2harbor.coupons
-fus10n-vvex.fusion2harbor.coupons
-galaxis.pw
 gallivantinggoals.com
-gardenplan.swiftleaf.coupons
-gate-07.orbit6crate.coupons
-glacier.breeze1falcon.coupons
-global-site-check.bonus3basket.coupons
-global-sync-srv.orbit6crate.coupons
-go.perkparcel.coupons
+gi9d0czb.serve5woodman.digital
+glasscube.glasspurity.coupons
+gobiotechpestcontrol.com
+grap3-llow.grape1shipping.coupons
 gutando.com
-harvest.nebula4tango.coupons
+handoff.mango6courier.coupons
 heavychain.stronghold.coupons
-highmount.silverpeak.coupons
 hitman-pro.ru
-internal-promo-zone.perkparcel.coupons
-internal-web-proxy.plum5parcel.coupons
 irongate.stronghold.coupons
-jung1e-rnate.jungle9orbit.coupons
 jyx7jwja.blue128cinder.digital
-k15kqv93.fluxdrive.digital
-lantern.rocket7flora.coupons
+k4q8m.plum8express.coupons
+l3rn0n-llne.lemon8logistics.coupons
+linkcheck.comparis4sosun.coupons
 lun.technok.sbs
+lunar.technok.sbs
+lunde.technok.sbs
+lunh.technok.sbs
+lunr.technok.sbs
 luq.technol.sbs
-m-link.bonus3basket.coupons
-m9r3p.jungle9orbit.coupons
+m9jn8b8q.ostroy56sagacious.digital
+m9r3p.olive4parcel.coupons
+manifest.berry9shipment.coupons
+matchview.comparis4sosun.coupons
 metalkey.stronghold.coupons
-morningcoffee.swiftleaf.coupons
-nebula-vv1ng.nebula4tango.coupons
-ns1.bonus3basket.coupons
+mindwave.conscious86jag.coupons
+ni7zcfqx.gas98generator.digital
+nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -111,47 +100,48 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-oracle.shadow6nectar.coupons
-outpost.jungle9orbit.coupons
-p8x1m.shadow6nectar.coupons
-q4m8v.rocket7flora.coupons
-qa7sawuw.wildframe41.digital
-r0cket-rnix.rocket7flora.coupons
-r2k6d.fusion2harbor.coupons
+oxwv9bay.agitate6vagina.digital
+p3ach-llnk.peach3package.coupons
+p8x1m.apple2dispatch.coupons
+pallet.cherry5freight.coupons
+priority.plum8express.coupons
+q4m8v.peach3package.coupons
+r2k6d.cherry5freight.coupons
 reauthenticator.com
-remote-access-v1.deal4harbor.coupons
 reusable-flex.com
+rnang0-rnix.mango6courier.coupons
+routing.apple2dispatch.coupons
+rulebase.censure47contr.coupons
 rxquickpay.com
 sabungkingbet189.com
-secure-gateway-app.mintvoucher.coupons
+safeguard.censure47contr.coupons
 separadordecc.com
-shad0vv-rnix.shadow6nectar.coupons
+sharpedge.glasspurity.coupons
+shieldpath.censure47contr.coupons
 skillnorequired.cc
-smartmind.boldstone.coupons
 softbreeze.gentlewind.coupons
-srv-90.dealharbor.coupons
-static-data-srv.snapbargain.coupons
 summerday.gentlewind.coupons
 superbet388.one
-t6k2n.amber2vivid.coupons
+t6k2n.berry9shipment.coupons
+tcp.newyworlds.com
 tesllamacapp.com
+theipcommunity.com
+tkistok-palaymarkes.sbs
 trtmyanmar.com
 tyahelp.top
-update-system-srv.flash5saver.coupons
-urbanbike.velvetmaple.coupons
 uri2df93.blue128cinder.digital
-user-node4.mintvoucher.coupons
+vcc-library.uk
+warehouse.lemon8logistics.coupons
 warkopshopfb138.cc
-wildriver.silverpeak.coupons
-ws.deal4harbor.coupons
+waybill.olive4parcel.coupons
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.up3me.cc
 www.vuelaviajero.com
-x7p9a.nebula4tango.coupons
 xn--yh4bx88a.com
 youtransfer.net
+z3n7a.mango6courier.coupons
 ```
 
 0 used cloudfront (0.0%):
@@ -169,7 +159,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.1564945226917058%):
+1 used fastly (0.14792899408284024%):
 ```
 visualwikicloud.com
 ```
@@ -209,7 +199,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.14792899408284024%):
 ```
-
+swiftfusion.tech
 ```
