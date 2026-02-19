@@ -1,4 +1,4 @@
-676 domains tested. 78.55029585798816% were behind nothing (145 were behind something). 22 domains could not be tested.<br>
+682 domains tested. 75.51319648093842% were behind nothing (167 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,69 +19,81 @@
 
 ```
 
-121 used cloudflare (17.899408284023668%):
+141 used cloudflare (20.674486803519063%):
 ```
-0bz6vz64.blue128cinder.digital
 0live-vvork.olive4parcel.coupons
 0ufhrxly.chattytolet.digital
-3aofxgg5.orbit44kind.digital
+19z4t19x.matrimon63shadowy.digital
+a5v9n.box3pear.coupons
 a5v9n.grape1shipping.coupons
 ace-project.org
-activebrain.conscious86jag.coupons
 agitate6vagina.digital
 allendostmen.com
 app.appzcvb.com
 app1e-vvex.apple2dispatch.coupons
+b0x-rnark.box3pear.coupons
 b3rry-rnove.berry9shipment.coupons
-bixyzmodul.com
+boxstream.pack1kiwi.coupons
 c9t5q.lemon8logistics.coupons
-calmnight.gentlewind.coupons
+c9t5q.pack8mint.coupons
 cambodiatouristservice.com
+cargoflow.fig2ship.coupons
 ch3rry-rnark.cherry5freight.coupons
 checkinetverifk.com
-checknode.censure47contr.coupons
 classroomseven.com
 clipaid.app
 cloudstay168.com
+consign.box3pear.coupons
 consign.grape1shipping.coupons
+container.pear6box.coupons
+crate.mint4pack.coupons
 crate.peach3package.coupons
 crystalpvp.ru
-cyx.technok.sbs
-cyx.technol.sbs
+cynet.technick.sbs
+cyx.technick.sbs
+cyxer.technok.sbs
 cyxr.technok.sbs
 cyxre.technok.sbs
 cyxt.technok.sbs
 de-25x800.com
 dl.aginjector.com
+en2k1164.dictationlow.digital
 filerit.com
+freshpack.kiwi5pack.coupons
+fruitline.kiwi5pack.coupons
 gallivantinggoals.com
 gi9d0czb.serve5woodman.digital
 glasscube.glasspurity.coupons
-gobiotechpestcontrol.com
+globalpath.ship9fig.coupons
 grap3-llow.grape1shipping.coupons
+greenstore.kiwi5pack.coupons
 gutando.com
 handoff.mango6courier.coupons
+harbor.plum7ship.coupons
 heavychain.stronghold.coupons
 hitman-pro.ru
+hubtransit.ship9fig.coupons
 irongate.stronghold.coupons
-jyx7jwja.blue128cinder.digital
+jxjfs70p.cropin456spire.digital
 k4q8m.plum8express.coupons
+kiwinode.kiwi5pack.coupons
 l3rn0n-llne.lemon8logistics.coupons
-linkcheck.comparis4sosun.coupons
-lun.technok.sbs
+localhub.pack1kiwi.coupons
 lunar.technok.sbs
 lunde.technok.sbs
+lunet.technick.sbs
 lunh.technok.sbs
 lunr.technok.sbs
-luq.technol.sbs
+lux.technick.sbs
 m9jn8b8q.ostroy56sagacious.digital
+m9r3p.mint4pack.coupons
 m9r3p.olive4parcel.coupons
 manifest.berry9shipment.coupons
-matchview.comparis4sosun.coupons
+manifest.ship5plum.coupons
+marinenode.fig2ship.coupons
 metalkey.stronghold.coupons
-mindwave.conscious86jag.coupons
 ni7zcfqx.gas98generator.digital
-nusatoyota.co.id
+oceanroute.fig2ship.coupons
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -101,27 +113,34 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 oxwv9bay.agitate6vagina.digital
+p1urn-vvake.plum7ship.coupons
 p3ach-llnk.peach3package.coupons
+p3ar-llnk.pear6box.coupons
+p4ck-rnate.pack8mint.coupons
 p8x1m.apple2dispatch.coupons
+p8x1m.pear6box.coupons
+packpoint.pack1kiwi.coupons
 pallet.cherry5freight.coupons
+portentry.fig2ship.coupons
 priority.plum8express.coupons
 q4m8v.peach3package.coupons
+q4m8v.ship5plum.coupons
 r2k6d.cherry5freight.coupons
 reauthenticator.com
 reusable-flex.com
+rn1nt-llow.mint4pack.coupons
 rnang0-rnix.mango6courier.coupons
 routing.apple2dispatch.coupons
-rulebase.censure47contr.coupons
 rxquickpay.com
 sabungkingbet189.com
-safeguard.censure47contr.coupons
+se9bavje.lament42leave.digital
+sendpoint.ship9fig.coupons
 separadordecc.com
+sh1p-rnix.ship5plum.coupons
 sharpedge.glasspurity.coupons
-shieldpath.censure47contr.coupons
 skillnorequired.cc
-softbreeze.gentlewind.coupons
-summerday.gentlewind.coupons
-superbet388.one
+speedtrack.ship9fig.coupons
+supplyline.pack1kiwi.coupons
 t6k2n.berry9shipment.coupons
 tcp.newyworlds.com
 tesllamacapp.com
@@ -129,16 +148,17 @@ theipcommunity.com
 tkistok-palaymarkes.sbs
 trtmyanmar.com
 tyahelp.top
-uri2df93.blue128cinder.digital
-vcc-library.uk
+viewmyparty.com
+vogd.digital
 warehouse.lemon8logistics.coupons
+warehouse.pack8mint.coupons
 warkopshopfb138.cc
 waybill.olive4parcel.coupons
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
-www.up3me.cc
 www.vuelaviajero.com
+x7p9a.plum7ship.coupons
 xn--yh4bx88a.com
 youtransfer.net
 z3n7a.mango6courier.coupons
@@ -159,7 +179,7 @@ z3n7a.mango6courier.coupons
 
 ```
 
-1 used fastly (0.14792899408284024%):
+1 used fastly (0.1466275659824047%):
 ```
 visualwikicloud.com
 ```
@@ -199,7 +219,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.14792899408284024%):
+1 used netlify (0.1466275659824047%):
 ```
 swiftfusion.tech
 ```
