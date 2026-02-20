@@ -1,10 +1,11 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 55 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+autodesk.com
 coupang.com
 dailymail.co.uk
 fda.gov
@@ -43,7 +44,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 ad-delivery.net
@@ -99,10 +100,10 @@ faphouse.com
 fiverr.com
 fontawesome.com
 forter.com
-ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -147,7 +148,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -187,7 +187,6 @@ themeforest.net
 thenai.org
 tinyurl.com
 twitter.com
-uber.com
 umich.edu
 unpkg.com
 vimeo.com
@@ -199,6 +198,7 @@ who.int
 wiley.com
 workers.dev
 worldbank.org
+wpguardian.com
 wyzecam.com
 x.com
 xhamster.com
@@ -207,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -215,13 +215,11 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -235,7 +233,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -257,7 +254,6 @@ figma.com
 flickr.com
 go.com
 goodreads.com
-grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -310,9 +306,8 @@ wsj.com
 zillow.com
 ```
 
-4 used ddosguard (0.4%):
+3 used ddosguard (0.3%):
 ```
-1c.ru
 crpt.ru
 netangels.ru
 pikabu.ru
