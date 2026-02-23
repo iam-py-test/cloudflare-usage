@@ -1,11 +1,12 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 56 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 55 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
+coupang.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -43,7 +44,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 ad-delivery.net
@@ -59,10 +60,10 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+caiway.net
 cambridge.org
 canva.com
 casalemedia.com
-change.org
 character.ai
 chatgpt.com
 chaturbate.com
@@ -82,6 +83,7 @@ cpanel.net
 crazygames.com
 creativecommons.org
 deepl.com
+dfn.nl
 digitalocean.com
 discogs.com
 discord.com
@@ -102,6 +104,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -217,12 +220,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com.au
+amazon.com
 amazon.com.br
 amazon.de
+amazon.es
+amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -297,7 +300,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
@@ -305,6 +307,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+yahoo.com
 zillow.com
 ```
 
