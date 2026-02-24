@@ -1,4 +1,4 @@
-339 domains tested. 47.78761061946903% were behind nothing (177 were behind something). 10 domains could not be tested.<br>
+339 domains tested. 47.1976401179941% were behind nothing (179 were behind something). 11 domains could not be tested.<br>
 2 used akamai (0.5899705014749262%):
 ```
 eepurl.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-153 used cloudflare (45.13274336283185%):
+154 used cloudflare (45.42772861356932%):
 ```
 02ip.ru
 123415.xyz
@@ -47,6 +47,7 @@ b1.fr
 bc.vc
 bigbig.com
 bitly.cx
+caplnk.com
 ceesty.com
 chilp.it
 cleanuri.com
@@ -104,7 +105,6 @@ knpp.online
 link-center.net
 link-z.net
 link.sbstck.com
-link.tnlink.in
 links.e.malwarebytes.com
 linksbr.com.br
 linkvertise.com
@@ -122,6 +122,7 @@ nxlnk.com
 nyl.as
 ouo.io
 prettylinks.com
+prolink168.com
 qrco.de
 rb.gy
 rebrand.ly
