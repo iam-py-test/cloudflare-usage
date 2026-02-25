@@ -1,4 +1,4 @@
-518 domains tested. 72.97297297297297% were behind nothing (140 were behind something). 23 domains could not be tested.<br>
+525 domains tested. 72.57142857142857% were behind nothing (144 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,18 @@
 
 ```
 
-115 used cloudflare (22.2007722007722%):
+123 used cloudflare (23.42857142857143%):
 ```
-0uwsxbye.forward3cross.digital
-366kf0hf.up12file.digital
+2z0nkkls.lumenbit.digital
 ace-project.org
 allendostmen.com
+api.ezilax.com
 app.appzcvb.com
+area-grove-sync.brightgrove.ru
 atmospheric-sensor-unit.quietwind.ru
 botanical-research-archive.wildfern.ru
 bright-field-stat.brightvale.ru
+bright-grove-park.brightgrove.ru
 cambodiatouristservice.com
 central-monitoring-hub.clearcrest.ru
 central-pine-node.smartpine.ru
@@ -42,14 +44,16 @@ crest-logic-point.clearcrest.ru
 crystalpvp.ru
 depth-canyon-monitor.swiftcanyon.ru
 desert-storm-monitor.rapiddune.ru
-deusxeno.ws
 dl.aginjector.com
 dune-logic-base.rapiddune.ru
-f2i32y9f.silvernode.digital
+easyhostweb.com
+epi66tim.velocore.digital
 fast-flow-point.rapidbrook.ru
 filerit.com
 forest-deep-sync-node.wildfern.ru
+fresh-cliff-high.freshcliff.ru
 gallivantinggoals.com
+geo-fresh-node.freshcliff.ru
 geo-rock-sync-base.swiftcanyon.ru
 gutando.com
 heat-sync-node.rapiddune.ru
@@ -58,22 +62,24 @@ high-rise-monitor.urbanridge.ru
 hitman-pro.ru
 hydrological-collector.rapidbrook.ru
 it-pine-management.smartpine.ru
-joieshk7.hexalink.digital
+iwkzzjit.rapidmatrix.digital
+js0qnoh0.alphasync.digital
+kys.cx
+kys.li
 lg1kpu12.microzen.digital
+light-grove-hub.brightgrove.ru
 light-valley-hub.brightvale.ru
-lun.onters.sbs
-lunc.revio.live
+lungx.hollower.sbs
+lunhx.hollower.sbs
 lunhx.onters.sbs
 lunme.onters.sbs
-lunp.revio.live
+lunqv.hollower.sbs
 main-cool-harbor-sys.coolharbor.ru
 main-crest-auth.clearcrest.ru
 nature-logic-base.wildfern.ru
 no.windowupdateservice.com
 nusatoyota.co.id
 ocean-harbor-gate.coolharbor.ru
-odbsasjd.upgrade4file.digital
-ojqxtq3l.ironrock.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -92,14 +98,15 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+ovfs585i.urbanforge.digital
 quiet-air-monitor.quietwind.ru
-r8ada0zp.novacode.digital
 rapid-dune-sand.rapiddune.ru
 rapid-stream-data.rapidbrook.ru
 reauthenticator.com
 region-sync-base.brightvale.ru
 reusable-flex.com
 rxquickpay.com
+s2s942l0.modernsignal.digital
 sabungkingbet189.com
 separadordecc.com
 ship-dock-control.coolharbor.ru
@@ -109,6 +116,7 @@ skillnorequired.cc
 smart-timber-track.smartpine.ru
 solar-energy-control.brightvale.ru
 storm-bay-watch.stormbay.ru
+summit-cliff-sync.freshcliff.ru
 swift-canyon-pass.swiftcanyon.ru
 swift-flow-node.swiftcanyon.ru
 swog3mgt.openmatrix.digital
@@ -117,10 +125,10 @@ tcp.newyworlds.com
 tenbravoid.icu
 tesllamacapp.com
 trtmyanmar.com
-tukprivate-uz.sbs
 tyahelp.top
 urban-data-point.urbanridge.ru
 urban-ridge-city.urbanridge.ru
+vbb24wmu.lumenbit.digital
 vcc-library.uk
 vo230hqh.cybervox.digital
 warkopshopfb138.cc
@@ -153,14 +161,14 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.19305019305019305%):
+1 used fastly (0.19047619047619047%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.19305019305019305%):
+0 used sucuri (0.0%):
 ```
-sinergiaconstruccion.com.mx
+
 ```
 
 0 used myracloud (0.0%):
@@ -193,7 +201,7 @@ sinergiaconstruccion.com.mx
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.19047619047619047%):
 ```
-
+swiftfusion.tech
 ```
