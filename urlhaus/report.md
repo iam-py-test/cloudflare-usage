@@ -1,4 +1,4 @@
-525 domains tested. 72.57142857142857% were behind nothing (144 were behind something). 19 domains could not be tested.<br>
+410 domains tested. 78.53658536585367% were behind nothing (88 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,130 +19,67 @@
 
 ```
 
-123 used cloudflare (23.42857142857143%):
+60 used cloudflare (14.634146341463413%):
 ```
+13nq2ksp.lunarbridge.digital
 2z0nkkls.lumenbit.digital
-ace-project.org
+6ut6sdn1.clearvertex.digital
 allendostmen.com
 api.ezilax.com
 app.appzcvb.com
 area-grove-sync.brightgrove.ru
-atmospheric-sensor-unit.quietwind.ru
-botanical-research-archive.wildfern.ru
-bright-field-stat.brightvale.ru
 bright-grove-park.brightgrove.ru
 cambodiatouristservice.com
-central-monitoring-hub.clearcrest.ru
-central-pine-node.smartpine.ru
-checkinetverifk.com
-city-ridge-sync.urbanridge.ru
 classroomseven.com
 clipaid.app
 cloudstay168.com
-cool-port-storage.coolharbor.ru
-crest-logic-point.clearcrest.ru
 crystalpvp.ru
-depth-canyon-monitor.swiftcanyon.ru
-desert-storm-monitor.rapiddune.ru
 dl.aginjector.com
-dune-logic-base.rapiddune.ru
-easyhostweb.com
 epi66tim.velocore.digital
-fast-flow-point.rapidbrook.ru
-filerit.com
-forest-deep-sync-node.wildfern.ru
 fresh-cliff-high.freshcliff.ru
 gallivantinggoals.com
 geo-fresh-node.freshcliff.ru
-geo-rock-sync-base.swiftcanyon.ru
+gobiotechpestcontrol.com
 gutando.com
-heat-sync-node.rapiddune.ru
-high-altitude-sensor.clearcrest.ru
-high-rise-monitor.urbanridge.ru
 hitman-pro.ru
-hydrological-collector.rapidbrook.ru
-it-pine-management.smartpine.ru
 iwkzzjit.rapidmatrix.digital
 js0qnoh0.alphasync.digital
 kys.cx
 kys.li
-lg1kpu12.microzen.digital
 light-grove-hub.brightgrove.ru
-light-valley-hub.brightvale.ru
 lungx.hollower.sbs
 lunhx.hollower.sbs
-lunhx.onters.sbs
-lunme.onters.sbs
 lunqv.hollower.sbs
-main-cool-harbor-sys.coolharbor.ru
-main-crest-auth.clearcrest.ru
-nature-logic-base.wildfern.ru
-no.windowupdateservice.com
+lunts.hollower.sbs
 nusatoyota.co.id
-ocean-harbor-gate.coolharbor.ru
 onyxarmorcrypt.de
-onyxcryptorix.de
-onyxcyberapex.de
 onyxcyberedge.de
-onyxfortifypro.de
 onyxfortitech.de
 onyxguardify.de
-onyxguardwave.de
 onyxironvault.de
 onyxnexguard.de
 onyxphantomlock.de
 onyxprotectech.de
-onyxsafecrypt.de
-onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 ovfs585i.urbanforge.digital
-quiet-air-monitor.quietwind.ru
-rapid-dune-sand.rapiddune.ru
-rapid-stream-data.rapidbrook.ru
-reauthenticator.com
-region-sync-base.brightvale.ru
 reusable-flex.com
 rxquickpay.com
 s2s942l0.modernsignal.digital
 sabungkingbet189.com
-separadordecc.com
-ship-dock-control.coolharbor.ru
-silent-flow-node.quietwind.ru
-silver-zone-sync.silverfield.ru
 skillnorequired.cc
-smart-timber-track.smartpine.ru
-solar-energy-control.brightvale.ru
-storm-bay-watch.stormbay.ru
 summit-cliff-sync.freshcliff.ru
-swift-canyon-pass.swiftcanyon.ru
-swift-flow-node.swiftcanyon.ru
-swog3mgt.openmatrix.digital
-t0ijoagy.crystalbit.digital
-tcp.newyworlds.com
-tenbravoid.icu
-tesllamacapp.com
+tik-privateuz.sbs
 trtmyanmar.com
 tyahelp.top
-urban-data-point.urbanridge.ru
-urban-ridge-city.urbanridge.ru
 vbb24wmu.lumenbit.digital
-vcc-library.uk
-vo230hqh.cybervox.digital
+vxnrtubh.primefusion.digital
 warkopshopfb138.cc
-water-network-node.rapidbrook.ru
-weather-station-data.quietwind.ru
-weather-warning-system.stormbay.ru
-wild-leaf-trace.wildfern.ru
-wood-processing-unit.smartpine.ru
 www.blackhattoolz.com
 www.hostingcloud.science
-www.luuk-lifestyle.eu
-www.vuelaviajero.com
 xn--yh4bx88a.com
-yaso.su
 youtransfer.net
 ```
 
@@ -161,7 +98,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.19047619047619047%):
+1 used fastly (0.24390243902439024%):
 ```
 visualwikicloud.com
 ```
@@ -201,7 +138,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19047619047619047%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

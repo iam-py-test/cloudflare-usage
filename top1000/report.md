@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 63.6% were behind nothing (364 were behind something). 60 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 ad-delivery.net
@@ -93,7 +93,6 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
-epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
@@ -123,6 +122,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -134,6 +134,7 @@ medium.com
 merkle.io
 moloco.com
 myshopify.com
+name.com
 networkadvertising.org
 nexusmods.com
 nic.network
@@ -211,7 +212,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+94 used cloudfront (9.4%):
 ```
 3lift.com
 a-mo.net
@@ -219,15 +220,14 @@ academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
-amazon.co.uk
+amazon.ca
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -273,12 +273,11 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
+note.com
 onet.pl
-pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
@@ -301,7 +300,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
