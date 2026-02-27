@@ -1,4 +1,4 @@
-1000 domains tested. 63.6% were behind nothing (364 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 58 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -93,6 +93,7 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
+epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
@@ -150,7 +151,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -212,7 +212,7 @@ zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -221,6 +221,8 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -228,6 +230,7 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -278,13 +281,14 @@ netgear.com
 noaa.gov
 note.com
 onet.pl
+pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
-rayjump.com
 repubblica.it
 reuters.com
 samsungcloud.com
+segment.io
 shalltry.com
 shutterstock.com
 soundcloud.com
@@ -300,6 +304,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
@@ -370,11 +375,10 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
-lencr.org
 llamarpc.com
 ```
 
