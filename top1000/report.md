@@ -1,4 +1,4 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 ad-delivery.net
@@ -93,7 +93,6 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
-epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
@@ -135,7 +134,6 @@ medium.com
 merkle.io
 moloco.com
 myshopify.com
-name.com
 networkadvertising.org
 nexusmods.com
 nic.network
@@ -212,7 +210,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -223,7 +221,6 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
@@ -276,6 +273,7 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
+name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -304,7 +302,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
@@ -379,7 +376,7 @@ php.net
 ```
 ampproject.org
 launchdarkly.com
-llamarpc.com
+lencr.org
 ```
 
 2 used imperva (0.2%):

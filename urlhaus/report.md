@@ -1,4 +1,4 @@
-415 domains tested. 80.72289156626506% were behind nothing (80 were behind something). 21 domains could not be tested.<br>
+494 domains tested. 78.54251012145748% were behind nothing (106 were behind something). 30 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,18 @@
 
 ```
 
-57 used cloudflare (13.734939759036143%):
+74 used cloudflare (14.979757085020243%):
 ```
-13nq2ksp.lunarbridge.digital
+2azr2jei.coreforge.digital
 3pf82esd.globalframe.digital
-6ut6sdn1.clearvertex.digital
+4sontfzx.quantumloop.digital
+5w2x7glx.pixelpeak.digital
+accdyn.com
+ace-project.org
 allendostmen.com
 api.ezilax.com
+api.files.link
 app.appzcvb.com
-cambodiatouristservice.com
 checkinetverifk.com
 citra567daftar.com
 classroomseven.com
@@ -35,11 +38,19 @@ clipaid.app
 cloudstay168.com
 confidenceprocedimentos.com
 crystalpvp.ru
+dl.aginjector.com
 filerit.com
 gallivantinggoals.com
+gaos1opo.dataspark.digital
+gnchdcvq.webweave.digital
+gobiotechpestcontrol.com
+gutando.com
 hitman-pro.ru
+hp1d.com.br
+l3jvnuw2.smartcanvas.digital
+larrycornies.com
 ljav.blogre.sbs
-lunts.hollower.sbs
+meetmeupgooupglemeet.info
 nolimitslot777.games
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -60,24 +71,30 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 reauthenticator.com
-relyaccessed-virtual.info
 reusable-flex.com
 rj48gr6v.quantumridge.digital
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
 separadordecc.com
+skillnorequired.cc
 storage-secure.lostproject.it
+sunchernical.com
 t-privateuz.sbs
 tcp.newyworlds.com
+trtmyanmar.com
+tyahelp.top
+ursosmart.lol
 us28meeting.jexar.sbs
-vxnrtubh.primefusion.digital
+vcc-library.uk
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
+www.vuelaviajero.com
 xn--yh4bx88a.com
 yaso.su
+youtransfer.net
 ```
 
 0 used cloudfront (0.0%):
@@ -95,7 +112,7 @@ yaso.su
 
 ```
 
-1 used fastly (0.24096385542168677%):
+1 used fastly (0.20242914979757085%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +152,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.24096385542168677%):
+1 used netlify (0.20242914979757085%):
 ```
 swiftfusion.tech
 ```
