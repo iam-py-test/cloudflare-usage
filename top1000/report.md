@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 58 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-162 used cloudflare (16.2%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 ad-delivery.net
@@ -93,6 +93,7 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
+epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
@@ -221,7 +222,7 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.au
+amazon.com
 amazon.com.br
 amazon.de
 amazon.es
@@ -259,7 +260,6 @@ figma.com
 flickr.com
 go.com
 goodreads.com
-grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -302,6 +302,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 venmo.com
 warnerbros.com
@@ -324,7 +325,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+10 used fastly (1.0%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -334,6 +335,7 @@ corriere.it
 github.io
 nytimes.com
 speedtest.net
+spotify.com
 www.gov.uk
 ```
 
@@ -372,11 +374,12 @@ php.net
 
 ```
 
-3 used netlify (0.3%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+llamarpc.com
 ```
 
 2 used imperva (0.2%):

@@ -1,4 +1,4 @@
-494 domains tested. 78.54251012145748% were behind nothing (106 were behind something). 30 domains could not be tested.<br>
+494 domains tested. 79.35222672064778% were behind nothing (102 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,39 +19,39 @@
 
 ```
 
-74 used cloudflare (14.979757085020243%):
+75 used cloudflare (15.182186234817813%):
 ```
 2azr2jei.coreforge.digital
-3pf82esd.globalframe.digital
 4sontfzx.quantumloop.digital
 5w2x7glx.pixelpeak.digital
-accdyn.com
+95zxw7vw.opticprime.digital
 ace-project.org
 allendostmen.com
 api.ezilax.com
 api.files.link
 app.appzcvb.com
+cambodiatouristservice.com
+carrier-packets-docs.com
 checkinetverifk.com
 citra567daftar.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
-confidenceprocedimentos.com
 crystalpvp.ru
 dl.aginjector.com
+dmv2ddsm.mozillacola.digital
 filerit.com
-gallivantinggoals.com
 gaos1opo.dataspark.digital
 gnchdcvq.webweave.digital
-gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
 hp1d.com.br
+kn1kwx56.chromepepsi.digital
 l3jvnuw2.smartcanvas.digital
 larrycornies.com
-ljav.blogre.sbs
 meetmeupgooupglemeet.info
 nolimitslot777.games
+o90zx8u6.vivaldisprite.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -70,24 +70,23 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+q8dmuuna.optiweave.digital
+r0e3fpkc.operafanta.digital
 reauthenticator.com
 reusable-flex.com
-rj48gr6v.quantumridge.digital
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
 separadordecc.com
 skillnorequired.cc
-storage-secure.lostproject.it
+storebet77resmi.com
 sunchernical.com
 t-privateuz.sbs
 tcp.newyworlds.com
 trtmyanmar.com
 tyahelp.top
-ursosmart.lol
-us28meeting.jexar.sbs
-vcc-library.uk
 warkopshopfb138.cc
+ww1xqffa.cyberlens.digital
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
@@ -95,6 +94,8 @@ www.vuelaviajero.com
 xn--yh4bx88a.com
 yaso.su
 youtransfer.net
+z2wx6ccc.cortexforge.digital
+zpcm9g8o.synthgrid.digital
 ```
 
 0 used cloudfront (0.0%):
