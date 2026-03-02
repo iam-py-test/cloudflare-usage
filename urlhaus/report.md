@@ -1,4 +1,4 @@
-494 domains tested. 79.35222672064778% were behind nothing (102 were behind something). 25 domains could not be tested.<br>
+480 domains tested. 77.70833333333333% were behind nothing (107 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,38 +19,33 @@
 
 ```
 
-75 used cloudflare (15.182186234817813%):
+77 used cloudflare (16.041666666666668%):
 ```
-2azr2jei.coreforge.digital
-4sontfzx.quantumloop.digital
-5w2x7glx.pixelpeak.digital
+1lf2pz2k.bravepepsi.digital
 95zxw7vw.opticprime.digital
 ace-project.org
 allendostmen.com
 api.ezilax.com
-api.files.link
 app.appzcvb.com
 cambodiatouristservice.com
 carrier-packets-docs.com
 checkinetverifk.com
-citra567daftar.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
 dmv2ddsm.mozillacola.digital
+download.rajpurohitdairyy.in
+dramalive-app.org
 filerit.com
-gaos1opo.dataspark.digital
-gnchdcvq.webweave.digital
 gutando.com
 hitman-pro.ru
+hostingcdn.click
 hp1d.com.br
+hunian138.games
 kn1kwx56.chromepepsi.digital
-l3jvnuw2.smartcanvas.digital
-larrycornies.com
-meetmeupgooupglemeet.info
-nolimitslot777.games
+nusatoyota.co.id
 o90zx8u6.vivaldisprite.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -70,37 +65,45 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+pb.meson.cc
 q8dmuuna.optiweave.digital
 r0e3fpkc.operafanta.digital
+r3ulx0ht.vivaldicoke.digital
 reauthenticator.com
 reusable-flex.com
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
-separadordecc.com
 skillnorequired.cc
-storebet77resmi.com
-sunchernical.com
-t-privateuz.sbs
+stonebet88.games
+storebet77.games
+storybetjaya.org
 tcp.newyworlds.com
+tikuprivate-uz.sbs
 trtmyanmar.com
 tyahelp.top
+visuall.trueblog.sbs
+visualls.trueblog.sbs
+visuals.trueblog.sbs
+vnm2ey0a.coldglass.digital
 warkopshopfb138.cc
 ww1xqffa.cyberlens.digital
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.vuelaviajero.com
+xmes67am.safaricola.digital
 xn--yh4bx88a.com
-yaso.su
+y6ryee05.edgemirinda.digital
 youtransfer.net
 z2wx6ccc.cortexforge.digital
 zpcm9g8o.synthgrid.digital
 ```
 
-0 used cloudfront (0.0%):
+2 used cloudfront (0.4166666666666667%):
 ```
-
+da1113.0r6ecdax.work
+df1113.qmpqcv83.work
 ```
 
 0 used ddosguard (0.0%):
@@ -113,7 +116,7 @@ zpcm9g8o.synthgrid.digital
 
 ```
 
-1 used fastly (0.20242914979757085%):
+1 used fastly (0.20833333333333334%):
 ```
 visualwikicloud.com
 ```
@@ -153,7 +156,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.20242914979757085%):
+1 used netlify (0.20833333333333334%):
 ```
 swiftfusion.tech
 ```

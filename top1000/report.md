@@ -1,4 +1,4 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 59 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,9 +44,10 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+166 used cloudflare (16.6%):
 ```
 33across.com
+academia.edu
 ad-delivery.net
 addtoany.com
 allaboutcookies.org
@@ -93,7 +94,6 @@ discord.media
 discordapp.com
 doubleverify.com
 epicgames.com
-epicgames.dev
 eu-1-id5-sync.com
 example.com
 expireddomains.com
@@ -135,6 +135,7 @@ medium.com
 merkle.io
 moloco.com
 myshopify.com
+name.com
 networkadvertising.org
 nexusmods.com
 nic.network
@@ -150,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -192,6 +194,7 @@ twitter.com
 uber.com
 umich.edu
 unpkg.com
+upwork.com
 vimeo.com
 vungle.com
 w3.org
@@ -211,25 +214,21 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
-academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -273,7 +272,6 @@ latimes.com
 lijit.com
 line.me
 merriam-webster.com
-name.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -325,7 +323,7 @@ pikabu.ru
 
 ```
 
-10 used fastly (1.0%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -335,7 +333,6 @@ corriere.it
 github.io
 nytimes.com
 speedtest.net
-spotify.com
 www.gov.uk
 ```
 
@@ -374,11 +371,10 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
-lencr.org
 llamarpc.com
 ```
 
