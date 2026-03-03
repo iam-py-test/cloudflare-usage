@@ -1,5 +1,5 @@
-339 domains tested. 46.607669616519175% were behind nothing (181 were behind something). 13 domains could not be tested.<br>
-2 used akamai (0.5899705014749262%):
+340 domains tested. 47.35294117647059% were behind nothing (179 were behind something). 12 domains could not be tested.<br>
+2 used akamai (0.5882352941176471%):
 ```
 eepurl.com
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-154 used cloudflare (45.42772861356932%):
+154 used cloudflare (45.294117647058826%):
 ```
 02ip.ru
 123415.xyz
@@ -111,8 +111,8 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
-lnkd.in
 lyksoomu.com
+lyzo.io
 mgnet.xyz
 mirrorz.com
 mub.me
@@ -178,9 +178,8 @@ y0utu.be
 your.ls
 ```
 
-10 used cloudfront (2.949852507374631%):
+9 used cloudfront (2.6470588235294117%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
@@ -192,7 +191,7 @@ trk.klclick3.com
 zpr.io
 ```
 
-1 used ddosguard (0.2949852507374631%):
+1 used ddosguard (0.29411764705882354%):
 ```
 u.to
 ```
@@ -207,7 +206,7 @@ u.to
 
 ```
 
-1 used sucuri (0.2949852507374631%):
+1 used sucuri (0.29411764705882354%):
 ```
 wee.so
 ```

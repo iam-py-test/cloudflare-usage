@@ -1,7 +1,7 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 11 domains could not be tested.<br>
-0 used akamai (0.0%):
+186 domains tested. 67.20430107526882% were behind nothing (61 were behind something). 8 domains could not be tested.<br>
+1 used akamai (0.5376344086021506%):
 ```
-
+cysec.social
 ```
 
 0 used bunnycdn (0.0%):
