@@ -1,4 +1,4 @@
-479 domains tested. 78.28810020876827% were behind nothing (104 were behind something). 27 domains could not be tested.<br>
+475 domains tested. 81.6842105263158% were behind nothing (87 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,34 +19,31 @@
 
 ```
 
-73 used cloudflare (15.24008350730689%):
+61 used cloudflare (12.842105263157894%):
 ```
-1lf2pz2k.bravepepsi.digital
-20t2lqnx.grosstable.digital
 2ts-engineering.by
 ace-project.org
+adobe-reader-pdf-visualizer-nota-eletronica.nfe-pdf.shop
 allendostmen.com
 api.ezilax.com
+apk.tcpateiu.com
 app.appzcvb.com
+bambooairways.vn
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
+csplay168.games
 dl.aginjector.com
-dnvigv97.comedianmental.digital
-dramalive-app.org
-ej41ykw1.slobodaspang.digital
+epaste.app
 filerit.com
+fullbet138.games
 gutando.com
-h977pm9s.judaspapal.digital
 hitman-pro.ru
-hostingcdn.click
-hunian138.games
-newapps.site
-ni3h0x2y.gastronsyriansky.digital
-njpv91f5.eighteenshuga.digital
+nusatoyota.co.id
+odx9za7g.suffocturkey.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -65,8 +62,6 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-pb.meson.cc
-r3ulx0ht.vivaldicoke.digital
 reauthenticator.com
 reusable-flex.com
 roverlink.io
@@ -74,29 +69,22 @@ rxquickpay.com
 sabungkingbet189.com
 separadordecc.com
 skillnorequired.cc
+spacemanslot88.games
 stonebet88.games
-storebet77.games
 tikuprivate-uz.sbs
 trtmyanmar.com
 tyahelp.top
 visual.trueblog.sbs
-visuall.trueblog.sbs
-visualls.trueblog.sbs
-visuals.trueblog.sbs
-vnm2ey0a.coldglass.digital
 warkopshopfb138.cc
-wpc99gxs.immunizeoot.digital
 www.blackhattoolz.com
 www.hostingcloud.science
 www.luuk-lifestyle.eu
 www.vuelaviajero.com
-xmes67am.safaricola.digital
 xn--yh4bx88a.com
-y6ryee05.edgemirinda.digital
 youtransfer.net
 ```
 
-2 used cloudfront (0.41753653444676403%):
+2 used cloudfront (0.42105263157894735%):
 ```
 da1113.0r6ecdax.work
 df1113.qmpqcv83.work
@@ -112,7 +100,7 @@ df1113.qmpqcv83.work
 
 ```
 
-1 used fastly (0.20876826722338201%):
+1 used fastly (0.21052631578947367%):
 ```
 visualwikicloud.com
 ```
@@ -152,7 +140,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.20876826722338201%):
+1 used netlify (0.21052631578947367%):
 ```
 swiftfusion.tech
 ```
