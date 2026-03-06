@@ -1,4 +1,4 @@
-473 domains tested. 82.4524312896406% were behind nothing (83 were behind something). 19 domains could not be tested.<br>
+471 domains tested. 80.67940552016985% were behind nothing (91 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,40 @@
 
 ```
 
-60 used cloudflare (12.684989429175475%):
+69 used cloudflare (14.64968152866242%):
 ```
 2v42nbtg.deliainaturner.digital
+4enjfmcl.wallnapalm.digital
 8a2yizw9.earedteach.digital
 ace-project.org
 allendostmen.com
+amrlb0h2.backorbit.digital
 api.baimless.com
 api.ezilax.com
 apk.tcpateiu.com
 app.appzcvb.com
-bambooairways.vn
+bre93qhl.bullymarvel.digital
 cambodiatouristservice.com
 checkinetverifk.com
+cjzsujzp.expresslabina.digital
 classroomseven.com
 clipaid.app
 cloudstay168.com
+coloradoskitowns.com
 crystalpvp.ru
-csplay168.games
 dl.aginjector.com
-epaste.app
+down.mvip8.ru
+doyu.digital
+f2kpaub7.bullymarvel.digital
+fgwfa66x.isconizloty.digital
 filerit.com
-fullbet138.games
+gb31welb.bullymarvel.digital
+gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
+ijbfi.pk
+k5ia90w1.beleananniver.digital
 nusatoyota.co.id
-odx9za7g.suffocturkey.digital
 olf4rjbg.hardmosolenog.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -72,20 +80,21 @@ rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
+tktkprivate-uz.sbs
 trtmyanmar.com
 tyahelp.top
-vcc-library.uk
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
+yaso.su
 youtransfer.net
 ```
 
-1 used cloudfront (0.21141649048625794%):
+0 used cloudfront (0.0%):
 ```
-da1113.0r6ecdax.work
+
 ```
 
 0 used ddosguard (0.0%):
@@ -98,14 +107,14 @@ da1113.0r6ecdax.work
 
 ```
 
-1 used fastly (0.21141649048625794%):
+1 used fastly (0.21231422505307856%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.21141649048625794%):
+0 used sucuri (0.0%):
 ```
-sinergiaconstruccion.com.mx
+
 ```
 
 0 used myracloud (0.0%):
@@ -138,7 +147,7 @@ sinergiaconstruccion.com.mx
 
 ```
 
-1 used netlify (0.21141649048625794%):
+1 used netlify (0.21231422505307856%):
 ```
 swiftfusion.tech
 ```

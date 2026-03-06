@@ -1,4 +1,4 @@
-1000 domains tested. 63.6% were behind nothing (364 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -106,6 +106,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -123,7 +124,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -223,13 +223,12 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.au
+amazon.com
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -260,6 +259,7 @@ figma.com
 flickr.com
 go.com
 goodreads.com
+grammarly.com
 gumgum.com
 hbr.org
 healthline.com
@@ -372,12 +372,11 @@ php.net
 
 ```
 
-4 used netlify (0.4%):
+3 used netlify (0.3%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-llamarpc.com
 ```
 
 2 used imperva (0.2%):
