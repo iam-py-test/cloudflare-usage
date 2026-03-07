@@ -1,4 +1,4 @@
-471 domains tested. 80.67940552016985% were behind nothing (91 were behind something). 20 domains could not be tested.<br>
+490 domains tested. 81.0204081632653% were behind nothing (93 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,16 @@
 
 ```
 
-69 used cloudflare (14.64968152866242%):
+71 used cloudflare (14.489795918367346%):
 ```
-2v42nbtg.deliainaturner.digital
 4enjfmcl.wallnapalm.digital
-8a2yizw9.earedteach.digital
 ace-project.org
+admin.hggg.store
 allendostmen.com
 amrlb0h2.backorbit.digital
+anondrop.net
 api.baimless.com
 api.ezilax.com
-apk.tcpateiu.com
 app.appzcvb.com
 bre93qhl.bullymarvel.digital
 cambodiatouristservice.com
@@ -44,16 +43,17 @@ dl.aginjector.com
 down.mvip8.ru
 doyu.digital
 f2kpaub7.bullymarvel.digital
+f7ozu1t9.flogginquisit.digital
 fgwfa66x.isconizloty.digital
 filerit.com
 gb31welb.bullymarvel.digital
 gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
-ijbfi.pk
 k5ia90w1.beleananniver.digital
+kvid5obz.awakepathog.digital
+lsvvpb8t.drinktide.digital
 nusatoyota.co.id
-olf4rjbg.hardmosolenog.digital
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberapex.de
@@ -72,23 +72,25 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
-orayz.com
 reauthenticator.com
-reusable-flex.com
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
+sqddakti.awakepathog.digital
+stylemansisforeal.com
 tktkprivate-uz.sbs
 trtmyanmar.com
 tyahelp.top
+vcc-library.uk
 warkopshopfb138.cc
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
 yaso.su
+ygzulpfl.floatmurta.digital
 youtransfer.net
 ```
 
@@ -107,7 +109,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.21231422505307856%):
+1 used fastly (0.20408163265306123%):
 ```
 visualwikicloud.com
 ```
@@ -147,7 +149,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.21231422505307856%):
+1 used netlify (0.20408163265306123%):
 ```
 swiftfusion.tech
 ```

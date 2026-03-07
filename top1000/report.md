@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 57 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -87,6 +87,7 @@ creativecommons.org
 deepl.com
 dfn.nl
 digitalocean.com
+digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -106,7 +107,6 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -124,6 +124,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
 maricopa.gov
@@ -177,7 +178,6 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
-split.io
 sportradar.com
 stackoverflow.com
 stripchat.com
@@ -213,23 +213,19 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+91 used cloudfront (9.1%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
+amazon.com.au
 amazon.com.br
-amazon.de
-amazon.es
-amazon.fr
 amazon.in
-amazonalexa.com
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -372,11 +368,12 @@ php.net
 
 ```
 
-3 used netlify (0.3%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+llamarpc.com
 ```
 
 2 used imperva (0.2%):
