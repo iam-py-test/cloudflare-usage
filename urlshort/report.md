@@ -180,9 +180,9 @@ your.ls
 
 10 used cloudfront (2.849002849002849%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
+pxl.to
 qrs.ly
 short.gy
 trk.klclick.com

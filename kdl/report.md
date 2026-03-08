@@ -1,5 +1,5 @@
-2732 domains tested. 71.41288433382138% were behind nothing (781 were behind something). 120 domains could not be tested.<br>
-230 used akamai (8.41874084919473%):
+2732 domains tested. 70.05856515373353% were behind nothing (818 were behind something). 156 domains could not be tested.<br>
+231 used akamai (8.455344070278183%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -59,11 +59,14 @@ assets.alicdn.com
 assets.intuit.com
 assets.msn.com
 assets.onestore.ms
+assets.pinterest.com
 assets.staples-static.com
+at.pinterest.com
 azure.microsoft.com
 b.alicdn.com
 bo.ebay.com
 br.ebay.com
+br.pinterest.com
 by.ebay.com
 c.go-mpulse.net
 c.s-microsoft.com
@@ -78,12 +81,10 @@ charts-images.scdn.co
 cl.ebay.com
 cn.ebay.com
 co.ebay.com
-co.pinterest.com
 connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-css.rbxcdn.com
 d.oracleinfinity.io
 dds.dell.com
 digitalasset.intuit.com
@@ -193,6 +194,7 @@ e9951.g.akamaiedge.net.0.1.cn.akamaiedge.net
 ec.ebay.com
 emp.bbci.co.uk
 encore.scdn.co
+es.pinterest.com
 es.t-mobile.com
 framework-assets.external.xerox.com
 g.alicdn.com
@@ -201,39 +203,38 @@ gt.ebay.com
 hn.ebay.com
 hp.com
 ht.cdn.turner.com
-i.dell.com
 i.scdn.co
 ichef.bbci.co.uk
-id.pinterest.com
 il.ebay.com
 image-us.samsung.com
-images.rbxcdn.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
 intuit.com
 mcafee.com
-r.bing.com
-res.public.onecdn.static.microsoft
+mx.ebay.com
+s05.appmifile.com
 staples.com
+static-global-s-msn-com.akamaized.net
 static.avast.com
-svcb.www.samsung.com.edgekey.net
-tags-eu.tiqcdn.com
-th.bing.com
+static.files.bbci.co.uk
+sv.ebay.com
+t-mobile.scene7.com
 webex.com
-widgets.outbrain.com
 www.adobe.com
-www.ebay.com.my
-www.ebay.nl
+www.dell.com
+www.ebay.com
+www.ebay.com.au
+www.ebay.ie
+www.ebay.ph
 www.mcafee.com
-www.mi.com
-www.pinterest.co.kr
-www.pinterest.pt
+www.pinterest.se
+www.staples.com
 www.xerox.nl
 xiaomi.com
 ```
 
-6 used bunnycdn (0.21961932650073207%):
+7 used bunnycdn (0.2562225475841874%):
 ```
 Bunny-Reddit.b-cdn.net
 b-cdn.net
@@ -241,11 +242,12 @@ bunny.net
 bunnyfonts.b-cdn.net
 bunnynetassets.b-cdn.net
 fonts.bunny.net
+plausible.io
 ```
 
-0 used cachefly (0.0%):
+1 used cachefly (0.036603221083455345%):
 ```
-
+roblox-static.cachefly.net
 ```
 
 8 used cdn77 (0.29282576866764276%):
@@ -260,7 +262,7 @@ f1-eu.readspeaker.com
 p77-sign-sg.tiktokcdn.com
 ```
 
-120 used cloudflare (4.392386530014641%):
+121 used cloudflare (4.428989751098097%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -268,10 +270,12 @@ p77-sign-sg.tiktokcdn.com
 4650993.fs1.hubspotusercontent-na1.net
 7foxepcf7f.kameleoon.io
 a10681260716.cdn.optimizely.com
+abs-0.twimg.com
 abs.twimg.com.cdn.cloudflare.net
 analytics.twitter.com
 api.statsigcdn.com
 api.twitter.com.cdn.cloudflare.net
+api.x.com
 api.x.com.cdn.cloudflare.net
 app-sj16.marketo.com
 appsflyer.com
@@ -289,6 +293,7 @@ cdn-client.medium.com
 cdn-static-1.medium.com
 cdn.cookielaw.org
 cdn.discordapp.com
+cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-ingest.io
 cdn.optimizely.com
@@ -341,43 +346,41 @@ imagedelivery.net
 img.connatix.com
 img.connatix.com.cdn.cloudflare.net
 indeed.com
-js.hubspot.com
-linkedin.com
+js-eu1.hs-scripts.com
 medium.com
 merkle.io
-miro.medium.com
 myshopify.com
 nist.gov
 openai.com
-pbs.twimg.com.cdn.cloudflare.net
-privacy-policy.truste.com
+ot.www.cloudflare.com
 quora.com
 rcf.bing.com.cdn.cloudflare.net
 researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
-services.fandom.com
 shopify.com
+siteimproveanalytics.com
 sourceforge.net
+spankbang.com
 stackoverflow.com
-static.cloudflareinsights.com
-static.deepl.com
-static.elfsight.com
-static.licdn.com.cdn.cloudflare.net
 t.co
 twitter.com
 unpkg.com
+us01ccistatic-c.zoom.us
+use.fontawesome.com.cdn.cloudflare.net
+view.ceros.com.cdn.cloudflare.net
 vimeo.com
 vungle.com
 w3.org
 who.int
 workers.dev
-www.appsflyer.com
-www.cloudflare.com
-www.fandom.com
-www.roku.com
-www.shopify.com
+www.nist.gov
+www.paypal.com.cdn.cloudflare.net
+www.paypalobjects.com
+www.paypalobjects.com.cdn.cloudflare.net
+www.thetradedesk.com.cdn.cloudflare.net
+www.w3.org.cdn.cloudflare.net
 x.com
 xhamster.com
 zendesk.com
@@ -398,6 +401,7 @@ adsrvr.org
 aem.dropbox.com
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.in
 amazonaws.com
 amazontrust.com
@@ -437,6 +441,7 @@ consent.cmp.oath.com
 consent.t-online.de
 consent.trustarc.com
 consent.truste.com
+css.rbxcdn.com
 cvp.twitch.tv
 cx0.m.awsstatic.com
 d0.m.awsstatic.com
@@ -541,40 +546,38 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
+images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
 images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
+images.rbxcdn.com
 images.sr.roku.com
 images.t-online.de
 img-deviantart.wixmp.com
 img.hipages.com.au
-invite.soundcloud.com
-kendo.cdn.telerik.com
-live.staticflickr.com
-loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
-media.gnl-live.bbcverticals.com
-prod.pa.cdn.uis.awsstatic.com
-prod.weather.stroeerws.de
+m.media-amazon.com
 pubmatic.com
 quickbooks.intuit.com
-roblox-api.arkoselabs.com
 s0.awsstatic.com
+s4.cnnx.io
 script.crazyegg.com
+sdc-next-statics-prod.dcp.stroeerws.de
 sdk.sharethrough.com
-secure.ally.com
-site-nav.ring.com
+snapengage.dropbox.com
 soundcloud.com
-standards.digital.gov.external-domains-production.cloud.gov
-static-assets.fs.liveperson.com
+st.deviantart.net
+standards.digital.gov
 static-web-assets.gnl-common.bbcverticals.com
-static.twitchcdn.net
+static.claydar.com
+static.yieldmo.com
 t-online.de
-t0.m.awsstatic.com
-tags.tiqcdn.com
 ui.com
 venmo.com
+videos.ctfassets.net
+vimeo.bynder.com
 warnerbros.com
-www.primevideo.com
+wis.sndcdn.com
 ```
 
 0 used ddosguard (0.0%):
@@ -592,7 +595,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-95 used fastly (3.4773060029282576%):
+94 used fastly (3.4407027818448026%):
 ```
 0xrpc.io
 a.thumbs.redditmedia.com
@@ -601,22 +604,17 @@ abs.twimg.com
 api.nextgen.guardianapps.co.uk
 api.shipt.com
 api.twitter.com
-api.x.com
 ar.pinterest.com
 assets.guim.co.uk
-assets.pinterest.com
-at.pinterest.com
 atc.spotify.map.fastly.net
 au.pinterest.com
 b.thumbs.redditmedia.com
 bbc.co.uk
 bbc.com
 bbc.map.fastly.net
-br.pinterest.com
 browser.sentry-cdn.com
 ca.pinterest.com
 cdn.intellimize.co
-cdn.jsdelivr.net
 cdn.ketchjs.com
 cdn.speedcurve.com
 cdn.taboola.com
@@ -624,6 +622,7 @@ ch.pinterest.com
 cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
+co.pinterest.com
 ct.pinterest.com
 cz.pinterest.com
 d.sni.global.fastly.net
@@ -648,7 +647,6 @@ ebayimg.map.fastly.net
 ebaystatic.ebay.map.fastly.net
 ebayweb.map.fastly.net
 embed.acuityscheduling.com
-es.pinterest.com
 external-preview.redd.it
 f.vimeocdn.com
 fi.pinterest.com
@@ -668,27 +666,31 @@ h2.twitch.map.fastly.net
 h3.apis.apple.map.fastly.net
 harvesthq.github.io
 hits-secure.theguardian.com
-hu.pinterest.com
 hw-cdn2.adtng.com
+i.forbesimg.com
 i.guim.co.uk
-i.pinimg.com
 i.redd.it
 i.vimeocdn.com
-images-fe.ssl-images-amazon.com
+ie.pinterest.com
+imageio.forbes.com
 images.forbes.com
+imgix.datadoghq.com
 in.pinterest.com
-int.nyt.com
-j.sni.global.fastly.net
-linkedin.map.fastly.net
-mbz100.ketch.map.fastly.net
+media.amazon.map.fastly.net
 nytimes.com
+outbrain.map.fastly.net
+paypal-dynamic-cdn.map.fastly.net
 paypal-h3-dynamic-cdn.map.fastly.net
-paypal.map.fastly.net
-s.sni.global.fastly.net
-static.guim.co.uk
-tls13.taboola.map.fastly.net
-vimeo-video.map.fastly.net
-www.bbc.co.uk
+pl.pinterest.com
+prod.pinterest.global.map.fastly.net
+rss.nytimes.com
+sk.pinterest.com
+twitch.map.fastly.net
+vimeo.map.fastly.net
+vp.nyt.com
+www-amazon-com.customer.fastly.net
+www.etsy.com
+www.pinterest.de
 ```
 
 0 used sucuri (0.0%):
@@ -726,17 +728,15 @@ www.bbc.co.uk
 
 ```
 
-4 used netlify (0.14641288433382138%):
+3 used netlify (0.10980966325036604%):
 ```
 amp.dev
 ampproject.org
 lencr.org
-outreach.abetterinternet.org
 ```
 
-3 used imperva (0.10980966325036604%):
+2 used imperva (0.07320644216691069%):
 ```
 3ivgup7.x.incapdns.net
 digicert.com
-www.digicert.com
 ```
