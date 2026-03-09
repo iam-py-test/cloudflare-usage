@@ -1,4 +1,4 @@
-502 domains tested. 80.67729083665338% were behind nothing (97 were behind something). 29 domains could not be tested.<br>
+511 domains tested. 76.51663405088063% were behind nothing (120 were behind something). 57 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,12 @@
 
 ```
 
-66 used cloudflare (13.147410358565736%):
+60 used cloudflare (11.741682974559687%):
 ```
-021.zip98d.top
 0a6nq1j0.budenowcvolt.digital
+1pqv53qc.dumbbellshower.digital
 ace-project.org
-admin.hggg.store
 allendostmen.com
-anondrop.net
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
@@ -42,16 +40,11 @@ crystalpvp.ru
 dl.aginjector.com
 dongyu.us
 down.mvip8.ru
-f7ozu1t9.flogginquisit.digital
+f4gyiajw.impeachlizob.digital
 filerit.com
-files.wintestwin.xyz
 g70aw0re.bucketeuthan.digital
-gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
-kizarmenu.top
-kvid5obz.awakepathog.digital
-lsvvpb8t.drinktide.digital
 nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
@@ -68,25 +61,26 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+pgubdbmp.austeritymorg.digital
 reauthenticator.com
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
+sfrc.ckmo.live
 skillnorequired.cc
 spacemanslot88.games
-sqddakti.awakepathog.digital
-stylemansisforeal.com
+tquq11g4.colitishatred.digital
 trtmyanmar.com
 tyahelp.top
-warkopshopfb138.cc
-wearjora.com
+vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
 www.irbis2000.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
-ygzulpfl.floatmurta.digital
 youtransfer.net
+zverda.space
+zxjasjkask1992.sbs
 ```
 
 0 used cloudfront (0.0%):
@@ -94,9 +88,9 @@ youtransfer.net
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.19569471624266144%):
 ```
-
+marsalek.cy
 ```
 
 0 used edgecast (0.0%):
@@ -104,7 +98,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.199203187250996%):
+1 used fastly (0.19569471624266144%):
 ```
 visualwikicloud.com
 ```
@@ -144,7 +138,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.199203187250996%):
+1 used netlify (0.19569471624266144%):
 ```
 swiftfusion.tech
 ```

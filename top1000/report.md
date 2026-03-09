@@ -1,5 +1,5 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 60 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 57 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -23,7 +23,6 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-staples.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -150,6 +149,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -180,7 +180,6 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -211,20 +210,22 @@ zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
+amazon.es
+amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -280,6 +281,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+ryanair.com
 samsungcloud.com
 segment.io
 shalltry.com

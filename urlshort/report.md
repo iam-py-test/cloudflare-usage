@@ -124,6 +124,7 @@ nyl.as
 ouo.io
 prettylinks.com
 prolink168.com
+pxl.to
 qrco.de
 rb.gy
 rebrand.ly
@@ -158,7 +159,6 @@ spqr.to
 stfly.xyz
 stopify.co
 streak-link.com
-t.co
 t.ly
 tii.la
 tinyurl.com
@@ -180,9 +180,9 @@ your.ls
 
 10 used cloudfront (2.849002849002849%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
-pxl.to
 qrs.ly
 short.gy
 trk.klclick.com
