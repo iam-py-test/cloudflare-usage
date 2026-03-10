@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 57 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 63.3% were behind nothing (367 were behind something). 57 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -18,11 +18,13 @@ intuit.com
 kohls.com
 lowes.com
 marriott.com
+mayoclinic.org
 mcafee.com
 mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -44,7 +46,7 @@ erome.com
 
 ```
 
-162 used cloudflare (16.2%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -123,8 +125,10 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 loc.gov
+maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -149,7 +153,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -180,6 +183,7 @@ sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -210,7 +214,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -219,6 +223,7 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -226,6 +231,7 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -302,7 +308,6 @@ un.org
 uol.com.br
 utorrent.com
 venmo.com
-warnerbros.com
 wattpad.com
 wired.com
 wps.com
@@ -322,7 +327,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+10 used fastly (1.0%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -330,6 +335,7 @@ bbc.com
 cbsnews.com
 corriere.it
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk

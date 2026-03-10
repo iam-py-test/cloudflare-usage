@@ -1,4 +1,4 @@
-511 domains tested. 76.51663405088063% were behind nothing (120 were behind something). 57 domains could not be tested.<br>
+486 domains tested. 77.36625514403292% were behind nothing (110 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,18 +19,18 @@
 
 ```
 
-60 used cloudflare (11.741682974559687%):
+59 used cloudflare (12.139917695473251%):
 ```
-0a6nq1j0.budenowcvolt.digital
 1pqv53qc.dumbbellshower.digital
+6h76gr0n.diagnosfirst.digital
+8r6d1s3j.cheesechubary.digital
 ace-project.org
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-azuro.pro
-baraltransportes.com
 cambodiatouristservice.com
+carcaran.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -38,14 +38,12 @@ cloudstay168.com
 coloradoskitowns.com
 crystalpvp.ru
 dl.aginjector.com
-dongyu.us
 down.mvip8.ru
+f0fjv96k.demogsystemat.digital
 f4gyiajw.impeachlizob.digital
 filerit.com
-g70aw0re.bucketeuthan.digital
 gutando.com
 hitman-pro.ru
-nusatoyota.co.id
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberedge.de
@@ -61,6 +59,7 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
+ovbfopy8.bitterfisherm.digital
 pgubdbmp.austeritymorg.digital
 reauthenticator.com
 roverlink.io
@@ -73,13 +72,13 @@ tquq11g4.colitishatred.digital
 trtmyanmar.com
 tyahelp.top
 vcc-library.uk
+www.asdfgsdfgxcvbvcxasd-oss.top
 www.blackhattoolz.com
 www.hostingcloud.science
-www.irbis2000.com
 www.vuelaviajero.com
+xf221.cn
 xn--yh4bx88a.com
 youtransfer.net
-zverda.space
 zxjasjkask1992.sbs
 ```
 
@@ -88,7 +87,7 @@ zxjasjkask1992.sbs
 
 ```
 
-1 used ddosguard (0.19569471624266144%):
+1 used ddosguard (0.205761316872428%):
 ```
 marsalek.cy
 ```
@@ -98,7 +97,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.19569471624266144%):
+1 used fastly (0.205761316872428%):
 ```
 visualwikicloud.com
 ```
@@ -138,7 +137,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19569471624266144%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

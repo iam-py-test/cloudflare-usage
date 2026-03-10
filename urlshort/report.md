@@ -1,7 +1,6 @@
-351 domains tested. 48.717948717948715% were behind nothing (180 were behind something). 12 domains could not be tested.<br>
-2 used akamai (0.5698005698005698%):
+351 domains tested. 46.438746438746435% were behind nothing (188 were behind something). 19 domains could not be tested.<br>
+1 used akamai (0.2849002849002849%):
 ```
-eepurl.com
 email-sendgrid-deep-linking.chewy.com
 ```
 
@@ -20,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-154 used cloudflare (43.87464387464387%):
+156 used cloudflare (44.44444444444444%):
 ```
 02ip.ru
 123415.xyz
@@ -88,6 +87,7 @@ heylink.me
 hitart.com
 hsh.sh
 ibf.tw
+imagehost.pics
 ipgraber.ru
 iplogger.co
 iplogger.com
@@ -159,6 +159,7 @@ spqr.to
 stfly.xyz
 stopify.co
 streak-link.com
+t.co
 t.ly
 tii.la
 tinyurl.com
