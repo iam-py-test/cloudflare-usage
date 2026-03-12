@@ -1,4 +1,4 @@
-476 domains tested. 81.09243697478992% were behind nothing (90 were behind something). 30 domains could not be tested.<br>
+463 domains tested. 79.04967602591793% were behind nothing (97 were behind something). 38 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,9 @@
 
 ```
 
-58 used cloudflare (12.184873949579831%):
+57 used cloudflare (12.311015118790497%):
 ```
-8r6d1s3j.cheesechubary.digital
+5yjbyh7h.legalspeckle.digital
 ace-project.org
 allendostmen.com
 api.baimless.com
@@ -36,14 +36,15 @@ crystalpvp.ru
 dl.aginjector.com
 dongyu.us
 down.mvip8.ru
-f0fjv96k.demogsystemat.digital
 filerit.com
 gutando.com
 hitman-pro.ru
+id3702579photo-image-docs.com
 iqqppe36.cigarettecombin.digital
 iry0pqwo.easyyear.digital
 kt9p9evj.lighthouseup.digital
 n5s8iqqg.arabtransplant.digital
+onbet88vn.vip
 onyxarmorcrypt.de
 onyxcryptorix.de
 onyxcyberedge.de
@@ -57,11 +58,8 @@ onyxsafecrypt.de
 onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
-onyxshieldcore.de
 onyxstealthnet.de
-ovbfopy8.bitterfisherm.digital
 photo-id5631894.com
-ptpilatesstudio.com
 reauthenticator.com
 reusable-flex.com
 roverlink.io
@@ -72,11 +70,12 @@ spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
 tykkprivate-uzb.sbs
+vcc-library.uk
 wire2spell.com
+woupp.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
-xf221.cn
 xn--yh4bx88a.com
 youtransfer.net
 ```
@@ -86,7 +85,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.21008403361344538%):
+1 used ddosguard (0.21598272138228944%):
 ```
 marsalek.cy
 ```
@@ -96,7 +95,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.21008403361344538%):
+1 used fastly (0.21598272138228944%):
 ```
 visualwikicloud.com
 ```

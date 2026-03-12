@@ -1,4 +1,4 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 63.5% were behind nothing (365 were behind something). 57 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -127,7 +127,6 @@ liftoff.io
 linkedin.com
 linktr.ee
 loc.gov
-maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -138,6 +137,7 @@ myshopify.com
 name.com
 networkadvertising.org
 nexusmods.com
+nic.direct
 nic.network
 nist.gov
 okta.com
@@ -151,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -172,7 +173,6 @@ sharethrough.com
 shein.com
 shopify.com
 singular.net
-skroutz.gr
 smartadserver.com
 smilewanted.com
 sophos.com
@@ -212,7 +212,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -222,9 +222,9 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.in
 amazon.it
 amazonalexa.com
@@ -285,10 +285,12 @@ repubblica.it
 reuters.com
 ryanair.com
 samsungcloud.com
+sbb.ch
 segment.io
 shalltry.com
 shutterstock.com
 soundcloud.com
+state.gov
 supercell.com
 surveymonkey.com
 synology.com
