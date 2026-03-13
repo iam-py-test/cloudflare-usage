@@ -1,4 +1,4 @@
-463 domains tested. 79.04967602591793% were behind nothing (97 were behind something). 38 domains could not be tested.<br>
+450 domains tested. 81.55555555555556% were behind nothing (83 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,9 @@
 
 ```
 
-57 used cloudflare (12.311015118790497%):
+53 used cloudflare (11.777777777777777%):
 ```
-5yjbyh7h.legalspeckle.digital
+7o9ige3i.documentarygo.digital
 ace-project.org
 allendostmen.com
 api.baimless.com
@@ -37,16 +37,14 @@ dl.aginjector.com
 dongyu.us
 down.mvip8.ru
 filerit.com
+fxtlp6so.eyedmerlushka.digital
+gkgkgkgff.sbs
 gutando.com
 hitman-pro.ru
+hostealo.com
 id3702579photo-image-docs.com
-iqqppe36.cigarettecombin.digital
-iry0pqwo.easyyear.digital
-kt9p9evj.lighthouseup.digital
-n5s8iqqg.arabtransplant.digital
 onbet88vn.vip
 onyxarmorcrypt.de
-onyxcryptorix.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
@@ -55,7 +53,6 @@ onyxironvault.de
 onyxphantomlock.de
 onyxprotectech.de
 onyxsafecrypt.de
-onyxsafetrack.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
@@ -69,7 +66,6 @@ skillnorequired.cc
 spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
-tykkprivate-uzb.sbs
 vcc-library.uk
 wire2spell.com
 woupp.com
@@ -85,7 +81,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.21598272138228944%):
+1 used ddosguard (0.2222222222222222%):
 ```
 marsalek.cy
 ```
@@ -95,7 +91,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.21598272138228944%):
+1 used fastly (0.2222222222222222%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +131,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.2222222222222222%):
 ```
-
+swiftfusion.tech
 ```

@@ -1,4 +1,4 @@
-351 domains tested. 46.15384615384615% were behind nothing (189 were behind something). 19 domains could not be tested.<br>
+351 domains tested. 47.863247863247864% were behind nothing (183 were behind something). 12 domains could not be tested.<br>
 1 used akamai (0.2849002849002849%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-156 used cloudflare (44.44444444444444%):
+157 used cloudflare (44.729344729344724%):
 ```
 02ip.ru
 123415.xyz
@@ -124,6 +124,7 @@ nyl.as
 ouo.io
 prettylinks.com
 prolink168.com
+promo-visits.site
 pxl.to
 qrco.de
 rb.gy

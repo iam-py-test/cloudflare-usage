@@ -1,11 +1,10 @@
-1000 domains tested. 63.5% were behind nothing (365 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 56 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-autodesk.com
 coupang.com
 dailymail.co.uk
 fda.gov
@@ -24,6 +23,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -45,12 +45,13 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -212,7 +213,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -221,10 +222,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -237,6 +240,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -303,7 +307,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 venmo.com
 verisign.com
@@ -382,8 +385,7 @@ lencr.org
 llamarpc.com
 ```
 
-2 used imperva (0.2%):
+1 used imperva (0.1%):
 ```
 digicert.com
-prudential.com
 ```
