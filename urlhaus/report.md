@@ -1,4 +1,4 @@
-450 domains tested. 81.55555555555556% were behind nothing (83 were behind something). 27 domains could not be tested.<br>
+457 domains tested. 81.4004376367615% were behind nothing (85 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-53 used cloudflare (11.777777777777777%):
+55 used cloudflare (12.035010940919037%):
 ```
 7o9ige3i.documentarygo.digital
 ace-project.org
@@ -27,6 +27,7 @@ allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+bgsgroup.com.ar
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -34,16 +35,15 @@ cloudstay168.com
 coloradoskitowns.com
 crystalpvp.ru
 dl.aginjector.com
-dongyu.us
 down.mvip8.ru
 filerit.com
 fxtlp6so.eyedmerlushka.digital
+github.guru
 gkgkgkgff.sbs
 gutando.com
 hitman-pro.ru
-hostealo.com
 id3702579photo-image-docs.com
-onbet88vn.vip
+l2mk50mf.rednet.digital
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -66,9 +66,11 @@ skillnorequired.cc
 spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
-vcc-library.uk
+vsdvsdvasvf.sbs
 wire2spell.com
+wmfkj2w9.oakbit.digital
 woupp.com
+www.almacensantangel.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
@@ -81,7 +83,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2222222222222222%):
+1 used ddosguard (0.2188183807439825%):
 ```
 marsalek.cy
 ```
@@ -91,7 +93,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.2222222222222222%):
+1 used fastly (0.2188183807439825%):
 ```
 visualwikicloud.com
 ```
@@ -131,7 +133,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2222222222222222%):
+1 used netlify (0.2188183807439825%):
 ```
 swiftfusion.tech
 ```

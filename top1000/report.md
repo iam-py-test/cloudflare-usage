@@ -1,11 +1,11 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 56 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 58 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-coupang.com
+autodesk.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -23,7 +23,6 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -45,13 +44,12 @@ erome.com
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
 addtoany.com
 allaboutcookies.org
-ancestry.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -107,6 +105,7 @@ forter.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -152,7 +151,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -213,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -221,12 +219,8 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -240,7 +234,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -285,6 +278,7 @@ pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
+rapid7.com
 repubblica.it
 reuters.com
 ryanair.com
@@ -307,6 +301,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 venmo.com
 verisign.com
