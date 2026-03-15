@@ -1,4 +1,4 @@
-457 domains tested. 81.4004376367615% were behind nothing (85 were behind something). 27 domains could not be tested.<br>
+470 domains tested. 79.7872340425532% were behind nothing (95 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,16 @@
 
 ```
 
-55 used cloudflare (12.035010940919037%):
+63 used cloudflare (13.404255319148936%):
 ```
-7o9ige3i.documentarygo.digital
-ace-project.org
+0tlbvf7p.windapp.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
+api.wewpwsw.su
 app.appzcvb.com
 bgsgroup.com.ar
+cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -35,14 +36,18 @@ cloudstay168.com
 coloradoskitowns.com
 crystalpvp.ru
 dl.aginjector.com
+dl.armour-inc-down.net
+domain-monitoring.cc
+dongyu.us
 down.mvip8.ru
 filerit.com
-fxtlp6so.eyedmerlushka.digital
 github.guru
 gkgkgkgff.sbs
 gutando.com
 hitman-pro.ru
 id3702579photo-image-docs.com
+indiasproperty.com
+kl0ub3sc.goldbox.digital
 l2mk50mf.rednet.digital
 onyxarmorcrypt.de
 onyxcyberedge.de
@@ -57,8 +62,10 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
 photo-id5631894.com
+qsve.cyrd.live
 reauthenticator.com
 reusable-flex.com
+rizvexeno.ws
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
@@ -66,6 +73,7 @@ skillnorequired.cc
 spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
+vcc-library.uk
 vsdvsdvasvf.sbs
 wire2spell.com
 wmfkj2w9.oakbit.digital
@@ -83,7 +91,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2188183807439825%):
+1 used ddosguard (0.2127659574468085%):
 ```
 marsalek.cy
 ```
@@ -93,7 +101,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.2188183807439825%):
+1 used fastly (0.2127659574468085%):
 ```
 visualwikicloud.com
 ```
@@ -133,7 +141,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2188183807439825%):
+1 used netlify (0.2127659574468085%):
 ```
 swiftfusion.tech
 ```
