@@ -1,4 +1,4 @@
-224 domains tested. 55.80357142857143% were behind nothing (99 were behind something). 13 domains could not be tested.<br>
+224 domains tested. 55.35714285714286% were behind nothing (100 were behind something). 13 domains could not be tested.<br>
 4 used akamai (1.7857142857142856%):
 ```
 easylist-downloads.adblockplus.org
@@ -23,7 +23,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-61 used cloudflare (27.232142857142854%):
+62 used cloudflare (27.67857142857143%):
 ```
 abp.tt.codes
 abpvn.com
@@ -63,6 +63,7 @@ managedsentinel.com
 mirai.security.gives
 netmountains.de
 nonio.pt
+orca.pet
 osint.bambenekconsulting.com
 pastebin.com
 phishing.army
