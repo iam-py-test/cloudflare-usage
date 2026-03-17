@@ -1,4 +1,4 @@
-473 domains tested. 78.01268498942918% were behind nothing (104 were behind something). 38 domains could not be tested.<br>
+467 domains tested. 82.22698072805139% were behind nothing (83 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-63 used cloudflare (13.31923890063425%):
+56 used cloudflare (11.991434689507495%):
 ```
-0tlbvf7p.windapp.digital
 allendostmen.com
 alternatifportbet88.blog
 anondrop.net
@@ -35,20 +34,15 @@ checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
-coloradoskitowns.com
 crystalpvp.ru
 dl.aginjector.com
 dl.armour-inc-down.net
-domain-monitoring.cc
-dongyu.us
 down.mvip8.ru
 filerit.com
+friendsofsclarc.org
 gutando.com
 hitman-pro.ru
 id3702579photo-image-docs.com
-indiasproperty.com
-kl0ub3sc.goldbox.digital
-mountaingoats4sale.xyz
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -62,7 +56,6 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
 photo-id5631894.com
-qsve.cyrd.live
 qz.697539.com
 reauthenticator.com
 reusable-flex.com
@@ -75,9 +68,9 @@ spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
 wcdr.cyrb.live
+wiowyaea.lakebit.digital
 wire2spell.com
 wutb.voidarena.sbs
-www.almacensantangel.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
@@ -91,9 +84,9 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.21141649048625794%):
+0 used ddosguard (0.0%):
 ```
-marsalek.cy
+
 ```
 
 0 used edgecast (0.0%):
@@ -101,7 +94,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.21141649048625794%):
+1 used fastly (0.21413276231263384%):
 ```
 visualwikicloud.com
 ```
@@ -141,7 +134,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.21141649048625794%):
+1 used netlify (0.21413276231263384%):
 ```
 swiftfusion.tech
 ```
