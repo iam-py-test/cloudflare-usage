@@ -1,4 +1,4 @@
-467 domains tested. 82.22698072805139% were behind nothing (83 were behind something). 25 domains could not be tested.<br>
+476 domains tested. 81.72268907563026% were behind nothing (87 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,19 @@
 
 ```
 
-56 used cloudflare (11.991434689507495%):
+60 used cloudflare (12.605042016806722%):
 ```
+57ntnp6h.lakebit.digital
 allendostmen.com
 alternatifportbet88.blog
 anondrop.net
 api.baimless.com
 api.ezilax.com
-api.wewpwsw.su
 apkinsta.com
 app.appzcvb.com
+b9a9ec0ece343a68.brambleufer.ru
 cambodiatouristservice.com
+captcha-verification-module.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
@@ -39,10 +41,11 @@ dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
-friendsofsclarc.org
 gutando.com
 hitman-pro.ru
 id3702579photo-image-docs.com
+javascriptupdate.com
+kp1vwn9m.lakebit.digital
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -67,7 +70,9 @@ skillnorequired.cc
 spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
+vcc-library.uk
 wcdr.cyrb.live
+weblive.tv
 wiowyaea.lakebit.digital
 wire2spell.com
 wutb.voidarena.sbs
@@ -75,7 +80,6 @@ www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
-y7nk5xw8.bluehub.digital
 youtransfer.net
 ```
 
@@ -84,9 +88,10 @@ youtransfer.net
 
 ```
 
-0 used ddosguard (0.0%):
+2 used ddosguard (0.42016806722689076%):
 ```
-
+marsalek.cy
+whrc.ru
 ```
 
 0 used edgecast (0.0%):
@@ -94,7 +99,7 @@ youtransfer.net
 
 ```
 
-1 used fastly (0.21413276231263384%):
+1 used fastly (0.21008403361344538%):
 ```
 visualwikicloud.com
 ```
@@ -134,7 +139,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.21413276231263384%):
+1 used netlify (0.21008403361344538%):
 ```
 swiftfusion.tech
 ```
