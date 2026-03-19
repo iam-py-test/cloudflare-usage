@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-36 used cloudflare (18.0%):
+35 used cloudflare (17.5%):
 ```
 972mag.com
 alarabiya.net
@@ -36,7 +36,6 @@ economist.com
 economist.com
 flatwaterfreepress.org
 freedom.press
-ft.com
 gizmodo.com
 kyivpost.com
 mashable.com
@@ -105,11 +104,12 @@ wsj.com
 
 ```
 
-5 used fastly (2.5%):
+6 used fastly (3.0%):
 ```
 bbc.com
 bbc.com
 cbsnews.com
+corriere.it
 gazzetta.it
 nytimes.com
 ```

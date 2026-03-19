@@ -1,4 +1,4 @@
-476 domains tested. 81.72268907563026% were behind nothing (87 were behind something). 23 domains could not be tested.<br>
+512 domains tested. 83.203125% were behind nothing (86 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,12 @@
 
 ```
 
-60 used cloudflare (12.605042016806722%):
+55 used cloudflare (10.7421875%):
 ```
 57ntnp6h.lakebit.digital
 allendostmen.com
-alternatifportbet88.blog
-anondrop.net
 api.baimless.com
 api.ezilax.com
-apkinsta.com
 app.appzcvb.com
 b9a9ec0ece343a68.brambleufer.ru
 cambodiatouristservice.com
@@ -41,8 +38,10 @@ dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
+gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
+hjendcs.x98665.com
 id3702579photo-image-docs.com
 javascriptupdate.com
 kp1vwn9m.lakebit.digital
@@ -59,7 +58,6 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
 photo-id5631894.com
-qz.697539.com
 reauthenticator.com
 reusable-flex.com
 rizvexeno.ws
@@ -68,18 +66,15 @@ rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
+sunchernical.com
 trtmyanmar.com
-tyahelp.top
-vcc-library.uk
-wcdr.cyrb.live
 weblive.tv
-wiowyaea.lakebit.digital
 wire2spell.com
-wutb.voidarena.sbs
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
+yaso.su
 youtransfer.net
 ```
 
@@ -88,7 +83,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.42016806722689076%):
+2 used ddosguard (0.390625%):
 ```
 marsalek.cy
 whrc.ru
@@ -99,7 +94,7 @@ whrc.ru
 
 ```
 
-1 used fastly (0.21008403361344538%):
+1 used fastly (0.1953125%):
 ```
 visualwikicloud.com
 ```
@@ -139,7 +134,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.21008403361344538%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

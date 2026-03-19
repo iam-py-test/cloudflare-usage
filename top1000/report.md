@@ -1,10 +1,12 @@
-1000 domains tested. 63.5% were behind nothing (365 were behind something). 58 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 57 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+autodesk.com
+cisco.com
 coupang.com
 dailymail.co.uk
 fda.gov
@@ -43,7 +45,7 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -100,7 +102,6 @@ faphouse.com
 fiverr.com
 fontawesome.com
 forter.com
-ft.com
 fwmrm.net
 genius.com
 gitlab.com
@@ -203,14 +204,13 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
-x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -238,7 +238,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 booking.com
@@ -307,7 +306,6 @@ ui.com
 un.org
 uol.com.br
 utorrent.com
-venmo.com
 verisign.com
 wattpad.com
 wired.com
@@ -328,12 +326,13 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
