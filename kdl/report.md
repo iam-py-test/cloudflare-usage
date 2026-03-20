@@ -1,5 +1,5 @@
-2738 domains tested. 72.24251278305333% were behind nothing (760 were behind something). 117 domains could not be tested.<br>
-241 used akamai (8.802045288531774%):
+2740 domains tested. 71.78832116788321% were behind nothing (773 were behind something). 132 domains could not be tested.<br>
+235 used akamai (8.576642335766424%):
 ```
 1.www.s81c.com
 a.jsrdn.com
@@ -53,7 +53,6 @@ ally.com
 amd.cdn.turner.com
 analytics.tiktok.com
 ar.ebay.com
-ar.pinterest.com
 arubanetworks.com
 assets.adobedtm.com
 assets.alicdn.com
@@ -63,18 +62,15 @@ assets.onestore.ms
 assets.pinterest.com
 assets.staples-static.com
 at.pinterest.com
-au.pinterest.com
 azure.microsoft.com
 b.alicdn.com
 bo.ebay.com
 br.ebay.com
-br.pinterest.com
 by.ebay.com
 c.go-mpulse.net
 c.s-microsoft.com
 c.salesforce.com
 c1.wfinterface.com
-ca.pinterest.com
 cdn-dynmedia-1.microsoft.com
 cdn-production-opera-website.operacdn.com
 cdn.apple-cloudkit.com
@@ -83,7 +79,6 @@ cdn.tmobile.com
 ch.pinterest.com
 charts-images.scdn.co
 cl.ebay.com
-cl.pinterest.com
 cn.ebay.com
 co.ebay.com
 co.pinterest.com
@@ -91,8 +86,7 @@ connect.secure.wellsfargo.com
 consent.cookiebot.com
 cr.ebay.com
 creativecommons.us4.list-manage.com
-ct.pinterest.com
-cz.pinterest.com
+css.rbxcdn.com
 d.oracleinfinity.io
 dds.dell.com
 de.pinterest.com
@@ -208,7 +202,6 @@ encore.scdn.co
 es.pinterest.com
 es.t-mobile.com
 fi.pinterest.com
-fr.pinterest.com
 framework-assets.external.xerox.com
 g.alicdn.com
 godaddy.com
@@ -218,33 +211,34 @@ hn.ebay.com
 hp.com
 ht.cdn.turner.com
 i.dell.com
+i.pinimg.com
 i.scdn.co
 ichef.bbc.co.uk
 ichef.bbci.co.uk
 il.ebay.com
 image-us.samsung.com
+images-eu.ssl-images-amazon.com
 images.samsung.com
 img-prod-cms-rt-microsoft-com.akamaized.net
 img-s-msn-com.akamaized.net
-inews.gtimg.com
 intuit.com
-lib.intuitcdn.net
 mcafee.com
 pa.ebay.com
-r.bing.com
-rover.ebay.com
-seeded-session-images.scdn.co
-sm.dell.com
-static-global-s-msn-com.akamaized.net
+pmd.cdn.turner.com
+raka.bing.com
 svcb.www.samsung.com.edgekey.net
-th.bing.com
+tags-eu.tiqcdn.com
+tesseract.imds-cdn.com
+vam-image.imds-cdn.com
 webex.com
-www.cisco.com
-www.samsung.com
+www.ally.com
+www.mcafee.com
+www.pinterest.com.au
+www.tiktok.com
 xiaomi.com
 ```
 
-6 used bunnycdn (0.2191380569758948%):
+6 used bunnycdn (0.21897810218978103%):
 ```
 Bunny-Reddit.b-cdn.net
 b-cdn.net
@@ -254,21 +248,23 @@ bunnynetassets.b-cdn.net
 fonts.bunny.net
 ```
 
-0 used cachefly (0.0%):
+1 used cachefly (0.0364963503649635%):
+```
+roblox-images.cachefly.net
 ```
 
-```
-
-5 used cdn77 (0.18261504747991236%):
+7 used cdn77 (0.25547445255474455%):
 ```
 1450622545.rsc.cdn77.org
 1562951790.rsc.cdn77.org
 1630983047.rsc.cdn77.org
+1667503734.rsc.cdn77.org
 c.ptgncdn.com
+cdn.userway.org
 f1-eu.readspeaker.com
 ```
 
-113 used cloudflare (4.127100073046019%):
+113 used cloudflare (4.124087591240875%):
 ```
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2qwt2i8z8x.kameleoon.io
@@ -276,6 +272,7 @@ f1-eu.readspeaker.com
 4650993.fs1.hubspotusercontent-na1.net
 7foxepcf7f.kameleoon.io
 a10681260716.cdn.optimizely.com
+abs-0.twimg.com
 abs.twimg.com.cdn.cloudflare.net
 analytics.twitter.com
 api.statsigcdn.com
@@ -349,45 +346,43 @@ imagedelivery.net
 img.connatix.com
 img.connatix.com.cdn.cloudflare.net
 indeed.com
-js-eu1.hs-scripts.com
 linkedin.com
+maxcdn.bootstrapcdn.com
 medium.com
 myshopify.com
 nist.gov
 openai.com
-paypal.com
+player.vimeo.com.cdn.cloudflare.net
 quora.com
-rcf.bing.com.cdn.cloudflare.net
 researchgate.net
 roku.com
 rubiconproject.com
 sciencedirect.com
+services.fandom.com
 shopify.com
+sj16.mktoedge.com
 sourceforge.net
-st3.zoom.us
+spankbang.com
 stackoverflow.com
 t.co
-transcend-cdn.com
 twitter.com
 unpkg.com
-us01ccistatic-c.zoom.us
+us01ccistatic.zoom.us
+use.fontawesome.com
 vimeo.com
 vungle.com
 w3.org
 who.int
 workers.dev
-www.fandom.com
-www.researchgate.net
-www.roku.com
-www.w3.org.cdn.cloudflare.net
+x.com
 xhamster.com
 zendesk.com
+zoom.com
 zoom.us
 ```
 
-190 used cloudfront (6.939371804236669%):
+187 used cloudfront (6.8248175182481745%):
 ```
-1667503734.rsc.cdn77.org
 a-v2.sndcdn.com
 a.deviantart.net
 a.slack-edge.com
@@ -429,7 +424,6 @@ cdn.localizeapi.com
 cdn.rollbar.com
 cdn.segment.io
 cdn.statuspage.io
-cdn.userway.org
 cdnssl.clicktale.net
 cf.bstatic.com
 cigars.roku.com
@@ -441,7 +435,6 @@ consent.cmp.oath.com
 consent.t-online.de
 consent.trustarc.com
 consent.truste.com
-css.rbxcdn.com
 cvp.twitch.tv
 cx0.m.awsstatic.com
 d0.m.awsstatic.com
@@ -546,7 +539,8 @@ i2.sndcdn.com
 i3.sndcdn.com
 i4.sndcdn.com
 image.roku.com
-images-eu.ssl-images-amazon.com
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
 images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com
 images.ctfassets.net
 images.rbxcdn.com
@@ -554,29 +548,28 @@ images.sr.roku.com
 images.t-online.de
 img-deviantart.wixmp.com
 img.hipages.com.au
-js.rbxcdn.com
-live.staticflickr.com
+js-cdn.dynatrace.com
+kendo.cdn.telerik.com
 loader.us-east-1.prod.mrc-sunrise.marketing.aws.dev
-media.zoom.com
 merkle.io
 pubmatic.com
-quickbooks.intuit.com
-s4.cnnx.io
+s0.awsstatic.com
+sdk.sharethrough.com
+site-nav.ring.com
 soundcloud.com
+sourcepoint.theguardian.com
 st.deviantart.net
+standards.digital.gov.external-domains-production.cloud.gov
 static-assets.fs.liveperson.com
-static.claydar.com
-static.cloud.coveo.com
+static-web-assets.gnl-common.bbcverticals.com
+static.chartbeat.com
+static.ring.com
 t-online.de
-t0.m.awsstatic.com
-tms.oracle.com
+tags.tiqcdn.com
 ui.com
 us01st-cf.zoom.us
-w3.siemens.com
-wis.sndcdn.com
-www.dvidshub.net
-www.mozorg.moz.works
-www2.telekom.de
+va.sndcdn.com
+ychef.files.bbci.co.uk
 ```
 
 0 used ddosguard (0.0%):
@@ -584,7 +577,7 @@ www2.telekom.de
 
 ```
 
-6 used edgecast (0.2191380569758948%):
+6 used edgecast (0.21897810218978103%):
 ```
 cs189.wpc.edgecastcdn.net
 cs45.wac.edgecastcdn.net
@@ -594,7 +587,7 @@ cs672.wac.edgecastcdn.net
 cs986.wpc.edgecastcdn.net
 ```
 
-76 used fastly (2.7757487216946677%):
+81 used fastly (2.9562043795620436%):
 ```
 0xrpc.io
 a.thumbs.redditmedia.com
@@ -604,20 +597,27 @@ api.nextgen.guardianapps.co.uk
 api.shipt.com
 api.twitter.com
 api.x.com
+ar.pinterest.com
 assets.guim.co.uk
 atc.spotify.map.fastly.net
+au.pinterest.com
 b.thumbs.redditmedia.com
 bbc.co.uk
 bbc.com
 bbc.map.fastly.net
+br.pinterest.com
 browser.sentry-cdn.com
+ca.pinterest.com
 cdn.intellimize.co
 cdn.jsdelivr.net
 cdn.ketchjs.com
 cdn.speedcurve.com
 cdn.taboola.com
+cl.pinterest.com
 client-registry.mutinycdn.com
 cnn-tls.map.fastly.net
+ct.pinterest.com
+cz.pinterest.com
 d.sni.global.fastly.net
 daily-mix.scdn.co
 data.api.cnn.io
@@ -640,6 +640,7 @@ ebayweb.map.fastly.net
 embed.acuityscheduling.com
 external-preview.redd.it
 f.vimeocdn.com
+fr.pinterest.com
 g1.nyt.com
 github.github.io
 github.githubassets.com
@@ -648,30 +649,27 @@ global.ketchcdn.com
 global.scdnco.spotify.map.fastly.net
 global.tls130rtt.spotifycdn.map.fastly.net
 gql.twitch.tv
-gtm.shipt.com
 guardian.map.fastly.net
 h2.twitch.map.fastly.net
 h3.apis.apple.map.fastly.net
 harvesthq.github.io
 hits-secure.theguardian.com
-hu.pinterest.com
 hw-cdn2.adtng.com
 i.forbesimg.com
 i.guim.co.uk
 i.redd.it
 i.vimeocdn.com
 imageio.forbes.com
-images-fe.ssl-images-amazon.com
 in.pinterest.com
+j.sni.global.fastly.net
 mbz100.ketch.map.fastly.net
-n.sni.global.fastly.net
+medallia2.map.fastly.net
 nytimes.com
-p.shared.global.fastly.net
-reddit.map.fastly.net
-scdnco.spotify.map.fastly.net
-tls130rtt.spotifycdn.map.fastly.net
-v.redd.it
+paypal.map.fastly.net
+s.sni.global.fastly.net
 vimeo-video.map.fastly.net
+www.ebay.com.hk
+www.twitch.tv
 ```
 
 0 used sucuri (0.0%):
@@ -709,16 +707,15 @@ vimeo-video.map.fastly.net
 
 ```
 
-3 used netlify (0.1095690284879474%):
+3 used netlify (0.10948905109489052%):
 ```
 amp.dev
 ampproject.org
 lencr.org
 ```
 
-3 used imperva (0.1095690284879474%):
+2 used imperva (0.072992700729927%):
 ```
 3ivgup7.x.incapdns.net
 digicert.com
-www.digicert.com
 ```

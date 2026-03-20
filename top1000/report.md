@@ -1,11 +1,10 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 57 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 59 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-autodesk.com
 cisco.com
 coupang.com
 dailymail.co.uk
@@ -45,7 +44,7 @@ erome.com
 
 ```
 
-161 used cloudflare (16.1%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -80,7 +79,6 @@ conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
-crazygames.com
 creativecommons.org
 deepl.com
 dfn.nl
@@ -150,7 +148,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -204,13 +201,14 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -222,13 +220,10 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -238,6 +233,7 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
+autodesk.com
 biblegateway.com
 binance.com
 booking.com
