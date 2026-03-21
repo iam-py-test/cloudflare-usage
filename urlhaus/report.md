@@ -1,4 +1,4 @@
-501 domains tested. 84.03193612774452% were behind nothing (80 were behind something). 25 domains could not be tested.<br>
+450 domains tested. 83.11111111111111% were behind nothing (76 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-51 used cloudflare (10.179640718562874%):
+45 used cloudflare (10.0%):
 ```
 allendostmen.com
 api.baimless.com
@@ -31,14 +31,12 @@ classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
-de3.filedwnld.top
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
 gutando.com
 hitman-pro.ru
-hjendcs.x98665.com
 id3702579photo-image-docs.com
 onyxarmorcrypt.de
 onyxcyberedge.de
@@ -55,14 +53,11 @@ onyxstealthnet.de
 photo-id5631894.com
 reauthenticator.com
 reusable-flex.com
-rizvexeno.ws
 roverlink.io
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
-sunchernical.com
-tranyasy.com.cn
 trtmyanmar.com
 tyahelp.top
 wire2spell.com
@@ -70,7 +65,6 @@ www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
-yaso.su
 youtransfer.net
 ```
 
@@ -79,7 +73,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.39920159680638717%):
+2 used ddosguard (0.4444444444444444%):
 ```
 marsalek.cy
 whrc.ru
@@ -90,7 +84,7 @@ whrc.ru
 
 ```
 
-1 used fastly (0.19960079840319359%):
+1 used fastly (0.2222222222222222%):
 ```
 visualwikicloud.com
 ```
@@ -130,7 +124,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.19960079840319359%):
+1 used netlify (0.2222222222222222%):
 ```
 swiftfusion.tech
 ```
