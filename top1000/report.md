@@ -1,12 +1,11 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 59 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 58 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
-coupang.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -44,7 +43,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -53,7 +52,6 @@ allaboutcookies.org
 anydesk.com
 apnews.com
 appsflyer.com
-attn.tv
 berkeley.edu
 bluehost.com
 box.com
@@ -80,7 +78,6 @@ cookielaw.org
 cpanel.net
 creativecommons.org
 deepl.com
-dfn.nl
 digitalocean.com
 digitaloceanspaces.com
 discogs.com
@@ -99,6 +96,7 @@ faphouse.com
 fiverr.com
 fontawesome.com
 forter.com
+ft.com
 fwmrm.net
 genius.com
 gitlab.com
@@ -120,7 +118,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 loc.gov
 markmonitor.com
@@ -147,7 +144,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -169,14 +165,15 @@ sharethrough.com
 shein.com
 shopify.com
 singular.net
-smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
+spamhaus.org
 sportradar.com
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -207,7 +204,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -217,13 +214,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -300,7 +295,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
