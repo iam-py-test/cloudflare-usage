@@ -1,4 +1,4 @@
-454 domains tested. 81.27753303964758% were behind nothing (85 were behind something). 26 domains could not be tested.<br>
+449 domains tested. 81.9599109131403% were behind nothing (81 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,12 @@
 
 ```
 
-55 used cloudflare (12.114537444933921%):
+52 used cloudflare (11.58129175946548%):
 ```
-8o8xcdx1.rockapp.digital
+alerts-payables.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-c02az6tr.lakeweb.digital
 cambodiatouristservice.com
 checkinetverifk.com
 chilloutvrhub.com
@@ -37,13 +36,13 @@ dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
+gobiotechpestcontrol.com
 gutando.com
+hello1.aiqworldwide.ai
 hitman-pro.ru
-horbusten.com
 id3702579photo-image-docs.com
 imaginary.fluxobase.info
 kinetiqa.space
-mingloria.com
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -56,9 +55,7 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
-p2pdany.com
 photo-id5631894.com
-quickstep.fluxobase.info
 reauthenticator.com
 reusable-flex.com
 roverlink.io
@@ -67,9 +64,9 @@ sabungkingbet189.com
 skillnorequired.cc
 socketusercontent.com
 spacemanslot88.games
+tranyasy.com.cn
 trtmyanmar.com
 tyahelp.top
-unwitting.fluxobase.info
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -83,7 +80,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.4405286343612335%):
+2 used ddosguard (0.4454342984409799%):
 ```
 marsalek.cy
 whrc.ru
@@ -94,7 +91,7 @@ whrc.ru
 
 ```
 
-1 used fastly (0.22026431718061676%):
+1 used fastly (0.22271714922048996%):
 ```
 visualwikicloud.com
 ```
@@ -134,7 +131,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22026431718061676%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```
