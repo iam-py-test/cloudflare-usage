@@ -1,4 +1,4 @@
-451 domains tested. 81.1529933481153% were behind nothing (85 were behind something). 33 domains could not be tested.<br>
+448 domains tested. 83.48214285714286% were behind nothing (74 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-49 used cloudflare (10.864745011086473%):
+46 used cloudflare (10.267857142857142%):
 ```
-adderall.rocks
+56lr0t2n.moondev.digital
 aetherixcore.cc
-alerts-payables.com
 api.baimless.com
 app.appzcvb.com
 cambodiatouristservice.com
@@ -59,10 +58,8 @@ rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
-tranyasy.com.cn
 trtmyanmar.com
 tyahelp.top
-vcc-library.uk
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -77,7 +74,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.4434589800443459%):
+2 used ddosguard (0.4464285714285714%):
 ```
 marsalek.cy
 whrc.ru
@@ -88,7 +85,7 @@ whrc.ru
 
 ```
 
-1 used fastly (0.22172949002217296%):
+1 used fastly (0.2232142857142857%):
 ```
 visualwikicloud.com
 ```
