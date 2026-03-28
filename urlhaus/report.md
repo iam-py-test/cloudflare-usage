@@ -1,4 +1,4 @@
-464 domains tested. 79.74137931034483% were behind nothing (94 were behind something). 34 domains could not be tested.<br>
+449 domains tested. 84.4097995545657% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-55 used cloudflare (11.85344827586207%):
+41 used cloudflare (9.131403118040089%):
 ```
 allendostmen.com
-apesecurity.top
 api.baimless.com
 app.appzcvb.com
 cambodiatouristservice.com
@@ -30,28 +29,19 @@ checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
-crossroadbuild.top
 crystalpvp.ru
-d8.tfdl.net
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
-forlifemanagment.top
+friendsofsclarc.org
 gutando.com
-halflifeagency.top
 hitman-pro.ru
-macandcheeseagent.top
-mariosmanagmentsec.top
-marketingsuperstar.top
-onlinemoneyagency.top
-onlymediumsteak.top
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
 onyxguardwave.de
-onyxironvault.de
 onyxphantomlock.de
 onyxprotectech.de
 onyxsafecrypt.de
@@ -59,14 +49,10 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
 reauthenticator.com
-redhairsyndrom.top
-reusable-flex.com
-roverlink.io
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
-surfandsharksaged.top
 trtmyanmar.com
 tyahelp.top
 web-captcha.cc
@@ -83,7 +69,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.646551724137931%):
+3 used ddosguard (0.6681514476614699%):
 ```
 marsalek.cy
 whrc.ru
@@ -95,7 +81,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.21551724137931033%):
+1 used fastly (0.22271714922048996%):
 ```
 visualwikicloud.com
 ```
@@ -135,7 +121,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.21551724137931033%):
+1 used netlify (0.22271714922048996%):
 ```
 swiftfusion.tech
 ```
