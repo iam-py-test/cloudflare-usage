@@ -1,9 +1,10 @@
 224 domains tested. 54.91071428571429% were behind nothing (101 were behind something). 14 domains could not be tested.<br>
-4 used akamai (1.7857142857142856%):
+5 used akamai (2.232142857142857%):
 ```
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
+www.microsoft.com
 www.rakuten.ca
 ```
 
@@ -36,6 +37,7 @@ assets.windscribe.com
 azorult-tracker.net
 blokada.org
 cdn.adblockcdn.com
+cdn.jsdelivr.net
 cdn.statically.io
 combinatronics.io
 dns-family.adguard.com
@@ -47,7 +49,6 @@ easylist.to
 family.cloudflare-dns.com
 fanboy.co.nz
 feeds.dshield.org
-filter.futa.gg
 filtersheroes.gitlab.io
 getadhell.com
 gitlab.com
@@ -104,12 +105,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.142857142857142%):
+15 used fastly (6.696428571428571%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ubo.github.io
 iam-py-test.github.io

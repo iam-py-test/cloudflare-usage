@@ -1,4 +1,4 @@
-449 domains tested. 84.4097995545657% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
+448 domains tested. 79.46428571428571% were behind nothing (92 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,12 @@
 
 ```
 
-41 used cloudflare (9.131403118040089%):
+46 used cloudflare (10.267857142857142%):
 ```
+5eed8sf5.covenantventure.digital
 allendostmen.com
 api.baimless.com
+api.ezilax.com
 app.appzcvb.com
 cambodiatouristservice.com
 checkinetverifk.com
@@ -33,10 +35,12 @@ crystalpvp.ru
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
+download-version.1-7-2.com
 filerit.com
-friendsofsclarc.org
 gutando.com
 hitman-pro.ru
+hnz4q1fw.zenithharbinger.digital
+kjpf3o93.radiantprospera.digital
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -49,19 +53,20 @@ onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
 reauthenticator.com
+reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
 trtmyanmar.com
 tyahelp.top
-web-captcha.cc
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
+ypmd72xu.latticepatronage.digital
 ```
 
 0 used cloudfront (0.0%):
@@ -69,7 +74,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6681514476614699%):
+3 used ddosguard (0.6696428571428571%):
 ```
 marsalek.cy
 whrc.ru
@@ -81,7 +86,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.22271714922048996%):
+1 used fastly (0.2232142857142857%):
 ```
 visualwikicloud.com
 ```
@@ -121,7 +126,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22271714922048996%):
+1 used netlify (0.2232142857142857%):
 ```
 swiftfusion.tech
 ```
