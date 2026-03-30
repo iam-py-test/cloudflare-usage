@@ -1,4 +1,4 @@
-448 domains tested. 79.46428571428571% were behind nothing (92 were behind something). 41 domains could not be tested.<br>
+445 domains tested. 83.14606741573034% were behind nothing (75 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-46 used cloudflare (10.267857142857142%):
+47 used cloudflare (10.561797752808989%):
 ```
 5eed8sf5.covenantventure.digital
 allendostmen.com
@@ -35,8 +35,9 @@ crystalpvp.ru
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
-download-version.1-7-2.com
 filerit.com
+friendsofsclarc.org
+gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
 hnz4q1fw.zenithharbinger.digital
@@ -45,7 +46,6 @@ onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
-onyxguardwave.de
 onyxphantomlock.de
 onyxprotectech.de
 onyxsafecrypt.de
@@ -54,12 +54,13 @@ onyxsentinelx.de
 onyxstealthnet.de
 reauthenticator.com
 reusable-flex.com
+rigpacket.com
 rxquickpay.com
 sabungkingbet189.com
 skillnorequired.cc
 spacemanslot88.games
+traderhype.com
 trtmyanmar.com
-tyahelp.top
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -74,7 +75,7 @@ ypmd72xu.latticepatronage.digital
 
 ```
 
-3 used ddosguard (0.6696428571428571%):
+3 used ddosguard (0.6741573033707865%):
 ```
 marsalek.cy
 whrc.ru
@@ -86,7 +87,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.2232142857142857%):
+1 used fastly (0.22471910112359553%):
 ```
 visualwikicloud.com
 ```
@@ -126,7 +127,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2232142857142857%):
+1 used netlify (0.22471910112359553%):
 ```
 swiftfusion.tech
 ```
