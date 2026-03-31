@@ -1,4 +1,4 @@
-445 domains tested. 83.14606741573034% were behind nothing (75 were behind something). 23 domains could not be tested.<br>
+445 domains tested. 83.59550561797752% were behind nothing (73 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,13 +19,13 @@
 
 ```
 
-47 used cloudflare (10.561797752808989%):
+44 used cloudflare (9.887640449438202%):
 ```
-5eed8sf5.covenantventure.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+bharattank.me
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
@@ -36,16 +36,15 @@ dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
-friendsofsclarc.org
 gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
-hnz4q1fw.zenithharbinger.digital
-kjpf3o93.radiantprospera.digital
+mlbkn.com
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
+onyxguardwave.de
 onyxphantomlock.de
 onyxprotectech.de
 onyxsafecrypt.de
@@ -57,17 +56,15 @@ reusable-flex.com
 rigpacket.com
 rxquickpay.com
 sabungkingbet189.com
-skillnorequired.cc
 spacemanslot88.games
-traderhype.com
 trtmyanmar.com
+web-captcha.cc
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-ypmd72xu.latticepatronage.digital
 ```
 
 0 used cloudfront (0.0%):

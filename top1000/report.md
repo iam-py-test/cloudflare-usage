@@ -1,11 +1,10 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 58 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -60,6 +59,7 @@ britannica.com
 cambridge.org
 canva.com
 casalemedia.com
+change.org
 character.ai
 chatgpt.com
 chaturbate.com
@@ -91,7 +91,6 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
-faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -207,13 +206,14 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.au
@@ -222,7 +222,6 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -240,6 +239,7 @@ booking.com
 brave.com
 calendly.com
 checkpoint.com
+corebridgefinancial.com
 datadoghq.com
 deviantart.com
 doi.org
