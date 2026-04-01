@@ -1,4 +1,4 @@
-445 domains tested. 83.59550561797752% were behind nothing (73 were behind something). 24 domains could not be tested.<br>
+461 domains tested. 84.81561822125813% were behind nothing (70 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,23 @@
 
 ```
 
-44 used cloudflare (9.887640449438202%):
+42 used cloudflare (9.11062906724512%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-bharattank.me
 cambodiatouristservice.com
 checkinetverifk.com
 classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
+deposit-notification.com
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
-gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
 mlbkn.com
@@ -53,7 +52,6 @@ onyxsentinelx.de
 onyxstealthnet.de
 reauthenticator.com
 reusable-flex.com
-rigpacket.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
@@ -72,10 +70,9 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6741573033707865%):
+2 used ddosguard (0.43383947939262474%):
 ```
 marsalek.cy
-whrc.ru
 whreceiverrrrrrrrr.ru
 ```
 
@@ -84,7 +81,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.22471910112359553%):
+1 used fastly (0.21691973969631237%):
 ```
 visualwikicloud.com
 ```
@@ -124,7 +121,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22471910112359553%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

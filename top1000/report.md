@@ -1,10 +1,11 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 58 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 60 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -92,7 +93,6 @@ example.com
 expireddomains.com
 fandom.com
 fiverr.com
-flashtalking.com
 fontawesome.com
 forter.com
 ft.com
@@ -145,6 +145,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -206,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -214,14 +215,15 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -276,7 +278,6 @@ note.com
 onet.pl
 pbs.org
 playrix.com
-poshvine.com
 primevideo.com
 pubmatic.com
 repubblica.it
@@ -301,7 +302,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
