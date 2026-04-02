@@ -1,4 +1,4 @@
-461 domains tested. 84.81561822125813% were behind nothing (70 were behind something). 25 domains could not be tested.<br>
+468 domains tested. 82.90598290598291% were behind nothing (80 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,12 @@
 
 ```
 
-42 used cloudflare (9.11062906724512%):
+47 used cloudflare (10.042735042735043%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
+app-trust-wallet.com
 app.appzcvb.com
 cambodiatouristservice.com
 checkinetverifk.com
@@ -35,10 +36,13 @@ deposit-notification.com
 dl.aginjector.com
 dl.armour-inc-down.net
 down.mvip8.ru
+dropmb.com
+dz7shop.com
+emacra.com
 filerit.com
 gutando.com
 hitman-pro.ru
-mlbkn.com
+hostealo.com
 onyxarmorcrypt.de
 onyxcyberedge.de
 onyxfortifypro.de
@@ -50,13 +54,14 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
+q55at0cm.apexharvestor.digital
 reauthenticator.com
 reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
 trtmyanmar.com
-web-captcha.cc
+ui2rn7ei.apexharvestor.digital
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -70,7 +75,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.43383947939262474%):
+2 used ddosguard (0.4273504273504274%):
 ```
 marsalek.cy
 whreceiverrrrrrrrr.ru
@@ -81,7 +86,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.21691973969631237%):
+1 used fastly (0.2136752136752137%):
 ```
 visualwikicloud.com
 ```
@@ -121,7 +126,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.2136752136752137%):
 ```
-
+swiftfusion.tech
 ```
