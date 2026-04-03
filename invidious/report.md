@@ -1,4 +1,4 @@
-26 domains tested. 61.53846153846154% were behind nothing (10 were behind something). 8 domains could not be tested.<br>
+26 domains tested. 69.23076923076923% were behind nothing (8 were behind something). 7 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-2 used cloudflare (7.6923076923076925%):
+1 used cloudflare (3.8461538461538463%):
 ```
-invidious.einfachzocken.eu
 invidious.perennialte.ch
 ```
 

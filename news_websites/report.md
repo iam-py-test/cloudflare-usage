@@ -1,4 +1,4 @@
-200 domains tested. 60.5% were behind nothing (79 were behind something). 4 domains could not be tested.<br>
+200 domains tested. 60.0% were behind nothing (80 were behind something). 4 domains could not be tested.<br>
 3 used akamai (1.5%):
 ```
 anandabazar.com
@@ -21,7 +21,7 @@ news.sky.com
 
 ```
 
-36 used cloudflare (18.0%):
+37 used cloudflare (18.5%):
 ```
 972mag.com
 alarabiya.net
@@ -56,6 +56,7 @@ theatlantic.com
 thehindu.com
 themarshallproject.org
 themoscowtimes.com
+thenextweb.com
 therecord.media
 theregister.com
 washingtontimes.com
