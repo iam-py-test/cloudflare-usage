@@ -1,4 +1,4 @@
-445 domains tested. 83.59550561797752% were behind nothing (73 were behind something). 30 domains could not be tested.<br>
+437 domains tested. 84.43935926773455% were behind nothing (68 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,11 @@
 
 ```
 
-39 used cloudflare (8.764044943820224%):
+38 used cloudflare (8.695652173913043%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
-app-trust-wallet.com
 app.appzcvb.com
 cambodiatouristservice.com
 checkinetverifk.com
@@ -33,12 +32,11 @@ clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
-dl.armour-inc-down.net
 down.mvip8.ru
 filerit.com
 gutando.com
 hitman-pro.ru
-microservisetrue.vip
+o4v2vsml.momentumbloomera.digital
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
@@ -59,6 +57,7 @@ www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
+xx.kak.is
 youtransfer.net
 ```
 
@@ -67,7 +66,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.44943820224719105%):
+2 used ddosguard (0.4576659038901602%):
 ```
 marsalek.cy
 whreceiverrrrrrrrr.ru
@@ -78,7 +77,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.22471910112359553%):
+1 used fastly (0.2288329519450801%):
 ```
 visualwikicloud.com
 ```
@@ -118,7 +117,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22471910112359553%):
+1 used netlify (0.2288329519450801%):
 ```
 swiftfusion.tech
 ```
