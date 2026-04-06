@@ -1,4 +1,4 @@
-437 domains tested. 84.43935926773455% were behind nothing (68 were behind something). 26 domains could not be tested.<br>
+438 domains tested. 83.56164383561644% were behind nothing (72 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,22 @@
 
 ```
 
-38 used cloudflare (8.695652173913043%):
+40 used cloudflare (9.1324200913242%):
 ```
+051516xx.vectorprospera.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 cambodiatouristservice.com
 checkinetverifk.com
-classroomseven.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
 dl.aginjector.com
 down.mvip8.ru
 filerit.com
+gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
 o4v2vsml.momentumbloomera.digital
@@ -56,6 +57,7 @@ wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
+xanax.enzostress.st
 xn--yh4bx88a.com
 xx.kak.is
 youtransfer.net
@@ -66,7 +68,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.4576659038901602%):
+2 used ddosguard (0.45662100456621%):
 ```
 marsalek.cy
 whreceiverrrrrrrrr.ru
@@ -77,7 +79,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.2288329519450801%):
+1 used fastly (0.228310502283105%):
 ```
 visualwikicloud.com
 ```
@@ -117,7 +119,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2288329519450801%):
+1 used netlify (0.228310502283105%):
 ```
 swiftfusion.tech
 ```
