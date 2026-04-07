@@ -1,4 +1,4 @@
-438 domains tested. 83.56164383561644% were behind nothing (72 were behind something). 28 domains could not be tested.<br>
+447 domains tested. 82.5503355704698% were behind nothing (78 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-40 used cloudflare (9.1324200913242%):
+45 used cloudflare (10.06711409395973%):
 ```
 051516xx.vectorprospera.digital
 allendostmen.com
@@ -27,17 +27,22 @@ api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 cambodiatouristservice.com
+cccimg.com
+cdnlivechatinc.com
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
-dl.aginjector.com
+djasdajnsdnjgjg.com
 down.mvip8.ru
+e-ifanyi.com
+fdsafa.best
+filehost.sbs
 filerit.com
-gobiotechpestcontrol.com
 gutando.com
 hitman-pro.ru
-o4v2vsml.momentumbloomera.digital
+job.recentbox.life
+one.immortalday.life
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
@@ -47,11 +52,12 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
+paper.recentbox.life
 reauthenticator.com
-reusable-flex.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
+top.recentbox.life
 trtmyanmar.com
 wire2spell.com
 www.blackhattoolz.com
@@ -59,7 +65,6 @@ www.hostingcloud.science
 www.vuelaviajero.com
 xanax.enzostress.st
 xn--yh4bx88a.com
-xx.kak.is
 youtransfer.net
 ```
 
@@ -68,7 +73,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.45662100456621%):
+2 used ddosguard (0.44742729306487694%):
 ```
 marsalek.cy
 whreceiverrrrrrrrr.ru
@@ -79,7 +84,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.228310502283105%):
+1 used fastly (0.22371364653243847%):
 ```
 visualwikicloud.com
 ```
@@ -119,7 +124,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.228310502283105%):
+1 used netlify (0.22371364653243847%):
 ```
 swiftfusion.tech
 ```
