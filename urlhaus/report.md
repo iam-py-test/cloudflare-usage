@@ -1,4 +1,4 @@
-447 domains tested. 82.5503355704698% were behind nothing (78 were behind something). 29 domains could not be tested.<br>
+450 domains tested. 82.66666666666667% were behind nothing (78 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,9 +19,8 @@
 
 ```
 
-45 used cloudflare (10.06711409395973%):
+46 used cloudflare (10.222222222222223%):
 ```
-051516xx.vectorprospera.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
@@ -58,7 +57,9 @@ rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
 top.recentbox.life
+tree.immortalday.life
 trtmyanmar.com
+vh47kmg3.nexuspatronage.digital
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -73,7 +74,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.44742729306487694%):
+2 used ddosguard (0.4444444444444444%):
 ```
 marsalek.cy
 whreceiverrrrrrrrr.ru
@@ -84,7 +85,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.22371364653243847%):
+1 used fastly (0.2222222222222222%):
 ```
 visualwikicloud.com
 ```
@@ -124,7 +125,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22371364653243847%):
+1 used netlify (0.2222222222222222%):
 ```
 swiftfusion.tech
 ```

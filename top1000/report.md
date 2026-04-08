@@ -1,17 +1,18 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 58 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 57 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
+afternic.com
 arubanetworks.com
+cisco.com
 dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
 homedepot.com
 hp.com
-intel.com
 intuit.com
 lowes.com
 marriott.com
@@ -109,6 +110,7 @@ indeed.com
 investopedia.com
 iso.org
 it.com
+jimdo.com
 jquery.com
 kick.com
 kickstarter.com
@@ -143,7 +145,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -204,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -214,10 +215,14 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
+amazon.com.au
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -277,7 +282,6 @@ repubblica.it
 reuters.com
 ryanair.com
 samsungcloud.com
-sbb.ch
 segment.io
 shalltry.com
 shutterstock.com
@@ -296,7 +300,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 warnerbros.com
