@@ -1,4 +1,4 @@
-450 domains tested. 82.66666666666667% were behind nothing (78 were behind something). 28 domains could not be tested.<br>
+450 domains tested. 84.0% were behind nothing (72 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,29 +19,25 @@
 
 ```
 
-46 used cloudflare (10.222222222222223%):
+41 used cloudflare (9.11111111111111%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+boost.newrock.life
 cambodiatouristservice.com
-cccimg.com
-cdnlivechatinc.com
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
-djasdajnsdnjgjg.com
 down.mvip8.ru
-e-ifanyi.com
-fdsafa.best
-filehost.sbs
+fast.newrock.life
 filerit.com
 gutando.com
 hitman-pro.ru
-job.recentbox.life
-one.immortalday.life
+iridiacheats.dev
+kerryglow.info
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
@@ -51,15 +47,14 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
-paper.recentbox.life
+quickly.newrock.life
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
-top.recentbox.life
-tree.immortalday.life
+stone.newrock.life
+thickentributary.digital
 trtmyanmar.com
-vh47kmg3.nexuspatronage.digital
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -125,7 +120,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.2222222222222222%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```

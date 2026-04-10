@@ -1,18 +1,17 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 57 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-afternic.com
 arubanetworks.com
-cisco.com
 dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
 homedepot.com
 hp.com
+intel.com
 intuit.com
 lowes.com
 marriott.com
@@ -42,7 +41,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -52,6 +51,7 @@ anydesk.com
 apnews.com
 appsflyer.com
 berkeley.edu
+blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -65,6 +65,7 @@ character.ai
 chatgpt.com
 chaturbate.com
 chess.com
+classlink.com
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -99,6 +100,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -145,10 +147,10 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 poki.com
 prnewswire.com
@@ -205,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -219,7 +221,6 @@ amazon.com
 amazon.com.au
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -227,14 +228,12 @@ amazonaws.com
 amazontrust.com
 amazonvideo.com
 amzn.to
-aniview.com
 appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
 autodesk.com
 biblegateway.com
-binance.com
 booking.com
 brave.com
 calendly.com
@@ -270,7 +269,6 @@ line.me
 merkle.io
 merriam-webster.com
 nationalgeographic.com
-netgear.com
 noaa.gov
 note.com
 onet.pl
@@ -300,6 +298,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 verisign.com
 warnerbros.com
