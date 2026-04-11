@@ -1,4 +1,4 @@
-450 domains tested. 84.0% were behind nothing (72 were behind something). 28 domains could not be tested.<br>
+440 domains tested. 81.5909090909091% were behind nothing (81 were behind something). 36 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-41 used cloudflare (9.11111111111111%):
+40 used cloudflare (9.090909090909092%):
 ```
 allendostmen.com
 api.baimless.com
@@ -36,7 +36,7 @@ fast.newrock.life
 filerit.com
 gutando.com
 hitman-pro.ru
-iridiacheats.dev
+j84f4g0p.quantumharbinger.digital
 kerryglow.info
 onyxcyberedge.de
 onyxfortifypro.de
@@ -53,7 +53,6 @@ rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
 stone.newrock.life
-thickentributary.digital
 trtmyanmar.com
 wire2spell.com
 www.blackhattoolz.com
@@ -69,8 +68,9 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.4444444444444444%):
+3 used ddosguard (0.6818181818181818%):
 ```
+furystaff.tech
 marsalek.cy
 whreceiverrrrrrrrr.ru
 ```
@@ -80,7 +80,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.2222222222222222%):
+1 used fastly (0.22727272727272727%):
 ```
 visualwikicloud.com
 ```
@@ -120,7 +120,7 @@ visualwikicloud.com
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.22727272727272727%):
 ```
-
+swiftfusion.tech
 ```
