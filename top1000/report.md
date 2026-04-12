@@ -1,11 +1,10 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 dailymail.co.uk
 fda.gov
 godaddy.com
@@ -21,6 +20,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -42,7 +42,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -117,9 +117,9 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
+kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
 llamarpc.com
 loc.gov
@@ -147,6 +147,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -206,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -214,10 +215,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -233,6 +235,7 @@ atlassian.com
 atlassian.net
 autodesk.com
 biblegateway.com
+binance.com
 booking.com
 brave.com
 calendly.com
@@ -297,7 +300,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 warnerbros.com

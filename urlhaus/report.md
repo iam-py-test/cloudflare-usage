@@ -1,4 +1,4 @@
-440 domains tested. 81.5909090909091% were behind nothing (81 were behind something). 36 domains could not be tested.<br>
+434 domains tested. 84.33179723502305% were behind nothing (68 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,25 @@
 
 ```
 
-40 used cloudflare (9.090909090909092%):
+37 used cloudflare (8.525345622119817%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-boost.newrock.life
 cambodiatouristservice.com
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
 down.mvip8.ru
-fast.newrock.life
+dows.1v5s.com
 filerit.com
 gutando.com
 hitman-pro.ru
 j84f4g0p.quantumharbinger.digital
 kerryglow.info
+o3pjh3hs.paragonbloomera.digital
 onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
@@ -47,18 +47,15 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
-quickly.newrock.life
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
-stone.newrock.life
 trtmyanmar.com
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
-xanax.enzostress.st
 xn--yh4bx88a.com
 youtransfer.net
 ```
@@ -68,7 +65,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6818181818181818%):
+3 used ddosguard (0.6912442396313364%):
 ```
 furystaff.tech
 marsalek.cy
@@ -80,7 +77,7 @@ whreceiverrrrrrrrr.ru
 
 ```
 
-1 used fastly (0.22727272727272727%):
+1 used fastly (0.2304147465437788%):
 ```
 visualwikicloud.com
 ```
@@ -120,7 +117,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.22727272727272727%):
+1 used netlify (0.2304147465437788%):
 ```
 swiftfusion.tech
 ```
