@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -42,7 +41,7 @@ erome.com
 
 ```
 
-161 used cloudflare (16.1%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -117,9 +116,9 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 linktr.ee
 llamarpc.com
 loc.gov
@@ -129,6 +128,7 @@ mediafire.com
 mediatek.com
 medium.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -207,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+94 used cloudfront (9.4%):
 ```
 3lift.com
 a-mo.net
@@ -216,15 +216,11 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -235,7 +231,6 @@ atlassian.com
 atlassian.net
 autodesk.com
 biblegateway.com
-binance.com
 booking.com
 brave.com
 calendly.com
