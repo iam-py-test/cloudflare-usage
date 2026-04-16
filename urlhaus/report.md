@@ -1,4 +1,4 @@
-502 domains tested. 79.4820717131474% were behind nothing (103 were behind something). 47 domains could not be tested.<br>
+506 domains tested. 80.43478260869566% were behind nothing (99 were behind something). 45 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,10 +19,9 @@
 
 ```
 
-51 used cloudflare (10.159362549800797%):
+49 used cloudflare (9.683794466403162%):
 ```
-2zjyp0pj.borschokf2dd.digital
-9o394zg7.paragonbloomera.digital
+2cpd365m.plaque5tucco.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
@@ -34,12 +33,11 @@ crystalpvp.ru
 dl.armour-inc-down.net
 down.mvip8.ru
 dump.win
-ef8qorio.latat-long.digital
 filerit.com
+frostcrypt.org
 goplanet.digital
 gutando.com
 hitman-pro.ru
-jdskl139sla.com
 kerryglow.info
 lavnixo.cfd
 new.quranushaiqer.org.sa
@@ -52,13 +50,13 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
+pc24.app
 pdfplugout.com
-photodocvault.info
 quaxcheck.com.tr
+rapidinc.lol
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
-safedocs-hub.info
 spacemanslot88.games
 trtmyanmar.com
 visapics.info
@@ -79,11 +77,11 @@ zyroaim.com
 
 ```
 
-3 used ddosguard (0.5976095617529881%):
+3 used ddosguard (0.592885375494071%):
 ```
+friendlydomain.ru
 furystaff.tech
 marsalek.cy
-weedhack.xyz
 ```
 
 0 used edgecast (0.0%):
@@ -91,7 +89,7 @@ weedhack.xyz
 
 ```
 
-1 used fastly (0.199203187250996%):
+1 used fastly (0.1976284584980237%):
 ```
 visualwikicloud.com
 ```
@@ -131,7 +129,7 @@ visualwikicloud.com
 
 ```
 
-1 used netlify (0.199203187250996%):
+1 used netlify (0.1976284584980237%):
 ```
 swiftfusion.tech
 ```
