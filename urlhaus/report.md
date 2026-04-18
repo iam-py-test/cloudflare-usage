@@ -1,4 +1,4 @@
-461 domains tested. 83.73101952277658% were behind nothing (75 were behind something). 27 domains could not be tested.<br>
+497 domains tested. 81.28772635814889% were behind nothing (93 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,27 +19,44 @@
 
 ```
 
-43 used cloudflare (9.327548806941431%):
+60 used cloudflare (12.072434607645874%):
 ```
 248bestmoon.click
 allendostmen.com
+antongandon.club
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+beacon-mysummitfcu.org
+bestwebchlen.cyou
+bigbadwolf.click
+bigblograin.bond
+biggestchlen.xyz
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
+connect.kexlore.cfd
 crystalpvp.ru
-dl.armour-inc-down.net
 down.mvip8.ru
-dump.win
 filerit.com
-frostcrypt.org
+frozi.cc
+gemini-console.com
+gooddogshop.click
+goodgoodmoon.bond
 gutando.com
 hitman-pro.ru
+install-claude.com
 kerryglow.info
+krempie.xyz
+merchant-gateway.live
+merengagoi.bond
+microblob.bond
 ministrew.info
+mygoodblog.cyou
+mygoodblog.sbs
+myverifyblog.sbs
 new.quranushaiqer.org.sa
+onyxcyberedge.de
 onyxfortifypro.de
 onyxguardify.de
 onyxguardwave.de
@@ -48,14 +65,14 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
-pc24.app
+productionmaza.sbs
 quaxcheck.com.tr
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
+thecowardlydog.com
 trtmyanmar.com
-vcc-library.uk
 visapics.info
 webcstore.pw
 wire2spell.com
@@ -71,7 +88,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6507592190889371%):
+3 used ddosguard (0.6036217303822937%):
 ```
 friendlydomain.ru
 furystaff.tech
@@ -83,12 +100,12 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.21691973969631237%):
+1 used fastly (0.2012072434607646%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.21691973969631237%):
+1 used sucuri (0.2012072434607646%):
 ```
 dfopetroleum.com
 ```
