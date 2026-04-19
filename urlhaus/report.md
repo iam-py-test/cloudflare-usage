@@ -1,4 +1,4 @@
-497 domains tested. 81.28772635814889% were behind nothing (93 were behind something). 28 domains could not be tested.<br>
+490 domains tested. 79.79591836734694% were behind nothing (99 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-60 used cloudflare (12.072434607645874%):
+60 used cloudflare (12.244897959183673%):
 ```
 248bestmoon.click
 allendostmen.com
@@ -38,6 +38,7 @@ cloudstay168.com
 connect.kexlore.cfd
 crystalpvp.ru
 down.mvip8.ru
+fd.v2downf.shop
 filerit.com
 frozi.cc
 gemini-console.com
@@ -56,8 +57,6 @@ mygoodblog.cyou
 mygoodblog.sbs
 myverifyblog.sbs
 new.quranushaiqer.org.sa
-onyxcyberedge.de
-onyxfortifypro.de
 onyxguardify.de
 onyxguardwave.de
 onyxphantomlock.de
@@ -80,6 +79,7 @@ www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
+xrplnode.dev
 youtransfer.net
 ```
 
@@ -88,7 +88,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6036217303822937%):
+3 used ddosguard (0.6122448979591837%):
 ```
 friendlydomain.ru
 furystaff.tech
@@ -100,12 +100,12 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.2012072434607646%):
+1 used fastly (0.20408163265306123%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.2012072434607646%):
+1 used sucuri (0.20408163265306123%):
 ```
 dfopetroleum.com
 ```
