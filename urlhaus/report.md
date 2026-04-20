@@ -1,4 +1,4 @@
-490 domains tested. 79.79591836734694% were behind nothing (99 were behind something). 34 domains could not be tested.<br>
+427 domains tested. 84.07494145199064% were behind nothing (68 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,43 +19,24 @@
 
 ```
 
-60 used cloudflare (12.244897959183673%):
+39 used cloudflare (9.133489461358314%):
 ```
-248bestmoon.click
 allendostmen.com
-antongandon.club
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-beacon-mysummitfcu.org
-bestwebchlen.cyou
-bigbadwolf.click
-bigblograin.bond
-biggestchlen.xyz
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
-connect.kexlore.cfd
 crystalpvp.ru
 down.mvip8.ru
 fd.v2downf.shop
 filerit.com
 frozi.cc
-gemini-console.com
-gooddogshop.click
-goodgoodmoon.bond
 gutando.com
 hitman-pro.ru
-install-claude.com
 kerryglow.info
-krempie.xyz
-merchant-gateway.live
-merengagoi.bond
-microblob.bond
 ministrew.info
-mygoodblog.cyou
-mygoodblog.sbs
-myverifyblog.sbs
 new.quranushaiqer.org.sa
 onyxguardify.de
 onyxguardwave.de
@@ -64,20 +45,18 @@ onyxsafecrypt.de
 onyxsecuregate.de
 onyxsentinelx.de
 onyxstealthnet.de
-productionmaza.sbs
 quaxcheck.com.tr
 reauthenticator.com
 rxquickpay.com
 sabungkingbet189.com
 spacemanslot88.games
-thecowardlydog.com
 trtmyanmar.com
 visapics.info
-webcstore.pw
 wire2spell.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
+x.vodxz.icu
 xn--yh4bx88a.com
 xrplnode.dev
 youtransfer.net
@@ -88,7 +67,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6122448979591837%):
+3 used ddosguard (0.702576112412178%):
 ```
 friendlydomain.ru
 furystaff.tech
@@ -100,12 +79,12 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.20408163265306123%):
+1 used fastly (0.234192037470726%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.20408163265306123%):
+1 used sucuri (0.234192037470726%):
 ```
 dfopetroleum.com
 ```
