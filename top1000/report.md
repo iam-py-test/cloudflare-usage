@@ -1,12 +1,10 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 57 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 55 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
-dailymail.co.uk
 fda.gov
 godaddy.com
 hm.com
@@ -21,6 +19,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -42,7 +41,7 @@ erome.com
 
 ```
 
-165 used cloudflare (16.5%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -118,7 +117,6 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -191,7 +189,6 @@ twitter.com
 uber.com
 umich.edu
 unpkg.com
-upwork.com
 vimeo.com
 vungle.com
 w3.org
@@ -211,14 +208,13 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com.au
@@ -226,6 +222,7 @@ amazon.com.br
 amazon.de
 amazon.fr
 amazon.in
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -309,6 +306,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+xing.com
 zillow.com
 ```
 
