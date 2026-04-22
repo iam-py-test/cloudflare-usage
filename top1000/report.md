@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 55 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 54 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
@@ -19,7 +19,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -41,7 +40,7 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -100,7 +99,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -117,6 +115,7 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
+kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -148,7 +147,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -173,7 +171,6 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
-spamhaus.org
 sportradar.com
 stackoverflow.com
 stripchat.com
@@ -208,21 +205,24 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
