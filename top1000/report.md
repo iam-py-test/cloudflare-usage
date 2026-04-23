@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
 21 used akamai (2.1%):
 ```
 accuweather.com
@@ -99,6 +99,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -182,7 +183,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -205,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -213,15 +213,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.de
-amazon.es
+amazon.com.br
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -289,6 +286,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
