@@ -1,4 +1,4 @@
-413 domains tested. 84.98789346246973% were behind nothing (62 were behind something). 26 domains could not be tested.<br>
+410 domains tested. 83.90243902439025% were behind nothing (66 were behind something). 30 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-31 used cloudflare (7.506053268765134%):
+31 used cloudflare (7.560975609756097%):
 ```
 allendostmen.com
 api.baimless.com
@@ -29,13 +29,14 @@ checkinetverifk.com
 clipaid.app
 cloudstay168.com
 crystalpvp.ru
+desktop-version.com
+dl.armour-inc-down.net
 down.mvip8.ru
 fd.v2downf.shop
 filerit.com
 frozi.cc
 gutando.com
 hitman-pro.ru
-indexsearchfindresult.com
 new.quranushaiqer.org.sa
 onyxguardify.de
 onyxphantomlock.de
@@ -45,7 +46,6 @@ sabungkingbet189.com
 spacemanslot88.games
 trtmyanmar.com
 vanillamods.xyz
-webcstore.pw
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
@@ -59,7 +59,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.7263922518159807%):
+3 used ddosguard (0.7317073170731708%):
 ```
 friendlydomain.ru
 furystaff.tech
@@ -71,12 +71,12 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.24213075060532688%):
+1 used fastly (0.24390243902439024%):
 ```
 visualwikicloud.com
 ```
 
-1 used sucuri (0.24213075060532688%):
+1 used sucuri (0.24390243902439024%):
 ```
 dfopetroleum.com
 ```
