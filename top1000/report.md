@@ -1,11 +1,10 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 56 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -42,12 +41,13 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
 addtoany.com
 allaboutcookies.org
+anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
@@ -61,12 +61,12 @@ britannica.com
 cambridge.org
 canva.com
 casalemedia.com
-change.org
 character.ai
 chatgpt.com
 chaturbate.com
 chess.com
 classlink.com
+claude.ai
 clever.com
 cloudflare-dns.com
 cloudflare.com
@@ -209,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -226,6 +226,8 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -240,6 +242,7 @@ binance.com
 booking.com
 brave.com
 calendly.com
+change.org
 checkpoint.com
 corebridgefinancial.com
 datadoghq.com
@@ -292,7 +295,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -314,11 +316,10 @@ xing.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 crpt.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
