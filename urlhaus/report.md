@@ -1,4 +1,4 @@
-402 domains tested. 85.57213930348259% were behind nothing (58 were behind something). 25 domains could not be tested.<br>
+403 domains tested. 84.863523573201% were behind nothing (61 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,13 @@
 
 ```
 
-30 used cloudflare (7.462686567164178%):
+31 used cloudflare (7.6923076923076925%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
+aps.voltpanel.cloud
 checkinetverifk.com
 clipaid.app
 cloudstay168.com
@@ -36,7 +37,7 @@ filerit.com
 frozi.cc
 gutando.com
 hitman-pro.ru
-ijbfi.pk
+lumennix.live
 new.quranushaiqer.org.sa
 onyxguardify.de
 onyxphantomlock.de
@@ -58,7 +59,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.4975124378109453%):
+2 used ddosguard (0.49627791563275436%):
 ```
 furystaff.tech
 marsalek.cy
@@ -69,7 +70,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.24875621890547264%):
+1 used fastly (0.24813895781637718%):
 ```
 visualwikicloud.com
 ```
