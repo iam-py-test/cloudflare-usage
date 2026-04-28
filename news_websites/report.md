@@ -1,4 +1,4 @@
-200 domains tested. 60.0% were behind nothing (80 were behind something). 5 domains could not be tested.<br>
+200 domains tested. 62.0% were behind nothing (76 were behind something). 3 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 anandabazar.com
@@ -61,14 +61,13 @@ theregister.com
 washingtontimes.com
 ```
 
-30 used cloudfront (15.0%):
+29 used cloudfront (14.499999999999998%):
 ```
 SeattleTimes.com
 abcnews.go.com
 andhrajyothy.com
 csmonitor.com
 drudgereport.com
-engadget.com
 espn.com
 fivethirtyeight.com
 fortune.com
@@ -105,12 +104,11 @@ wsj.com
 
 ```
 
-6 used fastly (3.0%):
+5 used fastly (2.5%):
 ```
 bbc.com
 bbc.com
 cbsnews.com
-corriere.it
 gazzetta.it
 nytimes.com
 ```

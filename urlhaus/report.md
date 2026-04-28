@@ -1,4 +1,4 @@
-403 domains tested. 84.863523573201% were behind nothing (61 were behind something). 27 domains could not be tested.<br>
+470 domains tested. 74.68085106382979% were behind nothing (119 were behind something). 26 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,34 +19,93 @@
 
 ```
 
-31 used cloudflare (7.6923076923076925%):
+90 used cloudflare (19.148936170212767%):
 ```
+63efwnh.leafspring.garden
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-aps.voltpanel.cloud
+aridlogicnode.canyonsyncgate.garden
+base7wavenet.basaltlogicnode.garden
+baseopenwald.qivorpaknode.garden
+bitbluemond.raxonviewunit.garden
+bleuzeit8zone.dexisnetflow.garden
+blue8hostunit.oceanicmeshbit.garden
 checkinetverifk.com
+chillmeshsite.tundraflowunit.garden
 clipaid.app
 cloudstay168.com
-crystalpvp.ru
-deepnoxa.com
+core3gatehost.basaltlogicnode.garden
+darkstarcore.dexisnetflow.garden
+deep7siteview.oceanicmeshbit.garden
 down.mvip8.ru
+drift2logicnet.tundraflowunit.garden
+dust4hostunit.canyonsyncgate.garden
+echomeshsite.canyonsyncgate.garden
+edgehostunit.vertexurbanhub.garden
 fd.v2downf.shop
 filerit.com
+flintpathgate.quartzprismcloud.garden
+frosthostbase.tundraflowunit.garden
 frozi.cc
+galesync7zone.tundraflowunit.garden
+gategoldberg3.raxonviewunit.garden
+glaze3meshnode.quartzprismcloud.garden
+globfastfire7.raxonviewunit.garden
+goldstarport.qivorpaknode.garden
 gutando.com
+hard5logicbox.basaltlogicnode.garden
+highmeshway.vertexurbanhub.garden
 hitman-pro.ru
+hostfastland.dexisnetflow.garden
+ijbfi.pk
+iron9siteview.basaltlogicnode.garden
+ironhausflow2.dexisnetflow.garden
+line5taskhub.vertexurbanhub.garden
+loadpetitstar.zexislinkhub.garden
 lumennix.live
+metabluefire.qivorpaknode.garden
+mist4wavepath.tundraflowunit.garden
 new.quranushaiqer.org.sa
+noirmondsite4.qivorpaknode.garden
 onyxguardify.de
 onyxphantomlock.de
+opalview4site.quartzprismcloud.garden
+packnoirland.raxonviewunit.garden
+pathnoirbaum1.zexislinkhub.garden
+peak8zoneview.canyonsyncgate.garden
+petitwaldnet.dexisnetflow.garden
+plotwavegate.vertexurbanhub.garden
+pointrougesoft.zexislinkhub.garden
+pointrougesoft8.dexishostpath.garden
+prism6hostunit.quartzprismcloud.garden
 reauthenticator.com
+rockmeshunit.basaltlogicnode.garden
+rougesoft9app.dexisnetflow.garden
 rxquickpay.com
 sabungkingbet189.com
+saltpathbase.oceanicmeshbit.garden
+sand6tasksys.canyonsyncgate.garden
+scanvertzeit.raxonviewunit.garden
+shinenetview.quartzprismcloud.garden
+side9pathsite.vertexurbanhub.garden
+solidpathlink.basaltlogicnode.garden
 spacemanslot88.games
+sparklogicway.quartzprismcloud.garden
+storm8taskhub.tundraflowunit.garden
+surf3logicgate.oceanicmeshbit.garden
+sysvert7holz.qivorpaknode.garden
+taskironland.zexislinkhub.garden
+tidemeshnode.oceanicmeshbit.garden
+top2logicnet.vertexurbanhub.garden
+traderhype.com
 trtmyanmar.com
+unitkaltwind.qivorpaknode.garden
+userfastzeit.zexislinkhub.garden
 vcc-library.uk
+viewdarkberg9.zexislinkhub.garden
+windpathgate.canyonsyncgate.garden
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
@@ -59,7 +118,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.49627791563275436%):
+2 used ddosguard (0.425531914893617%):
 ```
 furystaff.tech
 marsalek.cy
@@ -70,7 +129,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.24813895781637718%):
+1 used fastly (0.2127659574468085%):
 ```
 visualwikicloud.com
 ```
