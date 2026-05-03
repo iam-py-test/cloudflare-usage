@@ -1,5 +1,5 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 60 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -11,6 +11,7 @@ fda.gov
 godaddy.com
 hm.com
 homedepot.com
+hotstar.com
 hp.com
 intel.com
 intuit.com
@@ -42,7 +43,7 @@ erome.com
 
 ```
 
-162 used cloudflare (16.2%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -102,6 +103,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -208,7 +210,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -262,6 +264,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 jetbrains.com
@@ -300,6 +303,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 verisign.com
 warnerbros.com
