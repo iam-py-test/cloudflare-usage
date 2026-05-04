@@ -1,11 +1,9 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
-adobe.net
 arubanetworks.com
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -43,7 +41,7 @@ erome.com
 
 ```
 
-163 used cloudflare (16.3%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -103,7 +101,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -120,7 +117,6 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -210,7 +206,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -225,7 +221,6 @@ amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -273,6 +268,7 @@ lijit.com
 line.me
 merriam-webster.com
 nationalgeographic.com
+netgear.com
 noaa.gov
 note.com
 onet.pl
@@ -289,11 +285,11 @@ shalltry.com
 shutterstock.com
 soundcloud.com
 state.gov
+statista.com
 supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -304,7 +300,6 @@ ubnt.com
 ui.com
 un.org
 uol.com.br
-utorrent.com
 verisign.com
 warnerbros.com
 wattpad.com
