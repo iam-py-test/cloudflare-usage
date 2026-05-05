@@ -1,8 +1,9 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 57 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
 coupang.com
 fda.gov
@@ -41,7 +42,7 @@ erome.com
 
 ```
 
-161 used cloudflare (16.1%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 academia.edu
@@ -52,7 +53,6 @@ anydesk.com
 apnews.com
 appsflyer.com
 berkeley.edu
-blueapron.com
 bluehost.com
 box.com
 branch.io
@@ -116,7 +116,7 @@ jimdo.com
 jquery.com
 kick.com
 kickstarter.com
-klaviyo.com
+kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -129,7 +129,6 @@ mediafire.com
 mediatek.com
 medium.com
 moloco.com
-mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -206,7 +205,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -215,15 +214,13 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -235,6 +232,8 @@ atlassian.net
 autodesk.com
 biblegateway.com
 binance.com
+blackberry.com
+blackberry.net
 booking.com
 brave.com
 calendly.com
@@ -282,7 +281,6 @@ ryanair.com
 samsungcloud.com
 segment.io
 shalltry.com
-shutterstock.com
 soundcloud.com
 state.gov
 statista.com

@@ -1,4 +1,4 @@
-354 domains tested. 45.19774011299435% were behind nothing (194 were behind something). 23 domains could not be tested.<br>
+354 domains tested. 53.10734463276836% were behind nothing (166 were behind something). 14 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-158 used cloudflare (44.632768361581924%):
+144 used cloudflare (40.67796610169492%):
 ```
 02ip.ru
 123415.xyz
@@ -35,7 +35,6 @@ email-sendgrid-deep-linking.chewy.com
 2tunes.com
 2ya.com
 301.li
-49r.de
 adf.ly
 adfoc.us
 ahscdn.com
@@ -164,40 +163,24 @@ t.co
 t.ly
 tii.la
 tinyurl.com
-track.canva.com
-unim.ma
-uprot.net
-url.or.at
-url1.io
-urlshortx.com
-usheethe.com
-utml.it
 v.gd
 v.ht
-vze.com
-www.bl.ink
-www.jdoqocy.com
-y0utu.be
-your.ls
 ```
 
-10 used cloudfront (2.824858757062147%):
+7 used cloudfront (1.977401129943503%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
 short.gy
-trk.klclick.com
 trk.klclick1.com
-trk.klclick2.com
 trk.klclick3.com
-zpr.io
 ```
 
-1 used ddosguard (0.2824858757062147%):
+0 used ddosguard (0.0%):
 ```
-u.to
+
 ```
 
 0 used edgecast (0.0%):
@@ -210,9 +193,9 @@ u.to
 
 ```
 
-1 used sucuri (0.2824858757062147%):
+0 used sucuri (0.0%):
 ```
-wee.so
+
 ```
 
 0 used myracloud (0.0%):
