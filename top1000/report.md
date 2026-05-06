@@ -1,10 +1,11 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 57 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -42,7 +43,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -116,12 +117,11 @@ jimdo.com
 jquery.com
 kick.com
 kickstarter.com
+klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 linktr.ee
-llamarpc.com
 loc.gov
 markmonitor.com
 media.net
@@ -183,7 +183,6 @@ themeforest.net
 thenai.org
 tinyurl.com
 twitter.com
-uber.com
 umich.edu
 unpkg.com
 vimeo.com
@@ -205,15 +204,15 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -221,6 +220,7 @@ amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -277,6 +277,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+roblox.com
 ryanair.com
 samsungcloud.com
 segment.io
@@ -299,7 +300,6 @@ ui.com
 un.org
 uol.com.br
 verisign.com
-warnerbros.com
 wattpad.com
 wired.com
 wps.com

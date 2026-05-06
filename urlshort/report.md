@@ -1,4 +1,4 @@
-354 domains tested. 53.10734463276836% were behind nothing (166 were behind something). 14 domains could not be tested.<br>
+354 domains tested. 66.10169491525424% were behind nothing (120 were behind something). 8 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-144 used cloudflare (40.67796610169492%):
+107 used cloudflare (30.225988700564972%):
 ```
 02ip.ru
 123415.xyz
@@ -35,6 +35,7 @@ email-sendgrid-deep-linking.chewy.com
 2tunes.com
 2ya.com
 301.li
+49r.de
 adf.ly
 adfoc.us
 ahscdn.com
@@ -120,62 +121,21 @@ myprivate.pics
 n9.cl
 nxlnk.com
 nyl.as
-ouo.io
-prettylinks.com
-prolink168.com
-pxl.to
-qrco.de
-rb.gy
-rebrand.ly
-rebrandly.com
-rekonise.com
-rkns.link
-rotf.lol
-s.id
-screenshare.pics
-screenshot.best
-shhh.lol
-shorten.ee
-shorten.is
-shorten.world
-shortest.link
-shortlink.ad
 shorturl.at
-shorturl.com
-shorturl.gg
 shre.su
-shrekis.life
-shrink.pe
-shrinkearn.com
-shrinkme.io
-shrtm.nu
 slk.me
-smarturl.it
-snip.ly
-sor.bz
-spoo.me
-spoturl.com
-spqr.to
-stfly.xyz
 stopify.co
 streak-link.com
 t.co
-t.ly
-tii.la
 tinyurl.com
-v.gd
-v.ht
 ```
 
-7 used cloudfront (1.977401129943503%):
+4 used cloudfront (1.1299435028248588%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
-short.gy
-trk.klclick1.com
-trk.klclick3.com
 ```
 
 0 used ddosguard (0.0%):
