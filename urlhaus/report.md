@@ -1,4 +1,4 @@
-1179 domains tested. 91.0941475826972% were behind nothing (105 were behind something). 22 domains could not be tested.<br>
+1049 domains tested. 85.60533841754051% were behind nothing (151 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,89 +19,132 @@
 
 ```
 
-81 used cloudflare (6.870229007633588%):
+124 used cloudflare (11.820781696854146%):
 ```
-18nnbu.fixionmunici9al.lat
-4mnyykj.pastor-publicist.lat
+5igna-line.years-very.lat
 5pru3-trail.sorix3en.lat
 6995847.5doreval.lat
-a3vrjnwj.xamir9el.lat
+85ot.years-very.lat
+891ax6si.baked5ham.lat
 allendostmen.com
+alt-c0mp.years-very.lat
 api.baimless.com
+api.ezilax.com
+apicascade.eight-education.lat
+apidocs.tribun-triptych.lat
 app.appzcvb.com
-appboxs.ascenderviinka.lat
+appboxs.prepol5oldafon.lat
 arkvenex1.godjava.surf
-arkvenon1.represent-skittish.lat
-bitfoxs.lyasi-special.lat
+ashsynt.p7ickmuch.lat
+autumn1-zone.hundred5elf.lat
+basi-wave.5doreval.lat
+bitfoxs.barbos-slimy.lat
+bitfoxs.comforter-panel.lat
 bjzm628x.5doreval.lat
-breezetone.represent-skittish.lat
-c56xjoz.represent-skittish.lat
+broprairi.5doreval.lat
+c18ows.5doreval.lat
 cambodiatouristservice.com
-casual-hinge.pastor-publicist.lat
-checkinetverifk.com
+catalogpriv.hundred5elf.lat
+cliffdawn.eight-education.lat
 clipaid.app
 cloudstay168.com
-cpupros.lyasi-special.lat
-crystalpvp.ru
+cmdsets.enricher-exclam.lat
+cpupros.barbos-slimy.lat
 den53-plate.sorix3en.lat
-devbits.ascenderviinka.lat
-dnswebs.lyasi-special.lat
+devbits.prepol5oldafon.lat
+dnswebs.barbos-slimy.lat
+dnswebs.comforter-panel.lat
 down.mvip8.ru
-duobeam.com
+dyn-venen.hundred5elf.lat
+e31txu7.eight-education.lat
+engineeast.years-very.lat
+extnets.centaur-victim.lat
 fd.v2downf.shop
 filerit.com
 frozi.cc
 ftpsrvs.godjava.surf
-genesun.arch-vivarium.lat
-getcfgs.stick-shaped.lat
+fy4k.hundred5elf.lat
+getcfghubs.nomination5yak.lat
+getcfgs.most0vikrowan.lat
+getcfgs.overdoitework.lat
+gobiotechpestcontrol.com
+gu1d-frame.hundred5elf.lat
 gutando.com
-h1ll-switch.pav1mirex.lat
-hotfixs.stick-shaped.lat
-ipnodes.stick-shaped.lat
+hgelsd.years-very.lat
+hitman-pro.ru
+hotfixpack.nomination5yak.lat
+hotfixs.most0vikrowan.lat
+hotfixs.overdoitework.lat
+ipnodes.most0vikrowan.lat
+ipnodes.overdoitework.lat
+jdn6.5doreval.lat
 jobadms.godjava.surf
-kernel-azur.represent-skittish.lat
+kuacu.eight-education.lat
 libsyss.godjava.surf
 massivesubtle.sorix3en.lat
-mixblo.xamir9el.lat
-netapis.ascenderviinka.lat
+meta-tr4c.5doreval.lat
+metalts.tribun-triptych.lat
+mistmar.years-very.lat
+modbusdata.cabardian-year.lat
+modbuss.centaur-victim.lat
+n3ed5-drive.p7ickmuch.lat
+netapis.prepol5oldafon.lat
+neurocivi.sorix3en.lat
 new.quranushaiqer.org.sa
-norcrest9os.represent-skittish.lat
+norlineor.hundred5elf.lat
 onyxguardify.de
 onyxphantomlock.de
-opsmgrs.lyasi-special.lat
-osbases.srvappsite.lat
+opsmgrs.barbos-slimy.lat
+osbases.tribun-triptych.lat
 pine5-vector.godjava.surf
 pipelineconvert.sorix3en.lat
 pitch-cast.p7ickmuch.lat
-pureclaw-biz.purepage.one
-pwrlogs.fastexitnow.lat
+pkgruns.centaur-victim.lat
+pkgrunstat.cabardian-year.lat
+proxyvall.hundred5elf.lat
+pubdraft.eight-education.lat
+qdgpv.p7ickmuch.lat
 qxodg.sorix3en.lat
 qz.697539.com
+rawdatamap.herdpu7pose.lat
 rawdats.godjava.surf
+rawdats.malachtax2tion.lat
+reauthenticator.com
 rk3ow.p7ickmuch.lat
 rxquickpay.com
-sabungkingbet189.com
-solarvine.pav1mirex.lat
-srvhubs.ascenderviinka.lat
-srvlogs.ascenderviinka.lat
-sshbins.stick-shaped.lat
-sslkeys.stick-shaped.lat
-tmpdirs.stick-shaped.lat
-topsvcs.lyasi-special.lat
+skyvpns.tribun-triptych.lat
+spro3-gate.years-very.lat
+srcgetproc.cabardian-year.lat
+srcgets.centaur-victim.lat
+srvhubs.prepol5oldafon.lat
+srvlogs.prepol5oldafon.lat
+sshbins.most0vikrowan.lat
+sshbins.overdoitework.lat
+sslkeys.most0vikrowan.lat
+sslkeys.overdoitework.lat
+taskidview.fromj2nitor.lat
+tmpdirs.most0vikrowan.lat
+topsvcs.barbos-slimy.lat
 trtmyanmar.com
+uidmapbits.herdpu7pose.lat
 uidmaps.godjava.surf
 ultraceda.sorix3en.lat
 vcc-library.uk
-vpsruns.lyasi-special.lat
-webcdnx.ascenderviinka.lat
+velmeshos.eight-education.lat
+vpsruns.barbos-slimy.lat
+webcdnx.prepol5oldafon.lat
 wood-switch.p7ickmuch.lat
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
-wxuwbd.represent-skittish.lat
 xn--yh4bx88a.com
+yaso.su
+yoi0771.p7ickmuch.lat
 youtransfer.net
 ziparks.godjava.surf
+ziparks.malachtax2tion.lat
+ziparkview.herdpu7pose.lat
+zzkd.eight-education.lat
 ```
 
 0 used cloudfront (0.0%):
@@ -109,9 +152,11 @@ ziparks.godjava.surf
 
 ```
 
-1 used ddosguard (0.08481764206955046%):
+3 used ddosguard (0.2859866539561487%):
 ```
+furystaff.tech
 marsalek.cy
+whpayment.ru
 ```
 
 0 used edgecast (0.0%):
@@ -119,8 +164,9 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.08481764206955046%):
+2 used fastly (0.19065776930409914%):
 ```
+thatdimensionalwebsite.com
 visualwikicloud.com
 ```
 
