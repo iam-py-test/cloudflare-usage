@@ -1,4 +1,4 @@
-354 domains tested. 48.87005649717514% were behind nothing (181 were behind something). 11 domains could not be tested.<br>
+354 domains tested. 69.49152542372882% were behind nothing (108 were behind something). 8 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-157 used cloudflare (44.35028248587571%):
+94 used cloudflare (26.55367231638418%):
 ```
 02ip.ru
 123415.xyz
@@ -96,107 +96,39 @@ iplogger.info
 iplogger.org
 iplogger.ru
 iqr.im
-is.gd
-itsme.page
 klclick.com
 klclick1.com
-klclick2.com
-klclick3.com
-knpp.online
-link-center.net
-link-z.net
-link.sbstck.com
-links.e.malwarebytes.com
-linksbr.com.br
-linkvertise.com
-linkvertise.net
 llili.li
-ln.run
-lnkd.in
-lyksoomu.com
-lyzo.io
 mirrorz.com
-mub.me
-myprivate.pics
-n9.cl
-nxlnk.com
-nyl.as
-ouo.io
-prettylinks.com
-prolink168.com
-pxl.to
-qrco.de
-rebrand.ly
-rebrandly.com
-rekonise.com
-rkns.link
-rotf.lol
 s.id
-screenshare.pics
 screenshot.best
 shhh.lol
-shorten.ee
-shorten.is
-shorten.world
-shortest.link
-shortlink.ad
 shorturl.at
-shorturl.com
-shorturl.gg
-shre.su
-shrekis.life
 shrink.pe
-shrinkearn.com
-shrinkme.io
-shrtm.nu
-slk.me
-smarturl.it
-snip.ly
 sor.bz
 spoo.me
-spoturl.com
-spqr.to
-stfly.xyz
-stopify.co
-streak-link.com
 t.co
-t.ly
 tii.la
 tinyurl.com
 track.canva.com
 unim.ma
-uprot.net
-url.or.at
-url1.io
 urlshortx.com
-usheethe.com
 utml.it
-v.gd
-v.ht
-vze.com
-www.bl.ink
-www.jdoqocy.com
 y0utu.be
-your.ls
 ```
 
-10 used cloudfront (2.824858757062147%):
+5 used cloudfront (1.4124293785310735%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
-rb.gy
 short.gy
-trk.klclick.com
-trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
 ```
 
-1 used ddosguard (0.2824858757062147%):
+0 used ddosguard (0.0%):
 ```
-u.to
+
 ```
 
 0 used edgecast (0.0%):
@@ -209,9 +141,9 @@ u.to
 
 ```
 
-1 used sucuri (0.2824858757062147%):
+0 used sucuri (0.0%):
 ```
-wee.so
+
 ```
 
 0 used myracloud (0.0%):
