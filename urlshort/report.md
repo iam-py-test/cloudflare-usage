@@ -1,4 +1,4 @@
-354 domains tested. 69.49152542372882% were behind nothing (108 were behind something). 8 domains could not be tested.<br>
+354 domains tested. 68.07909604519774% were behind nothing (113 were behind something). 6 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-94 used cloudflare (26.55367231638418%):
+100 used cloudflare (28.24858757062147%):
 ```
 02ip.ru
 123415.xyz
@@ -96,25 +96,31 @@ iplogger.info
 iplogger.org
 iplogger.ru
 iqr.im
+is.gd
+itsme.page
 klclick.com
 klclick1.com
-llili.li
-mirrorz.com
+klclick2.com
+klclick3.com
+knpp.online
+link-center.net
+link-z.net
+linksbr.com.br
+lyksoomu.com
+ouo.io
+rebrand.ly
 s.id
-screenshot.best
 shhh.lol
-shorturl.at
-shrink.pe
-sor.bz
+shorten.ee
+smarturl.it
 spoo.me
 t.co
-tii.la
+t.ly
 tinyurl.com
-track.canva.com
-unim.ma
-urlshortx.com
-utml.it
-y0utu.be
+v.gd
+v.ht
+www.bl.ink
+www.jdoqocy.com
 ```
 
 5 used cloudfront (1.4124293785310735%):
@@ -122,13 +128,13 @@ y0utu.be
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
-qrs.ly
-short.gy
+trk.klclick1.com
+trk.klclick2.com
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.2824858757062147%):
 ```
-
+u.to
 ```
 
 0 used edgecast (0.0%):

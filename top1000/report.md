@@ -1,10 +1,11 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.9% were behind nothing (351 were behind something). 54 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -15,6 +16,7 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+macys.com
 marriott.com
 mayoclinic.org
 mcafee.com
@@ -43,7 +45,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 academia.edu
@@ -156,7 +158,6 @@ pixiv.net
 plesk.com
 poki.com
 prnewswire.com
-publicnode.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -207,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -215,17 +216,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -292,13 +287,11 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
 typeform.com
-ubi.com
 ubnt.com
 ui.com
 un.org
@@ -308,6 +301,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+xing.com
 zillow.com
 ```
 
