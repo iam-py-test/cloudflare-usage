@@ -1,4 +1,4 @@
-354 domains tested. 68.07909604519774% were behind nothing (113 were behind something). 6 domains could not be tested.<br>
+354 domains tested. 53.10734463276836% were behind nothing (166 were behind something). 12 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-100 used cloudflare (28.24858757062147%):
+147 used cloudflare (41.52542372881356%):
 ```
 02ip.ru
 123415.xyz
@@ -105,36 +105,84 @@ klclick3.com
 knpp.online
 link-center.net
 link-z.net
+link.sbstck.com
+links.e.malwarebytes.com
 linksbr.com.br
+linkvertise.com
+linkvertise.net
+llili.li
+ln.run
+lnkd.in
 lyksoomu.com
+lyzo.io
+mirrorz.com
+mub.me
+myprivate.pics
+n9.cl
+nxlnk.com
+nyl.as
 ouo.io
+prettylinks.com
+prolink168.com
+pxl.to
+qrco.de
+rb.gy
 rebrand.ly
+rebrandly.com
+rekonise.com
+rkns.link
+rotf.lol
 s.id
+screenshare.pics
+screenshot.best
 shhh.lol
 shorten.ee
+shorten.is
+shorten.world
+shortest.link
+shortlink.ad
+shorturl.at
+shorturl.com
+shorturl.gg
+shre.su
+shrekis.life
+shrink.pe
+shrinkearn.com
+shrinkme.io
+shrtm.nu
+slk.me
 smarturl.it
+snip.ly
+sor.bz
 spoo.me
+spoturl.com
+spqr.to
+stfly.xyz
+stopify.co
+streak-link.com
 t.co
 t.ly
+tii.la
 tinyurl.com
-v.gd
-v.ht
+url.or.at
 www.bl.ink
 www.jdoqocy.com
+y0utu.be
 ```
 
-5 used cloudfront (1.4124293785310735%):
+6 used cloudfront (1.694915254237288%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
-trk.klclick1.com
-trk.klclick2.com
+qrs.ly
+short.gy
+trk.klclick3.com
 ```
 
-1 used ddosguard (0.2824858757062147%):
+0 used ddosguard (0.0%):
 ```
-u.to
+
 ```
 
 0 used edgecast (0.0%):
