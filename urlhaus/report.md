@@ -1,13 +1,12 @@
-1163 domains tested. 92.26139294926912% were behind nothing (90 were behind something). 22 domains could not be tested.<br>
+687 domains tested. 91.41193595342067% were behind nothing (59 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-2 used bunnycdn (0.17196904557179707%):
+0 used bunnycdn (0.0%):
 ```
-cdn.monero1478.com
-cdn1.monero1478.com
+
 ```
 
 0 used cachefly (0.0%):
@@ -20,69 +19,38 @@ cdn1.monero1478.com
 
 ```
 
-61 used cloudflare (5.2450558899398105%):
+30 used cloudflare (4.366812227074235%):
 ```
-2784kns.kernelgrid.ink
-2qjub.logicstack.ink
 allendostmen.com
 api.baimless.com
 api.ezilax.com
-apidocserv.systemforge.ink
 app.appzcvb.com
-beartrend.logicstack.ink
+argvlidcheck.co
+authshellverif.co
 cambodiatouristservice.com
 checkinetverifk.com
-civicvehicl.scriptmesh.ink
 clipaid.app
-cmdset.systemforge.ink
 crystalpvp.ru
-dbinst.systemforge.ink
-designdepot.scriptmesh.ink
-donutsmpcheat.com
 down.mvip8.ru
-dynmark0on.kernelgrid.ink
 fd.v2downf.shop
 filerit.com
 frozi.cc
-ftpsrv.framevector.ink
-ftscfs.logicstack.ink
-getcfghub.cryptowave.ink
+glokchapigui.co
 gutando.com
-heathergent.cloudvector.ink
 hitman-pro.ru
-ipnodeclisys.cryptowave.ink
-jobadm.framevector.ink
-libsyspathview.framevector.ink
-macroloop.logicstack.ink
-metaltscfgmgr.systemforge.ink
-n0df7.kernelgrid.ink
-neonwallet.app
-netvvork-hinge.cybernode.ink
-networ2-forge.scriptmesh.ink
+httpsfewapi.surf
 new.quranushaiqer.org.sa
-optirni-cast.scriptmesh.ink
 qz.697539.com
-rawdatamapping.framevector.ink
 reauthenticator.com
 rxquickpay.com
-skyvpnnodehub.systemforge.ink
-sol-tideen.kernelgrid.ink
-solnex3et.cybernode.ink
-sshbin.cryptowave.ink
-sslkeybasepoint.cryptowave.ink
-swanresolver.cybernode.ink
+techapiguard.co
 trtmyanmar.com
-v1si-sync.kernelgrid.ink
-vita-not.scriptmesh.ink
-vvh3el-crest.cloudvector.ink
-wamemd.logicstack.ink
-wlr33mz.cloudvector.ink
+vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-zipark.framevector.ink
 ```
 
 0 used cloudfront (0.0%):
@@ -90,7 +58,7 @@ zipark.framevector.ink
 
 ```
 
-3 used ddosguard (0.2579535683576956%):
+3 used ddosguard (0.43668122270742354%):
 ```
 furystaff.tech
 marsalek.cy
@@ -102,7 +70,7 @@ whpayment.ru
 
 ```
 
-2 used fastly (0.17196904557179707%):
+2 used fastly (0.2911208151382824%):
 ```
 thatdimensionalwebsite.com
 visualwikicloud.com
