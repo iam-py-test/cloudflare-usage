@@ -1,8 +1,11 @@
-1000 domains tested. 65.10000000000001% were behind nothing (349 were behind something). 56 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+admanmedia.com
 adobe.com
+adobe.net
+afternic.com
 arubanetworks.com
 coupang.com
 fda.gov
@@ -14,7 +17,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-macys.com
 marriott.com
 mayoclinic.org
 mcafee.com
@@ -43,7 +45,7 @@ erome.com
 
 ```
 
-157 used cloudflare (15.7%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -102,6 +104,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 grok.com
 hcaptcha.com
 hostgator.com
@@ -148,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -155,6 +159,7 @@ pixiv.net
 plesk.com
 poki.com
 prnewswire.com
+quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -171,6 +176,7 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
+split.io
 sportradar.com
 stackoverflow.com
 stripchat.com
@@ -182,6 +188,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -204,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -212,11 +219,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -243,6 +251,7 @@ deviantart.com
 doi.org
 dotomi.com
 dropcatch.com
+duolingo.com
 dynatrace.com
 elasticbeanstalk.com
 espn.com
@@ -294,6 +303,8 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
+utorrent.com
 verisign.com
 wattpad.com
 wired.com
@@ -302,11 +313,10 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 crpt.ru
 netangels.ru
-pikabu.ru
 ```
 
 0 used edgecast (0.0%):
