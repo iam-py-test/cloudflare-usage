@@ -44,7 +44,7 @@ usfa.fema.gov
 
 ```
 
-44 used cloudflare (12.18836565096953%):
+43 used cloudflare (11.911357340720222%):
 ```
 aoc.gov
 bjs.gov
@@ -57,7 +57,6 @@ cops.usdoj.gov
 copyright.gov
 csb.gov
 dau.edu
-denali.gov
 eac.gov
 eda.gov
 fbi.gov
@@ -147,8 +146,9 @@ visitthecapitol.gov
 
 ```
 
-1 used sucuri (0.2770083102493075%):
+2 used sucuri (0.554016620498615%):
 ```
+denali.gov
 jusfc.gov
 ```
 
