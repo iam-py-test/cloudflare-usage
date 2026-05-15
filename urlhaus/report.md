@@ -1,4 +1,4 @@
-492 domains tested. 77.23577235772358% were behind nothing (112 were behind something). 22 domains could not be tested.<br>
+525 domains tested. 76.0% were behind nothing (126 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,95 +19,102 @@
 
 ```
 
-87 used cloudflare (17.682926829268293%):
+94 used cloudflare (17.904761904761905%):
 ```
-4bklvfdi.estradaannivers.digital
+4oob20cq.sue-intentioned.digital
 64bc33vp.chequecholeric.digital
-9nl6t4w2.estradaannivers.digital
+8xorq0f0.after-diacritic.digital
 accoun-table-unleash-soft.wiki
 advanced-it-infrastructure.courses
 allendostmen.com
+analytical-traffic-audit-record-file.wiki
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 asyncpipelinehub.wiki
-bula-silomercitationlaptop.wiki
-cafe-club-oracle-card.wiki
+binary-buffer-overflow-protection-lab.wiki
+botanicalworkflow.garden
+card-oracle-mac-laptop.wiki
+cartwell-pastphantom.courses
 cebol.me
 checkinetverifk.com
-cherish-cultscreencard.wiki
 clipaid.app
 cloudruntime.courses
 coder-logic-vault.courses
 conjur-kremlinshort.wiki
-containerfabric.wiki
-containerorchestrationhub.wiki
 crystalpvp.ru
-cybergrid.surf
-dashcorpcloud.co
 decentralizedmessagingframework.wiki
 decentralizedworkflowengine.wiki
-distributedobjectstoragenet.wiki
+desk-sensor-tabel-tunnel-key.wiki
+distributedcache.courses
 down.mvip8.ru
-eaglefungustourismscreen.wiki
+download-api-endpoint.com
 edge-processing-network.courses
+edge-processing-network.wiki
 enterprise-security-log.courses
+expert-trading-academy.courses
 fd.v2downf.shop
 federated-runtime-network.wiki
 filerit.com
+flora-security-base.garden
 frozi.cc
+global-infra-logic-get-hash.wiki
+global-infra-node-date-hash.wiki
+gnashhusks.courses
 gutando.com
-handout-voivodeshiplink.wiki
-hemorrhoid-daydark.wiki
+handout-voivo-desk-ship-link.wiki
 hitman-pro.ru
-hypervisorcontrolplanegrid.wiki
+hydropower-irrigation.garden
 hypervisorresourcecontroller.wiki
+inherittruckdoge.courses
+kadush-sideburnsushan.courses
+krc5t7kn.ripples-shark.digital
+layer-get-win-tron.wiki
+layer-obs-usget-tron.wiki
 linkku.me
-logicnode.surf
-lyapissvebechkopassword.wiki
-m1rz16og.poles-wrinkle.digital
+logic-buffer-skills.courses
+master-core-system-date-slink.wiki
+master-planting-logic-manual.garden
+master-voivo-system-shop-slink.wiki
+masteringdigital-arch.courses
+meta-data-shredding-cleanup-utility.wiki
 microkernel-routing-engine.wiki
-microservice-balancer-node.wiki
 microservicehub.courses
 new.quranushaiqer.org.sa
+obese-table-usweb-play.wiki
 obese-uzousweb-play.wiki
-observability-stream-hub.wiki
-ohqvz201.unseen-zorenka.digital
-op1h26r1.exhaustoverwint.digital
-oy85ola7.unseen-zorenka.digital
+p4l3fctz.bitter-salty.digital
 packet-routing-lab.courses
 packetdistributionmesh.wiki
-packetrelay.wiki
 patenttag.wiki
-pixelcore.surf
-pt6nyxsf.unseen-zorenka.digital
-q8gac86p.unseen-zorenka.digital
+pro-cyber-defense.courses
 quickwebdevops.courses
 qz.697539.com
-r9chy91i.unseen-zorenka.digital
 reauthenticator.com
-runtimeexecutionlayer.wiki
 rxquickpay.com
-scalpingstillephemer-natorel.wiki
+sd9arw2r.flos-strip.digital
 seducingdelirium.surf
 serverless-mesh-core.courses
-serverless-mesh-core.wiki
-streamprocessingnode.wiki
-sub-substituteunfeignedflash.wiki
+sinkingyourself.courses
+smartworkflowmanagement.courses
+stack-core-node-date-hash.wiki
+stat-collection-engine-performance-view.wiki
+system-analytics-pro-guide.courses
+t7osftz9.estat-goldilock.digital
 telemetry-observability-core.wiki
-tertsiyavocalsunseenfile.wiki
+telemetrycore.courses
 trtmyanmar.com
-utl1juep.estradaannivers.digital
 vcc-library.uk
-vg2tw8iq.unseen-zorenka.digital
-virtual-packet-gateway.wiki
 virtual-session-broker.wiki
-wearjora.com
+virtual-session-gateway.courses
+wildflower-path-mapping.garden
+ws09ax4h.limous-nitout.digital
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
+ywh94lky.champag-mannered.digital
 ```
 
 0 used cloudfront (0.0%):
@@ -115,9 +122,10 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.20325203252032523%):
+2 used ddosguard (0.38095238095238093%):
 ```
 furystaff.tech
+whbackend.ru
 ```
 
 0 used edgecast (0.0%):
@@ -125,7 +133,7 @@ furystaff.tech
 
 ```
 
-2 used fastly (0.40650406504065045%):
+2 used fastly (0.38095238095238093%):
 ```
 thatdimensionalwebsite.com
 visualwikicloud.com
