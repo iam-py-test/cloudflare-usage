@@ -1,11 +1,12 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 57 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -44,7 +45,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 academia.edu
@@ -156,7 +157,6 @@ pixiv.net
 plesk.com
 poki.com
 prnewswire.com
-quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -207,7 +207,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -217,13 +217,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
+amazon.com.au
+amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -291,7 +289,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -300,7 +297,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
