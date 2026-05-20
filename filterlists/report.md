@@ -1,4 +1,4 @@
-224 domains tested. 58.48214285714286% were behind nothing (93 were behind something). 8 domains could not be tested.<br>
+224 domains tested. 58.03571428571429% were behind nothing (94 were behind something). 8 domains could not be tested.<br>
 5 used akamai (2.232142857142857%):
 ```
 cdn.adblockcdn.com
@@ -24,7 +24,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-59 used cloudflare (26.339285714285715%):
+60 used cloudflare (26.785714285714285%):
 ```
 abp.tt.codes
 abpvn.com
@@ -36,6 +36,7 @@ anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 blokada.org
+cdn.jsdelivr.net
 cdn.statically.io
 combinatronics.io
 dns-family.adguard.com
@@ -102,12 +103,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.142857142857142%):
+15 used fastly (6.696428571428571%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ubo.github.io
 iam-py-test.github.io
@@ -157,7 +157,7 @@ www.thedumbterminal.co.uk
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.4464285714285714%):
 ```
-
+filter.futa.gg
 ```

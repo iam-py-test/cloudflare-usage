@@ -1,4 +1,4 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -103,7 +103,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -157,7 +156,6 @@ pixiv.net
 plesk.com
 poki.com
 prnewswire.com
-quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -167,7 +165,6 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
-shein.com
 shopify.com
 singular.net
 smartadserver.com
@@ -208,20 +205,20 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -244,6 +241,7 @@ brave.com
 calendly.com
 change.org
 checkpoint.com
+dailymotion.com
 datadoghq.com
 deviantart.com
 doi.org
@@ -271,6 +269,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -322,12 +321,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

@@ -1,4 +1,4 @@
-571 domains tested. 76.18213660245185% were behind nothing (136 were behind something). 24 domains could not be tested.<br>
+536 domains tested. 77.98507462686567% were behind nothing (118 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,117 +19,100 @@
 
 ```
 
-109 used cloudflare (19.089316987740805%):
+92 used cloudflare (17.16417910447761%):
 ```
 0q9bvoqh.telemetry-vault.digital
-abandoned-asylum-expedition.garden
+3zqfx034.subfossiloakchronology.digital
+46fmfamd.crispychickencutlets.digital
+8xtx6dv2.gothiccathedralblueprint.digital
+abyssal-plain-topography.garden
+agilebee-federate-growth-net.garden
 allendostmen.com
+amber-fossil-mosquito.garden
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 audio-attenuator-schematic.garden
-ba5ufc2h.logic-sphere.digital
-botanicalanalyticsengine.garden
-botanicalresourceplatform.garden
-botanicalworkflowcenter.garden
-botanicalworkflowplatform.garden
+bagansi-wild-flowr-manage-form.garden
+bedzvnbo.ecosystemresourceplatform.garden
+bloomdistributioncenter.garden
+botanicalautomationframework.garden
+carbon-fiber-monocoque.garden
 checkinetverifk.com
-chronicle-archive-keeper.garden
-cleanlay-fet-telemetry-vault.garden
-clipaid.app
-containerizedbloomhub.garden
-containerizedgardenhub.garden
-containerizedplantnetwork.garden
-cosmicmicrowavebackground.garden
+codepit-rized-denengine.garden
+containerizedgardenengine.garden
 crackedsoftware.doxbin.cy
 crystalpvp.ru
 cybernetic-prosthetic-lab.garden
+dampcaps-flor-sou-rail.garden
+dengrep-resource-opencut-engine.garden
 distributedbotanicalnetwork.garden
-distributedgardencontrol.garden
-distributedgrowthnetwork.garden
-distributedmeadownetwork.garden
+distributedgardenanalytics.garden
 docsfan-flora-ability-system.garden
-ecosystem-processing-tienginx-center.garden
-ecosystemmanagementcore.garden
 fd.v2downf.shop
+federatedgrowthnetwork.garden
 federatedmeadowsystem.garden
-federatedplantplatform.garden
 filerit.com
-flora-observe-ability-engine.garden
-floraanalyticsengine.garden
-floraanalyticsresource.garden
-floraautomationnetwork.garden
-floraobservabilitysystem.garden
+floraresourcecontroller.garden
 frozi.cc
 gardenautomationframework.garden
-gardenresourcecontroller.garden
-gobiotechpestcontrol.com
-got-flexl-distrib-engine.garden
+gardeninfrastructurecore.garden
+green-macrohim-work-center.garden
 greenhousecontrolplatform.garden
 greenhousedeploymenthub.garden
 greenhousemanagementengine.garden
-greenhousemonitoringhub.garden
-greenhouseresourceengine.garden
 gutando.com
 hitman-pro.ru
+holistic-detective-agency.garden
 holographic-projection-grid.garden
-infoworkerOne.com
-infoworkerOne.org
-irrigationautomationhub.garden
-irrigationmanagementhub.garden
-irrigationprocessingnetwork.garden
-irrigationworkflowsystem.garden
-it-irrigation-control-network.garden
-jobworkNY.com
-july-feded-plants-workflow.garden
+irrigationtelemetrysystem.garden
+jzufjrnq.floraanalyticshub.garden
 k9h20m23.observability-matrix.digital
-load-meadows-analytics-cntr.garden
 magnetic-levitation-train.garden
-masterklass.net
-maxStatesUS.ORG
 meadowmanagementcenter.garden
-meadowmonitoringplatform.garden
-merkureEnv.net
+meadowoperationshub.garden
+mendocs-opera-shub-cowddos.garden
+microflora-management-hub.garden
+modelcut-auto-frame-nodipfs.garden
+modesix-iontel-scalapie-system.garden
 mongofly-container-gard-mesh.garden
 monstersStat.com
 mstopsai.com
-neoncyberpunkcity.garden
 new.quranushaiqer.org.sa
-ostekStatmen.net
 pcapshay-bute-gard-source.garden
-petal-distribution-engine.garden
+perfect-bolognese-simmer.garden
 petalautomationplatform.garden
 petaldistributioncenter.garden
-petalprocessingplatform.garden
+petalresourceengine.garden
 petalresourceframework.garden
-petalworkflowengine.garden
-porthot-irr-gation-menthub.garden
-predator-hunting-chronicles.garden
+q956x3rl.badabingsopranoslounge.digital
 qz.697539.com
-radiopin-botn-monitor-in-gengine.garden
 reauthenticator.com
 renaissance-fresco-restoration.garden
-retro-gaming-launcher.garden
 rxquickpay.com
+scaletax-bute-analytics-toeheap.garden
 sicilian-defense-theory.garden
-siteyet-script-horizon-go.garden
-slashbob-distrib-plat-form.garden
-sorrystartstat1.net
+stealth-bomber-radar-cross.garden
+stratographic-core-drill.garden
 subfossil-oak-chronology.garden
+the-sopranos-family-tree.garden
+tifameat.containerized-growth-engine.garden
 trtmyanmar.com
-vbytelot-mead-automation-form.garden
+vacuum-tube-amplifier.garden
 vcc-library.uk
-wilder-flow-work-lmsystem.garden
 wildfloracontrolsystem.garden
-wildfloraintegrationplatform.garden
+wildflorainfrastructurehub.garden
+wildfloramanagementplatform.garden
 wildfloraprocessinghub.garden
-wildfloraresourceengine.garden
 wildfloraworkflowsystem.garden
 www.blackhattoolz.com
+www.jerminpelle.com
 www.vuelaviajero.com
+xenomorph-hive-intelligence.garden
 xn--yh4bx88a.com
+ybhyrjaj.asynchronouswateringmesh.garden
 youtransfer.net
-zoneday-green-house-oper-center.garden
+zqbegtka.floraanalyticshub.garden
 ```
 
 0 used cloudfront (0.0%):
@@ -137,10 +120,12 @@ zoneday-green-house-oper-center.garden
 
 ```
 
-2 used ddosguard (0.3502626970227671%):
+4 used ddosguard (0.7462686567164178%):
 ```
+fucktermedfir.st
 furystaff.tech
 marsalek.cy
+vantarat.st
 ```
 
 0 used edgecast (0.0%):
@@ -148,7 +133,7 @@ marsalek.cy
 
 ```
 
-1 used fastly (0.17513134851138354%):
+1 used fastly (0.18656716417910446%):
 ```
 visualwikicloud.com
 ```
