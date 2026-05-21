@@ -1,4 +1,4 @@
-536 domains tested. 77.98507462686567% were behind nothing (118 were behind something). 21 domains could not be tested.<br>
+523 domains tested. 79.1586998087954% were behind nothing (109 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,92 +19,82 @@
 
 ```
 
-92 used cloudflare (17.16417910447761%):
+82 used cloudflare (15.678776290630974%):
 ```
-0q9bvoqh.telemetry-vault.digital
-3zqfx034.subfossiloakchronology.digital
-46fmfamd.crispychickencutlets.digital
-8xtx6dv2.gothiccathedralblueprint.digital
-abyssal-plain-topography.garden
 agilebee-federate-growth-net.garden
 allendostmen.com
 amber-fossil-mosquito.garden
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-audio-attenuator-schematic.garden
-bagansi-wild-flowr-manage-form.garden
+azktfv.wildflora-processing-network.garden
+bcypppaq.asynchronous-growth-platform.garden
 bedzvnbo.ecosystemresourceplatform.garden
 bloomdistributioncenter.garden
 botanicalautomationframework.garden
+byte-vault.christmas
+carbon-dating-calibration.garden
 carbon-fiber-monocoque.garden
 checkinetverifk.com
-codepit-rized-denengine.garden
-containerizedgardenengine.garden
-crackedsoftware.doxbin.cy
+cloud-sync-engine.christmas
+containerized-plant-system.garden
 crystalpvp.ru
-cybernetic-prosthetic-lab.garden
-dampcaps-flor-sou-rail.garden
-dengrep-resource-opencut-engine.garden
-distributedbotanicalnetwork.garden
-distributedgardenanalytics.garden
-docsfan-flora-ability-system.garden
+d.tmpfile.link
 fd.v2downf.shop
-federatedgrowthnetwork.garden
-federatedmeadowsystem.garden
+fgbojhem.meadowprocessingframework.garden
 filerit.com
+floraecosystemhub.garden
 floraresourcecontroller.garden
 frozi.cc
-gardenautomationframework.garden
+fxwklbyr.meadowprocessingframework.garden
 gardeninfrastructurecore.garden
-green-macrohim-work-center.garden
-greenhousecontrolplatform.garden
-greenhousedeploymenthub.garden
-greenhousemanagementengine.garden
+gardenprocessinghub.garden
+gothic-vault-engineering.garden
 gutando.com
 hitman-pro.ru
 holistic-detective-agency.garden
-holographic-projection-grid.garden
-irrigationtelemetrysystem.garden
+hppbtwyk.petal-growth-platform.garden
+icfzyz.distributedgrowthengine.garden
+irrigation-control-framework.garden
+irrigation-monitoring-framework.garden
+jalfms.gardenworkflowplatform.garden
 jzufjrnq.floraanalyticshub.garden
-k9h20m23.observability-matrix.digital
-magnetic-levitation-train.garden
-meadowmanagementcenter.garden
+kampoxks.bloommanagementengine.garden
+kzwvrleb.irrigation-monitoring-system.garden
+lasagnabakingsecrets.study
+meadow-processing-core.garden
 meadowoperationshub.garden
-mendocs-opera-shub-cowddos.garden
 microflora-management-hub.garden
+microservice-hub.christmas
 modelcut-auto-frame-nodipfs.garden
 modesix-iontel-scalapie-system.garden
-mongofly-container-gard-mesh.garden
 monstersStat.com
+mpvcbz.quantumvelocitylabs.study
 mstopsai.com
+network-flow-system.christmas
 new.quranushaiqer.org.sa
-pcapshay-bute-gard-source.garden
-perfect-bolognese-simmer.garden
-petalautomationplatform.garden
-petaldistributioncenter.garden
-petalresourceengine.garden
-petalresourceframework.garden
-q956x3rl.badabingsopranoslounge.digital
+proxy-hub.christmas
+qmzbbjle.microfloraresource.garden
 qz.697539.com
 reauthenticator.com
-renaissance-fresco-restoration.garden
 rxquickpay.com
-scaletax-bute-analytics-toeheap.garden
-sicilian-defense-theory.garden
+samsclass.info
+sdnzyq.botanical-control-system.garden
+signal-processing-core.christmas
+stackbridge.christmas
 stealth-bomber-radar-cross.garden
 stratographic-core-drill.garden
-subfossil-oak-chronology.garden
+submerged-continental-shelf.garden
+telemetry-control-hub.christmas
 the-sopranos-family-tree.garden
 tifameat.containerized-growth-engine.garden
 trtmyanmar.com
-vacuum-tube-amplifier.garden
+tvlhpsjn.meadowprocessingframework.garden
 vcc-library.uk
-wildfloracontrolsystem.garden
+vintage-telemetry-receiver.garden
 wildflorainfrastructurehub.garden
-wildfloramanagementplatform.garden
-wildfloraprocessinghub.garden
-wildfloraworkflowsystem.garden
+wincheck.ink
+wknzex.petalresourcehub.garden
 www.blackhattoolz.com
 www.jerminpelle.com
 www.vuelaviajero.com
@@ -120,11 +110,12 @@ zqbegtka.floraanalyticshub.garden
 
 ```
 
-4 used ddosguard (0.7462686567164178%):
+5 used ddosguard (0.9560229445506693%):
 ```
 fucktermedfir.st
 furystaff.tech
 marsalek.cy
+vanta.st
 vantarat.st
 ```
 
@@ -133,7 +124,7 @@ vantarat.st
 
 ```
 
-1 used fastly (0.18656716417910446%):
+1 used fastly (0.19120458891013384%):
 ```
 visualwikicloud.com
 ```

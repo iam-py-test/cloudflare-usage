@@ -1,4 +1,4 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -103,6 +103,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -148,7 +149,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -205,24 +205,21 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
-amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -243,6 +240,7 @@ change.org
 checkpoint.com
 dailymotion.com
 datadoghq.com
+deepseek.com
 deviantart.com
 doi.org
 dotomi.com
@@ -292,6 +290,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -321,11 +320,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
