@@ -1,4 +1,4 @@
-503 domains tested. 88.27037773359841% were behind nothing (59 were behind something). 20 domains could not be tested.<br>
+472 domains tested. 84.53389830508475% were behind nothing (73 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,41 +19,50 @@
 
 ```
 
-36 used cloudflare (7.157057654075547%):
+45 used cloudflare (9.533898305084746%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 app.idanburuku.sbs
-carbon-dating-calibration.garden
+byte-network-hub.christmas
 checkinetverifk.com
 chickencutlethacks.fit
 crystalpvp.ru
+cyber-defensepro.christmas
 cyber-prosthetic.fit
-d.tmpfile.link
 fd.v2downf.shop
 filerit.com
+formkey.asia
 franklinfuelings.com
 frozi.cc
-gothic-vault-engineering.garden
+get2508.host87p.cfd
+get4061.host87p.cfd
 gutando.com
 hitman-pro.ru
-irrigation-control-framework.garden
+ijbfi.pk
+lasagna-bakingpro.christmas
 new.quranushaiqer.org.sa
+orbital-mechanics.christmas
+proxy-stream.christmas
+quantumvelocitylabs.christmas
 qz.697539.com
 reauthenticator.com
-royalindiancurryclub.com
+runtime-processing-node.christmas
 rxquickpay.com
 samsclass.info
-submerged-continental-shelf.garden
+signal-routing-framework.christmas
+sopranos-familytree.christmas
+spamgym.asia
+stack-control-plane.christmas
+subterranean-mineral.christmas
 telemetry-orbit.buzz
+telemetrymesh.christmas
 trtmyanmar.com
 vcc-library.uk
-vintage-telemetry-receiver.garden
-wincheck.ink
+virtual-packet-grid.christmas
 www.blackhattoolz.com
-www.jerminpelle.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
@@ -64,10 +73,11 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.3976143141153081%):
+3 used ddosguard (0.6355932203389831%):
 ```
 fucktermedfir.st
 furystaff.tech
+vanta.st
 ```
 
 0 used edgecast (0.0%):
@@ -75,7 +85,7 @@ furystaff.tech
 
 ```
 
-1 used fastly (0.19880715705765406%):
+1 used fastly (0.211864406779661%):
 ```
 visualwikicloud.com
 ```
