@@ -1,5 +1,5 @@
-224 domains tested. 58.03571428571429% were behind nothing (94 were behind something). 8 domains could not be tested.<br>
-5 used akamai (2.232142857142857%):
+221 domains tested. 57.9185520361991% were behind nothing (93 were behind something). 9 domains could not be tested.<br>
+5 used akamai (2.262443438914027%):
 ```
 cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
@@ -8,7 +8,7 @@ www.barclaycardrewardsboost.com
 www.rakuten.ca
 ```
 
-2 used bunnycdn (0.8928571428571428%):
+2 used bunnycdn (0.904977375565611%):
 ```
 oooo.b-cdn.net
 www.bentasker.co.uk
@@ -19,12 +19,12 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.4464285714285714%):
+1 used cdn77 (0.4524886877828055%):
 ```
 filters.adtidy.org
 ```
 
-61 used cloudflare (27.232142857142854%):
+58 used cloudflare (26.244343891402718%):
 ```
 abp.tt.codes
 abpvn.com
@@ -36,14 +36,11 @@ anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 blokada.org
-cdn.jsdelivr.net
 cdn.statically.io
 combinatronics.io
 dns-family.adguard.com
 dns.adgk.net
 dns.adguard.com
-easydutch.pages.dev
-easydutchcdn.pages.dev
 easylist.to
 family.cloudflare-dns.com
 fanboy.co.nz
@@ -89,12 +86,12 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-1 used cloudfront (0.4464285714285714%):
+1 used cloudfront (0.4524886877828055%):
 ```
 www.topcashback.com
 ```
 
-1 used ddosguard (0.4464285714285714%):
+1 used ddosguard (0.4524886877828055%):
 ```
 gitflic.ru
 ```
@@ -104,13 +101,14 @@ gitflic.ru
 
 ```
 
-15 used fastly (6.696428571428571%):
+16 used fastly (7.239819004524888%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
+cdn.jsdelivr.net
 downloads.vivaldi.com
-easydutch-ubo.github.io
+easydutch-ublockorigin.github.io
 iam-py-test.github.io
 mkb2091.github.io
 paulgb.github.io

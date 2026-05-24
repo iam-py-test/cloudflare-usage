@@ -1,4 +1,4 @@
-472 domains tested. 84.53389830508475% were behind nothing (73 were behind something). 24 domains could not be tested.<br>
+436 domains tested. 81.88073394495413% were behind nothing (79 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,30 +19,32 @@
 
 ```
 
-45 used cloudflare (9.533898305084746%):
+47 used cloudflare (10.77981651376147%):
 ```
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-app.idanburuku.sbs
 byte-network-hub.christmas
 checkinetverifk.com
-chickencutlethacks.fit
 crystalpvp.ru
 cyber-defensepro.christmas
-cyber-prosthetic.fit
 fd.v2downf.shop
 filerit.com
 formkey.asia
-franklinfuelings.com
 frozi.cc
 get2508.host87p.cfd
 get4061.host87p.cfd
 gutando.com
 hitman-pro.ru
-ijbfi.pk
+hoycbijv.holiday-matrix.christmas
+hzlqlpfw.frost-engine.christmas
+ihtfqktk.holiday-matrix.christmas
+ilhvyrij.ipv4has-lampnew.cyou
 lasagna-bakingpro.christmas
+mfbrkbuv.betnoise-unionour.cyou
+mkszunli.flopstin-gymcargo.cyou
+mvltyody.frost-engine.christmas
 new.quranushaiqer.org.sa
 orbital-mechanics.christmas
 proxy-stream.christmas
@@ -57,7 +59,6 @@ sopranos-familytree.christmas
 spamgym.asia
 stack-control-plane.christmas
 subterranean-mineral.christmas
-telemetry-orbit.buzz
 telemetrymesh.christmas
 trtmyanmar.com
 vcc-library.uk
@@ -65,6 +66,7 @@ virtual-packet-grid.christmas
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
+y4gf3n18.network-foundry.digital
 youtransfer.net
 ```
 
@@ -73,7 +75,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6355932203389831%):
+3 used ddosguard (0.6880733944954129%):
 ```
 fucktermedfir.st
 furystaff.tech
@@ -85,7 +87,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.211864406779661%):
+1 used fastly (0.22935779816513763%):
 ```
 visualwikicloud.com
 ```

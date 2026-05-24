@@ -1,4 +1,4 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 58 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 academia.edu
@@ -104,7 +104,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -207,7 +206,7 @@ zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -218,11 +217,10 @@ amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -294,7 +292,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -303,7 +300,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
@@ -324,14 +320,13 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
-lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
