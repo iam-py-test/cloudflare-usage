@@ -1,4 +1,4 @@
-436 domains tested. 81.88073394495413% were behind nothing (79 were behind something). 28 domains could not be tested.<br>
+424 domains tested. 81.36792452830188% were behind nothing (79 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,55 +19,61 @@
 
 ```
 
-47 used cloudflare (10.77981651376147%):
+53 used cloudflare (12.5%):
 ```
+58knxotz.proxy-compass.digital
 allendostmen.com
+api-metrics-6258.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-byte-network-hub.christmas
+arrtom.followyourjoy.hu
+astradomain.com
+brenowblyuk.com
 checkinetverifk.com
 crystalpvp.ru
-cyber-defensepro.christmas
+dbvxnw.fullnrg.hu
+dxsdji.felhangolo.com
 fd.v2downf.shop
 filerit.com
-formkey.asia
+fkmrx4nm.signal-meridian.digital
 frozi.cc
-get2508.host87p.cfd
-get4061.host87p.cfd
+gobiotechpestcontrol.com
+gq0e2dm9.kernel-beacon.digital
 gutando.com
 hitman-pro.ru
-hoycbijv.holiday-matrix.christmas
-hzlqlpfw.frost-engine.christmas
-ihtfqktk.holiday-matrix.christmas
+hqcmiiiu.cloud-orbit.digital
+ieeljt.fittkor.hu
 ilhvyrij.ipv4has-lampnew.cyou
-lasagna-bakingpro.christmas
+jgkvlq.fulop-vargafanni.hu
+kgztgu.fortunalamella.hu
+kimfeg.fusionizemanagement.com
+mcq9ktcv.telemetry-nexus.digital
 mfbrkbuv.betnoise-unionour.cyou
 mkszunli.flopstin-gymcargo.cyou
-mvltyody.frost-engine.christmas
+n4burrgj.runtime-cascade.digital
 new.quranushaiqer.org.sa
-orbital-mechanics.christmas
-proxy-stream.christmas
-quantumvelocitylabs.christmas
+npukpk.fodraszoktatas.eu
+nqvfew.flybuilt.eu
+orbitstride7.com
+qsxrao.flybuilt.hu
 qz.697539.com
 reauthenticator.com
-runtime-processing-node.christmas
+royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
-signal-routing-framework.christmas
-sopranos-familytree.christmas
-spamgym.asia
-stack-control-plane.christmas
-subterranean-mineral.christmas
-telemetrymesh.christmas
+trejzg.femeso.hu
 trtmyanmar.com
+uudiolsq.packet-frontier.digital
 vcc-library.uk
-virtual-packet-grid.christmas
+vuvwlz.fluss.hu
+wwkgzd.flybuiltstudio.com
 www.blackhattoolz.com
 www.vuelaviajero.com
+xdfbko.feszt360.hu
 xn--yh4bx88a.com
-y4gf3n18.network-foundry.digital
 youtransfer.net
+zoominviteeees.de
 ```
 
 0 used cloudfront (0.0%):
@@ -75,9 +81,8 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.6880733944954129%):
+2 used ddosguard (0.4716981132075472%):
 ```
-fucktermedfir.st
 furystaff.tech
 vanta.st
 ```
@@ -87,7 +92,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.22935779816513763%):
+1 used fastly (0.2358490566037736%):
 ```
 visualwikicloud.com
 ```
