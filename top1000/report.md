@@ -1,12 +1,11 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 55 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -45,7 +44,7 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -90,6 +89,7 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
+doi.org
 doubleverify.com
 dreamhost.com
 epicgames.com
@@ -105,6 +105,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -169,7 +170,6 @@ sedo.com
 seedtag.com
 sharethrough.com
 shopify.com
-singular.net
 smartadserver.com
 smilewanted.com
 sophos.com
@@ -192,6 +192,7 @@ unpkg.com
 vimeo.com
 vungle.com
 w3.org
+watchlist-internet.at
 webmd.com
 weebly.com
 who.int
@@ -208,20 +209,22 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -243,7 +246,6 @@ checkpoint.com
 datadoghq.com
 deepseek.com
 deviantart.com
-doi.org
 dotomi.com
 dropcatch.com
 duolingo.com
@@ -291,6 +293,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -320,12 +323,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

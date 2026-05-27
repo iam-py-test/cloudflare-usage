@@ -1,4 +1,4 @@
-479 domains tested. 75.15657620041753% were behind nothing (119 were behind something). 19 domains could not be tested.<br>
+513 domains tested. 70.56530214424951% were behind nothing (151 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,82 +19,102 @@
 
 ```
 
-97 used cloudflare (20.250521920668056%):
+124 used cloudflare (24.171539961013643%):
 ```
+347hoy7r.signal-frontier.digital
+abmjl.bertifolia.hu
+acuon.bni-ai.com
 allendostmen.com
-api-metrics-6258.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-arrtom.followyourjoy.hu
 axnb.olyusvirag.hu
-ayov.olcsongepet.hu
+bczth.bertifolia.hu
+bjxbx.vrtigo.hu
 blaold.indebud.hu
-brenowblyuk.com
 bxjmrg.krisztinavarga.hu
 bysjry.fusionize.org
+cdpus.vikstore.hu
 cftxqt.lifemax.hu
 checkinetverifk.com
 crystalpvp.ru
-dbvxnw.fullnrg.hu
-dxsdji.felhangolo.com
+dynhc.balintpiroska.hu
 ecjimr.kovacsago.hu
+eqgwn.aivallalkozo.hu
 fayzcm.greenwaysolar.hu
 fd.v2downf.shop
 fdgxxt.kpmarketing.hu
+fgmxk.optimumfitness.hu
+fgpjr.vigaf.hu
 fgyfhb.iparivillanyszerelo.hu
 filerit.com
 fiwmth.gyorsanhaz.hu
+fksdx.v-vill.hu
 fmslna.nr1office.hu
 foqovv.h13lakopark.hu
 frozi.cc
+fuluz.akonyvelod.hu
 gcrexj.glfree.hu
+ggrze.brssolar.hu
+gijjr.welovevent.com
 glsvuu.knminerals.hu
-gobiotechpestcontrol.com
 gqsgdt.interimpro.hu
+grrab.cannatural.cz
 gutando.com
+h7cyp6bl.kernel-compass.digital
 hatvtf.globalcontact.hu
 hitman-pro.ru
 htfnjw.jatekotmindenkinek.hu
-ieeljt.fittkor.hu
 iejzed.liltkereskedohaz.hu
-jgkvlq.fulop-vargafanni.hu
+ilgte.aivallalkozok.hu
+irrvh.ceremoniavezeto.hu
+iwojm.webgondozas.hu
+j543wvuu.packet-orbit.digital
+jakos.ovh
+jwqnk.bbautokozmetika.hu
+kaewe.caesarresidence.com
 kferlw.itsmarthungary.hu
-kgztgu.fortunalamella.hu
-kimfeg.fusionizemanagement.com
 kjvbjr.krokodilpince.hu
+kqrde.vilagom.hu
 kzaftq.hyflowtp.com
+ldeml.buborekjatszohaz.hu
 lvavdb.nyitottkeramia.hu
+mahcr.banhidileadershipacademy.hu
+miqhc.bmiroda.hu
+mlbmb.bonuszugynokseg.hu
+mrwqb.bartaenergetika.com
 new.quranushaiqer.org.sa
-npukpk.fodraszoktatas.eu
-nqvfew.flybuilt.eu
 nspbcu.krokodilpince.hu
-oazd.olcsongepet.hu
+nveth.brandbuilder.hu
 odna.oltigergely.hu
-oleavv.levelupadventure.hu
+odqtx.bbglobalbau.hu
+ohzmh.bninolimit.com
 onwqrw.lillafunfit.com
-orbitstride7.com
 phmro.optikusom.hu
+photobookadm.pro
+pjvro.cannaturalgroup.com
+ptnza.bni-ai.com
 qcjqcd.geokalk.hu
 qczybp.liftoff.hu
+qgrqy.business360.hu
 qlhsnt.lifealigned.hu
-qsxrao.flybuilt.hu
 qz.697539.com
 rapiny.gamesystem.hu
-reauthenticator.com
 rnfg.onlyfansagency.hu
 rosrcf.inoxsystem.hu
 royalindiancurryclub.com
 rpyrxh.lilbaukft.hu
 rqwanh.gyulaicsevego.hu
+rrnek.bognartransport.hu
 rtixcz.lestyanesfiai.hu
 rxpvcd.ksfogaszat.hu
 rxquickpay.com
 sagdxf.krokodilpince.hu
 samsclass.info
 sneodo.gerecseglamping.com
+swhbk.bohochal.hu
+topbo.cannatural.eu
 torrrj.highlife-global.com
-trejzg.femeso.hu
 trtmyanmar.com
 udiqhj.levivilaga.hu
 uekdrl.gesol.hu
@@ -102,22 +122,29 @@ usoiuv.gyorsanhaz.hu
 vcc-library.uk
 vdbkti.ispilates.hu
 vgkjld.gulyaskriszti.hu
-vuvwlz.fluss.hu
+vhfla.budapesthandmade.hu
+vmpyw.almasiklima.hu
+vnhvi.orkapool.hu
+vpufr.westinvesteuropa.hu
+vrifp.bergertetokft.hu
 wdplqn.liltkereskedohaz.hu
-wwkgzd.flybuiltstudio.com
+werel.balazsotthonepites.hu
 www.blackhattoolz.com
 www.vuelaviajero.com
 wzfm.oltigergo.hu
-xdfbko.feszt360.hu
 xn--yh4bx88a.com
 xredgj.holisztikuscsontkovacs.hu
+xvceg.butoralberlet.com
 ycmztd.kokeny.com
 ykdeqf.gyorsotthont.hu
 youtransfer.net
 yvcg.oltigergely.hu
+z9sb13jt.cloud-beacon.digital
+zcrop.bernoe.hu
 zealpraxis.com
 znbsrq.kovacsago.com
-zoominviteeees.de
+zpxfn.buborekjatszohaz.hu
+zsdmb.webermann.hu
 ```
 
 0 used cloudfront (0.0%):
@@ -125,7 +152,7 @@ zoominviteeees.de
 
 ```
 
-2 used ddosguard (0.41753653444676403%):
+2 used ddosguard (0.3898635477582846%):
 ```
 furystaff.tech
 vanta.st
@@ -136,7 +163,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.20876826722338201%):
+1 used fastly (0.1949317738791423%):
 ```
 visualwikicloud.com
 ```
