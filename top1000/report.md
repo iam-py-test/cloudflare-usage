@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -6,7 +6,6 @@ admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -23,6 +22,7 @@ mi.com
 mysql.com
 news.com.au
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -79,6 +79,7 @@ cloudinary.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
+coupang.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -89,7 +90,6 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-doi.org
 doubleverify.com
 dreamhost.com
 epicgames.com
@@ -209,19 +209,17 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -246,6 +244,7 @@ checkpoint.com
 datadoghq.com
 deepseek.com
 deviantart.com
+doi.org
 dotomi.com
 dropcatch.com
 duolingo.com
@@ -293,7 +292,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -302,7 +300,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
@@ -323,11 +320,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
