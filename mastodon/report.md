@@ -1,4 +1,4 @@
-186 domains tested. 64.51612903225806% were behind nothing (66 were behind something). 11 domains could not be tested.<br>
+186 domains tested. 65.05376344086021% were behind nothing (65 were behind something). 11 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,12 +19,11 @@
 
 ```
 
-53 used cloudflare (28.49462365591398%):
+52 used cloudflare (27.956989247311824%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
 acat.world
-airwaves.social
 better.boston
 bols.games
 catcore.life
