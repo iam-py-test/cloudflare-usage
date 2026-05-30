@@ -1,4 +1,4 @@
-468 domains tested. 69.01709401709401% were behind nothing (145 were behind something). 26 domains could not be tested.<br>
+461 domains tested. 67.89587852494577% were behind nothing (148 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,124 +19,132 @@
 
 ```
 
-116 used cloudflare (24.786324786324787%):
+124 used cloudflare (26.89804772234273%):
 ```
-155b3nro.proxy-cascade.digital
 2718gc20.seresniki.com
+2c5gt5bd.seresniki.com
 2vmkhs7s.riherino.com
-4dfx0u7r.stgsolar.hu
 5mk6bgje.stgsolar.hu
+635k6cma.uniquetilingsa.com.au
 7orku7ut.taxrundo.sk
+advbc.sm188dvlv.hair
 afnsw.wlwyb.com
+ajrnaww.sm188login.cyou
 akfzi.lampaoszlopbolt.hu
 allendostmen.com
 api.baimless.com
-api.ezilax.com
 app.appzcvb.com
 apxij.zsatom.hu
+avjquzsd.seresniki.com
 burwu.akonyvelod.hu
-cadcr.zaszlorudbolt.hu
 checkinetverifk.com
+chhul.sm188akurat.sbs
 cklrd.webrevelem.hu
-cknkl.vilagom.hu
-cwzbp.wlwyb.com
+crystalpvp.ru
+cxaxqwe.sm188login.cfd
+desktop-app.click
 dkhgk.zaszlorudbolt.hu
-dwchg.webermann.hu
-dxblg.workoutwithdorci.com
+dsc8ybog.schleer.hu
+dvzzer4n.parossag.hu
+eibnb.slotmacau188z.bond
 elsms.webgondozas.hu
-eujvn.business360.hu
 fd.v2downf.shop
 febrn.laborfotostudio.hu
 filerit.com
+fjtdm.sm188wing.cyou
 frozi.cc
 g6zaqd6k.schleer.hu
 gahay.visszateritok.net
-gbhij.vilagom.hu
-gbowm.cannatural.cz
-gec56eyc.pczrt.hu
 ggtgi.wlwyb.com
-godww.accredit.hu
-gplca9pf.script-bridge.digital
 gptjr.visszateritok.net
 gutando.com
+gvshj.sm188daftar.skin
 gvsob.buborekjatszohaz.hu
 gwfsj.ski123.net
-h89kbhtt.schleer.hu
-hcfll.workoutwithdorci.com
+gxhkg.sm188dvlv.skin
+gzhcn.sm188login.sbs
 hexfiles.top
 hfikf.webrevelem.hu
 hitman-pro.ru
-hpxqt.accredit.hu
 hrcox.zsatom.hu
+htcaqoat.universaltyresautos.com.au
+hunzm.slotmacau188k.sbs
 hxoaa2b8.parossag.hu
 igidw.visszateritok.net
 igyom.technologiaiviz.hu
+jbyap.sm188login.cyou
+jnyut.zsatom.hu
+jrszz.popi999.net
 jugha.webrevelem.hu
 kb2lqx8d.schleer.hu
-kbjqa.wpsmart.app
-kc7s4uri.padelconstruct.hu
-kiouc.visszateritok.hu
-kqfna.bonuszugynokseg.hu
-lhxly.cannatural.eu
+kftla.sm188login.sbs
 lpo88ruu.seresniki.com
+mdwkkvc.sm188login.rest
+megamegalodon.click
+mfrpd.sm188daftar.cfd
 mfvea.bognartransport.hu
 miixn.wilhelmglobal.com
-moxii.brssolar.hu
+mjugj.sm188dvlv.hair
 mtuvm.akonyvelod.hu
-mvqex.zaszlorudbolt.hu
-mzwum.wilhelmglobal.com
-ncgxk.visszateritok.hu
+mzpyn.sm188login.cfd
+nblvwres.stgsolar.hu
 new.quranushaiqer.org.sa
-numqi.wilhelmglobal.com
+nkqzyrf.sm188wing.cyou
+nwtca6gs.schleer.hu
+nzaqn.sm188login.cyou
 ocjly.visszateritok.net
 olakv.technologiaiviz.hu
-ooeet.cannaturalgroup.com
-owqrh.akonyvelod.hu
-oyazs.brssolar.hu
 p5f6dr8y.padelconstruct.hu
+pable.sm188login.rest
 pbwmk.wlwyb.com
+phijdnv.sm188login.cyou
 photobookadm.pro
-pshcd.cannaturalgroup.com
+pixey.lampaoszlopbolt.hu
 pyexv.yanis.hu
-qxyvx.yanisrea.hu
-qzfcl.wpsmart.app
-reoen.webgondozas.hu
+qaezg.sm188akurat.sbs
+qbtnd.sm188dvlv.cfd
+rbbmdao.popi999.net
+rbzsq.sm188login.cfd
 royalindiancurryclub.com
-rwxe9b0g.riherino.com
 rxquickpay.com
-s9fsvyxk.seresniki.com
+rzbve.sm188login.sbs
+s61j30vp.snugglebloom.com.au
 samsclass.info
 siase.webermann.hu
-snonc.accredit.hu
+skgya.sm188dvlv.hair
+slrsd.sm188dvlv.rest
 syrzz.technologiaiviz.hu
+tehpm.zsatom.hu
+tiemj.technologiaiviz.hu
+tooca.sm188daftar.skin
 trtmyanmar.com
-tukwp.bni-ai.com
-ucovu.lelekszepsegstudio.hu
-ulpin.brssolar.hu
-utwli.almasiklima.hu
-uulte.westinvesteuropa.hu
-vafcj.buborekjatszohaz.hu
+txfbc.sm188daftar.net
+ujhtrjp.laborfotostudio.hu
+uzysz.sm188dvlv.skin
 vbyiq.yanis.hu
-vcc-library.uk
+vekdf8au.srlashnbrow.com.au
 vggil.yanis.hu
-vkoqp.accredit.hu
-vlhxe.bognartransport.hu
-wehmr.yanis.hu
+vkdif.sm188daftar.cfd
+wjkhmcp.sm188dvlv.cfd
+wrjfn.wlwyb.com
 wusjo.zsatom.hu
 www.blackhattoolz.com
 www.vuelaviajero.com
+wzpmw.webrevelem.hu
 xawur.workoutwithdorci.com
-xdsop.v-vill.hu
-xjlft.visszateritok.hu
-xjmes.yanis.hu
-xjmrl.wlwyb.com
+xdmvxmt.sm188login.cyou
 xn--yh4bx88a.com
+xqorxfh1.seresniki.com
+xsqil.sm188dvlv.skin
 xvfxe.technologiaiviz.hu
+xxegq.sm188login.sbs
 y4hvadqo.taxrundo.hu
-yjkjr.westinvesteuropa.hu
 youtransfer.net
-ywcga.yanisrea.hu
-zhxtq.visszateritok.hu
+ywrav.slotmacau188ab.sbs
+yznfo.slotmacau188q.hair
+zntck.sm188dvlv.cfd
+zqyij.sm188login.rest
+zzksh.sm188dvlv.rest
 ```
 
 0 used cloudfront (0.0%):
@@ -144,7 +152,7 @@ zhxtq.visszateritok.hu
 
 ```
 
-2 used ddosguard (0.4273504273504274%):
+2 used ddosguard (0.43383947939262474%):
 ```
 furystaff.tech
 vanta.st
@@ -155,7 +163,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.2136752136752137%):
+1 used fastly (0.21691973969631237%):
 ```
 visualwikicloud.com
 ```
