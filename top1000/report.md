@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ erome.com
 
 ```
 
-158 used cloudflare (15.8%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -61,6 +61,7 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+bugsnag.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -104,6 +105,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -215,10 +217,10 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in

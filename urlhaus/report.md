@@ -1,4 +1,4 @@
-461 domains tested. 67.89587852494577% were behind nothing (148 were behind something). 21 domains could not be tested.<br>
+440 domains tested. 66.5909090909091% were behind nothing (147 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,130 +19,125 @@
 
 ```
 
-124 used cloudflare (26.89804772234273%):
+119 used cloudflare (27.045454545454543%):
 ```
-2718gc20.seresniki.com
 2c5gt5bd.seresniki.com
-2vmkhs7s.riherino.com
-5mk6bgje.stgsolar.hu
+2dzxuao7.parossag.hu
+45cbh9h6.liketudong.biz
 635k6cma.uniquetilingsa.com.au
-7orku7ut.taxrundo.sk
+81729sv5.stgsolar.hu
 advbc.sm188dvlv.hair
-afnsw.wlwyb.com
 ajrnaww.sm188login.cyou
-akfzi.lampaoszlopbolt.hu
+akvtmtx.technologiaiviz.hu
 allendostmen.com
 api.baimless.com
+api.ezilax.com
 app.appzcvb.com
-apxij.zsatom.hu
 avjquzsd.seresniki.com
-burwu.akonyvelod.hu
-checkinetverifk.com
+b53jdkck.photoshopvn.net
+bxhnheh.vostrovape.com
 chhul.sm188akurat.sbs
-cklrd.webrevelem.hu
+cr9i8up3.stgsolar.hu
 crystalpvp.ru
 cxaxqwe.sm188login.cfd
 desktop-app.click
-dkhgk.zaszlorudbolt.hu
+dfuvstc.mrvapora.pk
 dsc8ybog.schleer.hu
 dvzzer4n.parossag.hu
+dxclneq.webrevelem.hu
+e0vt7hv0.saostar.biz
+ehshryo.zsatom.hu
 eibnb.slotmacau188z.bond
-elsms.webgondozas.hu
+elmqfzy.zsatom.hu
 fd.v2downf.shop
-febrn.laborfotostudio.hu
-filerit.com
 fjtdm.sm188wing.cyou
 frozi.cc
-g6zaqd6k.schleer.hu
-gahay.visszateritok.net
-ggtgi.wlwyb.com
-gptjr.visszateritok.net
-gutando.com
+fxxqmo5b.letrungkien.info
+gfdoxjo.zsatom.hu
 gvshj.sm188daftar.skin
-gvsob.buborekjatszohaz.hu
-gwfsj.ski123.net
 gxhkg.sm188dvlv.skin
 gzhcn.sm188login.sbs
-hexfiles.top
-hfikf.webrevelem.hu
-hitman-pro.ru
-hrcox.zsatom.hu
+gzxrgq4a.saostar.biz
 htcaqoat.universaltyresautos.com.au
 hunzm.slotmacau188k.sbs
-hxoaa2b8.parossag.hu
-igidw.visszateritok.net
-igyom.technologiaiviz.hu
+i0gxewzq.webuyurcar.com.au
+izrbtds.wlwyb.com
 jbyap.sm188login.cyou
 jnyut.zsatom.hu
 jrszz.popi999.net
-jugha.webrevelem.hu
-kb2lqx8d.schleer.hu
 kftla.sm188login.sbs
-lpo88ruu.seresniki.com
+llrxcyj.laborfotostudio.hu
 mdwkkvc.sm188login.rest
 megamegalodon.click
 mfrpd.sm188daftar.cfd
-mfvea.bognartransport.hu
-miixn.wilhelmglobal.com
 mjugj.sm188dvlv.hair
-mtuvm.akonyvelod.hu
+mzapcfw.wlwyb.com
 mzpyn.sm188login.cfd
 nblvwres.stgsolar.hu
 new.quranushaiqer.org.sa
 nkqzyrf.sm188wing.cyou
+nwmhtzx.suslink.com.pk
 nwtca6gs.schleer.hu
 nzaqn.sm188login.cyou
-ocjly.visszateritok.net
-olakv.technologiaiviz.hu
-p5f6dr8y.padelconstruct.hu
+ouqk5pur.dvfb-vn.com
 pable.sm188login.rest
-pbwmk.wlwyb.com
+palenyz.gulshans.com
+pbm280yc.sieulike.biz
 phijdnv.sm188login.cyou
 photobookadm.pro
-pixey.lampaoszlopbolt.hu
-pyexv.yanis.hu
+pnniuwu.popi999.net
+prgqvfu.payestation.com
+psiwhza.baocongnghe.net
+pxydleq.nbbmansehra.pk
 qaezg.sm188akurat.sbs
 qbtnd.sm188dvlv.cfd
+qkexyga.wlwyb.com
+raerscd.autotuongtac.biz
 rbbmdao.popi999.net
 rbzsq.sm188login.cfd
 royalindiancurryclub.com
-rxquickpay.com
 rzbve.sm188login.sbs
 s61j30vp.snugglebloom.com.au
 samsclass.info
-siase.webermann.hu
+sdcpqrz.zsatom.hu
 skgya.sm188dvlv.hair
 slrsd.sm188dvlv.rest
-syrzz.technologiaiviz.hu
+sybxhd9s.stgsolar.hu
+t5kfgfm1.stgsolar.hu
 tehpm.zsatom.hu
 tiemj.technologiaiviz.hu
+tnslzkh.sus.com.pk
+tohiels.payestation.com
 tooca.sm188daftar.skin
 trtmyanmar.com
+tvrtwkf.ricebowl.io
 txfbc.sm188daftar.net
+ujbhfgb.sm188dvlv.cfd
 ujhtrjp.laborfotostudio.hu
+unicore.pw
 uzysz.sm188dvlv.skin
-vbyiq.yanis.hu
 vekdf8au.srlashnbrow.com.au
-vggil.yanis.hu
+vfqpsfq.webrevelem.hu
+vjkyzqp.vapebeat.pk
 vkdif.sm188daftar.cfd
 wjkhmcp.sm188dvlv.cfd
 wrjfn.wlwyb.com
-wusjo.zsatom.hu
 www.blackhattoolz.com
 www.vuelaviajero.com
 wzpmw.webrevelem.hu
-xawur.workoutwithdorci.com
+x2jjzvnd.dichvuff.com
 xdmvxmt.sm188login.cyou
+xjlghqc.baovietnam.me
 xn--yh4bx88a.com
 xqorxfh1.seresniki.com
 xsqil.sm188dvlv.skin
-xvfxe.technologiaiviz.hu
 xxegq.sm188login.sbs
-y4hvadqo.taxrundo.hu
 youtransfer.net
 ywrav.slotmacau188ab.sbs
 yznfo.slotmacau188q.hair
+zjhbvqq.wlwyb.com
 zntck.sm188dvlv.cfd
+zphaxvq.technologiaiviz.hu
 zqyij.sm188login.rest
 zzksh.sm188dvlv.rest
 ```
@@ -152,7 +147,7 @@ zzksh.sm188dvlv.rest
 
 ```
 
-2 used ddosguard (0.43383947939262474%):
+2 used ddosguard (0.45454545454545453%):
 ```
 furystaff.tech
 vanta.st
@@ -163,7 +158,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.21691973969631237%):
+1 used fastly (0.22727272727272727%):
 ```
 visualwikicloud.com
 ```
