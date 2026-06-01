@@ -1,4 +1,4 @@
-440 domains tested. 66.5909090909091% were behind nothing (147 were behind something). 25 domains could not be tested.<br>
+423 domains tested. 73.99527186761229% were behind nothing (110 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,127 +19,96 @@
 
 ```
 
-119 used cloudflare (27.045454545454543%):
+88 used cloudflare (20.803782505910164%):
 ```
-2c5gt5bd.seresniki.com
+1aed1cm5.cloudzone.com.tr
+252rti6f.letrungkien.info
 2dzxuao7.parossag.hu
+37d389gt.botvn.net
 45cbh9h6.liketudong.biz
-635k6cma.uniquetilingsa.com.au
+5pfvza4o.cretasoft.gr
 81729sv5.stgsolar.hu
-advbc.sm188dvlv.hair
-ajrnaww.sm188login.cyou
 akvtmtx.technologiaiviz.hu
 allendostmen.com
+anpjcfq.attilahatar.com
 api.baimless.com
 api.ezilax.com
-app.appzcvb.com
-avjquzsd.seresniki.com
+as59n9n3.photoshopvn.net
 b53jdkck.photoshopvn.net
 bxhnheh.vostrovape.com
-chhul.sm188akurat.sbs
+cambodiatouristservice.com
+checkinetverifk.com
 cr9i8up3.stgsolar.hu
+crrgjic.vostrovape.com
 crystalpvp.ru
-cxaxqwe.sm188login.cfd
-desktop-app.click
+czf2txr8.asion.gr
 dfuvstc.mrvapora.pk
-dsc8ybog.schleer.hu
-dvzzer4n.parossag.hu
 dxclneq.webrevelem.hu
 e0vt7hv0.saostar.biz
+eg125q1i.dvfb-vn.com
 ehshryo.zsatom.hu
-eibnb.slotmacau188z.bond
 elmqfzy.zsatom.hu
 fd.v2downf.shop
-fjtdm.sm188wing.cyou
+filerit.com
 frozi.cc
 fxxqmo5b.letrungkien.info
 gfdoxjo.zsatom.hu
-gvshj.sm188daftar.skin
-gxhkg.sm188dvlv.skin
-gzhcn.sm188login.sbs
+gobiotechpestcontrol.com
+gutando.com
 gzxrgq4a.saostar.biz
-htcaqoat.universaltyresautos.com.au
-hunzm.slotmacau188k.sbs
+hitman-pro.ru
+hsvisjx.ktsagarakis.gr
+htciigz.intelect.gr
 i0gxewzq.webuyurcar.com.au
+iiamtrbo.liketudong.biz
+ijdjqht.ktsagarakis.gr
 izrbtds.wlwyb.com
-jbyap.sm188login.cyou
-jnyut.zsatom.hu
-jrszz.popi999.net
-kftla.sm188login.sbs
-llrxcyj.laborfotostudio.hu
-mdwkkvc.sm188login.rest
-megamegalodon.click
-mfrpd.sm188daftar.cfd
-mjugj.sm188dvlv.hair
+kccqafs.enviroment.gr
+knmglbn.sm188dvlv.cfd
+lbcsuyq.payestation.com
+ldtdyke.allnaparts.com
 mzapcfw.wlwyb.com
-mzpyn.sm188login.cfd
-nblvwres.stgsolar.hu
 new.quranushaiqer.org.sa
-nkqzyrf.sm188wing.cyou
+nhkohoq.wlwyb.com
 nwmhtzx.suslink.com.pk
-nwtca6gs.schleer.hu
-nzaqn.sm188login.cyou
+ohabupw.vapebeat.pk
+oplzpps.popi999.net
 ouqk5pur.dvfb-vn.com
-pable.sm188login.rest
 palenyz.gulshans.com
 pbm280yc.sieulike.biz
-phijdnv.sm188login.cyou
 photobookadm.pro
 pnniuwu.popi999.net
 prgqvfu.payestation.com
 psiwhza.baocongnghe.net
 pxydleq.nbbmansehra.pk
-qaezg.sm188akurat.sbs
-qbtnd.sm188dvlv.cfd
+qiwiqfdb.botvn.net
 qkexyga.wlwyb.com
+qsnovga.intelect.gr
 raerscd.autotuongtac.biz
-rbbmdao.popi999.net
-rbzsq.sm188login.cfd
 royalindiancurryclub.com
-rzbve.sm188login.sbs
-s61j30vp.snugglebloom.com.au
 samsclass.info
 sdcpqrz.zsatom.hu
-skgya.sm188dvlv.hair
-slrsd.sm188dvlv.rest
+sqcbwqj.popi999.net
 sybxhd9s.stgsolar.hu
 t5kfgfm1.stgsolar.hu
-tehpm.zsatom.hu
-tiemj.technologiaiviz.hu
 tnslzkh.sus.com.pk
 tohiels.payestation.com
-tooca.sm188daftar.skin
 trtmyanmar.com
 tvrtwkf.ricebowl.io
-txfbc.sm188daftar.net
 ujbhfgb.sm188dvlv.cfd
-ujhtrjp.laborfotostudio.hu
 unicore.pw
-uzysz.sm188dvlv.skin
-vekdf8au.srlashnbrow.com.au
+uuzhapr.attilahatar.com
 vfqpsfq.webrevelem.hu
 vjkyzqp.vapebeat.pk
-vkdif.sm188daftar.cfd
-wjkhmcp.sm188dvlv.cfd
-wrjfn.wlwyb.com
 www.blackhattoolz.com
 www.vuelaviajero.com
-wzpmw.webrevelem.hu
 x2jjzvnd.dichvuff.com
-xdmvxmt.sm188login.cyou
 xjlghqc.baovietnam.me
 xn--yh4bx88a.com
-xqorxfh1.seresniki.com
-xsqil.sm188dvlv.skin
-xxegq.sm188login.sbs
+ykrtpwu.destek1.com.tr
 youtransfer.net
-ywrav.slotmacau188ab.sbs
-yznfo.slotmacau188q.hair
 zjhbvqq.wlwyb.com
-zntck.sm188dvlv.cfd
 zphaxvq.technologiaiviz.hu
-zqyij.sm188login.rest
-zzksh.sm188dvlv.rest
 ```
 
 0 used cloudfront (0.0%):
@@ -147,10 +116,9 @@ zzksh.sm188dvlv.rest
 
 ```
 
-2 used ddosguard (0.45454545454545453%):
+0 used ddosguard (0.0%):
 ```
-furystaff.tech
-vanta.st
+
 ```
 
 0 used edgecast (0.0%):
@@ -158,9 +126,9 @@ vanta.st
 
 ```
 
-1 used fastly (0.22727272727272727%):
+0 used fastly (0.0%):
 ```
-visualwikicloud.com
+
 ```
 
 0 used sucuri (0.0%):

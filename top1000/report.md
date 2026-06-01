@@ -1,12 +1,11 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -44,7 +43,7 @@ erome.com
 
 ```
 
-160 used cloudflare (16.0%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -105,7 +104,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -132,6 +130,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -155,9 +154,9 @@ people.com
 perplexity.ai
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 poki.com
+princeton.edu
 prnewswire.com
 quora.com
 readthedocs.io
@@ -168,6 +167,7 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
+shein.com
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -208,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -217,15 +217,14 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -272,7 +271,6 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
 netgear.com
 noaa.gov
@@ -295,6 +293,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -324,12 +323,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net
