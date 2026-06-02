@@ -1,11 +1,12 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -43,7 +44,7 @@ erome.com
 
 ```
 
-161 used cloudflare (16.1%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -104,10 +105,12 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
 hubspot.com
+hugedomains.com
 ietf.org
 ikea.com
 indeed.com
@@ -150,6 +153,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -216,15 +220,15 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.br
+amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -267,6 +271,7 @@ hotjar.com
 ieee.org
 imdb.com
 intercom.io
+ipify.org
 jetbrains.com
 latimes.com
 lijit.com
@@ -293,7 +298,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -323,11 +327,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
