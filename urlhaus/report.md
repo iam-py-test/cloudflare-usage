@@ -1,4 +1,4 @@
-411 domains tested. 71.04622871046229% were behind nothing (119 were behind something). 27 domains could not be tested.<br>
+402 domains tested. 66.16915422885572% were behind nothing (136 were behind something). 41 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,16 @@
 
 ```
 
-91 used cloudflare (22.14111922141119%):
+93 used cloudflare (23.134328358208954%):
 ```
 0nwfyg62.onja1bet.com
-1aed1cm5.cloudzone.com.tr
-252rti6f.letrungkien.info
-37d389gt.botvn.net
+0u9irsk6.luxerabet10.com
+23q34ztp.luxerabet1.com
 4iod03t4.eutoor.com
 509ukk9c.enf90.vip
-5pfvza4o.cretasoft.gr
 6feq96px.eutoor.com
+7d6da0ri.axee.net
+96mjt1sb.axee.net
 99ytipqf.mayochem.com
 9nwu3map.jetform.football
 a0sadcof.ogabbet.com
@@ -36,82 +36,84 @@ a1bpvfc4.enfejar2.com
 aehcwen.123betyek.com
 agqjwmu.betyekritzo.com
 allendostmen.com
-anpjcfq.attilahatar.com
+anxstwt.akharinbama.ir
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-as59n9n3.photoshopvn.net
 bgtwfmx.rikashart.com
 cambodiatouristservice.com
-crrgjic.vostrovape.com
-crystalpvp.ru
-czf2txr8.asion.gr
+citnflk.arayemek.com
+cspzm3hg.luxerabet1068.com
+cw5zuej3.baxus.net
 dkgxlcw.venusbetyek.com
 dobboeu.channelsbetyek.com
 dqtglfv.goldledgers.com
 ebzwaki.bakhtbetyek.com
-eg125q1i.dvfb-vn.com
 ekffxlo.shart90bet.com
 ekqtbnv.overlokcu.com
 fd.v2downf.shop
+ff4ekbmd.7lf.net
 filerit.com
 frozi.cc
 gfwbeo2g.7lf.net
 gnetier6.hegong-tools.com
+gobiotechpestcontrol.com
 gozilwl.overlokcu.com
 gutando.com
 hfsdguf.asyabet303.bet
 hitman-pro.ru
 hshpzhf.digibetyek.com
-hsvisjx.ktsagarakis.gr
-htciigz.intelect.gr
-iiamtrbo.liketudong.biz
-ijdjqht.ktsagarakis.gr
 jkjcrqj.21pasoor.app
-kccqafs.enviroment.gr
+kfvzenz.bahiscom2023.online
 klga3rph.easyprocode.com
-knmglbn.sm188dvlv.cfd
-lbcsuyq.payestation.com
-ldtdyke.allnaparts.com
+kuyquso.akharinbama.ir
+kxlkbmz.303-bet.buzz
 maibnyf.303-bet.buzz
 mgjfhpa.overlokcu.com
 mjvdhq4d.destek1.com
 msbeora.takhtebet.app
 nafnvgy.enf90.app
+nelees.com
 new.quranushaiqer.org.sa
-nhkohoq.wlwyb.com
 nljinxg.takhtebet.com
 nxbided.bakhtbetyek.com
-ohabupw.vapebeat.pk
 olftxqs.dgyekbet1.com
-oplzpps.popi999.net
 p4nkss83.alsulmicpa.com
+pf6n62u7.luxerabet5.com
 pljiquv.destek1.com.tr
+ps10z3qz.eutoor.com
+pyfptfv.anadoluslot.bet
 pzacsqp.ariash.art
-qiwiqfdb.botvn.net
-qsnovga.intelect.gr
 qxvudcz.bet1bartar.com
+r8cgf6ux.luxerabet100.com
 royalindiancurryclub.com
+rvubnzq.akharinbama.ir
 rvvemra.takhtebet.app
 rxquickpay.com
 samsclass.info
-sqcbwqj.popi999.net
-ssiysqt.1xbet1farsi.com
+sax166rh.funkboi.com
+t6h2yu60.luxerabet1000.com
+tfasyxh.arayemek.com
 tfbkfdw.21pasoor.app
-uuzhapr.attilahatar.com
+usfltzp.anadoluslot.bet
 vcc-library.uk
 vumobeb.bakhtazmaeii.com
 vxpkpgb.khaled-salah.com
 vzfelbc.1shartbet1.com
+wearjora.com
 www.blackhattoolz.com
 www.vuelaviajero.com
+xavytub.alternatifdekorasyon.com
 xn--yh4bx88a.com
 xzhuzft.asyabet303.bet
 ydcpmjs.303-bet.xyz
-ykrtpwu.destek1.com.tr
+yhyrxap.bahisbey90.com
 youtransfer.net
 zfkzwhk.bakhtazmaeii.com
+zhlwyqr.3sefr3.ir
 zrcvuwg.ismailnas.com
+zrgxhan.alternatifdekorasyon.com
+zxzhjlk.artenadigital.com
 ```
 
 0 used cloudfront (0.0%):
@@ -119,9 +121,10 @@ zrcvuwg.ismailnas.com
 
 ```
 
-1 used ddosguard (0.24330900243309003%):
+2 used ddosguard (0.4975124378109453%):
 ```
 furystaff.tech
+vanta.st
 ```
 
 0 used edgecast (0.0%):

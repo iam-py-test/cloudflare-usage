@@ -1,8 +1,7 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 56 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
-admanmedia.com
 adobe.com
 adobe.net
 arubanetworks.com
@@ -44,7 +43,7 @@ erome.com
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -105,7 +104,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -153,7 +151,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -222,7 +219,7 @@ agora.io
 amazon.ca
 amazon.co.uk
 amazon.com
-amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -327,12 +324,13 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
+forbes.com
 github.io
 nytimes.com
 speedtest.net
