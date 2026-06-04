@@ -1,4 +1,4 @@
-354 domains tested. 43.78531073446328% were behind nothing (199 were behind something). 26 domains could not be tested.<br>
+354 domains tested. 44.632768361581924% were behind nothing (196 were behind something). 23 domains could not be tested.<br>
 1 used akamai (0.2824858757062147%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -125,7 +125,7 @@ ouo.io
 prettylinks.com
 prolink168.com
 pxl.to
-qrco.de
+rb.gy
 rebrand.ly
 rebrandly.com
 rekonise.com
@@ -186,8 +186,8 @@ your.ls
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
+qrco.de
 qrs.ly
-rb.gy
 short.gy
 trk.klclick.com
 trk.klclick1.com
