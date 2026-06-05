@@ -1,4 +1,4 @@
-221 domains tested. 57.466063348416284% were behind nothing (94 were behind something). 10 domains could not be tested.<br>
+221 domains tested. 58.371040723981906% were behind nothing (92 were behind something). 8 domains could not be tested.<br>
 5 used akamai (2.262443438914027%):
 ```
 cdn.adblockcdn.com
@@ -36,7 +36,6 @@ anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 blokada.org
-cdn.jsdelivr.net
 cdn.statically.io
 combinatronics.io
 dns-family.adguard.com
@@ -59,6 +58,7 @@ lpt.lrv.lt
 malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
+mirai.security.gives
 netmountains.de
 nonio.pt
 orca.pet
@@ -86,9 +86,8 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-2 used cloudfront (0.904977375565611%):
+1 used cloudfront (0.4524886877828055%):
 ```
-bitbucket.org
 www.topcashback.com
 ```
 
@@ -102,11 +101,12 @@ gitflic.ru
 
 ```
 
-15 used fastly (6.787330316742081%):
+16 used fastly (7.239819004524888%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
+cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ublockorigin.github.io
 iam-py-test.github.io

@@ -1,4 +1,4 @@
-200 domains tested. 57.49999999999999% were behind nothing (85 were behind something). 4 domains could not be tested.<br>
+200 domains tested. 58.5% were behind nothing (83 were behind something). 4 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 anandabazar.com
@@ -63,7 +63,7 @@ therecord.media
 washingtontimes.com
 ```
 
-32 used cloudfront (16.0%):
+31 used cloudfront (15.5%):
 ```
 SeattleTimes.com
 abcnews.go.com
@@ -88,7 +88,6 @@ salon.com
 slashgear.com
 sueddeutsche.de
 suntimes.com
-theglobeandmail.com
 theoutline.com
 theregister.com
 thetimes.co.uk
@@ -109,7 +108,7 @@ wsj.com
 
 ```
 
-8 used fastly (4.0%):
+7 used fastly (3.5000000000000004%):
 ```
 bbc.com
 bbc.com
@@ -117,7 +116,6 @@ cbsnews.com
 corriere.it
 forbes.com
 gazzetta.it
-lemonde.fr
 nytimes.com
 ```
 

@@ -1,11 +1,10 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 57 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -43,9 +42,10 @@ erome.com
 
 ```
 
-159 used cloudflare (15.9%):
+167 used cloudflare (16.7%):
 ```
 33across.com
+academia.edu
 addtoany.com
 allaboutcookies.org
 anthropic.com
@@ -59,6 +59,7 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+bugsnag.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -95,6 +96,7 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
+faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -130,6 +132,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -139,14 +142,17 @@ nic.direct
 nic.network
 nist.gov
 okta.com
+onelink.me
 onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
 optimizely.com
+oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -171,12 +177,13 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
-split.io
+spamhaus.org
 stackoverflow.com
 stripchat.com
 substack.com
 t.co
 tandfonline.com
+teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
@@ -206,24 +213,20 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
-academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.com
+amazon.co.uk
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -238,7 +241,6 @@ binance.com
 blackberry.com
 booking.com
 brave.com
-bugsnag.com
 calendly.com
 change.org
 checkpoint.com
@@ -270,12 +272,10 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
 netgear.com
 noaa.gov
 note.com
-onelink.me
 onet.pl
 pbs.org
 playrix.com
@@ -302,6 +302,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 utorrent.com
 verisign.com
 wattpad.com
@@ -322,7 +323,7 @@ netangels.ru
 
 ```
 
-10 used fastly (1.0%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -330,7 +331,6 @@ cbsnews.com
 corriere.it
 forbes.com
 github.io
-lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk

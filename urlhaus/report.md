@@ -1,4 +1,4 @@
-390 domains tested. 78.97435897435898% were behind nothing (82 were behind something). 35 domains could not be tested.<br>
+492 domains tested. 86.1788617886179% were behind nothing (68 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,53 +19,52 @@
 
 ```
 
-45 used cloudflare (11.538461538461538%):
+44 used cloudflare (8.94308943089431%):
 ```
-0u9irsk6.luxerabet10.com
-23q34ztp.luxerabet1.com
 6aq224cu.luxerabet100.com
-7d6da0ri.axee.net
-96mjt1sb.axee.net
+7g5swyfn.bazipoop.com
+8i927m8y.bcgamefarsi.com
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 api.rikadotnet.com
 app.appzcvb.com
 b7tibc5u.luxerabet1000.com
+bubblekip.info
+cambodiatouristservice.com
 checkinetverifk.com
-citnflk.arayemek.com
+confirmyouarehuman.top
 crystalpvp.ru
-cspzm3hg.luxerabet1068.com
-cw5zuej3.baxus.net
+download.cavepay.app
 fd.v2downf.shop
-ff4ekbmd.7lf.net
 filerit.com
 frozi.cc
-kfvzenz.bahiscom2023.online
+gomc.uk
+gutando.com
+hitman-pro.ru
+hottestline.pro
+importersexportersinc.com
 nelees.com
 new.quranushaiqer.org.sa
-pf6n62u7.luxerabet5.com
-ps10z3qz.eutoor.com
-pyfptfv.anadoluslot.bet
-r8cgf6ux.luxerabet100.com
+photo-62454.cfd
 royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
-sax166rh.funkboi.com
+sandyadamspodcast.com
+silvion.uk
 sun8i9tk.luxerabet1000.com
-t6h2yu60.luxerabet1000.com
-tfasyxh.arayemek.com
 trtmyanmar.com
-usfltzp.anadoluslot.bet
+ty7zctpt.bet303casino.com
 vcc-library.uk
+viceete.lol
 vrlh0wdy.eutoor.com
+wezdgtt.betistcomgiris.com
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
-yhyrxap.bahisbey90.com
 youtransfer.net
 yzqawgz5.7lf.net
-zxzhjlk.artenadigital.com
+yzqorlb.betvolleyball.net
 ```
 
 0 used cloudfront (0.0%):
@@ -73,7 +72,7 @@ zxzhjlk.artenadigital.com
 
 ```
 
-2 used ddosguard (0.5128205128205128%):
+2 used ddosguard (0.40650406504065045%):
 ```
 furystaff.tech
 vanta.st
