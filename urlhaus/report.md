@@ -1,4 +1,4 @@
-492 domains tested. 86.1788617886179% were behind nothing (68 were behind something). 22 domains could not be tested.<br>
+549 domains tested. 87.7959927140255% were behind nothing (67 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,31 +19,33 @@
 
 ```
 
-44 used cloudflare (8.94308943089431%):
+42 used cloudflare (7.650273224043716%):
 ```
-6aq224cu.luxerabet100.com
-7g5swyfn.bazipoop.com
+1djqvowq.iaap2019.com
 8i927m8y.bcgamefarsi.com
 allendostmen.com
 api.baimless.com
 api.ezilax.com
-api.rikadotnet.com
 app.appzcvb.com
-b7tibc5u.luxerabet1000.com
+bloomglow9.com
 bubblekip.info
 cambodiatouristservice.com
 checkinetverifk.com
-confirmyouarehuman.top
 crystalpvp.ru
 download.cavepay.app
+ex7gv4y7.bet90land.com
 fd.v2downf.shop
 filerit.com
 frozi.cc
+git.nightcord.ru
+gobiotechpestcontrol.com
 gomc.uk
 gutando.com
 hitman-pro.ru
 hottestline.pro
+ijbfi.pk
 importersexportersinc.com
+ldgssv.bazipoop.com
 nelees.com
 new.quranushaiqer.org.sa
 photo-62454.cfd
@@ -52,19 +54,15 @@ rxquickpay.com
 samsclass.info
 sandyadamspodcast.com
 silvion.uk
-sun8i9tk.luxerabet1000.com
+trade-eprex.pro
 trtmyanmar.com
-ty7zctpt.bet303casino.com
 vcc-library.uk
 viceete.lol
-vrlh0wdy.eutoor.com
 wezdgtt.betistcomgiris.com
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-yzqawgz5.7lf.net
-yzqorlb.betvolleyball.net
 ```
 
 0 used cloudfront (0.0%):
@@ -72,7 +70,7 @@ yzqorlb.betvolleyball.net
 
 ```
 
-2 used ddosguard (0.40650406504065045%):
+2 used ddosguard (0.36429872495446264%):
 ```
 furystaff.tech
 vanta.st
