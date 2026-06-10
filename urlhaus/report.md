@@ -1,4 +1,4 @@
-519 domains tested. 83.23699421965318% were behind nothing (87 were behind something). 24 domains could not be tested.<br>
+556 domains tested. 84.89208633093526% were behind nothing (84 were behind something). 40 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,76 +19,57 @@
 
 ```
 
-60 used cloudflare (11.560693641618498%):
+41 used cloudflare (7.374100719424461%):
 ```
-1hrrc4q6.onexboro.com
-33liwbcf.parspoker.casino
-5bksyseg.betistmobil.com
+abdulahad.net
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 appdownload.download
 as.al
-aylkfoq.pasoor11.bet
+cafdfe.pishbinihoshmand.com
 cambodiatouristservice.com
 checkinetverifk.com
+chinabowl.club
 crystalpvp.ru
-dihsov.jamjahani.cash
-egbofo.jamjahani.cash
-et8095ov.parspoker.casino
-eterjrb.one1x.bet
-etpvftw.one1x.bet
 fd.v2downf.shop
 filerit.com
-git.nightcord.ru
+getabre.com
+git.nightcord.online
 gutando.com
-gwu729hw.parspoker.casino
 hitman-pro.ru
 hknnbq.pablobet90.com
-idwfsf.jamjahani.cash
-jrekcyl.pasoor11.bet
-jwfckz.onlineshart.com
-lfrzjdk.one1x.bet
+izmxgmj.pasoor11.bet
+kambohmag.net
+lplhoo.pishbinigame.com
 maplecirrus.com
-nelees.com
 new.quranushaiqer.org.sa
+nkfjdum.pasoor11.bet
 nova.ismak.icu
-nqbecrh.one1x.bet
-ojpqxkm.one1x.bet
 pbtgvx.pablobet90.com
-pdbrpnf.penaltibazi.com
-qlggges.penaltibazi.com
 royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
-seuvsq.pablobet90.com
 spasopro.at
+spiskisvo.xyz
 trtmyanmar.com
-utpesi.pablobet90.com
-uznjkx.onlineshart.com
-vdchddh.penaltibazi.com
+vans-towing.com
+voltrix.tv
 vvpfsda.pasoor11.bet
-wfmbnyx.penalti.bet
+whyldsf.rc395.com
 www.blackhattoolz.com
 www.vuelaviajero.com
-wxjbkv.onlineshart.com
-xf4v3zjk.parspoker.casino
 xn--yh4bx88a.com
-xzelng.jamjahani.cash
 youtransfer.net
-zexrhdz.penaltibazi.com
-zfomko.jamjahani.cash
-zoasav.onlineshart.com
-zrqkapj.one1x.bet
 ```
 
-1 used cloudfront (0.1926782273603083%):
+1 used cloudfront (0.1798561151079137%):
 ```
 globaltechnosoft.com
 ```
 
-2 used ddosguard (0.3853564547206166%):
+2 used ddosguard (0.3597122302158274%):
 ```
 furystaff.tech
 vanta.st

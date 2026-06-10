@@ -1,9 +1,11 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 54 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
+adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -26,10 +28,11 @@ xiaomi.com
 xiaomi.net
 ```
 
-2 used bunnycdn (0.2%):
+3 used bunnycdn (0.3%):
 ```
 b-cdn.net
 erome.com
+php.net
 ```
 
 0 used cachefly (0.0%):
@@ -105,7 +108,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -206,27 +208,30 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
+x.com
 xhamster.com
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.com
 amazon.com.au
+amazon.com.br
 amazon.com.mx
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -296,6 +301,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -325,13 +331,12 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
-forbes.com
 github.io
 nytimes.com
 speedtest.net
@@ -343,9 +348,9 @@ www.gov.uk
 
 ```
 
-1 used myracloud (0.1%):
+0 used myracloud (0.0%):
 ```
-php.net
+
 ```
 
 0 used keycdn (0.0%):
