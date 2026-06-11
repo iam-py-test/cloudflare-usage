@@ -1,4 +1,4 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 54 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+168 used cloudflare (16.8%):
 ```
 33across.com
 academia.edu
@@ -108,6 +108,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -128,7 +129,6 @@ kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
-linktr.ee
 loc.gov
 markmonitor.com
 media.net
@@ -155,6 +155,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -210,12 +211,13 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
+xhamster.desi
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -224,13 +226,16 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
+amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -271,7 +276,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -301,7 +306,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -311,7 +315,6 @@ ubnt.com
 ui.com
 un.org
 uol.com.br
-utorrent.com
 verisign.com
 wattpad.com
 wired.com

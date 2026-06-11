@@ -1,4 +1,4 @@
-556 domains tested. 84.89208633093526% were behind nothing (84 were behind something). 40 domains could not be tested.<br>
+606 domains tested. 88.28382838283828% were behind nothing (71 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,45 @@
 
 ```
 
-41 used cloudflare (7.374100719424461%):
+42 used cloudflare (6.9306930693069315%):
 ```
+3sdhx6qp.pokerbazi.app
 abdulahad.net
+aetherframework.digital
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-appdownload.download
-as.al
+avemod.cc
 cafdfe.pishbinihoshmand.com
 cambodiatouristservice.com
 checkinetverifk.com
 chinabowl.club
 crystalpvp.ru
+devltl.top
 fd.v2downf.shop
 filerit.com
 getabre.com
 git.nightcord.online
 gutando.com
 hitman-pro.ru
-hknnbq.pablobet90.com
 izmxgmj.pasoor11.bet
-kambohmag.net
+kis.marketing
 lplhoo.pishbinigame.com
-maplecirrus.com
 new.quranushaiqer.org.sa
 nkfjdum.pasoor11.bet
-nova.ismak.icu
-pbtgvx.pablobet90.com
+pfyfyt.bankefiile.com
+rg6u6kf7.pokeray.com
 royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
+sandyadamspodcast.com
 spasopro.at
 spiskisvo.xyz
+trade-eprex.pro
 trtmyanmar.com
 vans-towing.com
-voltrix.tv
-vvpfsda.pasoor11.bet
+vcc-library.uk
 whyldsf.rc395.com
 www.blackhattoolz.com
 www.vuelaviajero.com
@@ -64,12 +65,13 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.1798561151079137%):
+2 used cloudfront (0.33003300330033003%):
 ```
+bito.com.pk
 globaltechnosoft.com
 ```
 
-2 used ddosguard (0.3597122302158274%):
+2 used ddosguard (0.33003300330033003%):
 ```
 furystaff.tech
 vanta.st
