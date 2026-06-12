@@ -12,7 +12,6 @@ ae.linkedin.com
 analytics.twitter.com
 api.oaistatsig.com
 api.statsigcdn.com
-api.twitter.com
 api.twitter.com.cdn.cloudflare.net
 api.x.com
 api.x.com.cdn.cloudflare.net
@@ -139,7 +138,7 @@ openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
 pa.linkedin.com
-paypal.com
+pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 pe.linkedin.com
 performance.radar.cloudflare.com
@@ -160,7 +159,6 @@ res-8.public.onecdn.static.microsoft.cdn.cloudflare.net
 researchgate.net
 ro.linkedin.com
 roku.com
-ru.linkedin.com
 rubiconproject.com
 rum.hlx.page.cdn.cloudflare.net
 s.twitter.com
@@ -171,6 +169,7 @@ sdfestaticassets-eu-west-1.sciencedirectassets.com
 sdfestaticassets-us-east-1.sciencedirectassets.com
 se.linkedin.com
 services.fandom.com
+sg.linkedin.com
 shopify.com
 siteimproveanalytics.com
 sj16.mktoedge.com
@@ -185,7 +184,6 @@ static-cflr.licdn.com.cdn.cloudflare.net
 static.cloudflareinsights.com
 static.deepl.com
 static.elfsight.com
-static.licdn.com
 static.licdn.com.cdn.cloudflare.net
 static.zdassets.com
 sv.linkedin.com
@@ -208,6 +206,7 @@ use.fontawesome.com
 use.fontawesome.com.cdn.cloudflare.net
 uy.linkedin.com
 ve.linkedin.com
+video.twimg.com
 video.twimg.com.cdn.cloudflare.net
 view.ceros.com
 view.ceros.com.cdn.cloudflare.net
@@ -239,7 +238,6 @@ www.w3.org.cdn.cloudflare.net
 www.zoom.com
 x.com
 xhamster.com
-za.linkedin.com
 zendesk.com
 zoom.com
 zoom.us

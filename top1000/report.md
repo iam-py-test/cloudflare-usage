@@ -1,5 +1,5 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 54 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -11,7 +11,6 @@ fda.gov
 godaddy.com
 hm.com
 homedepot.com
-hotstar.com
 hp.com
 intel.com
 intuit.com
@@ -106,9 +105,9 @@ fontawesome.com
 forter.com
 ft.com
 fwmrm.net
+gartner.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -129,6 +128,7 @@ kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
+linktr.ee
 loc.gov
 markmonitor.com
 media.net
@@ -155,7 +155,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -180,6 +179,7 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
+spamhaus.org
 stackoverflow.com
 stripchat.com
 substack.com
@@ -211,31 +211,25 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
-xhamster.desi
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
-amazon.fr
-amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -276,6 +270,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -306,6 +301,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -314,7 +310,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -334,12 +329,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

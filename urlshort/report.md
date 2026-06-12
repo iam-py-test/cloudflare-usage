@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-162 used cloudflare (45.12534818941504%):
+163 used cloudflare (45.40389972144847%):
 ```
 02ip.ru
 123415.xyz
@@ -128,6 +128,7 @@ prolink168.com
 promo-visits.site
 pxl.to
 qrco.de
+rb.gy
 rebrand.ly
 rebrandly.com
 rekonise.com
@@ -185,13 +186,12 @@ y0utu.be
 your.ls
 ```
 
-11 used cloudfront (3.064066852367688%):
+10 used cloudfront (2.785515320334262%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
-rb.gy
 short.gy
 trk.klclick.com
 trk.klclick1.com
