@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 58 domains could not be tested.<br>
 24 used akamai (2.4%):
 ```
 accuweather.com
@@ -44,7 +44,7 @@ php.net
 
 ```
 
-168 used cloudflare (16.8%):
+170 used cloudflare (17.0%):
 ```
 33across.com
 academia.edu
@@ -108,6 +108,7 @@ fwmrm.net
 gartner.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -155,6 +156,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -179,7 +181,6 @@ smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
-spamhaus.org
 stackoverflow.com
 stripchat.com
 substack.com
@@ -211,25 +212,27 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
+xhamster.desi
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
-amazon.co.uk
+amazon.ca
 amazon.com
-amazon.com.au
-amazon.com.mx
+amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
+amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -271,7 +274,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -284,7 +286,6 @@ netgear.com
 noaa.gov
 note.com
 onet.pl
-pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
@@ -301,7 +302,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -310,6 +310,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -329,11 +330,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net

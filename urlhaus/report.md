@@ -1,4 +1,4 @@
-609 domains tested. 90.80459770114942% were behind nothing (56 were behind something). 22 domains could not be tested.<br>
+590 domains tested. 85.2542372881356% were behind nothing (87 were behind something). 50 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,40 +19,42 @@
 
 ```
 
-32 used cloudflare (5.254515599343185%):
+34 used cloudflare (5.762711864406779%):
 ```
-3sdhx6qp.pokerbazi.app
+abdulahad.net
 allendostmen.com
+amrzjixs.hugugmadanikatouzian.xyz
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-avemod.cc
 cambodiatouristservice.com
 checkinetverifk.com
 crystalpvp.ru
+euerx2bw.linebetkade.com
 fd.v2downf.shop
 filerit.com
+git.nightcord.st
 gutando.com
 hitman-pro.ru
-hostealo.com
+jksidxrvz.bookdrive.xyz
+k96h8q0b.fubet24.net
 kambohmag.net
 nebulaclient.store
 new.quranushaiqer.org.sa
 njwjijvlf.differentialkerayechiyan.store
-rg6u6kf7.pokeray.com
-royalindiancurryclub.com
+rngvl.bilyardkade.online
 rxquickpay.com
 samsclass.info
-sandyadamspodcast.com
 spasopro.at
-trade-eprex.pro
+traderhype.com
 trtmyanmar.com
-vans-towing.com
 vcc-library.uk
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
+ydcgvobr.tarbiatbadani.xyz
 youtransfer.net
+zet9r6gg.nahjolbalage.xyz
 ```
 
 0 used cloudfront (0.0%):
@@ -60,7 +62,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.3284072249589491%):
+2 used ddosguard (0.3389830508474576%):
 ```
 furystaff.tech
 vanta.st
@@ -71,9 +73,9 @@ vanta.st
 
 ```
 
-0 used fastly (0.0%):
+1 used fastly (0.1694915254237288%):
 ```
-
+thatdimensionalwebsite.com
 ```
 
 0 used sucuri (0.0%):
