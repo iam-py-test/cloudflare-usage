@@ -1,4 +1,4 @@
-590 domains tested. 85.2542372881356% were behind nothing (87 were behind something). 50 domains could not be tested.<br>
+566 domains tested. 89.92932862190813% were behind nothing (57 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,42 +19,43 @@
 
 ```
 
-34 used cloudflare (5.762711864406779%):
+35 used cloudflare (6.18374558303887%):
 ```
 abdulahad.net
 allendostmen.com
-amrzjixs.hugugmadanikatouzian.xyz
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-cambodiatouristservice.com
 checkinetverifk.com
+cryptex-core.pw
 crystalpvp.ru
+cxdba2b3.zabanmemari.shop
 euerx2bw.linebetkade.com
+ew8mvpi7.shartbandikade.online
 fd.v2downf.shop
 filerit.com
 git.nightcord.st
 gutando.com
 hitman-pro.ru
-jksidxrvz.bookdrive.xyz
-k96h8q0b.fubet24.net
 kambohmag.net
-nebulaclient.store
 new.quranushaiqer.org.sa
-njwjijvlf.differentialkerayechiyan.store
+obmhxqg.rocketbet.pro
+raqmk.mururhesabdari.xyz
 rngvl.bilyardkade.online
+royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
 spasopro.at
-traderhype.com
 trtmyanmar.com
+universemap.net
+vans-towing.com
 vcc-library.uk
+vfxdzptjm.mabaninazaridelavar.xyz
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 ydcgvobr.tarbiatbadani.xyz
 youtransfer.net
-zet9r6gg.nahjolbalage.xyz
 ```
 
 0 used cloudfront (0.0%):
@@ -62,10 +63,9 @@ zet9r6gg.nahjolbalage.xyz
 
 ```
 
-2 used ddosguard (0.3389830508474576%):
+1 used ddosguard (0.17667844522968199%):
 ```
 furystaff.tech
-vanta.st
 ```
 
 0 used edgecast (0.0%):
@@ -73,7 +73,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.1694915254237288%):
+1 used fastly (0.17667844522968199%):
 ```
 thatdimensionalwebsite.com
 ```
