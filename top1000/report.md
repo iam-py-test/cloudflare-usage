@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 54 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 56 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -20,7 +20,6 @@ mayoclinic.org
 mcafee.com
 mi.com
 mysql.com
-news.com.au
 rakuten.co.jp
 webex.com
 xiaomi.com
@@ -71,7 +70,6 @@ chatgpt.com
 chaturbate.com
 chess.com
 claude.ai
-clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -128,6 +126,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -215,7 +214,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -223,13 +222,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.com.mx
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -272,7 +270,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
+hotjar.com
 imdb.com
 intercom.io
 ipify.org
@@ -302,6 +300,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
@@ -310,6 +309,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com

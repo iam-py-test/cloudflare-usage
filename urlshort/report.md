@@ -1,4 +1,4 @@
-359 domains tested. 47.63231197771588% were behind nothing (188 were behind something). 11 domains could not be tested.<br>
+359 domains tested. 47.910863509749305% were behind nothing (187 were behind something). 11 domains could not be tested.<br>
 1 used akamai (0.2785515320334262%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -186,9 +186,8 @@ y0utu.be
 your.ls
 ```
 
-10 used cloudfront (2.785515320334262%):
+9 used cloudfront (2.5069637883008355%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
