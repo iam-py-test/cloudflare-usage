@@ -1,4 +1,4 @@
-579 domains tested. 88.42832469775475% were behind nothing (67 were behind something). 26 domains could not be tested.<br>
+557 domains tested. 87.79174147217235% were behind nothing (68 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,52 +19,59 @@
 
 ```
 
-36 used cloudflare (6.217616580310881%):
+43 used cloudflare (7.719928186714542%):
 ```
-abdulahad.net
-akarstresser.pro
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
-bin.workcentral.shop
-cambodiatouristservice.com
+as.al
+atsvv.bankefiile.com
+bqmrthe.bankefiile.com
 checkinetverifk.com
-ckdydch.shansbartar.bet
+coraline.work
 crystalpvp.ru
+cuth.me
+d4.tfdl.net
+d7.tfdl.net
 fd.v2downf.shop
 filerit.com
-fine.microtr.life
-froqlquf.hugugmadanikatouzian.xyz
+freeapphub.tech
 gutando.com
+gzipfktz.mabanishimi.xyz
+hitechbars.com
 hitman-pro.ru
-idcmamvr.hugugmadanikatouzian.xyz
-iyejvhz.shansbartar.bet
+holl.microtr.life
+hxhqsvdq.mabanishimi.xyz
+j7n7i2dx.enfej.win
 kambohmag.net
+keitarosofts.com
+mvipnisr.mabanishimi.xyz
 new.quranushaiqer.org.sa
-qlvir.differentialkerayechiyan.store
-r7mbajwk.bordestan.com
 royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
 spasopro.at
 trtmyanmar.com
+trwqprv.shartmag.bet
+tuwlc2yd.hesabdarinoravesh.xyz
+ugygn.shartmag.bet
+vans-towing.com
 vcc-library.uk
+vwdpxdo.shartmag.bet
 www.blackhattoolz.com
 www.vuelaviajero.com
-x8268vj9.hugugmadanikatouzian.xyz
-xipas.differentialkerayechiyan.store
 xn--yh4bx88a.com
 youtransfer.net
-zrbhitjy.hugugmadanikatouzian.xyz
+zsmhobv.shartmag.bet
 ```
 
-1 used cloudfront (0.17271157167530224%):
-```
-bito.com.pk
+0 used cloudfront (0.0%):
 ```
 
-2 used ddosguard (0.3454231433506045%):
+```
+
+2 used ddosguard (0.3590664272890485%):
 ```
 furystaff.tech
 vanta.st
@@ -75,14 +82,14 @@ vanta.st
 
 ```
 
-1 used fastly (0.17271157167530224%):
+1 used fastly (0.17953321364452424%):
 ```
 thatdimensionalwebsite.com
 ```
 
-1 used sucuri (0.17271157167530224%):
+0 used sucuri (0.0%):
 ```
-sinergiaconstruccion.com.mx
+
 ```
 
 0 used myracloud (0.0%):

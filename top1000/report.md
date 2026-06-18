@@ -1,11 +1,10 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 52 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -21,6 +20,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -43,7 +43,7 @@ php.net
 
 ```
 
-167 used cloudflare (16.7%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -106,7 +106,6 @@ fwmrm.net
 gartner.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -127,6 +126,7 @@ kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
+linktr.ee
 loc.gov
 markmonitor.com
 media.net
@@ -192,7 +192,6 @@ twitter.com
 uber.com
 umich.edu
 unpkg.com
-upwork.com
 vimeo.com
 vungle.com
 w3.org
@@ -221,13 +220,15 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.com.mx
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -250,7 +251,6 @@ change.org
 checkpoint.com
 dailymotion.com
 datadoghq.com
-deepseek.com
 deviantart.com
 doi.org
 dotomi.com
@@ -270,7 +270,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -300,7 +300,6 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com

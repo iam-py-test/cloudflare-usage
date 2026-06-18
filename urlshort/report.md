@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-163 used cloudflare (45.40389972144847%):
+162 used cloudflare (45.12534818941504%):
 ```
 02ip.ru
 123415.xyz
@@ -78,7 +78,6 @@ firefone.com
 foot.wiki
 funurl.com
 gamingfun.me
-go.akbor.org
 go.ly
 go.pedido.me
 grabify.link
@@ -186,8 +185,9 @@ y0utu.be
 your.ls
 ```
 
-9 used cloudfront (2.5069637883008355%):
+10 used cloudfront (2.785515320334262%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
