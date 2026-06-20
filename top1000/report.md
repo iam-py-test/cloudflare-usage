@@ -1,4 +1,4 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ php.net
 
 ```
 
-169 used cloudflare (16.900000000000002%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -127,15 +127,12 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
-linktr.ee
 loc.gov
 markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -198,7 +195,6 @@ unpkg.com
 vimeo.com
 vungle.com
 w3.org
-watchlist-internet.at
 webmd.com
 weebly.com
 who.int
@@ -216,7 +212,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -225,14 +221,12 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.com.mx
-amazon.de
-amazon.es
 amazon.fr
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -272,7 +266,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -281,6 +274,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 nationalgeographic.com
 netgear.com
 noaa.gov

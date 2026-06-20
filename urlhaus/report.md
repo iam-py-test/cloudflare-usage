@@ -1,4 +1,4 @@
-512 domains tested. 86.5234375% were behind nothing (69 were behind something). 26 domains could not be tested.<br>
+470 domains tested. 83.82978723404256% were behind nothing (76 were behind something). 34 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,31 @@
 
 ```
 
-40 used cloudflare (7.8125%):
+39 used cloudflare (8.297872340425531%):
 ```
-2wr0b5x0.jetbetkade.com
+4nd2h8ef.bio90.football
 abdulahad.net
 allendostmen.com
 api.baimless.com
 api.ezilax.com
 app.appzcvb.com
 as.al
+bebra-dev.com
 bebra-dev.pro
-bqmrthe.bankefiile.com
-c9w3m5jq.usoleamoozesh.xyz
+beroniw.com
+biologus.shop
 cdn.imgtree.co
 checkinetverifk.com
-cjbbdtba.maharatmodiran.xyz
+coraline.buzz
 crystalpvp.ru
-cuth.me
-d7.tfdl.net
 fd.v2downf.shop
 filerit.com
 gitea.nightcord.st
 gutando.com
+gutiput.lol
 hitman-pro.ru
-jfxdrqqn.maharatmodiran.xyz
 kambohmag.net
 keitarosofts.com
-lnc1c2cf.anodaz.vip
 mail.avicennaalliedhealthinstitute.org
 new.quranushaiqer.org.sa
 nova.ismak.icu
@@ -53,14 +51,15 @@ pub-f3382215b.1x1.cash
 royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
-spasopro.at
 trtmyanmar.com
+vans-towing.com
 voltix.gd
 www.blackhattoolz.com
 www.vuelaviajero.com
 xeno.lat
 xn--yh4bx88a.com
 youtransfer.net
+zt7vrheg.bio90.football
 ```
 
 0 used cloudfront (0.0%):
@@ -68,7 +67,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.390625%):
+2 used ddosguard (0.425531914893617%):
 ```
 furystaff.tech
 vanta.st
@@ -79,7 +78,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.1953125%):
+1 used fastly (0.2127659574468085%):
 ```
 thatdimensionalwebsite.com
 ```
