@@ -1,4 +1,4 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 56 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -103,11 +103,9 @@ fontawesome.com
 forter.com
 ft.com
 fwmrm.net
-garmin.com
 gartner.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -127,12 +125,14 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linktr.ee
 loc.gov
 markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -152,7 +152,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -212,22 +211,18 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+92 used cloudfront (9.2%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.au
 amazon.com.mx
-amazon.fr
-amazon.it
-amazonalexa.com
+amazon.de
+amazon.in
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -266,7 +261,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
+hotjar.com
 imdb.com
 intercom.io
 ipify.org
@@ -274,13 +269,10 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
-netgear.com
 noaa.gov
 note.com
 onet.pl
-pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
@@ -297,6 +289,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
