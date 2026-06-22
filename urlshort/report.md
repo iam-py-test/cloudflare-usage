@@ -72,6 +72,7 @@ echoz.com
 exe.io
 ezstat.ru
 fc-lc.com
+fc.lc
 filetap.com
 firefone.com
 foot.wiki
@@ -176,7 +177,6 @@ usheethe.com
 utml.it
 v.gd
 v.ht
-vipurl.pro
 vze.com
 www.bl.ink
 www.jdoqocy.com
