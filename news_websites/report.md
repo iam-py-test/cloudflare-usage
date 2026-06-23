@@ -114,7 +114,7 @@ wsj.com
 bbc.com
 bbc.com
 cbsnews.com
-forbes.com
+corriere.it
 gazzetta.it
 nytimes.com
 ```

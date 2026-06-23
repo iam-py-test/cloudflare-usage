@@ -1,11 +1,10 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 53 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 56 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -21,7 +20,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -44,7 +42,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
@@ -107,6 +105,7 @@ fwmrm.net
 gartner.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -214,7 +213,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -227,9 +226,12 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.com.mx
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -269,6 +271,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 imdb.com
 intercom.io
 ipify.org
@@ -280,7 +283,6 @@ nationalgeographic.com
 noaa.gov
 note.com
 onet.pl
-pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
@@ -330,7 +332,7 @@ netangels.ru
 bbc.co.uk
 bbc.com
 cbsnews.com
-forbes.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net

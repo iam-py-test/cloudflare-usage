@@ -1,10 +1,10 @@
-439 domains tested. 85.19362186788155% were behind nothing (65 were behind something). 33 domains could not be tested.<br>
+442 domains tested. 85.97285067873304% were behind nothing (62 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-1 used bunnycdn (0.22779043280182232%):
+1 used bunnycdn (0.22624434389140274%):
 ```
 cpc188.day
 ```
@@ -19,8 +19,10 @@ cpc188.day
 
 ```
 
-28 used cloudflare (6.378132118451026%):
+33 used cloudflare (7.46606334841629%):
 ```
+195q2fia.readthisintro.xyz
+abdulahad.net
 allendostmen.com
 api.baimless.com
 api.ezilax.com
@@ -30,20 +32,23 @@ checkinetverifk.com
 crystalpvp.ru
 fd.v2downf.shop
 filerit.com
+grantexx.com
 gutando.com
 hitman-pro.ru
-hungrywifi.ru
 kambohmag.net
 kickstrean.art
+kis.marketing
+mail.avicennaalliedhealthinstitute.org
 new.quranushaiqer.org.sa
+onyx-ae.cc
 paperrig.com
-rbxproject.com
-rurhmgw2.readthisintro.xyz
+royalindiancurryclub.com
 rxquickpay.com
 samsclass.info
 spasopro.at
+teams.alfredcore.com
 trtmyanmar.com
-ut7worjq.1x303.casino
+ujlo7o5o.readthisintro.xyz
 www.blackhattoolz.com
 www.paperrig.com
 www.vuelaviajero.com
@@ -56,7 +61,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.45558086560364464%):
+2 used ddosguard (0.4524886877828055%):
 ```
 furystaff.tech
 vanta.st
@@ -67,7 +72,7 @@ vanta.st
 
 ```
 
-1 used fastly (0.22779043280182232%):
+1 used fastly (0.22624434389140274%):
 ```
 thatdimensionalwebsite.com
 ```
