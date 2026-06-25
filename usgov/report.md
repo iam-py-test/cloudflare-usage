@@ -47,7 +47,7 @@ usfa.fema.gov
 
 ```
 
-46 used cloudflare (12.742382271468145%):
+45 used cloudflare (12.465373961218837%):
 ```
 aoc.gov
 bis.doc.gov
@@ -76,7 +76,6 @@ juvenilecouncil.ojp.gov
 kennedy-center.org
 loc.gov
 mbda.gov
-nationalparks.org
 nga.gov
 niams.nih.gov
 nifc.gov
@@ -97,7 +96,7 @@ usip.org
 usmint.gov
 ```
 
-34 used cloudfront (9.418282548476455%):
+35 used cloudfront (9.695290858725762%):
 ```
 archives.gov
 bernco.gov
@@ -114,6 +113,7 @@ jobcorps.gov
 mcc.gov
 minorityhealth.hhs.gov
 msha.gov
+nationalparks.org
 nccih.nih.gov
 ncd.gov
 nlm.nih.gov

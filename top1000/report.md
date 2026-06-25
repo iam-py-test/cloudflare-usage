@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 56 domains could not be tested.<br>
 22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
@@ -42,7 +42,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -132,7 +132,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 mybluehost.me
 myshopify.com
@@ -152,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -198,7 +198,6 @@ w3.org
 webmd.com
 weebly.com
 who.int
-wiley.com
 workers.dev
 worldbank.org
 wpguardian.com
@@ -212,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -220,16 +219,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
-amazon.in
-amazon.it
+amazon.fr
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -269,7 +265,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
+hotjar.com
 imdb.com
 intercom.io
 ipify.org
@@ -277,6 +273,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -373,11 +370,12 @@ www.gov.uk
 
 ```
 
-3 used netlify (0.3%):
+4 used netlify (0.4%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+stanford.edu
 ```
 
 1 used imperva (0.1%):
