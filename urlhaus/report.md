@@ -1,4 +1,4 @@
-437 domains tested. 84.89702517162472% were behind nothing (66 were behind something). 28 domains could not be tested.<br>
+418 domains tested. 87.5598086124402% were behind nothing (52 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,29 @@
 
 ```
 
-34 used cloudflare (7.780320366132723%):
+26 used cloudflare (6.220095693779904%):
 ```
-8aldchrh.jetbt9.online
+5v12-3my5908y1.com
 abdulahad.net
 allendostmen.com
-api.baimless.com
-api.ezilax.com
 app.appzcvb.com
 bonavol.xyz
 checkinetverifk.com
 crystalpvp.ru
-d52cv625.ahkam.xyz
+etaczb1.jetbetapk.online
 fd.v2downf.shop
 filerit.com
-gobiotechpestcontrol.com
 grantexx.com
 gutando.com
 hitman-pro.ru
 kambohmag.net
-kyard07v.vip1xbet.net
-ljkfok0p.vip1xbet.net
-m2p5bg3q.ahkam.xyz
-mail.avicennaalliedhealthinstitute.org
-meow.otval.cfd
 new.quranushaiqer.org.sa
+pa9xqikq.1000shart.xyz
 royalindiancurryclub.com
 rxquickpay.com
-samsclass.info
 securedisk.cfd
 spasopro.at
-techosazteca.com
+trtmyanmar.com
 voidgame.cc
 www.blackhattoolz.com
 www.vuelaviajero.com
@@ -57,12 +49,12 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.2288329519450801%):
+1 used cloudfront (0.23923444976076555%):
 ```
 echallan-traffic.live
 ```
 
-2 used ddosguard (0.4576659038901602%):
+2 used ddosguard (0.4784688995215311%):
 ```
 furystaff.tech
 vanta.st
@@ -73,9 +65,9 @@ vanta.st
 
 ```
 
-1 used fastly (0.2288329519450801%):
+0 used fastly (0.0%):
 ```
-thatdimensionalwebsite.com
+
 ```
 
 0 used sucuri (0.0%):
