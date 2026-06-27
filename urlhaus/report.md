@@ -1,4 +1,4 @@
-418 domains tested. 87.5598086124402% were behind nothing (52 were behind something). 23 domains could not be tested.<br>
+430 domains tested. 81.16279069767441% were behind nothing (81 were behind something). 49 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,42 +19,46 @@
 
 ```
 
-26 used cloudflare (6.220095693779904%):
+30 used cloudflare (6.976744186046512%):
 ```
+360.intraserv.pl
 5v12-3my5908y1.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
-bonavol.xyz
 checkinetverifk.com
 crystalpvp.ru
+deagroup-ks.com
 etaczb1.jetbetapk.online
 fd.v2downf.shop
 filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
+isgmj697.hesabdarishabahang.xyz
+jabalitowers.nexatestwp.com
 kambohmag.net
 new.quranushaiqer.org.sa
+nxk3vadq.1xprobet.app
 pa9xqikq.1000shart.xyz
-royalindiancurryclub.com
 rxquickpay.com
-securedisk.cfd
 spasopro.at
+t1x1vby3.ahkam.xyz
 trtmyanmar.com
 voidgame.cc
 www.blackhattoolz.com
 www.vuelaviajero.com
+xb.bet1bonus.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.23923444976076555%):
-```
-echallan-traffic.live
+0 used cloudfront (0.0%):
 ```
 
-2 used ddosguard (0.4784688995215311%):
+```
+
+2 used ddosguard (0.46511627906976744%):
 ```
 furystaff.tech
 vanta.st

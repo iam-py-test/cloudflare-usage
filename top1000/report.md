@@ -1,4 +1,4 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
 23 used akamai (2.3%):
 ```
 accuweather.com
@@ -43,7 +43,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -106,7 +106,6 @@ fwmrm.net
 gartner.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -118,6 +117,7 @@ indeed.com
 investopedia.com
 iso.org
 it.com
+itch.io
 jimdo.com
 jquery.com
 kick.com
@@ -126,7 +126,6 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -182,7 +181,6 @@ stripchat.com
 substack.com
 t.co
 tandfonline.com
-tawk.to
 teamviewer.com
 theatlantic.com
 themeforest.net
@@ -211,18 +209,17 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com.br
-amazon.com.mx
+amazon.com
+amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
@@ -268,11 +265,11 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
 jetbrains.com
+kahoot.it
 latimes.com
 lijit.com
 line.me
@@ -325,12 +322,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net
