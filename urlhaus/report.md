@@ -1,4 +1,4 @@
-430 domains tested. 81.16279069767441% were behind nothing (81 were behind something). 49 domains could not be tested.<br>
+433 domains tested. 84.98845265588915% were behind nothing (65 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,36 +19,37 @@
 
 ```
 
-30 used cloudflare (6.976744186046512%):
+31 used cloudflare (7.159353348729793%):
 ```
+00pq7d1j.1xboropartners.com
+0z4y5ci2.1xboropartners.com
 360.intraserv.pl
-5v12-3my5908y1.com
+7sjngotr.1xsignupbet.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
+babayagareborn.net
 checkinetverifk.com
 crystalpvp.ru
 deagroup-ks.com
-etaczb1.jetbetapk.online
+e.perspolis.pro
 fd.v2downf.shop
 filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-isgmj697.hesabdarishabahang.xyz
+ik029b3d.1xsignupbet.com
 jabalitowers.nexatestwp.com
-kambohmag.net
 new.quranushaiqer.org.sa
-nxk3vadq.1xprobet.app
-pa9xqikq.1000shart.xyz
+rfhudhbz.313betsingup.casino
 rxquickpay.com
 spasopro.at
-t1x1vby3.ahkam.xyz
+t71awqhc.1xsignupbet.com
+tb4awyc7.vip1xbet.net
 trtmyanmar.com
 voidgame.cc
 www.blackhattoolz.com
 www.vuelaviajero.com
-xb.bet1bonus.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
@@ -58,7 +59,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.46511627906976744%):
+2 used ddosguard (0.4618937644341801%):
 ```
 furystaff.tech
 vanta.st

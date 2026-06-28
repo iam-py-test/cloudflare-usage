@@ -1,4 +1,4 @@
-200 domains tested. 58.5% were behind nothing (83 were behind something). 5 domains could not be tested.<br>
+200 domains tested. 59.5% were behind nothing (81 were behind something). 4 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 anandabazar.com
@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-40 used cloudflare (20.0%):
+39 used cloudflare (19.5%):
 ```
 972mag.com
 alarabiya.net
@@ -28,7 +28,6 @@ ap.org
 apnews.com
 axios.com
 bleepingcomputer.com
-businessden.com
 canarymedia.com
 coloradopolitics.com
 dexerto.com

@@ -1,12 +1,10 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 56 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+21 used akamai (2.1%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
-cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -43,7 +41,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -79,6 +77,7 @@ columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
+coupang.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -126,6 +125,7 @@ klaviyo.com
 kueezrtb.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -216,10 +216,11 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -302,7 +303,6 @@ typeform.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 wattpad.com
 wired.com
