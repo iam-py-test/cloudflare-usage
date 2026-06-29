@@ -1,10 +1,11 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
-21 used akamai (2.1%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 55 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 fda.gov
 godaddy.com
 hm.com
@@ -41,7 +42,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -77,7 +78,6 @@ columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
-coupang.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -105,11 +105,11 @@ fwmrm.net
 gartner.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
 hubspot.com
-hugedomains.com
 ietf.org
 ikea.com
 indeed.com
@@ -122,7 +122,6 @@ jquery.com
 kick.com
 kickstarter.com
 klaviyo.com
-kueezrtb.com
 life360.com
 liftoff.io
 linkedin.com
@@ -151,6 +150,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -209,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -218,6 +218,7 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -265,7 +266,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 imdb.com
 intercom.io
 ipify.org
@@ -303,6 +303,7 @@ typeform.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -322,11 +323,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net
