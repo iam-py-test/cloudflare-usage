@@ -1,4 +1,4 @@
-417 domains tested. 88.48920863309353% were behind nothing (48 were behind something). 19 domains could not be tested.<br>
+423 domains tested. 89.59810874704492% were behind nothing (44 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,14 +19,14 @@
 
 ```
 
-28 used cloudflare (6.71462829736211%):
+24 used cloudflare (5.673758865248227%):
 ```
+12xb1qlu.jet-theme.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
 crystalpvp.ru
-daprojektbau.webfaqe-ks.com
 deagroup-ks.com
 fd.v2downf.shop
 filerit.com
@@ -34,21 +34,17 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 hol.villgrow.life
-lwflkiar.betsoor.live
+irahook.org
 new.quranushaiqer.org.sa
-penumbra-extension.com
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-spasopro.at
-trtmyanmar.com
-ttt.falsafekonkour.site
-uamhqvjx.abresanishahri.store
 www.blackhattoolz.com
 www.vuelaviajero.com
 xeno.help
 xn--yh4bx88a.com
 youtransfer.net
+zthayuyp.1x303.casino
 ```
 
 0 used cloudfront (0.0%):
@@ -56,7 +52,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2398081534772182%):
+1 used ddosguard (0.2364066193853428%):
 ```
 furystaff.tech
 ```
