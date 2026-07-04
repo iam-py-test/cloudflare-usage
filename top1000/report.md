@@ -1,10 +1,11 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 53 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 55 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -42,7 +43,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -124,7 +125,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -147,11 +147,9 @@ onetrust.com
 onlyfans.com
 openai.com
 oup.com
-ox.ac.uk
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -211,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -225,6 +223,7 @@ amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -327,12 +326,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net
@@ -374,11 +372,12 @@ www.gov.uk
 
 ```
 
-4 used netlify (0.4%):
+5 used netlify (0.5%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
+letsencrypt.org
 stanford.edu
 ```
 
