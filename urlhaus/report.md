@@ -1,4 +1,4 @@
-441 domains tested. 90.47619047619048% were behind nothing (42 were behind something). 18 domains could not be tested.<br>
+479 domains tested. 88.30897703549061% were behind nothing (56 were behind something). 30 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,23 @@
 
 ```
 
-22 used cloudflare (4.988662131519274%):
+24 used cloudflare (5.010438413361169%):
 ```
-abdulahad.net
-adoswjr.calvaryhospice.org
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
 crystalpvp.ru
+dazayse.hi-lo.bet
 deagroup-ks.com
+e703cad0-1b37-4cd4-b3d6.tapscalafilepro.net
 fd.v2downf.shop
 filerit.com
+gefpeqd.bet1xiraq.com
 grantexx.com
 gutando.com
 hitman-pro.ru
 irahook.org
+jenkinsmoving.com
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
@@ -50,9 +52,10 @@ zov.ismak.icu
 
 ```
 
-1 used ddosguard (0.22675736961451248%):
+2 used ddosguard (0.41753653444676403%):
 ```
 furystaff.tech
+thisisafalsepositive.st
 ```
 
 0 used edgecast (0.0%):
@@ -103,9 +106,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.22675736961451248%):
-```
-twu-hwt.org
 ```
