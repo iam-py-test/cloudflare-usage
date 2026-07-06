@@ -1,4 +1,4 @@
-479 domains tested. 88.30897703549061% were behind nothing (56 were behind something). 30 domains could not be tested.<br>
+480 domains tested. 89.375% were behind nothing (51 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,24 +19,24 @@
 
 ```
 
-24 used cloudflare (5.010438413361169%):
+24 used cloudflare (5.0%):
 ```
+1xhk4hau.bet1forward.com
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
 crystalpvp.ru
-dazayse.hi-lo.bet
 deagroup-ks.com
 e703cad0-1b37-4cd4-b3d6.tapscalafilepro.net
 fd.v2downf.shop
 filerit.com
-gefpeqd.bet1xiraq.com
 grantexx.com
 gutando.com
 hitman-pro.ru
 irahook.org
 jenkinsmoving.com
-royalindiancurryclub.com
+jffl6ogj.bet1forward.com
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
@@ -52,7 +52,7 @@ zov.ismak.icu
 
 ```
 
-2 used ddosguard (0.41753653444676403%):
+2 used ddosguard (0.4166666666666667%):
 ```
 furystaff.tech
 thisisafalsepositive.st

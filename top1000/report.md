@@ -1,10 +1,11 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 56 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 58 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -42,7 +43,7 @@ php.net
 
 ```
 
-163 used cloudflare (16.3%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -126,12 +127,10 @@ life360.com
 liftoff.io
 linkedin.com
 loc.gov
-markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -209,14 +208,13 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
@@ -274,6 +272,8 @@ kahoot.it
 latimes.com
 lijit.com
 line.me
+markmonitor.com
+merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
