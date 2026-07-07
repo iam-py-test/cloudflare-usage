@@ -1,5 +1,5 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 58 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 54 domains could not be tested.<br>
+22 used akamai (2.1999999999999997%):
 ```
 accuweather.com
 adobe.com
@@ -15,7 +15,6 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-marriott.com
 mayoclinic.org
 mcafee.com
 mi.com
@@ -43,7 +42,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -127,11 +126,14 @@ life360.com
 liftoff.io
 linkedin.com
 loc.gov
+markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -149,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -194,6 +197,7 @@ w3.org
 webmd.com
 weebly.com
 who.int
+wikia.com
 wiley.com
 workers.dev
 worldbank.org
@@ -208,22 +212,21 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.br
 amazon.com.mx
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -272,8 +275,6 @@ kahoot.it
 latimes.com
 lijit.com
 line.me
-markmonitor.com
-merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -293,7 +294,6 @@ state.gov
 statista.com
 supercell.com
 surveymonkey.com
-synology.com
 t-online.de
 tp-link.com
 tradingview.com
