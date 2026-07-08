@@ -1,4 +1,4 @@
-465 domains tested. 90.75268817204301% were behind nothing (43 were behind something). 16 domains could not be tested.<br>
+492 domains tested. 89.02439024390245% were behind nothing (54 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,38 @@
 
 ```
 
-25 used cloudflare (5.376344086021505%):
+31 used cloudflare (6.300813008130081%):
 ```
-abdulahad.net
 allendostmen.com
 app.appzcvb.com
+az1cv6zs.calvaryhospice.org
+boodystat.click
 cambodiatouristservice.com
-cldppqm.jetshart.net
 crystalpvp.ru
 deagroup-ks.com
 dvjmeze.yan303.com
 fd.v2downf.shop
+feridogames.com
+fesold.com
 filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
+intelligence-bloomberg-tonsol.cfd
 irahook.org
-ntvyplg.jetshart.net
-qyhgsea.jetshart.net
+morganstat.sbs
+nightmare-cheats.buzz
+ourynlg.calvaryhospice.org
 royalindiancurryclub.com
-rugcfdaz.marjaevakil.ir
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
+vkgfakco.yan303.com
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
+xverikstat.us
+ymy16goe.calvaryhospice.org
 youtransfer.net
 ```
 
@@ -53,7 +59,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.21505376344086022%):
+1 used ddosguard (0.20325203252032523%):
 ```
 furystaff.tech
 ```
@@ -108,7 +114,7 @@ furystaff.tech
 
 ```
 
-1 used imperva (0.21505376344086022%):
+1 used imperva (0.20325203252032523%):
 ```
 twu-hwt.org
 ```

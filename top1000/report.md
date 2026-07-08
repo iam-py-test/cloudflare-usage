@@ -1,10 +1,11 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 54 domains could not be tested.<br>
-22 used akamai (2.1999999999999997%):
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 54 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+cdc.gov
 cisco.com
 coupang.com
 fda.gov
@@ -15,11 +16,13 @@ hp.com
 intel.com
 intuit.com
 lowes.com
+marriott.com
 mayoclinic.org
 mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -42,7 +45,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -78,6 +81,7 @@ columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
+cpanel.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -95,7 +99,6 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
-faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -133,7 +136,6 @@ mediatek.com
 medium.com
 merriam-webster.com
 moloco.com
-mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -151,7 +153,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -173,6 +174,7 @@ sharethrough.com
 shein.com
 shop.app
 shopify.com
+singular.net
 smartadserver.com
 smilewanted.com
 sophos.com
@@ -212,21 +214,24 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -294,6 +299,7 @@ state.gov
 statista.com
 supercell.com
 surveymonkey.com
+synology.com
 t-online.de
 tp-link.com
 tradingview.com
