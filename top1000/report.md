@@ -1,12 +1,11 @@
-1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 54 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 63.800000000000004% were behind nothing (362 were behind something). 53 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 cdc.gov
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -45,7 +44,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -107,7 +106,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -153,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -165,6 +164,7 @@ prnewswire.com
 quora.com
 readthedocs.io
 researchgate.net
+roblox.com
 roku.com
 rubiconproject.com
 sciencedirect.com
@@ -227,7 +227,6 @@ amazon.com
 amazon.com.au
 amazon.com.br
 amazon.com.mx
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -272,6 +271,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -328,7 +328,7 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -336,6 +336,7 @@ cbsnews.com
 corriere.it
 github.io
 nytimes.com
+openstreetmap.org
 speedtest.net
 www.gov.uk
 ```

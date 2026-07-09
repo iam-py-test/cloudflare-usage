@@ -1,4 +1,4 @@
-492 domains tested. 89.02439024390245% were behind nothing (54 were behind something). 21 domains could not be tested.<br>
+514 domains tested. 88.91050583657587% were behind nothing (57 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,16 @@
 
 ```
 
-31 used cloudflare (6.300813008130081%):
+36 used cloudflare (7.003891050583658%):
 ```
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
-az1cv6zs.calvaryhospice.org
 boodystat.click
 cambodiatouristservice.com
 crystalpvp.ru
+dcaxdwoo.barcelona11.com
 deagroup-ks.com
-dvjmeze.yan303.com
 fd.v2downf.shop
 feridogames.com
 fesold.com
@@ -37,20 +37,25 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 intelligence-bloomberg-tonsol.cfd
-irahook.org
+join-google-meet.com
+kaloed.pro
+mekasa.pro
 morganstat.sbs
 nightmare-cheats.buzz
-ourynlg.calvaryhospice.org
+pokese.pro
+pzhj.barcelona11.com
+qee052b3.irantop.bet
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
+toonhymp.barcelona11.com
 trtmyanmar.com
+ultimatebodyrecovery.com
 vkgfakco.yan303.com
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 xverikstat.us
-ymy16goe.calvaryhospice.org
 youtransfer.net
 ```
 
@@ -59,7 +64,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.20325203252032523%):
+1 used ddosguard (0.19455252918287938%):
 ```
 furystaff.tech
 ```
@@ -112,9 +117,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.20325203252032523%):
-```
-twu-hwt.org
 ```
