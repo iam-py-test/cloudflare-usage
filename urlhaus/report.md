@@ -1,4 +1,4 @@
-514 domains tested. 88.91050583657587% were behind nothing (57 were behind something). 20 domains could not be tested.<br>
+507 domains tested. 85.4043392504931% were behind nothing (74 were behind something). 43 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,43 +19,36 @@
 
 ```
 
-36 used cloudflare (7.003891050583658%):
+29 used cloudflare (5.719921104536489%):
 ```
 abdulahad.net
 allendostmen.com
+anglingforimages.com
 app.appzcvb.com
-boodystat.click
+caewscad.fileboroo.com
 cambodiatouristservice.com
 crystalpvp.ru
-dcaxdwoo.barcelona11.com
 deagroup-ks.com
 fd.v2downf.shop
-feridogames.com
 fesold.com
 filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-intelligence-bloomberg-tonsol.cfd
 join-google-meet.com
 kaloed.pro
+knyjwxkg.fileboroo.com
 mekasa.pro
-morganstat.sbs
-nightmare-cheats.buzz
+microlsireqjn.com
 pokese.pro
-pzhj.barcelona11.com
-qee052b3.irantop.bet
-royalindiancurryclub.com
+q8nw6zme.fileboroo.com
 rxquickpay.com
 scanbot.me
-toonhymp.barcelona11.com
 trtmyanmar.com
 ultimatebodyrecovery.com
-vkgfakco.yan303.com
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
-xverikstat.us
 youtransfer.net
 ```
 
@@ -64,7 +57,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.19455252918287938%):
+1 used ddosguard (0.19723865877712032%):
 ```
 furystaff.tech
 ```
@@ -117,4 +110,9 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
+```
+
+1 used imperva (0.19723865877712032%):
+```
+twu-hwt.org
 ```
