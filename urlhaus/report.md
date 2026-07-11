@@ -1,4 +1,4 @@
-507 domains tested. 85.4043392504931% were behind nothing (74 were behind something). 43 domains could not be tested.<br>
+464 domains tested. 90.08620689655173% were behind nothing (46 were behind something). 14 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,33 +19,35 @@
 
 ```
 
-29 used cloudflare (5.719921104536489%):
+31 used cloudflare (6.68103448275862%):
 ```
 abdulahad.net
 allendostmen.com
 anglingforimages.com
 app.appzcvb.com
+awvz.backgammon.download
 caewscad.fileboroo.com
 cambodiatouristservice.com
 crystalpvp.ru
 deagroup-ks.com
+ertt.bahigo90bet.com
 fd.v2downf.shop
 fesold.com
 filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-join-google-meet.com
-kaloed.pro
 knyjwxkg.fileboroo.com
-mekasa.pro
 microlsireqjn.com
-pokese.pro
+nightmare-download.pw
+nnxhoedm.onjabet1.com
 q8nw6zme.fileboroo.com
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
+snmg.bahigo90bet.com
 trtmyanmar.com
-ultimatebodyrecovery.com
+tvzo.backgammon.download
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
@@ -57,7 +59,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.19723865877712032%):
+1 used ddosguard (0.21551724137931033%):
 ```
 furystaff.tech
 ```
@@ -110,9 +112,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.19723865877712032%):
-```
-twu-hwt.org
 ```

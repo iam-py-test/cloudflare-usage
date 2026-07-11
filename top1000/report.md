@@ -1,5 +1,5 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 54 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -22,7 +22,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -153,7 +152,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -183,6 +181,7 @@ sourceforge.net
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -224,12 +223,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
-amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -271,6 +269,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
