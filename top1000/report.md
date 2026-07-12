@@ -1,12 +1,11 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 55 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 cdc.gov
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -213,23 +212,22 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
-amazon.co.uk
+amazon.com
+amazon.com.au
 amazon.com.br
 amazon.com.mx
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -269,12 +267,12 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
 ipify.org
 jetbrains.com
-kahoot.it
 latimes.com
 lijit.com
 line.me
@@ -373,12 +371,13 @@ www.gov.uk
 
 ```
 
-5 used netlify (0.5%):
+6 used netlify (0.6%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
 letsencrypt.org
+netlify.app
 stanford.edu
 ```
 
