@@ -1,11 +1,12 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 55 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 53 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 cdc.gov
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -43,7 +44,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -105,7 +106,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -134,6 +134,7 @@ mediatek.com
 medium.com
 merriam-webster.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -151,6 +152,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -219,14 +221,14 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.com.mx
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazonalexa.com
 amazonaws.com
@@ -267,7 +269,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -297,6 +298,7 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
+telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com

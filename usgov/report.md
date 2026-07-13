@@ -48,7 +48,7 @@ usfa.fema.gov
 
 ```
 
-45 used cloudflare (12.465373961218837%):
+46 used cloudflare (12.742382271468145%):
 ```
 aoc.gov
 bis.doc.gov
@@ -91,15 +91,15 @@ osmre.gov
 peacecorps.gov
 si.edu
 srbc.net
+travel.state.gov
 tva.com
 usadf.gov
 usip.org
 usmint.gov
 ```
 
-33 used cloudfront (9.141274238227147%):
+32 used cloudfront (8.86426592797784%):
 ```
-archives.gov
 bernco.gov
 boem.gov
 cfo.gov
