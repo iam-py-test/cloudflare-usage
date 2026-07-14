@@ -1,5 +1,5 @@
-359 domains tested. 48.18941504178273% were behind nothing (186 were behind something). 12 domains could not be tested.<br>
-1 used akamai (0.2785515320334262%):
+363 domains tested. 47.38292011019284% were behind nothing (191 were behind something). 13 domains could not be tested.<br>
+1 used akamai (0.27548209366391185%):
 ```
 email-sendgrid-deep-linking.chewy.com
 ```
@@ -19,7 +19,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-162 used cloudflare (45.12534818941504%):
+165 used cloudflare (45.45454545454545%):
 ```
 02ip.ru
 123415.xyz
@@ -35,6 +35,7 @@ email-sendgrid-deep-linking.chewy.com
 2tunes.com
 2ya.com
 301.li
+4.fo
 49r.de
 adf.ly
 adfoc.us
@@ -80,6 +81,7 @@ funurl.com
 gamingfun.me
 go.ly
 go.pedido.me
+go.sv
 grabify.link
 grabify.world
 headplug.com
@@ -89,6 +91,7 @@ hitart.com
 hsh.sh
 ibf.tw
 imagehost.pics
+in.sv
 ipgraber.ru
 iplogger.co
 iplogger.com
@@ -106,13 +109,13 @@ knpp.online
 link-center.net
 link-z.net
 link.sbstck.com
+link.sv
 links.e.malwarebytes.com
 linksbr.com.br
 linkvertise.com
 linkvertise.net
 llili.li
 ln.run
-lnkd.in
 lyksoomu.com
 lyzo.io
 mirrorz.com
@@ -185,8 +188,9 @@ y0utu.be
 your.ls
 ```
 
-8 used cloudfront (2.2284122562674096%):
+9 used cloudfront (2.479338842975207%):
 ```
+a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
@@ -197,7 +201,7 @@ trk.klclick3.com
 zpr.io
 ```
 
-2 used ddosguard (0.5571030640668524%):
+2 used ddosguard (0.5509641873278237%):
 ```
 goo.su
 u.to
@@ -213,7 +217,7 @@ u.to
 
 ```
 
-1 used sucuri (0.2785515320334262%):
+1 used sucuri (0.27548209366391185%):
 ```
 wee.so
 ```

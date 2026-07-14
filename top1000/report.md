@@ -1,12 +1,11 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 53 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 cdc.gov
-cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -106,6 +105,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -125,7 +125,6 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
-linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -214,7 +213,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -227,9 +226,8 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -298,11 +296,11 @@ supercell.com
 surveymonkey.com
 synology.com
 t-online.de
-telekom.de
 tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
+ubi.com
 ubnt.com
 ui.com
 un.org
@@ -326,12 +324,11 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 nytimes.com
 speedtest.net

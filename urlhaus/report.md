@@ -1,4 +1,4 @@
-503 domains tested. 88.07157057654076% were behind nothing (60 were behind something). 23 domains could not be tested.<br>
+511 domains tested. 88.06262230919765% were behind nothing (61 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,49 @@
 
 ```
 
-33 used cloudflare (6.560636182902585%):
+33 used cloudflare (6.457925636007827%):
 ```
-abdulahad.net
+5ufm19dl.pdfbama.com
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
 crystalpvp.ru
 deagroup-ks.com
-etoncwgd.behtarin-site-shartbandi-football.com
 exptersed.com
+fairth.dev
 fd.v2downf.shop
 fesold.com
 filerit.com
+genesis-cheats.com
 grantexx.com
 gutando.com
 hitman-pro.ru
 jidm.jadoobet.pro
 kaleda.pro
+keitarosofts.com
+marjdl.pro
 olptz5o4.jadoou.beauty
-peniclean.com
-prre.behtarin-site-shartbandi-football.com
-royalindiancurryclub.com
 ruuupkia.jadoobet.pro
 rxquickpay.com
 scanbot.me
 specsaversllc.online
 trtmyanmar.com
-uzmapubv.behtarin-site-shartbandi-football.com
 vlfnosj4.bazisangkaqazgeychidancepoli.com
-voltix-net.biz
 www.blackhattoolz.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
+xprba39f.jadoou.space
 xxaz.jadoou.beauty
 youtransfer.net
+zjyozhki.jadoou.space
 ```
 
-1 used cloudfront (0.19880715705765406%):
+1 used cloudfront (0.19569471624266144%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.19880715705765406%):
+1 used ddosguard (0.19569471624266144%):
 ```
 furystaff.tech
 ```
@@ -76,7 +76,7 @@ furystaff.tech
 
 ```
 
-1 used sucuri (0.19880715705765406%):
+1 used sucuri (0.19569471624266144%):
 ```
 dozco.com
 ```
@@ -114,9 +114,4 @@ dozco.com
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.19880715705765406%):
-```
-twu-hwt.org
 ```
