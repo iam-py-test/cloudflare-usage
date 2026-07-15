@@ -1,11 +1,12 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
-23 used akamai (2.3%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 cdc.gov
+cisco.com
 coupang.com
 fda.gov
 godaddy.com
@@ -21,6 +22,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+spectrum.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -43,7 +45,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -105,7 +107,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -151,7 +152,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -213,7 +213,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -221,13 +221,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
+amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -267,6 +267,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -324,11 +325,12 @@ netangels.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 github.io
 nytimes.com
 speedtest.net

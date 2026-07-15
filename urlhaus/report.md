@@ -1,4 +1,4 @@
-511 domains tested. 88.06262230919765% were behind nothing (61 were behind something). 25 domains could not be tested.<br>
+518 domains tested. 87.25868725868726% were behind nothing (66 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,49 +19,56 @@
 
 ```
 
-33 used cloudflare (6.457925636007827%):
+40 used cloudflare (7.722007722007722%):
 ```
-5ufm19dl.pdfbama.com
+1nto2x4n.bahigo90bet.com
+7c7ax36p.bahigo90bet.com
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
+brfavfmp.bet90forward.win
 cambodiatouristservice.com
+chant-78.com
 crystalpvp.ru
 deagroup-ks.com
-exptersed.com
+euspwbzy.bet90forward.win
 fairth.dev
 fd.v2downf.shop
 fesold.com
 filerit.com
 genesis-cheats.com
+gksn.bahigo90bet.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-jidm.jadoobet.pro
-kaleda.pro
 keitarosofts.com
-marjdl.pro
-olptz5o4.jadoou.beauty
-ruuupkia.jadoobet.pro
+lqom.bet90forward.win
+qhy0wolx.casinomhub.bet
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 specsaversllc.online
 trtmyanmar.com
-vlfnosj4.bazisangkaqazgeychidancepoli.com
+vxqz.bahigo90bet.com
 www.blackhattoolz.com
 www.vuelaviajero.com
-xn--yh4bx88a.com
+xevzora.cfd
 xprba39f.jadoou.space
-xxaz.jadoou.beauty
+xt19c0ua.casinomhub.bet
+yjrbnmoc.casinomhub.bet
 youtransfer.net
+zhnar.jadoou.space
 zjyozhki.jadoou.space
+zrul.bahigo90bet.com
+zzcg.bet90forward.win
 ```
 
-1 used cloudfront (0.19569471624266144%):
+1 used cloudfront (0.19305019305019305%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.19569471624266144%):
+1 used ddosguard (0.19305019305019305%):
 ```
 furystaff.tech
 ```
@@ -76,9 +83,9 @@ furystaff.tech
 
 ```
 
-1 used sucuri (0.19569471624266144%):
+0 used sucuri (0.0%):
 ```
-dozco.com
+
 ```
 
 0 used myracloud (0.0%):
