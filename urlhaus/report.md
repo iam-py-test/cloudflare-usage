@@ -1,4 +1,4 @@
-518 domains tested. 87.25868725868726% were behind nothing (66 were behind something). 24 domains could not be tested.<br>
+532 domains tested. 88.7218045112782% were behind nothing (60 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,56 +19,53 @@
 
 ```
 
-40 used cloudflare (7.722007722007722%):
+37 used cloudflare (6.954887218045112%):
 ```
-1nto2x4n.bahigo90bet.com
-7c7ax36p.bahigo90bet.com
-abdulahad.net
+01pr.com.tr
+317.wtf
 allendostmen.com
 app.appzcvb.com
-brfavfmp.bet90forward.win
+auucqutq.pdfbama.com
+btlbbyxf.bet90forward.win
 cambodiatouristservice.com
-chant-78.com
 crystalpvp.ru
 deagroup-ks.com
-euspwbzy.bet90forward.win
-fairth.dev
 fd.v2downf.shop
 fesold.com
 filerit.com
-genesis-cheats.com
-gksn.bahigo90bet.com
-grantexx.com
+fnvr.casinomhub.bet
+fortune-66seven.com
 gutando.com
 hitman-pro.ru
-keitarosofts.com
-lqom.bet90forward.win
-qhy0wolx.casinomhub.bet
-royalindiancurryclub.com
+icioinc.com
+izehzccr.bet90forward.win
+kfpjbqczj.jadoobet.pro
+krswsgcg.jadoobet.pro
+litwpjrq.casinomhub.bet
+ohdvttqo.tampabayspin.com
+pdzb.pdfbama.com
+rmxixoixm.pdfbama.com
 rxquickpay.com
+sarinaglobal.sbs
 scanbot.me
-specsaversllc.online
+securedisk.cfd
+surgeonperth.com.au
 trtmyanmar.com
-vxqz.bahigo90bet.com
+usafansweepstakes2026.us
 www.blackhattoolz.com
+www.faster-cdn-hk.click
+www.hostingcloud.science
 www.vuelaviajero.com
 xevzora.cfd
-xprba39f.jadoou.space
-xt19c0ua.casinomhub.bet
-yjrbnmoc.casinomhub.bet
 youtransfer.net
-zhnar.jadoou.space
-zjyozhki.jadoou.space
-zrul.bahigo90bet.com
-zzcg.bet90forward.win
 ```
 
-1 used cloudfront (0.19305019305019305%):
+1 used cloudfront (0.18796992481203006%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.19305019305019305%):
+1 used ddosguard (0.18796992481203006%):
 ```
 furystaff.tech
 ```
@@ -121,4 +118,9 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
+```
+
+1 used imperva (0.18796992481203006%):
+```
+twu-hwt.org
 ```

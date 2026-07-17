@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 52 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -81,7 +81,6 @@ columbia.edu
 conviva.com
 cookiedatabase.org
 cookielaw.org
-cpanel.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -107,6 +106,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -126,6 +126,7 @@ kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
+linkedin.com
 loc.gov
 markmonitor.com
 media.net
@@ -134,7 +135,6 @@ mediatek.com
 medium.com
 merriam-webster.com
 moloco.com
-mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -207,13 +207,12 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
-xhamster.desi
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -221,14 +220,15 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -267,7 +267,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -286,7 +285,6 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
-ryanair.com
 samsungcloud.com
 segment.io
 shalltry.com
@@ -305,7 +303,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 wattpad.com
 wired.com
