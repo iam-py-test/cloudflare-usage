@@ -1,4 +1,4 @@
-532 domains tested. 88.7218045112782% were behind nothing (60 were behind something). 20 domains could not be tested.<br>
+501 domains tested. 89.22155688622755% were behind nothing (54 were behind something). 19 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,32 @@
 
 ```
 
-37 used cloudflare (6.954887218045112%):
+32 used cloudflare (6.387225548902195%):
 ```
 01pr.com.tr
-317.wtf
+5uat7o6m.pdfbama.com
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
 auucqutq.pdfbama.com
-btlbbyxf.bet90forward.win
 cambodiatouristservice.com
 crystalpvp.ru
 deagroup-ks.com
+ecl80.cfd
 fd.v2downf.shop
 fesold.com
 filerit.com
-fnvr.casinomhub.bet
 fortune-66seven.com
+g3b4hjbg.calculadoracomisiones.com
 gutando.com
 hitman-pro.ru
-icioinc.com
-izehzccr.bet90forward.win
 kfpjbqczj.jadoobet.pro
-krswsgcg.jadoobet.pro
-litwpjrq.casinomhub.bet
-ohdvttqo.tampabayspin.com
-pdzb.pdfbama.com
+nuqx7vo8.jadoobet.pro
 rmxixoixm.pdfbama.com
+royalindiancurryclub.com
 rxquickpay.com
-sarinaglobal.sbs
 scanbot.me
-securedisk.cfd
-surgeonperth.com.au
+ths.lat
 trtmyanmar.com
 usafansweepstakes2026.us
 www.blackhattoolz.com
@@ -60,12 +55,12 @@ xevzora.cfd
 youtransfer.net
 ```
 
-1 used cloudfront (0.18796992481203006%):
+1 used cloudfront (0.19960079840319359%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.18796992481203006%):
+1 used ddosguard (0.19960079840319359%):
 ```
 furystaff.tech
 ```
@@ -120,7 +115,7 @@ furystaff.tech
 
 ```
 
-1 used imperva (0.18796992481203006%):
+1 used imperva (0.19960079840319359%):
 ```
 twu-hwt.org
 ```
