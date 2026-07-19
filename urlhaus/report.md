@@ -1,4 +1,4 @@
-501 domains tested. 89.22155688622755% were behind nothing (54 were behind something). 19 domains could not be tested.<br>
+641 domains tested. 89.0795631825273% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,48 +19,60 @@
 
 ```
 
-32 used cloudflare (6.387225548902195%):
+44 used cloudflare (6.86427457098284%):
 ```
-01pr.com.tr
+3u06kg6l.onjabet1.com
+3x6v81kc.varzeshlife.ir
 5uat7o6m.pdfbama.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
-auucqutq.pdfbama.com
 cambodiatouristservice.com
+chickencutlethacks.fit
 crystalpvp.ru
 deagroup-ks.com
+donsoft.xyz
 ecl80.cfd
 fd.v2downf.shop
 fesold.com
 filerit.com
-fortune-66seven.com
-g3b4hjbg.calculadoracomisiones.com
+gardenworkflowhub.garden
+grantexx.com
 gutando.com
 hitman-pro.ru
-kfpjbqczj.jadoobet.pro
-nuqx7vo8.jadoobet.pro
-rmxixoixm.pdfbama.com
+impur-treacheryperepelitsa.wiki
+inasa.pdfbama.com
+jsonhosting.com
+lcd88.cfd
+no3htbxq.varzeshlife.ir
+pvphood.cc
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
+seducingdelirium.surf
+spamgym.asia
+subterranean-mineral-map.garden
+surgeonperth.com.au
 ths.lat
 trtmyanmar.com
-usafansweepstakes2026.us
+uemdkef.webyek.com
+unixcheats.shop
+virtual-session-broker.wiki
 www.blackhattoolz.com
-www.faster-cdn-hk.click
 www.hostingcloud.science
 www.vuelaviajero.com
-xevzora.cfd
+xhozx.onjabet1.com
+ynzpk.varzeshlife.ir
 youtransfer.net
+zzya.bigsertonnet.com
 ```
 
-1 used cloudfront (0.19960079840319359%):
+1 used cloudfront (0.15600624024961%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.19960079840319359%):
+1 used ddosguard (0.15600624024961%):
 ```
 furystaff.tech
 ```
@@ -113,9 +125,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.19960079840319359%):
-```
-twu-hwt.org
 ```
