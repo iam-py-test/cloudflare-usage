@@ -1,4 +1,4 @@
-641 domains tested. 89.0795631825273% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
+648 domains tested. 90.74074074074075% were behind nothing (60 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,15 @@
 
 ```
 
-44 used cloudflare (6.86427457098284%):
+35 used cloudflare (5.401234567901234%):
 ```
-3u06kg6l.onjabet1.com
-3x6v81kc.varzeshlife.ir
-5uat7o6m.pdfbama.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
-chickencutlethacks.fit
 crystalpvp.ru
 deagroup-ks.com
-donsoft.xyz
-ecl80.cfd
+etaru.oasis-active.com
 fd.v2downf.shop
 fesold.com
 filerit.com
@@ -41,18 +36,16 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 impur-treacheryperepelitsa.wiki
-inasa.pdfbama.com
 jsonhosting.com
-lcd88.cfd
-no3htbxq.varzeshlife.ir
+jtab.jbgroup21.com
+productionai.shop
 pvphood.cc
-royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 seducingdelirium.surf
+skript.club
 spamgym.asia
 subterranean-mineral-map.garden
-surgeonperth.com.au
 ths.lat
 trtmyanmar.com
 uemdkef.webyek.com
@@ -61,18 +54,16 @@ virtual-session-broker.wiki
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
-xhozx.onjabet1.com
-ynzpk.varzeshlife.ir
 youtransfer.net
 zzya.bigsertonnet.com
 ```
 
-1 used cloudfront (0.15600624024961%):
+1 used cloudfront (0.15432098765432098%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.15600624024961%):
+1 used ddosguard (0.15432098765432098%):
 ```
 furystaff.tech
 ```
