@@ -1,4 +1,4 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 51 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 52 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -45,7 +45,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -76,7 +76,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-cloudinary.com
 columbia.edu
 conviva.com
 cookiedatabase.org
@@ -134,6 +133,7 @@ mediatek.com
 medium.com
 merriam-webster.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 networkadvertising.org
@@ -147,11 +147,11 @@ onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
+oup.com
 oxylabs.io
 pages.dev
 patreon.com
 people.com
-perplexity.ai
 pexels.com
 pixabay.com
 pixiv.net
@@ -162,7 +162,6 @@ prnewswire.com
 quora.com
 readthedocs.io
 researchgate.net
-roblox.com
 roku.com
 rubiconproject.com
 sciencedirect.com
@@ -211,16 +210,16 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -228,7 +227,7 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -267,6 +266,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -323,13 +323,15 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+10 used fastly (1.0%):
 ```
+adobe.io
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk

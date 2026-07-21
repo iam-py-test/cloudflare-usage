@@ -1,4 +1,4 @@
-648 domains tested. 90.74074074074075% were behind nothing (60 were behind something). 23 domains could not be tested.<br>
+533 domains tested. 88.18011257035647% were behind nothing (63 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,51 +19,53 @@
 
 ```
 
-35 used cloudflare (5.401234567901234%):
+37 used cloudflare (6.941838649155723%):
 ```
+01ejjpa2.behtarin-site-shartbandi.com
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
+axoo.colg1.org
 cambodiatouristservice.com
 crystalpvp.ru
+cunts.colg1.org
 deagroup-ks.com
+dlvk.nextbahis.one
+down.unicron-cdn.click
 etaru.oasis-active.com
 fd.v2downf.shop
 fesold.com
 filerit.com
-gardenworkflowhub.garden
+g1wgxqj5.nextbahis.one
+glmm.colg1.org
 grantexx.com
 gutando.com
 hitman-pro.ru
-impur-treacheryperepelitsa.wiki
-jsonhosting.com
-jtab.jbgroup21.com
+lvcrn.monicarobles.org
+lxlwn.nextbahis.one
+nodemetrics9095.com
 productionai.shop
 pvphood.cc
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-seducingdelirium.surf
 skript.club
-spamgym.asia
-subterranean-mineral-map.garden
+tgbft.countertops-dfw.com
 ths.lat
 trtmyanmar.com
-uemdkef.webyek.com
 unixcheats.shop
-virtual-session-broker.wiki
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 youtransfer.net
-zzya.bigsertonnet.com
 ```
 
-1 used cloudfront (0.15432098765432098%):
+1 used cloudfront (0.18761726078799248%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.15432098765432098%):
+1 used ddosguard (0.18761726078799248%):
 ```
 furystaff.tech
 ```
@@ -116,4 +118,9 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
+```
+
+1 used imperva (0.18761726078799248%):
+```
+twu-hwt.org
 ```
