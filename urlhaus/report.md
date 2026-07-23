@@ -1,4 +1,4 @@
-480 domains tested. 88.33333333333333% were behind nothing (56 were behind something). 22 domains could not be tested.<br>
+380 domains tested. 87.89473684210526% were behind nothing (46 were behind something). 18 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,48 +19,42 @@
 
 ```
 
-32 used cloudflare (6.666666666666667%):
+26 used cloudflare (6.842105263157896%):
 ```
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
-axoo.colg1.org
 bopyq.myhillcountrygrass.com
 byrio.muscle-up-yavne.com
 cambodiatouristservice.com
 crystalpvp.ru
-cunts.colg1.org
 deagroup-ks.com
-down.unicron-cdn.click
 fd.v2downf.shop
 fesold.com
 filerit.com
-glmm.colg1.org
 grantexx.com
 gutando.com
 hitman-pro.ru
-jilc.kaltourusa.com
 jpsym.mystic-brews.com
+kiabillc.online
 mqljf.newcoservicemower.com
 ndpyt.mechanic-on-site.com
-nodemetrics9095.com
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-skript.club
 trtmyanmar.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
-xhbgt.nextbahis.blog
 youtransfer.net
 ```
 
-1 used cloudfront (0.20833333333333334%):
+1 used cloudfront (0.2631578947368421%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.20833333333333334%):
+1 used ddosguard (0.2631578947368421%):
 ```
 furystaff.tech
 ```

@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 51 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 51 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -15,6 +15,7 @@ homedepot.com
 hp.com
 intel.com
 intuit.com
+lg.com
 lowes.com
 marriott.com
 mayoclinic.org
@@ -45,7 +46,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -106,7 +107,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -211,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -219,7 +219,7 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.uk
+amazon.co.jp
 amazon.co.za
 amazon.com
 amazon.com.au
@@ -268,6 +268,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -304,6 +305,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -380,7 +382,8 @@ netlify.app
 stanford.edu
 ```
 
-1 used imperva (0.1%):
+2 used imperva (0.2%):
 ```
 digicert.com
+dnsmadeeasy.com
 ```
