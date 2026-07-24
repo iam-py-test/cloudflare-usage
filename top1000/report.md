@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 51 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 55 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
 adobe.com
@@ -15,7 +15,6 @@ homedepot.com
 hp.com
 intel.com
 intuit.com
-lg.com
 lowes.com
 marriott.com
 mayoclinic.org
@@ -23,7 +22,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-spectrum.com
 webex.com
 xiaomi.com
 xiaomi.net
@@ -46,7 +44,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -99,6 +97,7 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
+faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -132,7 +131,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -162,7 +160,6 @@ prnewswire.com
 quora.com
 readthedocs.io
 researchgate.net
-roblox.com
 roku.com
 rubiconproject.com
 sciencedirect.com
@@ -211,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -220,6 +217,7 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
@@ -227,7 +225,6 @@ amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -268,8 +265,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -277,6 +272,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -305,7 +301,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 wattpad.com
 wired.com
