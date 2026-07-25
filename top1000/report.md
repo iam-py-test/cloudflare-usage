@@ -1,5 +1,5 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 55 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 51 domains could not be tested.<br>
+23 used akamai (2.3%):
 ```
 accuweather.com
 adobe.com
@@ -7,7 +7,6 @@ adobe.net
 arubanetworks.com
 cdc.gov
 cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -44,7 +43,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -131,6 +130,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -224,9 +224,8 @@ amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
+amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -265,6 +264,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -272,7 +272,6 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -301,6 +300,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -367,12 +367,11 @@ www.gov.uk
 
 ```
 
-6 used netlify (0.6%):
+5 used netlify (0.5%):
 ```
 ampproject.org
 launchdarkly.com
 lencr.org
-letsencrypt.org
 netlify.app
 stanford.edu
 ```
