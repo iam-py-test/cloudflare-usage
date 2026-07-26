@@ -1,4 +1,4 @@
-607 domains tested. 93.08072487644151% were behind nothing (42 were behind something). 19 domains could not be tested.<br>
+359 domains tested. 87.74373259052925% were behind nothing (44 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-21 used cloudflare (3.459637561779242%):
+22 used cloudflare (6.128133704735376%):
 ```
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
@@ -37,19 +38,19 @@ rxquickpay.com
 scanbot.me
 softwarecdn.net
 trtmyanmar.com
-tue-orange-01.cfd
+vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.16474464579901155%):
+1 used cloudfront (0.2785515320334262%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.16474464579901155%):
+1 used ddosguard (0.2785515320334262%):
 ```
 furystaff.tech
 ```
