@@ -1,5 +1,5 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 51 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 50 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -22,6 +22,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -44,7 +45,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -75,7 +76,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-cloudinary.com
 columbia.edu
 conviva.com
 cookiedatabase.org
@@ -132,6 +132,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -150,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 pexels.com
 pixabay.com
@@ -209,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -226,7 +228,6 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -266,6 +267,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -274,7 +276,6 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
