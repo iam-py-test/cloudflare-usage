@@ -1,4 +1,4 @@
-221 domains tested. 57.01357466063348% were behind nothing (95 were behind something). 9 domains could not be tested.<br>
+221 domains tested. 56.56108597285068% were behind nothing (96 were behind something). 11 domains could not be tested.<br>
 6 used akamai (2.7149321266968327%):
 ```
 cdn.adblockcdn.com
@@ -88,9 +88,8 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-2 used cloudfront (0.904977375565611%):
+1 used cloudfront (0.4524886877828055%):
 ```
-bitbucket.org
 www.topcashback.com
 ```
 

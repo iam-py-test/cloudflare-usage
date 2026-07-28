@@ -1,4 +1,4 @@
-1000 domains tested. 64.5% were behind nothing (355 were behind something). 50 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -45,10 +45,9 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+155 used cloudflare (15.5%):
 ```
 33across.com
-academia.edu
 addtoany.com
 allaboutcookies.org
 anthropic.com
@@ -63,7 +62,6 @@ branch.io
 braze.com
 britannica.com
 btloader.com
-bugsnag.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -98,7 +96,6 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
-faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -132,7 +129,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -142,17 +138,15 @@ nic.direct
 nic.network
 nist.gov
 okta.com
-onelink.me
 onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
-oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
+perplexity.ai
 pexels.com
 pixabay.com
 pixiv.net
@@ -182,7 +176,6 @@ stripchat.com
 substack.com
 t.co
 tandfonline.com
-teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
@@ -211,23 +204,24 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
+academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -243,6 +237,7 @@ binance.com
 blackberry.com
 booking.com
 brave.com
+bugsnag.com
 calendly.com
 change.org
 checkpoint.com
@@ -268,7 +263,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -276,9 +270,11 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
+onelink.me
 onet.pl
 pbs.org
 playrix.com
@@ -300,7 +296,6 @@ tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
-ubi.com
 ubnt.com
 ui.com
 un.org
