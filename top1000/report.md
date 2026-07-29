@@ -1,4 +1,4 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 55 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -16,12 +16,12 @@ hp.com
 intel.com
 intuit.com
 lowes.com
-marriott.com
 mayoclinic.org
 mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -45,9 +45,10 @@ php.net
 
 ```
 
-155 used cloudflare (15.5%):
+162 used cloudflare (16.2%):
 ```
 33across.com
+academia.edu
 addtoany.com
 allaboutcookies.org
 anthropic.com
@@ -62,6 +63,7 @@ branch.io
 braze.com
 britannica.com
 btloader.com
+bugsnag.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -96,6 +98,7 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
+faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -104,6 +107,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -138,13 +142,16 @@ nic.direct
 nic.network
 nist.gov
 okta.com
+onelink.me
 onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
+oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -168,7 +175,6 @@ shop.app
 shopify.com
 singular.net
 smartadserver.com
-smilewanted.com
 sophos.com
 sourceforge.net
 stackoverflow.com
@@ -176,6 +182,7 @@ stripchat.com
 substack.com
 t.co
 tandfonline.com
+teamviewer.com
 theatlantic.com
 themeforest.net
 thenai.org
@@ -204,24 +211,23 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
-academia.edu
 adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
+amazon.co.za
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -237,7 +243,6 @@ binance.com
 blackberry.com
 booking.com
 brave.com
-bugsnag.com
 calendly.com
 change.org
 checkpoint.com
@@ -263,6 +268,7 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -274,7 +280,6 @@ merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
-onelink.me
 onet.pl
 pbs.org
 playrix.com
@@ -296,6 +301,7 @@ tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
+ubi.com
 ubnt.com
 ui.com
 un.org
