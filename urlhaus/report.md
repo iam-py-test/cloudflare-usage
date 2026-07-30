@@ -1,4 +1,4 @@
-376 domains tested. 82.18085106382979% were behind nothing (67 were behind something). 34 domains could not be tested.<br>
+384 domains tested. 85.41666666666666% were behind nothing (56 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,34 +19,37 @@
 
 ```
 
-31 used cloudflare (8.24468085106383%):
+34 used cloudflare (8.854166666666668%):
 ```
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
-babydiapersinturkey.com
-breakneckridgefarm.com
 cambodiatouristservice.com
+cdnorigin.net
 crystalpvp.ru
 deagroup-ks.com
 dl.proxiespool.wiki
 fd.v2downf.shop
 fesold.com
 filerit.com
-fine-work-team.com
+filmchill.net
 free.tiurl.top
 grantexx.com
 gutando.com
+hackers.krd
 hitman-pro.ru
+kemaxglobalshippings.com
+lumacrea.com
+nfeletronica.sevendocumentos.vip
 pstbn.dev
 reservphotoinstay.one
 reservphotoinstaynow.shop
-roblox-xeno.net
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
-vcc-library.uk
+ufavalkplus.com
+vmwrvtools.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.vuelaviajero.com
@@ -54,12 +57,12 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.26595744680851063%):
+1 used cloudfront (0.26041666666666663%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.26595744680851063%):
+1 used ddosguard (0.26041666666666663%):
 ```
 furystaff.tech
 ```
