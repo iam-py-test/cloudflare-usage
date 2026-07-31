@@ -1,4 +1,4 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 51 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -52,6 +52,7 @@ php.net
 academia.edu
 addtoany.com
 allaboutcookies.org
+ancestry.com
 anthropic.com
 anydesk.com
 apnews.com
@@ -108,7 +109,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -121,7 +121,6 @@ investopedia.com
 iso.org
 it.com
 itch.io
-jimdo.com
 jquery.com
 kick.com
 kickstarter.com
@@ -153,6 +152,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -228,7 +228,7 @@ amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -325,14 +325,13 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
-lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
