@@ -1,4 +1,4 @@
-1000 domains tested. 64.4% were behind nothing (356 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
 25 used akamai (2.5%):
 ```
 accuweather.com
@@ -7,6 +7,7 @@ adobe.net
 arubanetworks.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -21,7 +22,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -45,7 +45,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -108,7 +108,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -133,6 +132,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -151,6 +151,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -209,16 +210,15 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
@@ -275,7 +275,6 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
-merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -304,6 +303,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
