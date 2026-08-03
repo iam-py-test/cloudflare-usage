@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 54 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 57 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -22,6 +22,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -45,7 +46,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 academia.edu
@@ -122,7 +123,6 @@ it.com
 itch.io
 jquery.com
 kick.com
-kickstarter.com
 klaviyo.com
 life360.com
 liftoff.io
@@ -136,6 +136,7 @@ merriam-webster.com
 moloco.com
 myshopify.com
 name.com
+namecheap.com
 networkadvertising.org
 nexusmods.com
 nic.direct
@@ -151,7 +152,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -186,7 +186,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -210,14 +209,14 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
 amazon.com
 amazon.com.au
@@ -226,7 +225,6 @@ amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -245,6 +243,7 @@ brave.com
 calendly.com
 change.org
 checkpoint.com
+curseforge.com
 dailymotion.com
 datadoghq.com
 deviantart.com
@@ -303,7 +302,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -323,13 +321,14 @@ netangels.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
