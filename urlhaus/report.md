@@ -1,4 +1,4 @@
-355 domains tested. 83.38028169014085% were behind nothing (59 were behind something). 30 domains could not be tested.<br>
+365 domains tested. 86.57534246575342% were behind nothing (49 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-26 used cloudflare (7.323943661971831%):
+24 used cloudflare (6.575342465753424%):
 ```
 abdulahad.net
 allendostmen.com
@@ -31,13 +31,11 @@ eclipsebible.com
 fd.v2downf.shop
 fesold.com
 filerit.com
-grantexx.com
 gutando.com
 hitman-pro.ru
-nf.boletos-notas.com
-pvphood.cc
 reservphotoinstay.one
 reservphotoinstaynow.shop
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
@@ -49,12 +47,12 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.28169014084507044%):
+1 used cloudfront (0.273972602739726%):
 ```
 bito.com.pk
 ```
 
-1 used ddosguard (0.28169014084507044%):
+1 used ddosguard (0.273972602739726%):
 ```
 furystaff.tech
 ```
@@ -109,7 +107,7 @@ furystaff.tech
 
 ```
 
-1 used imperva (0.28169014084507044%):
+1 used imperva (0.273972602739726%):
 ```
 twu-hwt.org
 ```

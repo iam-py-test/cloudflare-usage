@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 57 domains could not be tested.<br>
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -46,7 +46,7 @@ php.net
 
 ```
 
-159 used cloudflare (15.9%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -132,8 +132,8 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 namecheap.com
@@ -186,6 +186,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -209,7 +210,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -217,10 +218,7 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -236,7 +234,6 @@ atlassian.com
 atlassian.net
 autodesk.com
 biblegateway.com
-binance.com
 blackberry.com
 booking.com
 brave.com
@@ -321,14 +318,13 @@ netangels.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
-lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
