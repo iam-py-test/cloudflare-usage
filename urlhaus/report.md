@@ -1,4 +1,4 @@
-365 domains tested. 86.57534246575342% were behind nothing (49 were behind something). 22 domains could not be tested.<br>
+384 domains tested. 85.9375% were behind nothing (54 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,30 @@
 
 ```
 
-24 used cloudflare (6.575342465753424%):
+29 used cloudflare (7.552083333333333%):
 ```
 abdulahad.net
+ahad-cn.com
 allendostmen.com
 app.appzcvb.com
+bito.com.pk
 cambodiatouristservice.com
+cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 eclipsebible.com
 fd.v2downf.shop
+ferncurrent14.com
 fesold.com
 filerit.com
+grantexx.com
 gutando.com
 hitman-pro.ru
 reservphotoinstay.one
 reservphotoinstaynow.shop
-royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
+skript.club
 trtmyanmar.com
 vcc-library.uk
 www.blackhattoolz.com
@@ -47,12 +52,12 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-1 used cloudfront (0.273972602739726%):
-```
-bito.com.pk
+0 used cloudfront (0.0%):
 ```
 
-1 used ddosguard (0.273972602739726%):
+```
+
+1 used ddosguard (0.26041666666666663%):
 ```
 furystaff.tech
 ```
@@ -105,9 +110,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.273972602739726%):
-```
-twu-hwt.org
 ```

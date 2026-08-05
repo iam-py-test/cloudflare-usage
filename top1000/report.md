@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
 26 used akamai (2.6%):
 ```
 accuweather.com
@@ -46,7 +46,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 academia.edu
@@ -109,6 +109,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -133,7 +134,6 @@ mediafire.com
 mediatek.com
 medium.com
 moloco.com
-mybluehost.me
 myshopify.com
 name.com
 namecheap.com
@@ -186,7 +186,6 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
-twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -196,7 +195,6 @@ w3.org
 webmd.com
 weebly.com
 who.int
-wikia.com
 wiley.com
 workers.dev
 worldbank.org
@@ -210,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -218,11 +216,17 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
+amazon.co.za
 amazon.com
+amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
