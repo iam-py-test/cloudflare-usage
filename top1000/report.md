@@ -109,7 +109,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -186,6 +185,7 @@ theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
+twitter.com
 uber.com
 umich.edu
 unpkg.com
@@ -208,7 +208,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -220,10 +220,8 @@ amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
@@ -238,6 +236,7 @@ atlassian.com
 atlassian.net
 autodesk.com
 biblegateway.com
+binance.com
 blackberry.com
 booking.com
 brave.com
@@ -267,7 +266,6 @@ gumgum.com
 hbr.org
 healthline.com
 hotjar.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -304,6 +302,7 @@ ubnt.com
 ui.com
 un.org
 verisign.com
+warnerbros.com
 wattpad.com
 wired.com
 wps.com
@@ -311,10 +310,11 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
 crpt.ru
 netangels.ru
+pikabu.ru
 ```
 
 0 used edgecast (0.0%):
