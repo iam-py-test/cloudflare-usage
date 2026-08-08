@@ -1,4 +1,4 @@
-388 domains tested. 85.05154639175258% were behind nothing (58 were behind something). 24 domains could not be tested.<br>
+386 domains tested. 87.04663212435233% were behind nothing (50 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,25 +19,25 @@
 
 ```
 
-33 used cloudflare (8.505154639175258%):
+32 used cloudflare (8.290155440414509%):
 ```
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
 bito.com.pk
 cambodiatouristservice.com
-cla.stingold.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 download.tfyxzai.com
 eclipsebible.com
 fd.v2downf.shop
+ferncurrent14.com
 fesold.com
 filerit.com
 gutando.com
 hitman-pro.ru
-paymentautomations.biz
+lumacrea.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
@@ -53,7 +53,6 @@ www.hqsblog.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-zoredaye.com
 ```
 
 0 used cloudfront (0.0%):
@@ -61,7 +60,7 @@ zoredaye.com
 
 ```
 
-1 used ddosguard (0.25773195876288657%):
+1 used ddosguard (0.2590673575129534%):
 ```
 furystaff.tech
 ```
