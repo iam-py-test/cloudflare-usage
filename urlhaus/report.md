@@ -1,4 +1,4 @@
-386 domains tested. 87.04663212435233% were behind nothing (50 were behind something). 17 domains could not be tested.<br>
+382 domains tested. 85.6020942408377% were behind nothing (55 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-32 used cloudflare (8.290155440414509%):
+29 used cloudflare (7.591623036649215%):
 ```
 abdulahad.net
 allendostmen.com
@@ -29,21 +29,18 @@ cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-download.tfyxzai.com
 eclipsebible.com
+fairth.dev
 fd.v2downf.shop
 ferncurrent14.com
-fesold.com
 filerit.com
 gutando.com
 hitman-pro.ru
 lumacrea.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
-royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-skript.club
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
@@ -60,7 +57,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2590673575129534%):
+1 used ddosguard (0.2617801047120419%):
 ```
 furystaff.tech
 ```
@@ -110,7 +107,12 @@ furystaff.tech
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.2617801047120419%):
+```
+meteorclient.shop
 ```
 
+1 used imperva (0.2617801047120419%):
+```
+twu-hwt.org
 ```
