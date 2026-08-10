@@ -1,5 +1,5 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 54 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 51 domains could not be tested.<br>
+25 used akamai (2.5%):
 ```
 accuweather.com
 adobe.com
@@ -22,7 +22,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -110,7 +109,6 @@ futbin.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 heylink.me
 hostgator.com
@@ -166,6 +164,7 @@ prnewswire.com
 quora.com
 readthedocs.io
 researchgate.net
+roblox.com
 roku.com
 rubiconproject.com
 sciencedirect.com
@@ -212,7 +211,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -227,9 +226,8 @@ amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
-amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -270,7 +268,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-hotjar.com
 ieee.org
 imdb.com
 intercom.io
@@ -307,6 +304,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com
@@ -328,13 +326,14 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk

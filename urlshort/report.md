@@ -1,7 +1,8 @@
-363 domains tested. 44.0771349862259% were behind nothing (203 were behind something). 24 domains could not be tested.<br>
-1 used akamai (0.27548209366391185%):
+363 domains tested. 43.52617079889807% were behind nothing (205 were behind something). 24 domains could not be tested.<br>
+2 used akamai (0.5509641873278237%):
 ```
 email-sendgrid-deep-linking.chewy.com
+x.co
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-166 used cloudflare (45.73002754820937%):
+167 used cloudflare (46.005509641873275%):
 ```
 02ip.ru
 123415.xyz
@@ -141,6 +142,7 @@ s.id
 screenshare.pics
 screenshot.best
 sh.21111993.xyz
+shhh.lol
 short.gy
 shorten.ee
 shorten.is
