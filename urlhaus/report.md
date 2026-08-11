@@ -1,4 +1,4 @@
-378 domains tested. 85.71428571428571% were behind nothing (54 were behind something). 24 domains could not be tested.<br>
+359 domains tested. 83.28690807799443% were behind nothing (60 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-27 used cloudflare (7.142857142857142%):
+27 used cloudflare (7.520891364902507%):
 ```
 abdulahad.net
 allendostmen.com
@@ -55,7 +55,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.26455026455026454%):
+1 used ddosguard (0.2785515320334262%):
 ```
 furystaff.tech
 ```
@@ -105,12 +105,7 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.26455026455026454%):
-```
-meteorclient.shop
+0 used netlify (0.0%):
 ```
 
-1 used imperva (0.26455026455026454%):
-```
-twu-hwt.org
 ```
