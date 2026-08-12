@@ -1,10 +1,11 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 51 domains could not be tested.<br>
-25 used akamai (2.5%):
+1000 domains tested. 64.5% were behind nothing (355 were behind something). 53 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
+autodesk.com
 cdc.gov
 cisco.com
 coupang.com
@@ -45,7 +46,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+159 used cloudflare (15.9%):
 ```
 33across.com
 academia.edu
@@ -77,7 +78,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -209,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -218,13 +218,15 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -233,7 +235,6 @@ appsflyersdk.com
 arcgis.com
 atlassian.com
 atlassian.net
-autodesk.com
 biblegateway.com
 binance.com
 blackberry.com
@@ -264,7 +265,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -276,7 +276,6 @@ nationalgeographic.com
 noaa.gov
 note.com
 onet.pl
-pbs.org
 playrix.com
 primevideo.com
 pubmatic.com
