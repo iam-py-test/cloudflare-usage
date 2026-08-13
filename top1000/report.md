@@ -1,5 +1,5 @@
 1000 domains tested. 64.5% were behind nothing (355 were behind something). 53 domains could not be tested.<br>
-26 used akamai (2.6%):
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -23,6 +23,7 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
+tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -179,7 +180,6 @@ sourceforge.net
 stackoverflow.com
 stripchat.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -204,29 +204,28 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
+xhamster46.desi
 zendesk.com
 zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+94 used cloudfront (9.4%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.co.za
-amazon.com.au
+amazon.com
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -321,13 +320,14 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk

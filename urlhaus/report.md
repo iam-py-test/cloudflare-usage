@@ -1,4 +1,4 @@
-371 domains tested. 84.36657681940702% were behind nothing (58 were behind something). 27 domains could not be tested.<br>
+369 domains tested. 80.75880758807588% were behind nothing (71 were behind something). 39 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-29 used cloudflare (7.816711590296496%):
+31 used cloudflare (8.401084010840108%):
 ```
+abdulahad.net
 allendostmen.com
 alphalkenya.com
 app.appzcvb.com
@@ -35,18 +36,19 @@ filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-lumacrea.com
 ownnewstoday.live
 reservphotoinstay.one
 reservphotoinstaynow.shop
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-trtmyanmar.com
+stratagemzw.com
 us.wind0ws.net
 vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
+www.stratagemzw.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
@@ -57,7 +59,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2695417789757413%):
+1 used ddosguard (0.27100271002710025%):
 ```
 furystaff.tech
 ```
@@ -110,9 +112,4 @@ furystaff.tech
 0 used netlify (0.0%):
 ```
 
-```
-
-1 used imperva (0.2695417789757413%):
-```
-twu-hwt.org
 ```

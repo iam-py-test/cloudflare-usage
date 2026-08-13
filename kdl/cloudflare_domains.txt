@@ -39,7 +39,6 @@ cdn-client.medium.com
 cdn-static-1.medium.com
 cdn.cookielaw.org
 cdn.discordapp.com
-cdn.jsdelivr.net
 cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-ingest.io
 cdn.optimizely.com
@@ -105,8 +104,10 @@ hls-uranus.sb-cd.com
 hostedseal.trustarc.com
 hubspotonwebflow.com
 i1.rgstatic.net
+id.linkedin.com
 indeed.com
-js-eu1.hs-scripts.com
+it.linkedin.com
+js-sec.indexww.com
 js.hubspot.com
 ke.linkedin.com
 kr.linkedin.com
@@ -119,7 +120,6 @@ miro.medium.com
 mx.linkedin.com
 my.linkedin.com
 myshopify.com
-ng.linkedin.com
 nic.direct
 nist.gov
 nl.linkedin.com
@@ -130,12 +130,10 @@ openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
 pa.linkedin.com
-pbs.twimg.com
 pbs.twimg.com.cdn.cloudflare.net
 pe.linkedin.com
 performance.radar.cloudflare.com
 ph.linkedin.com
-pk.linkedin.com
 pl.linkedin.com
 player.vimeo.com
 player.vimeo.com.cdn.cloudflare.net
@@ -181,9 +179,7 @@ static.elfsight.com
 static.licdn.com.cdn.cloudflare.net
 static.zdassets.com
 sv.linkedin.com
-t.co
 tb.sb-cd.com
-tflteams.public.onecdn.static.microsoft
 th.bing.com
 th.bing.com.cdn.cloudflare.net
 th.linkedin.com

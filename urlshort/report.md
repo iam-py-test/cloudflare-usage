@@ -1,7 +1,8 @@
-364 domains tested. 47.25274725274725% were behind nothing (192 were behind something). 12 domains could not be tested.<br>
-1 used akamai (0.27472527472527475%):
+364 domains tested. 46.7032967032967% were behind nothing (194 were behind something). 16 domains could not be tested.<br>
+2 used akamai (0.5494505494505495%):
 ```
 email-sendgrid-deep-linking.chewy.com
+x.co
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-167 used cloudflare (45.879120879120876%):
+163 used cloudflare (44.78021978021978%):
 ```
 02ip.ru
 123415.xyz
@@ -36,7 +37,6 @@ email-sendgrid-deep-linking.chewy.com
 2ya.com
 301.li
 4.fo
-49r.de
 adf.ly
 adfoc.us
 ahscdn.com
@@ -131,7 +131,6 @@ prolink168.com
 promo-visits.site
 pxl.to
 qrco.de
-rb.gy
 rebrand.ly
 rebrandly.com
 rekonise.com
@@ -165,9 +164,7 @@ spoo.me
 spoturl.com
 spqr.to
 stfly.xyz
-stopify.co
 streak-link.com
-t.co
 t.ly
 tii.la
 tinu.be
@@ -190,12 +187,13 @@ y0utu.be
 your.ls
 ```
 
-9 used cloudfront (2.4725274725274726%):
+10 used cloudfront (2.7472527472527473%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qrs.ly
+rb.gy
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com

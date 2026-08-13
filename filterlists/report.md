@@ -1,4 +1,4 @@
-221 domains tested. 57.9185520361991% were behind nothing (93 were behind something). 8 domains could not be tested.<br>
+221 domains tested. 58.371040723981906% were behind nothing (92 were behind something). 8 domains could not be tested.<br>
 6 used akamai (2.7149321266968327%):
 ```
 cdn.adblockcdn.com
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-58 used cloudflare (26.244343891402718%):
+57 used cloudflare (25.791855203619914%):
 ```
 abp.tt.codes
 abpvn.com
@@ -37,7 +37,6 @@ anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 blokada.org
-cdn.jsdelivr.net
 cdn.statically.io
 dns-family.adguard.com
 dns.adgk.net
@@ -87,9 +86,8 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-2 used cloudfront (0.904977375565611%):
+1 used cloudfront (0.4524886877828055%):
 ```
-bitbucket.org
 www.topcashback.com
 ```
 
@@ -103,11 +101,12 @@ gitflic.ru
 
 ```
 
-15 used fastly (6.787330316742081%):
+16 used fastly (7.239819004524888%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
+cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ublockorigin.github.io
 iam-py-test.github.io
