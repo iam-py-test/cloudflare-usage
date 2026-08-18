@@ -1,14 +1,11 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 52 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 51 domains could not be tested.<br>
+24 used akamai (2.4%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -47,7 +44,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -109,7 +106,6 @@ futbin.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -149,10 +145,10 @@ onetrust.com
 onlyfans.com
 openai.com
 oup.com
+ox.ac.uk
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -212,21 +208,22 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -312,10 +309,9 @@ wsj.com
 zillow.com
 ```
 
-3 used ddosguard (0.3%):
+2 used ddosguard (0.2%):
 ```
 crpt.ru
-netangels.ru
 pikabu.ru
 ```
 
