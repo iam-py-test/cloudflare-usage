@@ -1,11 +1,14 @@
-1000 domains tested. 64.8% were behind nothing (352 were behind something). 51 domains could not be tested.<br>
-24 used akamai (2.4%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 52 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -20,7 +23,6 @@ mcafee.com
 mi.com
 mysql.com
 rakuten.co.jp
-tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -44,7 +46,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 academia.edu
@@ -110,7 +112,6 @@ hcaptcha.com
 hostgator.com
 hostgator.com.br
 hubspot.com
-ieee.org
 ietf.org
 ikea.com
 indeed.com
@@ -124,7 +125,6 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-markmonitor.com
 media.net
 mediafire.com
 mediatek.com
@@ -208,22 +208,19 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
-amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -272,6 +269,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+markmonitor.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -309,9 +307,10 @@ wsj.com
 zillow.com
 ```
 
-2 used ddosguard (0.2%):
+3 used ddosguard (0.3%):
 ```
 crpt.ru
+netangels.ru
 pikabu.ru
 ```
 
@@ -320,12 +319,13 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
+fastly.net
 github.io
 nytimes.com
 speedtest.net
