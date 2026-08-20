@@ -1,4 +1,4 @@
-372 domains tested. 82.25806451612904% were behind nothing (66 were behind something). 27 domains could not be tested.<br>
+388 domains tested. 84.02061855670104% were behind nothing (62 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,25 @@
 
 ```
 
-37 used cloudflare (9.946236559139784%):
+38 used cloudflare (9.793814432989691%):
 ```
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
 app.faster-cdn-hk.click
+aspenriver6.com
 bito.com.pk
 brandtinoda.com
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-dl.faster-cdn-hk.click
 fd.v2downf.shop
 filerit.com
+firstratezim.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-hypercorevector5.lol
-lumacrea.com
 pic.li
 quill-flint.com
 reservphotoinstay.one
@@ -46,12 +45,14 @@ reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-share.dovgertz.com
+teakivo.com
+threedrows.net
 thu-iphone-07.cfd
-timelevel12.com
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
+verifyidentify.com
+winds11.site
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -65,7 +66,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2688172043010753%):
+1 used ddosguard (0.25773195876288657%):
 ```
 furystaff.tech
 ```
@@ -115,7 +116,7 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.2688172043010753%):
+1 used netlify (0.25773195876288657%):
 ```
 swiftfusion.tech
 ```
