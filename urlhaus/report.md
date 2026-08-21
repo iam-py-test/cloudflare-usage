@@ -1,4 +1,4 @@
-388 domains tested. 84.02061855670104% were behind nothing (62 were behind something). 22 domains could not be tested.<br>
+402 domains tested. 83.5820895522388% were behind nothing (66 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,15 +19,14 @@
 
 ```
 
-38 used cloudflare (9.793814432989691%):
+42 used cloudflare (10.44776119402985%):
 ```
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
-app.faster-cdn-hk.click
 aspenriver6.com
+azlvaka.vu
 bito.com.pk
-brandtinoda.com
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
@@ -37,26 +36,31 @@ filerit.com
 firstratezim.com
 grantexx.com
 gutando.com
+helnivo.vu
 hitman-pro.ru
+meeting.supply-reflection.shop
+mon-blanc-04.cfd
 pic.li
-quill-flint.com
+python3.en-us--balancing.co
 reservphotoinstay.one
 reservphotoinstaynow.shop
+robinhoodwallet.dervano.vu
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 teakivo.com
 threedrows.net
-thu-iphone-07.cfd
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
 verifyidentify.com
+vibecoders.vip
 winds11.site
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
+www.zenledgerpolicy.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
@@ -66,7 +70,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.25773195876288657%):
+1 used ddosguard (0.24875621890547264%):
 ```
 furystaff.tech
 ```
@@ -116,7 +120,12 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.25773195876288657%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
+```
+
+1 used imperva (0.24875621890547264%):
+```
+twu-hwt.org
 ```

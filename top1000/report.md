@@ -1,5 +1,5 @@
-1000 domains tested. 64.2% were behind nothing (358 were behind something). 52 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.8% were behind nothing (352 were behind something). 52 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -20,10 +20,11 @@ lowes.com
 marriott.com
 mayoclinic.org
 mcafee.com
+meraki.com
 mi.com
+mobile.de
 mysql.com
 rakuten.co.jp
-twc.com
 usda.gov
 webex.com
 xiaomi.com
@@ -47,7 +48,7 @@ php.net
 
 ```
 
-159 used cloudflare (15.9%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -109,6 +110,7 @@ futbin.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -141,16 +143,13 @@ nic.direct
 nist.gov
 okta.com
 onelink.me
-onesignal.com
 onetrust.com
 onlyfans.com
 openai.com
 oup.com
-ox.ac.uk
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -210,7 +209,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+93 used cloudfront (9.3%):
 ```
 3lift.com
 a-mo.net
@@ -218,16 +217,12 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.co.za
-amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
-amazon.in
-amazonalexa.com
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -323,7 +318,7 @@ pikabu.ru
 
 ```
 
-10 used fastly (1.0%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
@@ -331,7 +326,6 @@ cbsnews.com
 corriere.it
 fastly.net
 github.io
-lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
