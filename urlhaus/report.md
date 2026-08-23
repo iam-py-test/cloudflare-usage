@@ -1,4 +1,4 @@
-386 domains tested. 82.90155440414507% were behind nothing (66 were behind something). 25 domains could not be tested.<br>
+369 domains tested. 83.46883468834689% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,32 +19,31 @@
 
 ```
 
-39 used cloudflare (10.103626943005182%):
+37 used cloudflare (10.02710027100271%):
 ```
+abdulahad.net
 allendostmen.com
 app.appzcvb.com
-azlvaka.vu
 bito.com.pk
+bulkdevices.com
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
+faceit-anti-cheat.com
 fd.v2downf.shop
 filerit.com
-gobiotechpestcontrol.com
 grantexx.com
 gutando.com
-helnivo.vu
 hitman-pro.ru
 krem.mesoptik.com
 lumacrea.com
-meeting.supply-reflection.shop
+mon-blanc-03.cfd
 mon-blanc-04.cfd
+pawsockenjoyer.site
 pic.li
-python3.en-us--balancing.co
 reservphotoinstay.one
 reservphotoinstaynow.shop
-robinhoodwallet.dervano.vu
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
@@ -52,12 +51,11 @@ threedrows.net
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
-vibecoders.vip
+winds11.site
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
-www.zenledgerpolicy.com
 xn--yh4bx88a.com
 youtransfer.net
 ```
@@ -67,9 +65,9 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2590673575129534%):
+0 used ddosguard (0.0%):
 ```
-furystaff.tech
+
 ```
 
 0 used edgecast (0.0%):
@@ -117,7 +115,7 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.2590673575129534%):
+1 used netlify (0.27100271002710025%):
 ```
 swiftfusion.tech
 ```

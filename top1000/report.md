@@ -1,7 +1,9 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 57 domains could not be tested.<br>
-26 used akamai (2.6%):
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 52 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
+adobe.com
+adobe.net
 arubanetworks.com
 autodesk.com
 cdc.gov
@@ -22,7 +24,9 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
+playstation.com
 rakuten.co.jp
+tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -46,7 +50,7 @@ php.net
 
 ```
 
-158 used cloudflare (15.8%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -145,11 +149,9 @@ onetrust.com
 onlyfans.com
 openai.com
 oup.com
-ox.ac.uk
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -178,6 +180,7 @@ sourceforge.net
 stackoverflow.com
 stripchat.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 theatlantic.com
@@ -215,13 +218,13 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.jp
+amazon.co.uk
+amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -234,7 +237,6 @@ arcgis.com
 atlassian.com
 atlassian.net
 biblegateway.com
-binance.com
 blackberry.com
 booking.com
 brave.com
@@ -263,6 +265,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
