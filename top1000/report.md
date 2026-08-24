@@ -1,9 +1,7 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 52 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 55 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 arubanetworks.com
 autodesk.com
 cdc.gov
@@ -24,7 +22,6 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
-playstation.com
 rakuten.co.jp
 tesla.com
 usda.gov
@@ -50,7 +47,7 @@ php.net
 
 ```
 
-157 used cloudflare (15.7%):
+158 used cloudflare (15.8%):
 ```
 33across.com
 academia.edu
@@ -84,6 +81,7 @@ cloudflare.net
 cloudflareinsights.com
 cookiedatabase.org
 cookielaw.org
+cpanel.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -112,7 +110,6 @@ futbin.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -152,6 +149,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -211,23 +209,23 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.uk
+amazon.ca
+amazon.co.jp
 amazon.co.za
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -273,6 +271,7 @@ jetbrains.com
 latimes.com
 lijit.com
 line.me
+live-video.net
 markmonitor.com
 nationalgeographic.com
 noaa.gov

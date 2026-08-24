@@ -1,4 +1,4 @@
-369 domains tested. 83.46883468834689% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
+358 domains tested. 82.9608938547486% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-37 used cloudflare (10.02710027100271%):
+35 used cloudflare (9.776536312849162%):
 ```
 abdulahad.net
 allendostmen.com
@@ -36,10 +36,8 @@ filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-krem.mesoptik.com
 lumacrea.com
 mon-blanc-03.cfd
-mon-blanc-04.cfd
 pawsockenjoyer.site
 pic.li
 reservphotoinstay.one
@@ -65,9 +63,9 @@ youtransfer.net
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.27932960893854747%):
 ```
-
+furystaff.tech
 ```
 
 0 used edgecast (0.0%):
@@ -115,7 +113,12 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.27100271002710025%):
+1 used netlify (0.27932960893854747%):
 ```
 swiftfusion.tech
+```
+
+1 used imperva (0.27932960893854747%):
+```
+twu-hwt.org
 ```
