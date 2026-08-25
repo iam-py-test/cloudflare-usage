@@ -1,7 +1,8 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 64.4% were behind nothing (356 were behind something). 53 domains could not be tested.<br>
 27 used akamai (2.7%):
 ```
 accuweather.com
+adobe.net
 arubanetworks.com
 autodesk.com
 cdc.gov
@@ -23,7 +24,6 @@ mi.com
 mobile.de
 mysql.com
 rakuten.co.jp
-tesla.com
 usda.gov
 webex.com
 xiaomi.com
@@ -47,7 +47,7 @@ php.net
 
 ```
 
-158 used cloudflare (15.8%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -58,6 +58,7 @@ anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
+auvik.com
 berkeley.edu
 blackhub.team
 bluehost.com
@@ -81,7 +82,6 @@ cloudflare.net
 cloudflareinsights.com
 cookiedatabase.org
 cookielaw.org
-cpanel.com
 cpanel.net
 creativecommons.org
 deepl.com
@@ -94,7 +94,6 @@ discord.media
 discordapp.com
 doubleverify.com
 dreamhost.com
-epam.com
 epicgames.com
 eu-1-id5-sync.com
 example.com
@@ -106,10 +105,10 @@ flashtalking.com
 fontawesome.com
 forter.com
 ft.com
-futbin.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -149,7 +148,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -190,6 +188,7 @@ uber.com
 umich.edu
 unpkg.com
 vimeo.com
+visma.com
 vungle.com
 w3.org
 webmd.com
@@ -209,23 +208,21 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
-amazon.com.au
+amazon.com
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
-amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -235,6 +232,7 @@ arcgis.com
 atlassian.com
 atlassian.net
 biblegateway.com
+binance.com
 blackberry.com
 booking.com
 brave.com
@@ -263,7 +261,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -282,6 +279,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+rocketmoney.dev
 samsungcloud.com
 segment.io
 shalltry.com
@@ -322,7 +320,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+10 used fastly (1.0%):
 ```
 bbc.co.uk
 bbc.com
@@ -330,6 +328,7 @@ cbsnews.com
 corriere.it
 fastly.net
 github.io
+lemonde.fr
 nytimes.com
 speedtest.net
 www.gov.uk
