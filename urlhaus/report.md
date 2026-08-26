@@ -1,4 +1,4 @@
-351 domains tested. 85.47008547008546% were behind nothing (51 were behind something). 19 domains could not be tested.<br>
+364 domains tested. 84.34065934065934% were behind nothing (57 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-29 used cloudflare (8.262108262108262%):
+33 used cloudflare (9.065934065934066%):
 ```
+540239621396215402.raymelo.vu
 abdulahad.net
 allendostmen.com
 app.appzcvb.com
@@ -34,12 +35,15 @@ filerit.com
 grantexx.com
 gutando.com
 hitman-pro.ru
+lumacrea.com
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
+smileshiplogistics.com
+sxetnavelelaio.com
 triapfog.com
 trtmyanmar.com
 us.wind0ws.net
@@ -57,7 +61,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2849002849002849%):
+1 used ddosguard (0.27472527472527475%):
 ```
 furystaff.tech
 ```
@@ -107,12 +111,12 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.2849002849002849%):
+1 used netlify (0.27472527472527475%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.2849002849002849%):
+1 used imperva (0.27472527472527475%):
 ```
 twu-hwt.org
 ```
