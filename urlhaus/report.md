@@ -1,4 +1,4 @@
-364 domains tested. 84.34065934065934% were behind nothing (57 were behind something). 21 domains could not be tested.<br>
+407 domains tested. 84.52088452088452% were behind nothing (63 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,35 +19,39 @@
 
 ```
 
-33 used cloudflare (9.065934065934066%):
+37 used cloudflare (9.090909090909092%):
 ```
-540239621396215402.raymelo.vu
-abdulahad.net
 allendostmen.com
 app.appzcvb.com
+attention-check.online
+azhu.cakkaao.com
 bito.com.pk
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
+dl.unicron-dl.click
 fd.v2downf.shop
 filerit.com
+google-meet-verification.icu
 grantexx.com
 gutando.com
 hitman-pro.ru
+linen-harbor.com
 lumacrea.com
+meissner.ae
+paste.mangsud.org
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-smileshiplogistics.com
-sxetnavelelaio.com
-triapfog.com
+trf.kookapp.pro
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
+wappingerbicornshaps.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -61,7 +65,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.27472527472527475%):
+1 used ddosguard (0.2457002457002457%):
 ```
 furystaff.tech
 ```
@@ -111,12 +115,12 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.27472527472527475%):
+1 used netlify (0.2457002457002457%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.27472527472527475%):
+1 used imperva (0.2457002457002457%):
 ```
 twu-hwt.org
 ```

@@ -1,5 +1,5 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 52 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 64.7% were behind nothing (353 were behind something). 52 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -8,6 +8,7 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -93,6 +94,7 @@ discord.media
 discordapp.com
 doubleverify.com
 dreamhost.com
+epam.com
 epicgames.com
 eu-1-id5-sync.com
 example.com
@@ -135,7 +137,6 @@ name.com
 namecheap.com
 networkadvertising.org
 nexusmods.com
-nic.direct
 nist.gov
 okta.com
 onelink.me
@@ -208,25 +209,19 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+94 used cloudfront (9.4%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.co.za
-amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
-amazon.in
-amazonalexa.com
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -265,7 +260,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
