@@ -1,4 +1,4 @@
-1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 51 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -148,7 +148,6 @@ ox.ac.uk
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -175,6 +174,7 @@ smartadserver.com
 sophos.com
 sourceforge.net
 stackoverflow.com
+stripchat.com
 substack.com
 t.co
 tandfonline.com
@@ -208,16 +208,19 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
+amazon.com.au
+amazon.com.br
+amazon.de
 amazon.fr
 amazon.in
 amazon.it
@@ -285,7 +288,6 @@ shalltry.com
 soundcloud.com
 state.gov
 statista.com
-stripchat.com
 supercell.com
 surveymonkey.com
 synology.com
@@ -298,6 +300,7 @@ ubi.com
 ubnt.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com
@@ -319,12 +322,11 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 fastly.net
 github.io
 nytimes.com

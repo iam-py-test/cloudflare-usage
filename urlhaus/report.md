@@ -1,4 +1,4 @@
-402 domains tested. 82.83582089552239% were behind nothing (69 were behind something). 34 domains could not be tested.<br>
+397 domains tested. 84.88664987405542% were behind nothing (60 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-32 used cloudflare (7.960199004975125%):
+32 used cloudflare (8.060453400503778%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -31,7 +31,6 @@ crystalpvp.ru
 deagroup-ks.com
 fd.v2downf.shop
 filerit.com
-gobiotechpestcontrol.com
 grantexx.com
 gutando.com
 hitman-pro.ru
@@ -40,6 +39,7 @@ meissner.ae
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 smarthomy.cl
@@ -60,7 +60,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.24875621890547264%):
+1 used ddosguard (0.2518891687657431%):
 ```
 furystaff.tech
 ```
@@ -110,12 +110,7 @@ furystaff.tech
 
 ```
 
-1 used netlify (0.24875621890547264%):
-```
-swiftfusion.tech
+0 used netlify (0.0%):
 ```
 
-1 used imperva (0.24875621890547264%):
-```
-twu-hwt.org
 ```
