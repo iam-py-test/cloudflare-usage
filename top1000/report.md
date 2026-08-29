@@ -1,4 +1,4 @@
-1000 domains tested. 64.7% were behind nothing (353 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.60000000000001% were behind nothing (354 were behind something). 53 domains could not be tested.<br>
 28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
@@ -48,7 +48,7 @@ php.net
 
 ```
 
-157 used cloudflare (15.7%):
+156 used cloudflare (15.6%):
 ```
 33across.com
 academia.edu
@@ -86,7 +86,6 @@ cpanel.net
 creativecommons.org
 deepl.com
 digitalocean.com
-digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -126,6 +125,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+markmonitor.com
 media.net
 mediafire.com
 mediatek.com
@@ -175,7 +175,6 @@ smartadserver.com
 sophos.com
 sourceforge.net
 stackoverflow.com
-stripchat.com
 substack.com
 t.co
 tandfonline.com
@@ -209,19 +208,20 @@ zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
-amazon.co.za
-amazon.de
-amazon.es
+amazon.com
+amazon.fr
+amazon.in
 amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -260,6 +260,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -268,7 +269,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-markmonitor.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -285,6 +285,7 @@ shalltry.com
 soundcloud.com
 state.gov
 statista.com
+stripchat.com
 supercell.com
 surveymonkey.com
 synology.com
@@ -297,7 +298,6 @@ ubi.com
 ubnt.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com
