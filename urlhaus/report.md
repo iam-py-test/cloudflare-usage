@@ -1,4 +1,4 @@
-397 domains tested. 84.88664987405542% were behind nothing (60 were behind something). 27 domains could not be tested.<br>
+369 domains tested. 84.82384823848238% were behind nothing (56 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,10 @@
 
 ```
 
-32 used cloudflare (8.060453400503778%):
+32 used cloudflare (8.672086720867208%):
 ```
 allendostmen.com
 app.appzcvb.com
-azhu.cakkaao.com
 bito.com.pk
 cambodiatouristservice.com
 cpc188.day
@@ -35,15 +34,16 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 lumacrea.com
-meissner.ae
+mon-xxx-02.cfd
 pic.li
+render-6.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 smarthomy.cl
-trf.kookapp.pro
+trekworkshop3.com
 trtmyanmar.com
 us.wind0ws.net
 vcc-library.uk
@@ -55,12 +55,12 @@ xn--yh4bx88a.com
 youtransfer.net
 ```
 
-0 used cloudfront (0.0%):
+1 used cloudfront (0.27100271002710025%):
+```
+filequanticore.com
 ```
 
-```
-
-1 used ddosguard (0.2518891687657431%):
+1 used ddosguard (0.27100271002710025%):
 ```
 furystaff.tech
 ```
