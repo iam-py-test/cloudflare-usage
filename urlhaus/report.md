@@ -1,4 +1,4 @@
-374 domains tested. 85.56149732620321% were behind nothing (54 were behind something). 24 domains could not be tested.<br>
+376 domains tested. 85.63829787234043% were behind nothing (54 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-28 used cloudflare (7.4866310160427805%):
+29 used cloudflare (7.712765957446808%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -35,8 +35,9 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 lumacrea.com
+pic.li
 reservphotoinstay.one
-royalindiancurryclub.com
+reservphotoinstaynow.shop
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
@@ -106,12 +107,12 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.267379679144385%):
+1 used netlify (0.26595744680851063%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.267379679144385%):
+1 used imperva (0.26595744680851063%):
 ```
 twu-hwt.org
 ```
