@@ -1,4 +1,4 @@
-376 domains tested. 85.63829787234043% were behind nothing (54 were behind something). 23 domains could not be tested.<br>
+384 domains tested. 83.33333333333334% were behind nothing (64 were behind something). 30 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,26 +19,29 @@
 
 ```
 
-29 used cloudflare (7.712765957446808%):
+33 used cloudflare (8.59375%):
 ```
 allendostmen.com
 app.appzcvb.com
+beacon.ltdglobal.co.uk
 bito.com.pk
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
-dasgems.com
 deagroup-ks.com
 fd.v2downf.shop
 filerit.com
+flint-32.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-lumacrea.com
+mailify.cc
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
+royalindiancurryclub.com
 rxquickpay.com
+satinmaple4.com
 scanbot.me
 trtmyanmar.com
 us.wind0ws.net
@@ -47,6 +50,7 @@ vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
+www.movy.bz
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
@@ -107,12 +111,7 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.26595744680851063%):
+1 used netlify (0.26041666666666663%):
 ```
 swiftfusion.tech
-```
-
-1 used imperva (0.26595744680851063%):
-```
-twu-hwt.org
 ```

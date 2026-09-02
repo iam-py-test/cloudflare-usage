@@ -1,7 +1,8 @@
-366 domains tested. 44.26229508196721% were behind nothing (204 were behind something). 23 domains could not be tested.<br>
-1 used akamai (0.273224043715847%):
+366 domains tested. 46.994535519125684% were behind nothing (194 were behind something). 12 domains could not be tested.<br>
+2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
+x.co
 ```
 
 0 used bunnycdn (0.0%):
