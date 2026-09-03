@@ -1,4 +1,4 @@
-384 domains tested. 83.33333333333334% were behind nothing (64 were behind something). 30 domains could not be tested.<br>
+380 domains tested. 85.52631578947368% were behind nothing (55 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-33 used cloudflare (8.59375%):
+32 used cloudflare (8.421052631578947%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -35,7 +35,7 @@ flint-32.com
 grantexx.com
 gutando.com
 hitman-pro.ru
-mailify.cc
+lumacrea.com
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -45,7 +45,6 @@ satinmaple4.com
 scanbot.me
 trtmyanmar.com
 us.wind0ws.net
-usertunelaccount1.royalbnkmail.com
 vcc-library.uk
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -111,7 +110,7 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.26041666666666663%):
+1 used netlify (0.2631578947368421%):
 ```
 swiftfusion.tech
 ```
