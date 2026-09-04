@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 51 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -153,7 +153,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -184,13 +183,11 @@ substack.com
 t.co
 tandfonline.com
 teamviewer.com
-theatlantic.com
 themeforest.net
 thenai.org
 tinyurl.com
 twitter.com
 uber.com
-umich.edu
 unpkg.com
 vimeo.com
 visma.com
@@ -213,20 +210,21 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.jp
+amazon.ca
 amazon.co.uk
+amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.fr
+amazon.es
 amazon.in
 amazon.it
 amazonalexa.com
@@ -286,6 +284,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+ryanair.com
 samsungcloud.com
 segment.io
 shalltry.com
@@ -298,6 +297,7 @@ synology.com
 t-online.de
 tp-link.com
 tradingview.com
+trendmicro.com
 tripadvisor.com
 trustpilot.com
 ubi.com
