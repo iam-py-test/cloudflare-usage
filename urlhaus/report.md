@@ -1,4 +1,4 @@
-390 domains tested. 85.38461538461539% were behind nothing (57 were behind something). 23 domains could not be tested.<br>
+387 domains tested. 84.23772609819122% were behind nothing (61 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-32 used cloudflare (8.205128205128204%):
+33 used cloudflare (8.527131782945736%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -31,11 +31,12 @@ deagroup-ks.com
 fd.v2downf.shop
 fern-plume.com
 filerit.com
-gobiotechpestcontrol.com
+grantexx.com
 gutando.com
 hitman-pro.ru
 infocardphoto.info
 lumacrea.com
+mailify.cc
 node-slate.com
 pic.li
 reservphotoinstay.one
@@ -110,12 +111,7 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.2564102564102564%):
+1 used netlify (0.2583979328165375%):
 ```
 swiftfusion.tech
-```
-
-1 used imperva (0.2564102564102564%):
-```
-twu-hwt.org
 ```

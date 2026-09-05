@@ -1,4 +1,4 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 51 domains could not be tested.<br>
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 52 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -218,6 +218,7 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
@@ -225,6 +226,7 @@ amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -238,6 +240,7 @@ arcgis.com
 atlassian.com
 atlassian.net
 biblegateway.com
+binance.com
 blackberry.com
 booking.com
 brave.com
@@ -266,7 +269,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -297,7 +299,6 @@ synology.com
 t-online.de
 tp-link.com
 tradingview.com
-trendmicro.com
 tripadvisor.com
 trustpilot.com
 ubi.com
@@ -306,7 +307,6 @@ ui.com
 un.org
 uol.com.br
 verisign.com
-warnerbros.com
 wattpad.com
 wired.com
 wps.com

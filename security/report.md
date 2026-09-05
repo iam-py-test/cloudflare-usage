@@ -1,4 +1,4 @@
-34 domains tested. 35.294117647058826% were behind nothing (22 were behind something). 0 domains could not be tested.<br>
+34 domains tested. 38.23529411764706% were behind nothing (21 were behind something). 0 domains could not be tested.<br>
 3 used akamai (8.823529411764707%):
 ```
 alienvault.com
@@ -41,10 +41,9 @@ talosintelligence.com
 tria.ge
 ```
 
-2 used cloudfront (5.88235294117647%):
+1 used cloudfront (2.941176470588235%):
 ```
 opswat.com
-trendmicro.com
 ```
 
 0 used ddosguard (0.0%):
