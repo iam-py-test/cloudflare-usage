@@ -24,7 +24,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-58 used cloudflare (26.244343891402718%):
+57 used cloudflare (25.791855203619914%):
 ```
 abp.tt.codes
 abpvn.com
@@ -57,7 +57,6 @@ lpt.lrv.lt
 malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
-mirai.security.gives
 netmountains.de
 nonio.pt
 orca.pet
@@ -86,8 +85,9 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-1 used cloudfront (0.4524886877828055%):
+2 used cloudfront (0.904977375565611%):
 ```
+bitbucket.org
 www.topcashback.com
 ```
 
