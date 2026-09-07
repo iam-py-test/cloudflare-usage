@@ -1,4 +1,4 @@
-378 domains tested. 85.97883597883597% were behind nothing (53 were behind something). 23 domains could not be tested.<br>
+374 domains tested. 85.8288770053476% were behind nothing (53 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-30 used cloudflare (7.936507936507936%):
+30 used cloudflare (8.02139037433155%):
 ```
 0rder-ver1f2345.com
 allendostmen.com
@@ -28,6 +28,7 @@ bito.com.pk
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
+curlservice.com
 deagroup-ks.com
 fd.v2downf.shop
 filerit.com
@@ -35,7 +36,6 @@ grantexx.com
 gutando.com
 hitman-pro.ru
 mailify.cc
-multiplay.at
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -108,7 +108,12 @@ youtransfer.net
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.267379679144385%):
+```
+swiftfusion.tech
 ```
 
+1 used imperva (0.267379679144385%):
+```
+twu-hwt.org
 ```
