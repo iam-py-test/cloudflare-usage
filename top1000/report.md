@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 64.3% were behind nothing (357 were behind something). 52 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-156 used cloudflare (15.6%):
+157 used cloudflare (15.7%):
 ```
 33across.com
 academia.edu
@@ -112,6 +112,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -152,7 +153,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -171,6 +171,7 @@ sciencedirect.com
 sedo.com
 seedtag.com
 sharethrough.com
+shein.com
 shop.app
 shopify.com
 singular.net
@@ -209,7 +210,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -217,11 +218,11 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.fr
 amazon.in
@@ -291,7 +292,6 @@ state.gov
 statista.com
 supercell.com
 surveymonkey.com
-synology.com
 t-online.de
 tp-link.com
 tradingview.com
@@ -370,8 +370,9 @@ www.gov.uk
 
 ```
 
-5 used netlify (0.5%):
+6 used netlify (0.6%):
 ```
+amon.tech
 ampproject.org
 launchdarkly.com
 lencr.org
