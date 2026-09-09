@@ -1,4 +1,4 @@
-1000 domains tested. 64.3% were behind nothing (357 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 63.9% were behind nothing (361 were behind something). 56 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -106,6 +106,7 @@ fandom.com
 faphouse.com
 fiverr.com
 flashtalking.com
+flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -131,13 +132,11 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
-markmonitor.com
 media.net
 mediafire.com
 mediatek.com
 medium.com
 moloco.com
-mybluehost.me
 myshopify.com
 name.com
 namecheap.com
@@ -153,6 +152,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -186,6 +186,7 @@ tandfonline.com
 teamviewer.com
 thenai.org
 tinyurl.com
+trendyol.com
 twitter.com
 uber.com
 unpkg.com
@@ -202,7 +203,6 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
-x.com
 xhamster.com
 xhamster46.desi
 zendesk.com
@@ -218,14 +218,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
-amazon.de
-amazon.fr
+amazon.com.br
+amazon.es
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -265,15 +265,14 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
 jetbrains.com
 latimes.com
 lijit.com
-line.me
 live-video.net
+markmonitor.com
 nationalgeographic.com
 noaa.gov
 note.com
@@ -292,6 +291,7 @@ state.gov
 statista.com
 supercell.com
 surveymonkey.com
+synology.com
 t-online.de
 tp-link.com
 tradingview.com
