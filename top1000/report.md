@@ -1,5 +1,5 @@
-1000 domains tested. 64.1% were behind nothing (359 were behind something). 52 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 64.1% were behind nothing (359 were behind something). 56 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ mi.com
 mobile.de
 mysql.com
 rakuten.co.jp
+spectrum.com
 usda.gov
 webex.com
 xiaomi.com
@@ -150,10 +151,10 @@ onelink.me
 onetrust.com
 onlyfans.com
 openai.com
-oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -212,7 +213,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+92 used cloudfront (9.2%):
 ```
 3lift.com
 a-mo.net
@@ -220,15 +221,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
 amazon.co.uk
 amazon.co.za
-amazon.com
-amazon.com.br
+amazon.com.au
 amazon.de
 amazon.es
-amazon.in
-amazonalexa.com
+amazon.fr
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -267,7 +266,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -300,7 +298,6 @@ tradingview.com
 tripadvisor.com
 trustpilot.com
 ubi.com
-ubnt.com
 ui.com
 un.org
 uol.com.br
@@ -324,13 +321,12 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
-fastly.net
 github.io
 nytimes.com
 speedtest.net

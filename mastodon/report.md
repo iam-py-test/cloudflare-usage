@@ -1,12 +1,12 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 9 domains could not be tested.<br>
+186 domains tested. 65.59139784946237% were behind nothing (64 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
 ```
 
-0 used bunnycdn (0.0%):
+1 used bunnycdn (0.5376344086021506%):
 ```
-
+mastodon.site
 ```
 
 0 used cachefly (0.0%):
@@ -19,7 +19,7 @@
 
 ```
 
-53 used cloudflare (28.49462365591398%):
+52 used cloudflare (27.956989247311824%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -45,7 +45,6 @@ mas.to
 masto.popgeeks.com
 mastodon.buzhangjiuzhou.com
 mastodon.scot
-mastodon.site
 me.dm
 metreee.com
 milkiyatelier.quest

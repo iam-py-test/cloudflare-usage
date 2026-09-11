@@ -1,4 +1,4 @@
-371 domains tested. 85.17520215633422% were behind nothing (55 were behind something). 22 domains could not be tested.<br>
+363 domains tested. 83.7465564738292% were behind nothing (59 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-32 used cloudflare (8.62533692722372%):
+31 used cloudflare (8.539944903581267%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -28,10 +28,10 @@ cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-eurofarm.ge
+download.pocketbitcoindesktop.com
 fd.v2downf.shop
+fileget.plumbco.co.nz
 filerit.com
-globalsupportupdate.top
 grantexx.com
 gutando.com
 hitman-pro.ru
@@ -42,7 +42,6 @@ pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
-rubburizee.es
 rxquickpay.com
 scanbot.me
 trtmyanmar.com
@@ -110,7 +109,7 @@ zetaval.metcalfphoto.com
 
 ```
 
-1 used netlify (0.2695417789757413%):
+0 used netlify (0.0%):
 ```
-swiftfusion.tech
+
 ```
