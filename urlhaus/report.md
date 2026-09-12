@@ -1,4 +1,4 @@
-363 domains tested. 83.7465564738292% were behind nothing (59 were behind something). 28 domains could not be tested.<br>
+356 domains tested. 84.8314606741573% were behind nothing (54 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-31 used cloudflare (8.539944903581267%):
+27 used cloudflare (7.584269662921349%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -33,11 +33,8 @@ fd.v2downf.shop
 fileget.plumbco.co.nz
 filerit.com
 grantexx.com
-gutando.com
 hitman-pro.ru
 loop-lumen.com
-lumacrea.com
-panel.mkk9991999912.observer
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -51,7 +48,6 @@ www.hqsblog.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-zetaval.metcalfphoto.com
 ```
 
 0 used cloudfront (0.0%):
