@@ -1,12 +1,9 @@
-1000 domains tested. 63.9% were behind nothing (361 were behind something). 54 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 57 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
-adobe.com
-adobe.net
 arubanetworks.com
 autodesk.com
-bol.com
 cdc.gov
 cisco.com
 coupang.com
@@ -50,7 +47,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -156,6 +153,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -214,7 +212,7 @@ zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -222,13 +220,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
+amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -269,7 +268,6 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -304,6 +302,7 @@ trustpilot.com
 ubi.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 wattpad.com
 wired.com
@@ -330,10 +329,10 @@ bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
+fastly.net
 github.io
 nytimes.com
 speedtest.net
-spotify.com
 www.gov.uk
 ```
 
