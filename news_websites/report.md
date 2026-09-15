@@ -112,10 +112,10 @@ wsj.com
 
 6 used fastly (3.0%):
 ```
+404media.co
 bbc.com
 bbc.com
 cbsnews.com
-corriere.it
 gazzetta.it
 nytimes.com
 ```

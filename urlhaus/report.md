@@ -1,4 +1,4 @@
-356 domains tested. 85.39325842696628% were behind nothing (52 were behind something). 23 domains could not be tested.<br>
+372 domains tested. 81.98924731182797% were behind nothing (67 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-28 used cloudflare (7.865168539325842%):
+29 used cloudflare (7.795698924731183%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -33,16 +33,17 @@ filerit.com
 grantexx.com
 hitman-pro.ru
 loop-lumen.com
-massgravel.dev
-pic.li
+lumacrea.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-separadordecc.com
 server.miranarts-top.cc
+srv.conti.pk
+talkandtypeapp.com
 trtmyanmar.com
+update-notif.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -56,9 +57,9 @@ youtransfer.net
 
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.2688172043010753%):
 ```
-
+workerstats.net
 ```
 
 0 used edgecast (0.0%):
@@ -66,9 +67,14 @@ youtransfer.net
 
 ```
 
-0 used fastly (0.0%):
+6 used fastly (1.6129032258064515%):
 ```
-
+get.acivated.win
+get.activaed.win
+get.activatd.win
+get.activted.win
+get.actvated.win
+get.ativated.win
 ```
 
 0 used sucuri (0.0%):
@@ -106,7 +112,12 @@ youtransfer.net
 
 ```
 
-1 used netlify (0.2808988764044944%):
+1 used netlify (0.2688172043010753%):
 ```
 swiftfusion.tech
+```
+
+1 used imperva (0.2688172043010753%):
+```
+twu-hwt.org
 ```

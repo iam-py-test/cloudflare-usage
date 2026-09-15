@@ -1,10 +1,11 @@
 221 domains tested. 57.9185520361991% were behind nothing (93 were behind something). 9 domains could not be tested.<br>
-5 used akamai (2.262443438914027%):
+6 used akamai (2.7149321266968327%):
 ```
 cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
+www.microsoft.com
 www.rakuten.ca
 ```
 
@@ -24,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-58 used cloudflare (26.244343891402718%):
+57 used cloudflare (25.791855203619914%):
 ```
 abp.tt.codes
 abpvn.com
@@ -57,7 +58,6 @@ lpt.lrv.lt
 malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
-mirai.security.gives
 netmountains.de
 nonio.pt
 orca.pet
