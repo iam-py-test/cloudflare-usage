@@ -1,4 +1,4 @@
-387 domains tested. 77.77777777777779% were behind nothing (86 were behind something). 34 domains could not be tested.<br>
+405 domains tested. 78.51851851851852% were behind nothing (87 were behind something). 25 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,44 @@
 
 ```
 
-36 used cloudflare (9.30232558139535%):
+44 used cloudflare (10.864197530864198%):
 ```
 acrobat.proposal.name.ng
 allendostmen.com
 app.appzcvb.com
 bito.com.pk
-botcheck-cf.top
 cambodiatouristservice.com
 copiose.org
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
+debloatex.com
+docmntageant.com
 fd.v2downf.shop
 filerit.com
-grantexx.com
+get.actiavted.win
+get.activatde.win
+get.activeted.win
+get.atcivated.win
 hitman-pro.ru
 jokely.icu
 loop-lumen.com
 lumacrea.com
+meteorclientplus.com
+meteorclients.com
 pic.li
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-server.miranarts-top.cc
+speddebug.com
 srv.conti.pk
 talkandtypeapp.com
 trtmyanmar.com
-update-notif.com
+uno-play.online
 wir.consultingics.com
+wizzyaddon.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -57,6 +64,7 @@ www.kammwv.cc
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
+zenithclient.com
 ```
 
 0 used cloudfront (0.0%):
@@ -64,8 +72,9 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2583979328165375%):
+2 used ddosguard (0.49382716049382713%):
 ```
+windowsdiagnostics.st
 workerstats.net
 ```
 
@@ -74,7 +83,7 @@ workerstats.net
 
 ```
 
-15 used fastly (3.875968992248062%):
+15 used fastly (3.7037037037037033%):
 ```
 get.acitvated.win
 get.acivated.win
@@ -128,7 +137,7 @@ get.cativated.win
 
 ```
 
-0 used netlify (0.0%):
+1 used netlify (0.24691358024691357%):
 ```
-
+swiftfusion.tech
 ```
