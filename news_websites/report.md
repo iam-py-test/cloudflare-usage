@@ -1,4 +1,4 @@
-200 domains tested. 57.99999999999999% were behind nothing (84 were behind something). 4 domains could not be tested.<br>
+200 domains tested. 57.49999999999999% were behind nothing (85 were behind something). 5 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 anandabazar.com
@@ -117,7 +117,7 @@ bbc.com
 cbsnews.com
 corriere.it
 gazzetta.it
-nytimes.com
+lemonde.fr
 ```
 
 0 used sucuri (0.0%):

@@ -1,8 +1,7 @@
-366 domains tested. 46.17486338797814% were behind nothing (197 were behind something). 12 domains could not be tested.<br>
-2 used akamai (0.546448087431694%):
+366 domains tested. 42.89617486338798% were behind nothing (209 were behind something). 27 domains could not be tested.<br>
+1 used akamai (0.273224043715847%):
 ```
 email-sendgrid-deep-linking.chewy.com
-x.co
 ```
 
 0 used bunnycdn (0.0%):
@@ -20,7 +19,7 @@ x.co
 
 ```
 
-170 used cloudflare (46.44808743169399%):
+169 used cloudflare (46.17486338797814%):
 ```
 02ip.ru
 123415.xyz
@@ -125,7 +124,6 @@ mirrorz.com
 mub.me
 myprivate.pics
 n9.cl
-noodshare.pics
 nxlnk.com
 nyl.as
 ouo.io
@@ -194,9 +192,8 @@ y0utu.be
 your.ls
 ```
 
-10 used cloudfront (2.73224043715847%):
+9 used cloudfront (2.459016393442623%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qr-codes.io

@@ -1,4 +1,4 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 55 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -51,7 +51,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -87,7 +87,6 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
-conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -110,14 +109,12 @@ expireddomains.com
 fandom.com
 fiverr.com
 flashtalking.com
-flightradar24.com
 fontawesome.com
 forter.com
 ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -213,24 +210,27 @@ x.com
 xhamster.com
 xhamster46.desi
 zendesk.com
+zoho.com
 zoom.com
 zoom.us
 ```
 
-94 used cloudfront (9.4%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.br
+amazon.com.au
 amazon.de
 amazon.es
+amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -267,11 +267,11 @@ figma.com
 flickr.com
 go.com
 goodreads.com
+gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
 healthline.com
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -308,6 +308,7 @@ ui.com
 un.org
 uol.com.br
 verisign.com
+warnerbros.com
 wattpad.com
 wired.com
 wps.com
@@ -327,14 +328,15 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
+fastly.net
 github.io
-nytimes.com
+lemonde.fr
 speedtest.net
 www.gov.uk
 ```
