@@ -1,5 +1,5 @@
-361 domains tested. 53.73961218836565% were behind nothing (167 were behind something). 51 domains could not be tested.<br>
-32 used akamai (8.86426592797784%):
+361 domains tested. 53.73961218836565% were behind nothing (167 were behind something). 48 domains could not be tested.<br>
+33 used akamai (9.141274238227147%):
 ```
 amtrak.com
 atf.gov
@@ -22,6 +22,7 @@ jfsc.ndu.edu
 maritime.dot.gov
 nhtsa.gov
 npin.cdc.gov
+nrc.gov
 nsa.gov
 phmsa.dot.gov
 railroads.dot.gov
@@ -50,7 +51,7 @@ usfa.fema.gov
 
 ```
 
-45 used cloudflare (12.465373961218837%):
+46 used cloudflare (12.742382271468145%):
 ```
 aoc.gov
 bjs.gov
@@ -81,17 +82,18 @@ juvenilecouncil.ojp.gov
 kennedy-center.org
 loc.gov
 mbda.gov
-nationalparks.org
 niams.nih.gov
 nifc.gov
 nij.ojp.gov
 nist.gov
+ntia.doc.gov
 ntis.gov
 ntsb.gov
 ojp.gov
 oshrc.gov
 peacecorps.gov
 si.edu
+srbc.net
 travel.state.gov
 tva.com
 usadf.gov
@@ -99,7 +101,7 @@ uscirf.gov
 usmint.gov
 ```
 
-36 used cloudfront (9.97229916897507%):
+37 used cloudfront (10.249307479224377%):
 ```
 acquisition.gov
 archives.gov
@@ -116,6 +118,7 @@ jobcorps.gov
 mcc.gov
 minorityhealth.hhs.gov
 msha.gov
+nationalparks.org
 nccih.nih.gov
 ncd.gov
 nlm.nih.gov

@@ -1,4 +1,4 @@
-423 domains tested. 75.41371158392435% were behind nothing (104 were behind something). 50 domains could not be tested.<br>
+397 domains tested. 83.6272040302267% were behind nothing (65 were behind something). 32 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-38 used cloudflare (8.983451536643026%):
+28 used cloudflare (7.052896725440807%):
 ```
 allendostmen.com
 app.appzcvb.com
@@ -27,38 +27,28 @@ bito.com.pk
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
-dcfpp.com
 deagroup-ks.com
-debloatex.com
-docmntageant.com
 fd.v2downf.shop
 filerit.com
-get.actiavted.win
-get.activatde.win
-get.activeted.win
-get.atcivated.win
+foundrysourcings.co.uk
 hitman-pro.ru
 loop-lumen.com
 lumacrea.com
-meteorclientplus.com
 meteorclients.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
+royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
-speddebug.com
 srv.conti.pk
 trtmyanmar.com
-uno-play.online
 userhotels.org
-wizzyaddon.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-zenithclient.com
 ```
 
 0 used cloudfront (0.0%):
@@ -66,8 +56,9 @@ zenithclient.com
 
 ```
 
-2 used ddosguard (0.4728132387706856%):
+3 used ddosguard (0.7556675062972292%):
 ```
+thisisafalsepositive.st
 windowsdiagnostics.st
 workerstats.net
 ```
@@ -77,20 +68,9 @@ workerstats.net
 
 ```
 
-12 used fastly (2.8368794326241136%):
+0 used fastly (0.0%):
 ```
-get.acitvated.win
-get.acivated.win
-get.acrivated.win
-get.actiated.win
-get.activatd.win
-get.activatedd.win
-get.activates.win
-get.activtaed.win
-get.actrivated.win
-get.acttivated.win
-get.ativated.win
-get.cativated.win
+
 ```
 
 0 used sucuri (0.0%):
@@ -128,12 +108,12 @@ get.cativated.win
 
 ```
 
-1 used netlify (0.2364066193853428%):
+1 used netlify (0.2518891687657431%):
 ```
 kryptonclient.vip
 ```
 
-1 used imperva (0.2364066193853428%):
+1 used imperva (0.2518891687657431%):
 ```
 twu-hwt.org
 ```

@@ -1,4 +1,4 @@
-221 domains tested. 57.466063348416284% were behind nothing (94 were behind something). 11 domains could not be tested.<br>
+221 domains tested. 58.371040723981906% were behind nothing (92 were behind something). 9 domains could not be tested.<br>
 6 used akamai (2.7149321266968327%):
 ```
 cdn.adblockcdn.com
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-57 used cloudflare (25.791855203619914%):
+56 used cloudflare (25.339366515837103%):
 ```
 abp.tt.codes
 abpvn.com
@@ -60,7 +60,6 @@ malware-filter.gitlab.io
 managedsentinel.com
 netmountains.de
 nonio.pt
-orca.pet
 osint.bambenekconsulting.com
 pastebin.com
 phishing.army
@@ -86,8 +85,9 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-1 used cloudfront (0.4524886877828055%):
+2 used cloudfront (0.904977375565611%):
 ```
+bitbucket.org
 www.topcashback.com
 ```
 
