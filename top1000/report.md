@@ -1,5 +1,5 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 54 domains could not be tested.<br>
-32 used akamai (3.2%):
+1000 domains tested. 63.7% were behind nothing (363 were behind something). 53 domains could not be tested.<br>
+31 used akamai (3.1%):
 ```
 accuweather.com
 adobe.com
@@ -27,7 +27,6 @@ mobile.de
 mysql.com
 rakuten.co.jp
 spectrum.com
-twc.com
 ups.com
 usda.gov
 webex.com
@@ -142,6 +141,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -192,7 +192,6 @@ teamviewer.com
 thenai.org
 tinyurl.com
 trendyol.com
-twitter.com
 uber.com
 unpkg.com
 vimeo.com
@@ -217,17 +216,15 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
-amazon.co.jp
 amazon.co.uk
-amazon.co.za
+amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
@@ -275,6 +272,7 @@ grammarly.com
 gumgum.com
 hbr.org
 healthline.com
+ieee.org
 imdb.com
 intercom.io
 ipify.org

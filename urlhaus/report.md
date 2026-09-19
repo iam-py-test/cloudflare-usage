@@ -1,4 +1,4 @@
-397 domains tested. 83.6272040302267% were behind nothing (65 were behind something). 32 domains could not be tested.<br>
+387 domains tested. 84.75452196382429% were behind nothing (59 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,11 +19,12 @@
 
 ```
 
-28 used cloudflare (7.052896725440807%):
+32 used cloudflare (8.2687338501292%):
 ```
 allendostmen.com
 app.appzcvb.com
 bito.com.pk
+c1.dstatbots.win
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
@@ -32,17 +33,20 @@ fd.v2downf.shop
 filerit.com
 foundrysourcings.co.uk
 hitman-pro.ru
+kryptonclient-donutsmp.com
 loop-lumen.com
 lumacrea.com
 meteorclients.com
+radium-client.org
 reservphotoinstay.one
 reservphotoinstaynow.shop
+rmm.smartscreen.lifestyle
 royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 srv.conti.pk
 trtmyanmar.com
-userhotels.org
+update.googlecert.help
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -56,7 +60,7 @@ youtransfer.net
 
 ```
 
-3 used ddosguard (0.7556675062972292%):
+3 used ddosguard (0.7751937984496124%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -108,12 +112,7 @@ workerstats.net
 
 ```
 
-1 used netlify (0.2518891687657431%):
+1 used netlify (0.2583979328165375%):
 ```
 kryptonclient.vip
-```
-
-1 used imperva (0.2518891687657431%):
-```
-twu-hwt.org
 ```
