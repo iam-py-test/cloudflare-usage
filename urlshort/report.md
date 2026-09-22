@@ -1,4 +1,4 @@
-366 domains tested. 46.44808743169399% were behind nothing (196 were behind something). 12 domains could not be tested.<br>
+366 domains tested. 46.44808743169399% were behind nothing (196 were behind something). 13 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ x.co
 
 ```
 
-169 used cloudflare (46.17486338797814%):
+168 used cloudflare (45.90163934426229%):
 ```
 02ip.ru
 123415.xyz
@@ -78,7 +78,6 @@ fc.lc
 fedishort.com
 filetap.com
 firefone.com
-foot.wiki
 funurl.com
 gamingfun.me
 go.ly

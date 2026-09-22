@@ -1,4 +1,4 @@
-381 domains tested. 83.98950131233596% were behind nothing (61 were behind something). 23 domains could not be tested.<br>
+387 domains tested. 83.20413436692506% were behind nothing (65 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,37 +19,35 @@
 
 ```
 
-35 used cloudflare (9.186351706036746%):
+33 used cloudflare (8.527131782945736%):
 ```
+activatef.win
 allendostmen.com
 app.appzcvb.com
 becof.org
 bito.com.pk
 blueprint-71.com
-c1.dstatbots.win
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 fd.v2downf.shop
 filerit.com
+forgewillow.com
 hitman-pro.ru
-kryptonclient-donutsmp.com
 loop-lumen.com
 lumacrea.com
 meteorclients.com
-radium-client.org
 reservphotoinstay.one
 reservphotoinstaynow.shop
-rmm.smartscreen.lifestyle
 royalindiancurryclub.com
 rxquickpay.com
 sandboxle.com.cn
 scanbot.me
 skymoders.top
 srv.conti.pk
+taunahi.client.farm
 trtmyanmar.com
-update.googlecert.help
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -63,7 +61,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5249343832020997%):
+2 used ddosguard (0.516795865633075%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -114,7 +112,12 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.26246719160104987%):
+1 used netlify (0.2583979328165375%):
 ```
 swiftfusion.tech
+```
+
+1 used imperva (0.2583979328165375%):
+```
+twu-hwt.org
 ```
