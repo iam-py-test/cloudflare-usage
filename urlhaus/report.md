@@ -1,4 +1,4 @@
-376 domains tested. 84.04255319148936% were behind nothing (60 were behind something). 25 domains could not be tested.<br>
+386 domains tested. 82.90155440414507% were behind nothing (66 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,19 @@
 
 ```
 
-32 used cloudflare (8.51063829787234%):
+34 used cloudflare (8.808290155440414%):
 ```
 allendostmen.com
+amc-us.mprevive.com
 app.appzcvb.com
+basequill9.com
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
+detierra.cl
 fd.v2downf.shop
 filerit.com
-forgewillow.com
 helpdesk09-26.com
 hitman-pro.ru
 kineticlenz.com
@@ -42,9 +44,8 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
-skymoders.top
-srv.conti.pk
-taunahi.client.farm
+scanbot.me
+trabzonmegareklamllc.shop
 trtmyanmar.com
 www.blackhattoolz.com
 www.hostingcloud.science
@@ -53,6 +54,7 @@ www.vuelaviajero.com
 xn--yh4bx88a.com
 y32me8.com
 youtransfer.net
+zaluposs.com
 ```
 
 0 used cloudfront (0.0%):
@@ -60,7 +62,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5319148936170213%):
+2 used ddosguard (0.5181347150259068%):
 ```
 windowsdiagnostics.st
 workerstats.net
@@ -116,7 +118,7 @@ workerstats.net
 
 ```
 
-1 used imperva (0.26595744680851063%):
+1 used imperva (0.2590673575129534%):
 ```
 twu-hwt.org
 ```
