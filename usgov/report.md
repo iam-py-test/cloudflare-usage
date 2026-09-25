@@ -55,7 +55,6 @@ usfa.fema.gov
 ```
 aoc.gov
 bjs.gov
-blm.gov
 census.gov
 cftc.gov
 commerce.gov
@@ -100,6 +99,7 @@ travel.state.gov
 tva.com
 usadf.gov
 uscirf.gov
+usip.org
 usmint.gov
 ```
 

@@ -1,4 +1,4 @@
-1000 domains tested. 63.7% were behind nothing (363 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 54 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -51,7 +51,7 @@ php.net
 
 ```
 
-163 used cloudflare (16.3%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -109,6 +109,7 @@ fandom.com
 faphouse.com
 fiverr.com
 flashtalking.com
+flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -157,7 +158,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -196,7 +196,6 @@ twitter.com
 uber.com
 unpkg.com
 vimeo.com
-visma.com
 vungle.com
 w3.org
 webmd.com
@@ -218,7 +217,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -234,6 +233,7 @@ amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -309,6 +309,7 @@ trustpilot.com
 ubi.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com

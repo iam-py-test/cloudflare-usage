@@ -1,4 +1,4 @@
-366 domains tested. 46.994535519125684% were behind nothing (194 were behind something). 12 domains could not be tested.<br>
+366 domains tested. 46.994535519125684% were behind nothing (194 were behind something). 13 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ x.co
 
 ```
 
-167 used cloudflare (45.62841530054645%):
+166 used cloudflare (45.3551912568306%):
 ```
 02ip.ru
 123415.xyz
@@ -141,7 +141,6 @@ rkns.link
 rotf.lol
 s.id
 screenshare.pics
-screenshot.best
 sh.21111993.xyz
 shhh.lol
 short.gy
