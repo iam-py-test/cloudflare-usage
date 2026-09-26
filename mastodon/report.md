@@ -1,4 +1,4 @@
-186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 9 domains could not be tested.<br>
+186 domains tested. 66.12903225806451% were behind nothing (63 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@ mastodon.site
 
 ```
 
-52 used cloudflare (27.956989247311824%):
+51 used cloudflare (27.419354838709676%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
@@ -55,7 +55,6 @@ misskey.gg
 misskey.mofumofu.me
 misskey.v-nr.net
 mk.chiwa.net
-mkacg.com
 mstdn.ca
 mstdn.io
 n7.social

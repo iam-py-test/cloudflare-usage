@@ -1,4 +1,4 @@
-401 domains tested. 83.0423940149626% were behind nothing (68 were behind something). 31 domains could not be tested.<br>
+398 domains tested. 84.42211055276381% were behind nothing (62 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,19 @@
 
 ```
 
-35 used cloudflare (8.728179551122196%):
+32 used cloudflare (8.040201005025125%):
 ```
 allendostmen.com
-amc-us.mprevive.com
 app.appzcvb.com
-basequill9.com
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
-cyberleak.top
 deagroup-ks.com
 delta-canvas.com
 fd.v2downf.shop
 filerit.com
 freeclients.net
+fullinstall.sbs
 helpdesk09-26.com
 hitman-pro.ru
 journeylake11.com
@@ -55,7 +53,6 @@ www.hqsblog.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
-zaluposs.com
 ```
 
 0 used cloudfront (0.0%):
@@ -63,7 +60,7 @@ zaluposs.com
 
 ```
 
-1 used ddosguard (0.24937655860349126%):
+1 used ddosguard (0.25125628140703515%):
 ```
 windowsdiagnostics.st
 ```
@@ -113,7 +110,12 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.24937655860349126%):
+1 used netlify (0.25125628140703515%):
 ```
 swiftfusion.tech
+```
+
+1 used imperva (0.25125628140703515%):
+```
+twu-hwt.org
 ```
