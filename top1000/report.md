@@ -1,5 +1,5 @@
-1000 domains tested. 63.2% were behind nothing (368 were behind something). 54 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 62.4% were behind nothing (376 were behind something). 54 domains could not be tested.<br>
+32 used akamai (3.2%):
 ```
 accuweather.com
 adobe.com
@@ -11,6 +11,7 @@ cdc.gov
 cisco.com
 coupang.com
 fda.gov
+fidelity.com
 godaddy.com
 hm.com
 homedepot.com
@@ -51,7 +52,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+168 used cloudflare (16.8%):
 ```
 33across.com
 academia.edu
@@ -85,6 +86,7 @@ cloudflare-dns.com
 cloudflare.com
 cloudflare.net
 cloudflareinsights.com
+cloudinary.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
@@ -115,12 +117,14 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
 hosting24.com
 hostinger.com
 hubspot.com
+hugedomains.com
 icanhazip.com
 ietf.org
 ikea.com
@@ -166,9 +170,11 @@ pixiv.net
 plesk.com
 princeton.edu
 prnewswire.com
+publicnode.com
 quora.com
 readthedocs.io
 researchgate.net
+ring.com
 roku.com
 rubiconproject.com
 sagepub.com
@@ -189,6 +195,7 @@ substack.com
 t.co
 tandfonline.com
 teamviewer.com
+temu.com
 thenai.org
 tinyurl.com
 trendyol.com
@@ -217,7 +224,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -226,10 +233,9 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
+amazon.co.za
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -264,6 +270,7 @@ duolingo.com
 dynatrace.com
 eeroup.com
 elasticbeanstalk.com
+endpoints.news
 espn.com
 europa.eu
 eventbrite.com
@@ -275,7 +282,6 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
-healthline.com
 ieee.org
 imdb.com
 intercom.io
@@ -285,6 +291,8 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+mercadolibre.com.ar
+mercadolivre.com.br
 nationalgeographic.com
 noaa.gov
 note.com
