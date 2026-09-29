@@ -1,5 +1,5 @@
-1000 domains tested. 62.4% were behind nothing (376 were behind something). 54 domains could not be tested.<br>
-32 used akamai (3.2%):
+1000 domains tested. 62.7% were behind nothing (373 were behind something). 55 domains could not be tested.<br>
+31 used akamai (3.1%):
 ```
 accuweather.com
 adobe.com
@@ -11,7 +11,6 @@ cdc.gov
 cisco.com
 coupang.com
 fda.gov
-fidelity.com
 godaddy.com
 hm.com
 homedepot.com
@@ -52,7 +51,7 @@ php.net
 
 ```
 
-168 used cloudflare (16.8%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -63,6 +62,7 @@ anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
+auvik.com
 base.org
 berkeley.edu
 bitdefender.net
@@ -90,7 +90,6 @@ cloudinary.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
-cpanel.net
 creativecommons.org
 deepl.com
 digitalocean.com
@@ -110,7 +109,6 @@ fandom.com
 faphouse.com
 fiverr.com
 flashtalking.com
-flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -161,7 +159,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -174,7 +171,6 @@ publicnode.com
 quora.com
 readthedocs.io
 researchgate.net
-ring.com
 roku.com
 rubiconproject.com
 sagepub.com
@@ -195,7 +191,6 @@ substack.com
 t.co
 tandfonline.com
 teamviewer.com
-temu.com
 thenai.org
 tinyurl.com
 trendyol.com
@@ -233,9 +228,11 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -291,8 +288,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-mercadolibre.com.ar
-mercadolivre.com.br
 nationalgeographic.com
 noaa.gov
 note.com
@@ -341,12 +336,13 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+8 used fastly (0.8%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
+fastly.net
 github.io
 speedtest.net
 www.gov.uk

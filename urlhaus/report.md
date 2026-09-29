@@ -1,4 +1,4 @@
-382 domains tested. 85.34031413612566% were behind nothing (56 were behind something). 22 domains could not be tested.<br>
+368 domains tested. 84.23913043478261% were behind nothing (58 were behind something). 27 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-32 used cloudflare (8.37696335078534%):
+29 used cloudflare (7.880434782608696%):
 ```
+4flng-filedrive.sbs
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
@@ -31,20 +32,16 @@ fd.v2downf.shop
 filerit.com
 helpdesk09-26.com
 hitman-pro.ru
-larpdebug.com
+kimdoo-app.top
 loop-lumen.com
 lumacrea.com
-maple30.com
 meteorclients.com
-metrics.agoxpathbet.one
 mibd.org
 photolivebook.pro
-quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 rxquickpay.com
-sail.autolabsouthgate.com
 scanbot.me
 trtmyanmar.com
 www.blackhattoolz.com
@@ -60,7 +57,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2617801047120419%):
+1 used ddosguard (0.2717391304347826%):
 ```
 windowsdiagnostics.st
 ```
@@ -110,7 +107,7 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.2617801047120419%):
+1 used netlify (0.2717391304347826%):
 ```
 swiftfusion.tech
 ```
