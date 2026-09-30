@@ -1,4 +1,4 @@
-1000 domains tested. 62.7% were behind nothing (373 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 63.1% were behind nothing (369 were behind something). 52 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -90,6 +90,7 @@ cloudinary.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
+cpanel.net
 creativecommons.org
 deepl.com
 digitalocean.com
@@ -115,7 +116,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -142,7 +142,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -159,6 +158,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -219,7 +219,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -231,13 +231,11 @@ amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -288,6 +286,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com
