@@ -1,5 +1,5 @@
-1000 domains tested. 63.1% were behind nothing (369 were behind something). 52 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 50 domains could not be tested.<br>
+32 used akamai (3.2%):
 ```
 accuweather.com
 adobe.com
@@ -27,6 +27,7 @@ mobile.de
 mysql.com
 rakuten.co.jp
 spectrum.com
+twc.com
 ups.com
 usda.gov
 webex.com
@@ -51,7 +52,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
@@ -110,12 +111,15 @@ fandom.com
 faphouse.com
 fiverr.com
 flashtalking.com
+flightradar24.com
 fontawesome.com
 forter.com
 ft.com
 fwmrm.net
+gafg.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -142,6 +146,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -158,7 +163,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -219,7 +223,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -231,11 +235,11 @@ amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.br
+amazon.com.au
 amazon.de
 amazon.es
 amazon.fr
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -286,7 +290,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-merriam-webster.com
 nationalgeographic.com
 noaa.gov
 note.com

@@ -1,4 +1,4 @@
-390 domains tested. 84.1025641025641% were behind nothing (62 were behind something). 25 domains could not be tested.<br>
+421 domains tested. 85.03562945368171% were behind nothing (63 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,23 +19,25 @@
 
 ```
 
-34 used cloudflare (8.717948717948717%):
+39 used cloudflare (9.263657957244655%):
 ```
 allendostmen.com
 app.appzcvb.com
 cambodiatouristservice.com
-carcaran.com
+community.firm.in
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-delphiaonline.top
 fd.v2downf.shop
 filerit.com
 fucktermedfir.st
 gammanort.thekielement.com
+geeconglobal.com
+grantexx.com
 helpdesk09-26.com
 hitman-pro.ru
 loop-lumen.com
+lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
@@ -47,11 +49,14 @@ royalindiancurryclub.com
 rxquickpay.com
 scanbot.me
 sushiandpoke.pt
+t-me.xyz
 telpak.icu
+thesalons.in
 trtmyanmar.com
 www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
+www.sivritepeinsaat.com
 www.vuelaviajero.com
 xn--yh4bx88a.com
 youtransfer.net
@@ -62,7 +67,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2564102564102564%):
+1 used ddosguard (0.23752969121140144%):
 ```
 windowsdiagnostics.st
 ```
@@ -112,12 +117,12 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.2564102564102564%):
+1 used netlify (0.23752969121140144%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.2564102564102564%):
+1 used imperva (0.23752969121140144%):
 ```
 twu-hwt.org
 ```
