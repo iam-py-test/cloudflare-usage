@@ -1,4 +1,4 @@
-1000 domains tested. 63.0% were behind nothing (370 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.1% were behind nothing (369 were behind something). 52 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -79,6 +79,7 @@ canva.com
 casalemedia.com
 character.ai
 chatgpt.com
+chatgpt.site
 chaturbate.com
 chess.com
 claude.ai
@@ -118,12 +119,10 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
 hosting24.com
-hostinger.com
 hubspot.com
 hugedomains.com
 icanhazip.com
@@ -174,6 +173,7 @@ publicnode.com
 quora.com
 readthedocs.io
 researchgate.net
+rfc-editor.org
 roku.com
 rubiconproject.com
 sagepub.com
@@ -222,21 +222,23 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -312,7 +314,6 @@ trustpilot.com
 ubi.com
 ui.com
 un.org
-uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com

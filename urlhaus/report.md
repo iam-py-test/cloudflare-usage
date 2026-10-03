@@ -1,4 +1,4 @@
-393 domains tested. 83.46055979643766% were behind nothing (65 were behind something). 24 domains could not be tested.<br>
+399 domains tested. 82.45614035087719% were behind nothing (70 were behind something). 29 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-39 used cloudflare (9.923664122137405%):
+39 used cloudflare (9.774436090225564%):
 ```
 aksiyononline.best
 allendostmen.com
@@ -67,7 +67,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2544529262086514%):
+1 used ddosguard (0.2506265664160401%):
 ```
 windowsdiagnostics.st
 ```
@@ -117,7 +117,7 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.2544529262086514%):
+1 used netlify (0.2506265664160401%):
 ```
 swiftfusion.tech
 ```
