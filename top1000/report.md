@@ -1,12 +1,11 @@
-1000 domains tested. 63.1% were behind nothing (369 were behind something). 52 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 63.2% were behind nothing (368 were behind something). 53 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
 adobe.net
 arubanetworks.com
 autodesk.com
-bol.com
 cdc.gov
 cisco.com
 coupang.com
@@ -222,7 +221,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -231,15 +230,13 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.za
-amazon.com
-amazon.com.au
+amazon.co.uk
 amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -314,6 +311,7 @@ trustpilot.com
 ubi.com
 ui.com
 un.org
+uol.com.br
 verisign.com
 warnerbros.com
 wattpad.com
