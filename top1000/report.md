@@ -1,4 +1,4 @@
-1000 domains tested. 62.8% were behind nothing (372 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 62.9% were behind nothing (371 were behind something). 52 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,18 +50,16 @@ php.net
 
 ```
 
-170 used cloudflare (17.0%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
 addtoany.com
-allaboutcookies.org
 ancestry.com
 anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
-auvik.com
 base.org
 berkeley.edu
 bitdefender.net
@@ -81,6 +79,7 @@ chatgpt.com
 chatgpt.site
 chaturbate.com
 chess.com
+classlink.com
 claude.ai
 cloudflare-dns.com
 cloudflare.com
@@ -110,7 +109,6 @@ fandom.com
 faphouse.com
 fiverr.com
 flashtalking.com
-flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -118,7 +116,6 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -129,7 +126,6 @@ icanhazip.com
 ietf.org
 ikea.com
 indeed.com
-investopedia.com
 iso.org
 it.com
 itch.io
@@ -194,6 +190,7 @@ stackoverflow.com
 stripchat.com
 substack.com
 t.co
+tagomi.com
 tandfonline.com
 teamviewer.com
 thenai.org
@@ -224,20 +221,22 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
+allaboutcookies.org
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
-amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -290,7 +289,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-nationalgeographic.com
 noaa.gov
 note.com
 onet.pl
@@ -338,8 +336,9 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
+0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com

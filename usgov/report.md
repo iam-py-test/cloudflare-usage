@@ -51,9 +51,8 @@ usfa.fema.gov
 
 ```
 
-47 used cloudflare (13.019390581717452%):
+46 used cloudflare (12.742382271468145%):
 ```
-aoc.gov
 bjs.gov
 census.gov
 cftc.gov
@@ -102,9 +101,10 @@ usip.org
 usmint.gov
 ```
 
-35 used cloudfront (9.695290858725762%):
+36 used cloudfront (9.97229916897507%):
 ```
 acquisition.gov
+aoc.gov
 archives.gov
 bernco.gov
 boem.gov

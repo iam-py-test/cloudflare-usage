@@ -1,4 +1,4 @@
-399 domains tested. 83.20802005012531% were behind nothing (67 were behind something). 20 domains could not be tested.<br>
+396 domains tested. 82.32323232323232% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,47 +19,45 @@
 
 ```
 
-44 used cloudflare (11.027568922305765%):
+42 used cloudflare (10.606060606060606%):
 ```
 allendostmen.com
+api.darkside.cy
 app.appzcvb.com
 astroliper.ac
-c2.teamzeroday.net
 cambodiatouristservice.com
-cedih.com
-chekcms432.cc
-community.firm.in
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 delta-canvas.com
-donutclients.org
+devruntime.cy
 donutsmpclient.com
-facai.makaaop.cc
+exo-api.tf
 fd.v2downf.shop
 filerit.com
+fkjhsdfg478fdm.com
+flocmaterials.shop
 fucktermedfir.st
 grantexx.com
 gutando.com
 helpdesk09-26.com
 hitman-pro.ru
+kdglsj93fdslkg.com
 loop-lumen.com
 lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
-onlyfiles.com
+pee-files.nl
 photolivebook.pro
 quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 scanbot.me
-stratos-delta.com
+seitinloelinsa.com
 sushiandpoke.pt
-tetris-supdate.xyz
 trtmyanmar.com
-www.blackhattoolz.com
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
@@ -72,8 +70,9 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.2506265664160401%):
+2 used ddosguard (0.5050505050505051%):
 ```
+thisisafalsepositive.st
 windowsdiagnostics.st
 ```
 
@@ -122,12 +121,12 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.2506265664160401%):
+1 used netlify (0.25252525252525254%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.2506265664160401%):
+1 used imperva (0.25252525252525254%):
 ```
 twu-hwt.org
 ```
