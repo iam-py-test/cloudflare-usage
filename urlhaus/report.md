@@ -1,4 +1,4 @@
-396 domains tested. 82.32323232323232% were behind nothing (70 were behind something). 24 domains could not be tested.<br>
+398 domains tested. 81.65829145728644% were behind nothing (73 were behind something). 24 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,8 +19,9 @@
 
 ```
 
-42 used cloudflare (10.606060606060606%):
+46 used cloudflare (11.557788944723619%):
 ```
+aksiyononline.best
 allendostmen.com
 api.darkside.cy
 app.appzcvb.com
@@ -32,6 +33,7 @@ deagroup-ks.com
 delta-canvas.com
 devruntime.cy
 donutsmpclient.com
+easycryptos.org
 exo-api.tf
 fd.v2downf.shop
 filerit.com
@@ -43,11 +45,13 @@ gutando.com
 helpdesk09-26.com
 hitman-pro.ru
 kdglsj93fdslkg.com
+loanoffer.co.in
 loop-lumen.com
 lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
+omskin.org
 pee-files.nl
 photolivebook.pro
 quillchant14.com
@@ -70,7 +74,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5050505050505051%):
+2 used ddosguard (0.5025125628140703%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -121,12 +125,12 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.25252525252525254%):
-```
-swiftfusion.tech
+0 used netlify (0.0%):
 ```
 
-1 used imperva (0.25252525252525254%):
+```
+
+1 used imperva (0.25125628140703515%):
 ```
 twu-hwt.org
 ```

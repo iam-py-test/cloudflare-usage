@@ -1,4 +1,4 @@
-366 domains tested. 46.17486338797814% were behind nothing (197 were behind something). 13 domains could not be tested.<br>
+366 domains tested. 46.17486338797814% were behind nothing (197 were behind something). 15 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ x.co
 
 ```
 
-169 used cloudflare (46.17486338797814%):
+167 used cloudflare (45.62841530054645%):
 ```
 02ip.ru
 123415.xyz
@@ -63,7 +63,6 @@ clks.pro
 corneey.com
 cutt.ly
 cuty.io
-d.imorningplus.click
 dealtap.com
 destyy.com
 direct-link.net
@@ -94,7 +93,6 @@ hitart.com
 hsh.sh
 ibf.tw
 imagehost.pics
-imorningplus.click
 in.sv
 ipgraber.ru
 iplogger.co
@@ -195,8 +193,8 @@ your.ls
 
 10 used cloudfront (2.73224043715847%):
 ```
-a.co
 bstore.smsb.co
+cdrvrs.com
 clicks.eventbrite.com
 qr-codes.io
 qrs.ly
