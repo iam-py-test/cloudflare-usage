@@ -1,4 +1,4 @@
-1000 domains tested. 62.6% were behind nothing (374 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 62.6% were behind nothing (374 were behind something). 53 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -51,7 +51,7 @@ php.net
 
 ```
 
-169 used cloudflare (16.900000000000002%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
@@ -108,7 +108,6 @@ eu-1-id5-sync.com
 example.com
 expireddomains.com
 fandom.com
-faphouse.com
 fiverr.com
 flashtalking.com
 fontawesome.com
@@ -160,7 +159,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -224,7 +222,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -235,12 +233,12 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.co.za
-amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -282,6 +280,7 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -290,6 +289,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+nexon.com
 noaa.gov
 note.com
 onet.pl
@@ -315,6 +315,7 @@ trustpilot.com
 ubi.com
 ui.com
 un.org
+unrulymedia.com
 uol.com.br
 verisign.com
 warnerbros.com
@@ -337,7 +338,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+10 used fastly (1.0%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -346,6 +347,7 @@ cbsnews.com
 corriere.it
 fastly.net
 github.io
+lemonde.fr
 speedtest.net
 www.gov.uk
 ```
@@ -385,9 +387,8 @@ www.gov.uk
 
 ```
 
-6 used netlify (0.6%):
+5 used netlify (0.5%):
 ```
-amon.tech
 ampproject.org
 launchdarkly.com
 lencr.org
