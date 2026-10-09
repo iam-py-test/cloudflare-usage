@@ -1,5 +1,5 @@
-1000 domains tested. 62.6% were behind nothing (374 were behind something). 53 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 62.8% were behind nothing (372 were behind something). 51 domains could not be tested.<br>
+32 used akamai (3.2%):
 ```
 accuweather.com
 adobe.com
@@ -25,6 +25,7 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
+playstation.com
 rakuten.co.jp
 spectrum.com
 ups.com
@@ -51,7 +52,7 @@ php.net
 
 ```
 
-167 used cloudflare (16.7%):
+170 used cloudflare (17.0%):
 ```
 33across.com
 academia.edu
@@ -94,6 +95,7 @@ cookielaw.org
 cpanel.net
 creativecommons.org
 deepl.com
+dextrodedenda.top
 digitalocean.com
 discogs.com
 discord.com
@@ -159,11 +161,11 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 poki.com
 princeton.edu
@@ -187,6 +189,7 @@ singular.net
 smartadserver.com
 sophos.com
 sourceforge.net
+stackexchange.com
 stackoverflow.com
 stripchat.com
 substack.com
@@ -194,6 +197,7 @@ t.co
 tagomi.com
 tandfonline.com
 teamviewer.com
+techcrunch.com
 thenai.org
 tinyurl.com
 trendyol.com
@@ -222,7 +226,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -231,10 +235,9 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.co.za
+amazon.com
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -289,11 +292,9 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-nexon.com
 noaa.gov
 note.com
 onet.pl
-playrix.com
 primevideo.com
 pubmatic.com
 repubblica.it
@@ -338,7 +339,7 @@ pikabu.ru
 
 ```
 
-10 used fastly (1.0%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -347,7 +348,6 @@ cbsnews.com
 corriere.it
 fastly.net
 github.io
-lemonde.fr
 speedtest.net
 www.gov.uk
 ```

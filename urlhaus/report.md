@@ -1,4 +1,4 @@
-399 domains tested. 81.70426065162907% were behind nothing (73 were behind something). 25 domains could not be tested.<br>
+389 domains tested. 83.80462724935732% were behind nothing (63 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,16 @@
 
 ```
 
-44 used cloudflare (11.027568922305765%):
+40 used cloudflare (10.282776349614396%):
 ```
 aetherius.live
-aksiyononline.best
 allendostmen.com
 app.appzcvb.com
+c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-deffnelreports.bramblequarz.ru
 delta-canvas.com
 donutclients.st
 donutdupe.com
@@ -45,13 +44,10 @@ hitman-pro.ru
 loop-lumen.com
 lumacrea.com
 maple30.com
-meteorclients.com
 mibd.org
-ohhhhhmoney.com
 omskin.org
 photolivebook.pro
 plf7x.valci.store
-qpwot.cfd
 quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
@@ -72,7 +68,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5012531328320802%):
+2 used ddosguard (0.5141388174807198%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -123,12 +119,7 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.2506265664160401%):
-```
-swiftfusion.tech
+0 used netlify (0.0%):
 ```
 
-1 used imperva (0.2506265664160401%):
-```
-twu-hwt.org
 ```

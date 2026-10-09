@@ -20,7 +20,7 @@ news.sky.com
 
 ```
 
-42 used cloudflare (21.0%):
+43 used cloudflare (21.5%):
 ```
 972mag.com
 alarabiya.net
@@ -51,6 +51,7 @@ readwrite.com
 science.org
 scroll.in
 smeharbinger.net
+techcrunch.com
 techdirt.com
 the74million.org
 theappeal.org
@@ -112,14 +113,13 @@ wsj.com
 
 ```
 
-6 used fastly (3.0%):
+5 used fastly (2.5%):
 ```
 bbc.com
 bbc.com
 cbsnews.com
 corriere.it
 gazzetta.it
-lemonde.fr
 ```
 
 0 used sucuri (0.0%):
