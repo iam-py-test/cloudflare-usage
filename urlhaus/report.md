@@ -1,4 +1,4 @@
-396 domains tested. 84.0909090909091% were behind nothing (63 were behind something). 18 domains could not be tested.<br>
+397 domains tested. 83.6272040302267% were behind nothing (65 were behind something). 23 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,7 +19,7 @@
 
 ```
 
-41 used cloudflare (10.353535353535353%):
+37 used cloudflare (9.319899244332493%):
 ```
 1rvrental.com
 allendostmen.com
@@ -27,16 +27,11 @@ app.appzcvb.com
 c2.teamzeroday.net
 c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 cambodiatouristservice.com
-cloudzsoft.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 deathboundcraft.com
-delta-canvas.com
-donutclients.st
-donutdupe.com
 donutsmpclient.com
-downloads.go-xlr.com
 fd.v2downf.shop
 filerit.com
 flocmaterials.shop
@@ -50,6 +45,7 @@ lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
+niggersmp.net
 photolivebook.pro
 quillchant14.com
 reservphotoinstay.one
@@ -69,7 +65,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5050505050505051%):
+2 used ddosguard (0.5037783375314862%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -120,12 +116,13 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.25252525252525254%):
+2 used netlify (0.5037783375314862%):
 ```
+goobaaclient.com
 swiftfusion.tech
 ```
 
-1 used imperva (0.25252525252525254%):
+1 used imperva (0.2518891687657431%):
 ```
 twu-hwt.org
 ```

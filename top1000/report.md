@@ -1,4 +1,4 @@
-1000 domains tested. 62.9% were behind nothing (371 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 62.7% were behind nothing (373 were behind something). 54 domains could not be tested.<br>
 31 used akamai (3.1%):
 ```
 accuweather.com
@@ -62,7 +62,6 @@ anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
-base.org
 berkeley.edu
 bitdefender.net
 bluehost.com
@@ -88,7 +87,6 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
-conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -118,6 +116,7 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -159,6 +158,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -223,7 +223,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -233,11 +233,13 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -280,7 +282,6 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -296,6 +297,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+rocketmoney.dev
 ryanair.com
 samsungcloud.com
 shalltry.com
@@ -310,7 +312,6 @@ tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
-ubi.com
 ui.com
 un.org
 unrulymedia.com
