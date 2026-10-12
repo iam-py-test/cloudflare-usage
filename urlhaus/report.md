@@ -1,4 +1,4 @@
-397 domains tested. 83.6272040302267% were behind nothing (65 were behind something). 23 domains could not be tested.<br>
+412 domains tested. 83.00970873786407% were behind nothing (70 were behind something). 21 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,44 +19,52 @@
 
 ```
 
-37 used cloudflare (9.319899244332493%):
+45 used cloudflare (10.922330097087379%):
 ```
+035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
+0807.st
 1rvrental.com
 allendostmen.com
 app.appzcvb.com
+astroliper.ac
 c2.teamzeroday.net
-c23c1b-fa77-48e0-8272-692b579a574c.gorsefield.cc
 cambodiatouristservice.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
-deathboundcraft.com
+delta-canvas.com
+donutclients.st
+donutdupe.com
 donutsmpclient.com
+fable-shine.com
 fd.v2downf.shop
 filerit.com
-flocmaterials.shop
 fucktermedfir.st
 grantexx.com
 gutando.com
 helpdesk09-26.com
 hitman-pro.ru
+immortales.fun
 loop-lumen.com
 lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
-niggersmp.net
 photolivebook.pro
+polar.moe
 quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
+rxb.immortales.fun
 scanbot.me
 sushiandpoke.pt
 trtmyanmar.com
+voidgame.ink
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
+xeno-cheats.xyz
 youtransfer.net
 ```
 
@@ -65,7 +73,7 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.5037783375314862%):
+2 used ddosguard (0.48543689320388345%):
 ```
 thisisafalsepositive.st
 windowsdiagnostics.st
@@ -116,13 +124,12 @@ windowsdiagnostics.st
 
 ```
 
-2 used netlify (0.5037783375314862%):
+1 used netlify (0.24271844660194172%):
 ```
-goobaaclient.com
 swiftfusion.tech
 ```
 
-1 used imperva (0.2518891687657431%):
+1 used imperva (0.24271844660194172%):
 ```
 twu-hwt.org
 ```

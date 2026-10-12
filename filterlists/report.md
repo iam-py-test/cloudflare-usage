@@ -1,11 +1,10 @@
-222 domains tested. 59.909909909909906% were behind nothing (89 were behind something). 9 domains could not be tested.<br>
-6 used akamai (2.7027027027027026%):
+222 domains tested. 59.009009009009006% were behind nothing (91 were behind something). 8 domains could not be tested.<br>
+5 used akamai (2.2522522522522523%):
 ```
 cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
-www.microsoft.com
 www.rakuten.ca
 ```
 
@@ -25,7 +24,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-52 used cloudflare (23.423423423423422%):
+57 used cloudflare (25.675675675675674%):
 ```
 abp.tt.codes
 abpvn.com
@@ -37,12 +36,14 @@ anti-ad.net
 assets.windscribe.com
 azorult-tracker.net
 blokada.org
+cdn.jsdelivr.net
 cdn.statically.io
 dns-family.adguard.com
 dns.adgk.net
 dns.adguard.com
 easylist.to
 family.cloudflare-dns.com
+fanboy.co.nz
 feeds.dshield.org
 filter.futa.gg
 filtersheroes.gitlab.io
@@ -56,6 +57,7 @@ lpt.lrv.lt
 malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
+mirai.security.gives
 netmountains.de
 nonio.pt
 osint.bambenekconsulting.com
@@ -65,6 +67,7 @@ phishing.mailscanner.info
 raw.githack.com
 rawcdn.githack.com
 repo.andnixsh.com
+secure.fanboy.co.nz
 security.cloudflare-dns.com
 someonewhocares.org
 stanev.org
@@ -74,6 +77,7 @@ threatshare.io
 www.accs-net.com
 www.botvrij.eu
 www.dshield.org
+www.fanboy.co.nz
 www.lb.lt
 www.malwaredomainlist.com
 www.stopforumspam.com
@@ -97,12 +101,11 @@ gitflic.ru
 
 ```
 
-16 used fastly (7.207207207207207%):
+15 used fastly (6.756756756756757%):
 ```
 adaway.org
 adblock-thai.github.io
 badmojr.github.io
-cdn.jsdelivr.net
 downloads.vivaldi.com
 easydutch-ublockorigin.github.io
 iam-py-test.github.io
