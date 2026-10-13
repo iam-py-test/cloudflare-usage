@@ -1,4 +1,4 @@
-366 domains tested. 45.08196721311475% were behind nothing (201 were behind something). 17 domains could not be tested.<br>
+366 domains tested. 44.80874316939891% were behind nothing (202 were behind something). 18 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ x.co
 
 ```
 
-168 used cloudflare (45.90163934426229%):
+167 used cloudflare (45.62841530054645%):
 ```
 02ip.ru
 123415.xyz
@@ -134,7 +134,6 @@ prolink168.com
 promo-visits.site
 pxl.to
 qrco.de
-rb.gy
 rebrand.ly
 rebrandly.com
 rekonise.com
@@ -192,7 +191,7 @@ y0utu.be
 your.ls
 ```
 
-11 used cloudfront (3.0054644808743167%):
+12 used cloudfront (3.278688524590164%):
 ```
 a.co
 bstore.smsb.co
@@ -200,6 +199,7 @@ cdrvrs.com
 clicks.eventbrite.com
 qr-codes.io
 qrs.ly
+rb.gy
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com

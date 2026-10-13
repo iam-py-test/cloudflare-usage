@@ -1,5 +1,5 @@
-1000 domains tested. 62.7% were behind nothing (373 were behind something). 53 domains could not be tested.<br>
-32 used akamai (3.2%):
+1000 domains tested. 62.6% were behind nothing (374 were behind something). 56 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -23,11 +23,9 @@ mayoclinic.org
 mcafee.com
 meraki.com
 mi.com
-mobile.de
 mysql.com
 rakuten.co.jp
 spectrum.com
-twc.com
 ups.com
 usda.gov
 webex.com
@@ -70,7 +68,6 @@ box.com
 branch.io
 braze.com
 britannica.com
-btloader.com
 bugsnag.com
 buydomains.com
 cambridge.org
@@ -88,6 +85,8 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
+cm.com
+conviva.com
 cookiedatabase.org
 cookielaw.org
 cpanel.net
@@ -100,7 +99,6 @@ discord.com
 discord.gg
 discord.media
 discordapp.com
-doctolib.fr
 doubleverify.com
 dreamhost.com
 epicgames.com
@@ -141,7 +139,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -184,6 +181,7 @@ shop.app
 shopify.com
 singular.net
 smartadserver.com
+smilewanted.com
 sophos.com
 sourceforge.net
 stackexchange.com
@@ -200,11 +198,11 @@ tinyurl.com
 trendyol.com
 twitter.com
 uber.com
+umich.edu
 unpkg.com
 vimeo.com
 vungle.com
 w3.org
-webmd.com
 weebly.com
 who.int
 wiley.com
@@ -230,14 +228,14 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
+amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -281,7 +279,6 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -290,6 +287,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+merriam-webster.com
 noaa.gov
 note.com
 onet.pl

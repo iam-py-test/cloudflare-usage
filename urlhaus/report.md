@@ -1,4 +1,4 @@
-412 domains tested. 83.00970873786407% were behind nothing (70 were behind something). 21 domains could not be tested.<br>
+423 domains tested. 80.85106382978722% were behind nothing (81 were behind something). 28 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,52 +19,58 @@
 
 ```
 
-45 used cloudflare (10.922330097087379%):
+51 used cloudflare (12.056737588652481%):
 ```
-035bc-ff4b-4cab-bca6-2b633b15def0.gorsefield.cc
-0807.st
-1rvrental.com
+4k4iard.tupek.store
+65512.cfd
 allendostmen.com
 app.appzcvb.com
-astroliper.ac
+blaze-x.com
+c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud
 c2.teamzeroday.net
 cambodiatouristservice.com
+cocuktekstil.com
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 delta-canvas.com
 donutclients.st
 donutdupe.com
+donutdupe.skyblock-qol.com
 donutsmpclient.com
 fable-shine.com
 fd.v2downf.shop
+feed-delta.com
+fil.immortales.life
 filerit.com
 fucktermedfir.st
 grantexx.com
 gutando.com
 helpdesk09-26.com
 hitman-pro.ru
-immortales.fun
 loop-lumen.com
 lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
 photolivebook.pro
-polar.moe
 quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
-rxb.immortales.fun
+s1w21.comen.store
 scanbot.me
+sedrezltd.best
+skynetwork.lat
 sushiandpoke.pt
+taunahi.skyblock-qol.com
+threejrev.com
 trtmyanmar.com
-voidgame.ink
+wall.casajuanchos.com
+whisone.cc
 www.hostingcloud.science
 www.hqsblog.com
 www.vuelaviajero.com
-xeno-cheats.xyz
 youtransfer.net
 ```
 
@@ -73,10 +79,9 @@ youtransfer.net
 
 ```
 
-2 used ddosguard (0.48543689320388345%):
+1 used ddosguard (0.2364066193853428%):
 ```
 thisisafalsepositive.st
-windowsdiagnostics.st
 ```
 
 0 used edgecast (0.0%):
@@ -124,12 +129,7 @@ windowsdiagnostics.st
 
 ```
 
-1 used netlify (0.24271844660194172%):
+1 used netlify (0.2364066193853428%):
 ```
 swiftfusion.tech
-```
-
-1 used imperva (0.24271844660194172%):
-```
-twu-hwt.org
 ```
