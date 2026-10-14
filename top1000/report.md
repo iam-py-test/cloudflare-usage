@@ -1,4 +1,4 @@
-1000 domains tested. 62.6% were behind nothing (374 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 62.7% were behind nothing (373 were behind something). 53 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -115,6 +115,7 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -139,6 +140,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 myshopify.com
 name.com
@@ -155,7 +157,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -186,7 +187,6 @@ sophos.com
 sourceforge.net
 stackexchange.com
 stackoverflow.com
-stripchat.com
 substack.com
 t.co
 tagomi.com
@@ -221,21 +221,22 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.fr
 amazon.in
 amazon.it
 amazonalexa.com
@@ -279,6 +280,7 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -287,7 +289,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-merriam-webster.com
 noaa.gov
 note.com
 onet.pl
@@ -302,6 +303,7 @@ shalltry.com
 soundcloud.com
 state.gov
 statista.com
+stripchat.com
 supercell.com
 surveymonkey.com
 synology.com
