@@ -1,4 +1,4 @@
-421 domains tested. 81.94774346793349% were behind nothing (76 were behind something). 25 domains could not be tested.<br>
+428 domains tested. 82.00934579439252% were behind nothing (77 were behind something). 22 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,21 +19,23 @@
 
 ```
 
-50 used cloudflare (11.87648456057007%):
+53 used cloudflare (12.383177570093459%):
 ```
-65512.cfd
+6sim.vip
 allendostmen.com
 app.appzcvb.com
 beamtechmacros.com
 c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud
 c2.teamzeroday.net
 cambodiatouristservice.com
+chantcompass9.com
 cocuktekstil.com
 cpc188.day
 crackedclients.com
 crystalpvp.ru
 csgroup.host
 deagroup-ks.com
+delta-canvas.com
 devs.kantales.life
 donutclients.st
 donutdupe.com
@@ -46,6 +48,7 @@ grantexx.com
 gutando.com
 helpdesk09-26.com
 hitman-pro.ru
+javb.omsules.life
 lumacrea.com
 maple30.com
 meteorclients.com
@@ -78,7 +81,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.23752969121140144%):
+1 used ddosguard (0.23364485981308408%):
 ```
 thisisafalsepositive.st
 ```
@@ -131,4 +134,9 @@ thisisafalsepositive.st
 0 used netlify (0.0%):
 ```
 
+```
+
+1 used imperva (0.23364485981308408%):
+```
+twu-hwt.org
 ```

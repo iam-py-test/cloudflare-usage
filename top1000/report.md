@@ -1,4 +1,4 @@
-1000 domains tested. 62.7% were behind nothing (373 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 62.4% were behind nothing (376 were behind something). 54 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-167 used cloudflare (16.7%):
+170 used cloudflare (17.0%):
 ```
 33across.com
 academia.edu
@@ -68,6 +68,7 @@ box.com
 branch.io
 braze.com
 britannica.com
+btloader.com
 bugsnag.com
 buydomains.com
 cambridge.org
@@ -108,6 +109,7 @@ expireddomains.com
 fandom.com
 fiverr.com
 flashtalking.com
+flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -115,11 +117,9 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
-hosting24.com
 hubspot.com
 hugedomains.com
 icanhazip.com
@@ -142,6 +142,7 @@ mediatek.com
 medium.com
 merriam-webster.com
 moloco.com
+mybluehost.me
 myshopify.com
 name.com
 namecheap.com
@@ -157,10 +158,12 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 poki.com
 princeton.edu
@@ -221,7 +224,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -230,14 +233,13 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonalexa.com
 amazonaws.com
