@@ -1,4 +1,4 @@
-428 domains tested. 82.00934579439252% were behind nothing (77 were behind something). 22 domains could not be tested.<br>
+433 domains tested. 82.90993071593533% were behind nothing (74 were behind something). 17 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,17 +19,19 @@
 
 ```
 
-53 used cloudflare (12.383177570093459%):
+55 used cloudflare (12.702078521939955%):
 ```
 6sim.vip
 allendostmen.com
 app.appzcvb.com
 beamtechmacros.com
-c--617b5f35-a107-4800-9047-a429934c0483-prod.lovable.cloud
-c2.teamzeroday.net
 cambodiatouristservice.com
+cda.omsules.life
+cdd.omsules.life
+cde.omsules.life
+cdt.omsules.life
+cdw.omsules.life
 chantcompass9.com
-cocuktekstil.com
 cpc188.day
 crackedclients.com
 crystalpvp.ru
@@ -40,14 +42,17 @@ devs.kantales.life
 donutclients.st
 donutdupe.com
 donutsmpclient.com
+easycryptos.org
 fable-shine.com
 fd.v2downf.shop
 filerit.com
+forge-ridge.com
 fucktermedfir.st
 grantexx.com
 gutando.com
 helpdesk09-26.com
 hitman-pro.ru
+java.omsules.life
 javb.omsules.life
 lumacrea.com
 maple30.com
@@ -59,15 +64,12 @@ quillchant14.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
-s1w21.comen.store
 scanbot.me
-sedrezltd.best
 skyblock-qol.com
 software.security-analyze.ltd
 sushiandpoke.pt
-threejrev.com
+thesalons.in
 trtmyanmar.com
-wall.casajuanchos.com
 willow-13.com
 www.hostingcloud.science
 www.hqsblog.com
@@ -81,7 +83,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.23364485981308408%):
+1 used ddosguard (0.23094688221709006%):
 ```
 thisisafalsepositive.st
 ```
@@ -136,7 +138,7 @@ thisisafalsepositive.st
 
 ```
 
-1 used imperva (0.23364485981308408%):
+1 used imperva (0.23094688221709006%):
 ```
 twu-hwt.org
 ```

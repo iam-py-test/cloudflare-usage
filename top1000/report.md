@@ -1,4 +1,4 @@
-1000 domains tested. 62.4% were behind nothing (376 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 62.7% were behind nothing (373 were behind something). 54 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-170 used cloudflare (17.0%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
@@ -109,7 +109,6 @@ expireddomains.com
 fandom.com
 fiverr.com
 flashtalking.com
-flightradar24.com
 fontawesome.com
 forter.com
 ft.com
@@ -158,12 +157,10 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
 pixabay.com
-pixiv.net
 plesk.com
 poki.com
 princeton.edu
@@ -224,7 +221,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+101 used cloudfront (10.100000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -233,13 +230,14 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -314,7 +312,6 @@ tp-link.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
-ubi.com
 ui.com
 un.org
 unrulymedia.com
@@ -325,6 +322,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+xing.com
 zillow.com
 ```
 
@@ -340,13 +338,12 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 fastly.net
 github.io
 speedtest.net
