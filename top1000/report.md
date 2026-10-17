@@ -1,5 +1,5 @@
-1000 domains tested. 62.7% were behind nothing (373 were behind something). 54 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 62.6% were behind nothing (374 were behind something). 56 domains could not be tested.<br>
+31 used akamai (3.1%):
 ```
 accuweather.com
 adobe.com
@@ -23,9 +23,10 @@ mayoclinic.org
 mcafee.com
 meraki.com
 mi.com
+mobile.de
 mysql.com
+playstation.com
 rakuten.co.jp
-spectrum.com
 ups.com
 usda.gov
 webex.com
@@ -50,7 +51,7 @@ php.net
 
 ```
 
-167 used cloudflare (16.7%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -139,7 +140,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 mybluehost.me
 myshopify.com
@@ -221,7 +221,7 @@ zoom.com
 zoom.us
 ```
 
-101 used cloudfront (10.100000000000001%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -231,14 +231,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
-amazon.com.au
-amazon.de
+amazon.com.br
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -289,6 +286,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+merriam-webster.com
 noaa.gov
 note.com
 onet.pl
@@ -303,6 +301,7 @@ shalltry.com
 soundcloud.com
 state.gov
 statista.com
+statuspage.io
 stripchat.com
 supercell.com
 surveymonkey.com
@@ -322,7 +321,6 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
-xing.com
 zillow.com
 ```
 
@@ -338,12 +336,13 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
+corriere.it
 fastly.net
 github.io
 speedtest.net
