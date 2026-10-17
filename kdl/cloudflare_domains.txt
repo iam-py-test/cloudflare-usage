@@ -47,6 +47,7 @@ cdn.jsdelivr.net.cdn.cloudflare.net
 cdn.lr-ingest.io
 cdn.optimizely.com
 cdn.prod.website-files.com
+cdn.shopify.com
 cdn.solvvy.com
 cdn.sstatic.net
 cdn.tinypass.com
@@ -104,10 +105,14 @@ geolocation.onetrust.com
 gh.linkedin.com
 glyph.medium.com
 gt.linkedin.com
-hk.linkedin.com
-hls-uranus.sb-cd.com
-hosting24.com
-i1.rgstatic.net
+id.linkedin.com
+il.linkedin.com
+imagedelivery.net
+img.connatix.com
+img.connatix.com.cdn.cloudflare.net
+img.elements.video
+img.elements.video.cdn.cloudflare.net
+in.linkedin.com
 indeed.com
 it.linkedin.com
 jm.linkedin.com
@@ -139,7 +144,7 @@ openai.com
 optimizely-edge.salesforce.com
 ot.www.cloudflare.com
 pa.linkedin.com
-pbs.twimg.com
+paypal.com
 pbs.twimg.com.cdn.cloudflare.net
 pe.linkedin.com
 performance.radar.cloudflare.com
@@ -158,7 +163,6 @@ qsc.cf2.quoracdn.net
 quora.com
 rcf.bing.com.cdn.cloudflare.net
 res-8.public.onecdn.static.microsoft.cdn.cloudflare.net
-res.public.onecdn.static.microsoft
 resc.cloudinary.com.cdn.cloudflare.net
 researchgate.net
 resources.magnite.com
@@ -166,7 +170,6 @@ ro.linkedin.com
 roku.com
 ru.linkedin.com
 rubiconproject.com
-rum.hlx.page
 rum.hlx.page.cdn.cloudflare.net
 s.twitter.com
 sciencedirect.com

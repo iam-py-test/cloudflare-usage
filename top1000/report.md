@@ -1,10 +1,9 @@
-1000 domains tested. 62.6% were behind nothing (374 were behind something). 56 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 62.3% were behind nothing (377 were behind something). 58 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
 adobe.net
-afternic.com
 arubanetworks.com
 autodesk.com
 cdc.gov
@@ -25,7 +24,6 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
-playstation.com
 rakuten.co.jp
 ups.com
 usda.gov
@@ -51,7 +49,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+169 used cloudflare (16.900000000000002%):
 ```
 33across.com
 academia.edu
@@ -117,6 +115,7 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -140,6 +139,7 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
+merriam-webster.com
 moloco.com
 mybluehost.me
 myshopify.com
@@ -157,6 +157,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -231,11 +232,13 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.co.za
 amazon.com
-amazon.com.br
+amazon.com.au
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -286,7 +289,6 @@ latimes.com
 lijit.com
 line.me
 live-video.net
-merriam-webster.com
 noaa.gov
 note.com
 onet.pl
@@ -294,7 +296,6 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
-rocketmoney.dev
 ryanair.com
 samsungcloud.com
 shalltry.com
