@@ -1,4 +1,4 @@
-1000 domains tested. 62.3% were behind nothing (377 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 62.4% were behind nothing (376 were behind something). 55 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -115,7 +115,6 @@ fwmrm.net
 gafg.com
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -134,6 +133,7 @@ klaviyo.com
 life360.com
 liftoff.io
 loc.gov
+maricopa.gov
 markmonitor.com
 media.net
 mediafire.com
@@ -222,19 +222,19 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
 amazon.com.au
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -296,6 +296,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+rocketmoney.dev
 ryanair.com
 samsungcloud.com
 shalltry.com
@@ -394,8 +395,9 @@ netlify.app
 stanford.edu
 ```
 
-2 used imperva (0.2%):
+3 used imperva (0.3%):
 ```
+certcenter.com
 digicert.com
 dnsmadeeasy.com
 ```

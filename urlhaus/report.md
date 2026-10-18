@@ -1,4 +1,4 @@
-427 domains tested. 81.49882903981265% were behind nothing (79 were behind something). 20 domains could not be tested.<br>
+432 domains tested. 82.63888888888889% were behind nothing (75 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,20 +19,17 @@
 
 ```
 
-56 used cloudflare (13.114754098360656%):
+52 used cloudflare (12.037037037037036%):
 ```
 6sim.vip
 allendostmen.com
-anthonyspizzeriainc.com
 app.appzcvb.com
-brotherspizzapeoria.com
 c2.teamzeroday.net
 cambodiatouristservice.com
+cde.monther.life
+cdk.monther.life
 cdn.monther.life
-cdt.omsules.life
-cdw.omsules.life
 chantcompass9.com
-cmp4.top
 cpc188.day
 crystalpvp.ru
 db.foodbook.pk
@@ -48,6 +45,7 @@ fable-shine.com
 fd.v2downf.shop
 filerit.com
 frame-kite.com
+frame97.com
 fucktermedfir.st
 ggi.dietondemand.com
 gutando.com
@@ -59,7 +57,6 @@ lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
-new.omsules.life
 nova-75.com
 pee-files.nl
 photolivebook.pro
@@ -68,7 +65,6 @@ reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
 sep.dailytechinsight.com
-skyblock-qol.com
 sushiandpoke.pt
 trtmyanmar.com
 ww.menara5d.net
@@ -84,7 +80,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.234192037470726%):
+1 used ddosguard (0.23148148148148145%):
 ```
 thisisafalsepositive.st
 ```
@@ -134,12 +130,12 @@ thisisafalsepositive.st
 
 ```
 
-1 used netlify (0.234192037470726%):
+1 used netlify (0.23148148148148145%):
 ```
 swiftfusion.tech
 ```
 
-1 used imperva (0.234192037470726%):
+1 used imperva (0.23148148148148145%):
 ```
 twu-hwt.org
 ```
