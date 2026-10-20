@@ -1,4 +1,4 @@
-418 domains tested. 82.77511961722487% were behind nothing (72 were behind something). 23 domains could not be tested.<br>
+421 domains tested. 82.89786223277909% were behind nothing (72 were behind something). 20 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,45 +19,48 @@
 
 ```
 
-46 used cloudflare (11.004784688995215%):
+49 used cloudflare (11.63895486935867%):
 ```
 6sim.vip
 allendostmen.com
 app.appzcvb.com
 c2.teamzeroday.net
 cambodiatouristservice.com
-cde.monther.life
 cdk.monther.life
 cdn.wovplaying.help
 chantcompass9.com
+cloubflare.top
 cpc188.day
 crystalpvp.ru
 deagroup-ks.com
 delta-canvas.com
 donutsmpclient.com
+download.vertex-software.digital
 exo-api.tf
 fable-shine.com
+faceit.syncacc.pro
 fd.v2downf.shop
 filerit.com
 frame-kite.com
 frame97.com
+fucktermedfir.st
 groverudder12.com
 gutando.com
 haven-post.com
 helpdesk09-26.com
 hitman-pro.ru
 leafdraft18.com
-lumacrea.com
 maple30.com
 meteorclients.com
 mibd.org
 nova-75.com
 pee-files.nl
 photolivebook.pro
-quillchant14.com
+pictureurl.com
 reservphotoinstay.one
 reservphotoinstaynow.shop
 royalindiancurryclub.com
+sbmods.top
 sushiandpoke.pt
 trtmyanmar.com
 vine-linen.com
@@ -74,7 +77,7 @@ youtransfer.net
 
 ```
 
-1 used ddosguard (0.23923444976076555%):
+1 used ddosguard (0.23752969121140144%):
 ```
 thisisafalsepositive.st
 ```
@@ -124,12 +127,8 @@ thisisafalsepositive.st
 
 ```
 
-1 used netlify (0.23923444976076555%):
+2 used netlify (0.4750593824228029%):
 ```
+anubisclient.co.uk
 swiftfusion.tech
-```
-
-1 used imperva (0.23923444976076555%):
-```
-twu-hwt.org
 ```
