@@ -1,5 +1,5 @@
-1000 domains tested. 62.4% were behind nothing (376 were behind something). 55 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 63.1% were behind nothing (369 were behind something). 54 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -24,6 +24,7 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
+paloaltonetworks.com
 rakuten.co.jp
 ups.com
 usda.gov
@@ -49,7 +50,7 @@ php.net
 
 ```
 
-169 used cloudflare (16.900000000000002%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -92,7 +93,6 @@ cookielaw.org
 cpanel.net
 creativecommons.org
 deepl.com
-dextrodedenda.top
 digitalocean.com
 discogs.com
 discord.com
@@ -112,7 +112,6 @@ fontawesome.com
 forter.com
 ft.com
 fwmrm.net
-gafg.com
 genius.com
 gitlab.com
 hcaptcha.com
@@ -139,7 +138,6 @@ media.net
 mediafire.com
 mediatek.com
 medium.com
-merriam-webster.com
 moloco.com
 mybluehost.me
 myshopify.com
@@ -157,7 +155,6 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -214,7 +211,6 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
-xhamster46.desi
 yuga.com
 zendesk.com
 zoho.com
@@ -222,24 +218,22 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
+amazon.co.za
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
-amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -289,6 +283,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+merriam-webster.com
 noaa.gov
 note.com
 onet.pl
@@ -296,7 +291,6 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
-rocketmoney.dev
 ryanair.com
 samsungcloud.com
 shalltry.com
