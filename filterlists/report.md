@@ -1,4 +1,4 @@
-223 domains tested. 57.847533632286996% were behind nothing (94 were behind something). 9 domains could not be tested.<br>
+223 domains tested. 57.399103139013455% were behind nothing (95 were behind something). 10 domains could not be tested.<br>
 5 used akamai (2.242152466367713%):
 ```
 cdn.adblockcdn.com

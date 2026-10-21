@@ -1,5 +1,5 @@
-1000 domains tested. 63.3% were behind nothing (367 were behind something). 53 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 53 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -8,6 +8,7 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -48,7 +49,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -66,6 +67,7 @@ box.com
 branch.io
 braze.com
 britannica.com
+btloader.com
 bugsnag.com
 buydomains.com
 cambridge.org
@@ -154,6 +156,7 @@ oup.com
 oxylabs.io
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -171,10 +174,10 @@ roku.com
 rubiconproject.com
 sagepub.com
 sciencedirect.com
-sedo.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 singular.net
 smartadserver.com
@@ -223,15 +226,15 @@ a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -290,6 +293,7 @@ primevideo.com
 pubmatic.com
 repubblica.it
 reuters.com
+rocketmoney.dev
 samsungcloud.com
 shalltry.com
 soundcloud.com
@@ -315,7 +319,6 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
-xing.com
 zillow.com
 ```
 
