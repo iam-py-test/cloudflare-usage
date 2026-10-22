@@ -1,4 +1,4 @@
-34 domains tested. 41.17647058823529% were behind nothing (20 were behind something). 0 domains could not be tested.<br>
+34 domains tested. 44.11764705882353% were behind nothing (19 were behind something). 0 domains could not be tested.<br>
 3 used akamai (8.823529411764707%):
 ```
 alienvault.com
@@ -21,7 +21,7 @@ mcafee.com
 
 ```
 
-15 used cloudflare (44.11764705882353%):
+14 used cloudflare (41.17647058823529%):
 ```
 abuseipdb.com
 any.run
@@ -31,7 +31,6 @@ emsisoft.com
 greynoise.io
 gridinsoft.com
 haveibeenpwned.com
-hybrid-analysis.com
 id-ransomware.malwarehunterteam.com
 intezer.com
 netcraft.com
