@@ -1,4 +1,4 @@
-1000 domains tested. 62.9% were behind nothing (371 were behind something). 56 domains could not be tested.<br>
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 54 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -153,7 +153,6 @@ onetrust.com
 onlyfans.com
 openai.com
 oup.com
-oxylabs.io
 pages.dev
 patreon.com
 people.com
@@ -176,12 +175,14 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 singular.net
 smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
+spamhaus.org
 stackexchange.com
 stackoverflow.com
 substack.com
@@ -217,21 +218,22 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.co.za
 amazon.com
+amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
-amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -331,7 +333,7 @@ pikabu.ru
 
 ```
 
-10 used fastly (1.0%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -339,7 +341,6 @@ bbc.com
 cbsnews.com
 corriere.it
 fastly.net
-forbes.com
 github.io
 speedtest.net
 www.gov.uk
