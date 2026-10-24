@@ -1,4 +1,4 @@
-200 domains tested. 55.50000000000001% were behind nothing (89 were behind something). 6 domains could not be tested.<br>
+200 domains tested. 56.00000000000001% were behind nothing (88 were behind something). 5 domains could not be tested.<br>
 2 used akamai (1.0%):
 ```
 anandabazar.com

@@ -1,4 +1,4 @@
-1000 domains tested. 63.0% were behind nothing (370 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.1% were behind nothing (369 were behind something). 53 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -231,9 +231,10 @@ amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
+amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -252,6 +253,7 @@ booking.com
 brave.com
 calendly.com
 change.org
+charter.net
 checkpoint.com
 curseforge.com
 dailymotion.com
@@ -276,7 +278,6 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -317,7 +318,6 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
-xing.com
 zillow.com
 ```
 
