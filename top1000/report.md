@@ -1,4 +1,4 @@
-1000 domains tested. 63.1% were behind nothing (369 were behind something). 53 domains could not be tested.<br>
+1000 domains tested. 63.2% were behind nothing (368 were behind something). 52 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -155,6 +155,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -175,7 +176,6 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
 singular.net
 smartadserver.com
@@ -211,14 +211,13 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
-xhamster46.desi
 zendesk.com
 zoho.com
 zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -227,10 +226,10 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
-amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
@@ -278,6 +277,7 @@ gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
+ieee.org
 imdb.com
 intercom.io
 ipify.org
