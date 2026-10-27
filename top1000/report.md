@@ -1,4 +1,4 @@
-1000 domains tested. 63.2% were behind nothing (368 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 63.3% were behind nothing (367 were behind something). 52 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -61,7 +61,6 @@ anydesk.com
 apnews.com
 appsflyer.com
 berkeley.edu
-bitdefender.net
 bluehost.com
 box.com
 branch.io
@@ -93,6 +92,7 @@ cpanel.net
 creativecommons.org
 deepl.com
 digitalocean.com
+digitaloceanspaces.com
 discogs.com
 discord.com
 discord.gg
@@ -113,7 +113,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -155,7 +154,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -211,6 +209,7 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
+xhamster46.desi
 zendesk.com
 zoho.com
 zoom.com
@@ -226,9 +225,9 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
 amazon.es
