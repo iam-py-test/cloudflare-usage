@@ -1,5 +1,5 @@
-361 domains tested. 54.57063711911358% were behind nothing (164 were behind something). 46 domains could not be tested.<br>
-32 used akamai (8.86426592797784%):
+361 domains tested. 53.73961218836565% were behind nothing (167 were behind something). 47 domains could not be tested.<br>
+34 used akamai (9.418282548476455%):
 ```
 amtrak.com
 atf.gov
@@ -27,11 +27,13 @@ nrc.gov
 nsa.gov
 phmsa.dot.gov
 railroads.dot.gov
+rd.usda.gov
 sec.gov
 stats.bls.gov
 studentaid.gov
 transit.dot.gov
 transportation.gov
+usda.gov
 usfa.fema.gov
 ```
 

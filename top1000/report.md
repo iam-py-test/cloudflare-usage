@@ -1,5 +1,5 @@
-1000 domains tested. 63.6% were behind nothing (364 were behind something). 53 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 64.0% were behind nothing (360 were behind something). 52 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -26,6 +26,7 @@ mobile.de
 mysql.com
 rakuten.co.jp
 ups.com
+usda.gov
 webex.com
 xiaomi.com
 xiaomi.net
@@ -48,7 +49,7 @@ php.net
 
 ```
 
-163 used cloudflare (16.3%):
+160 used cloudflare (16.0%):
 ```
 33across.com
 academia.edu
@@ -152,7 +153,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -188,7 +188,6 @@ tagomi.com
 tandfonline.com
 teamviewer.com
 techcrunch.com
-thenai.org
 tinyurl.com
 trendyol.com
 twitter.com
@@ -208,29 +207,28 @@ wpguardian.io
 wyzecam.com
 x.com
 xhamster.com
-xhamster46.desi
 zendesk.com
 zoho.com
 zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.co.uk
+amazon.ca
 amazon.co.za
+amazon.com
 amazon.com.au
-amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
 amazon.in
-amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -242,7 +240,6 @@ atlassian.com
 atlassian.net
 biblegateway.com
 binance.com
-blackberry.com
 booking.com
 brave.com
 calendly.com
