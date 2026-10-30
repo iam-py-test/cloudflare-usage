@@ -1,4 +1,4 @@
-1000 domains tested. 64.0% were behind nothing (360 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 63.5% were behind nothing (365 were behind something). 52 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-160 used cloudflare (16.0%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -66,6 +66,7 @@ box.com
 branch.io
 braze.com
 britannica.com
+btloader.com
 bugsnag.com
 buydomains.com
 cambridge.org
@@ -112,6 +113,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -153,6 +155,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -172,6 +175,7 @@ sagepub.com
 sciencedirect.com
 seedtag.com
 sharethrough.com
+shein.com
 shop.app
 shopify.com
 singular.net
@@ -221,6 +225,8 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au
@@ -257,7 +263,6 @@ duolingo.com
 dynatrace.com
 eeroup.com
 elasticbeanstalk.com
-endpoints.news
 espn.com
 europa.eu
 eventbrite.com
@@ -305,7 +310,6 @@ un.org
 unrulymedia.com
 uol.com.br
 verisign.com
-warnerbros.com
 wattpad.com
 wired.com
 wps.com
@@ -343,9 +347,9 @@ www.gov.uk
 
 ```
 
-0 used myracloud (0.0%):
+1 used myracloud (0.1%):
 ```
-
+bund.de
 ```
 
 0 used keycdn (0.0%):

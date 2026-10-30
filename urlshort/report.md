@@ -1,4 +1,4 @@
-366 domains tested. 46.17486338797814% were behind nothing (197 were behind something). 14 domains could not be tested.<br>
+366 domains tested. 46.72131147540984% were behind nothing (195 were behind something). 13 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -206,9 +206,8 @@ trk.klclick3.com
 zpr.io
 ```
 
-2 used ddosguard (0.546448087431694%):
+1 used ddosguard (0.273224043715847%):
 ```
-goo.su
 u.to
 ```
 
