@@ -1,4 +1,4 @@
-1000 domains tested. 63.6% were behind nothing (364 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.3% were behind nothing (367 were behind something). 52 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -24,8 +24,8 @@ meraki.com
 mi.com
 mobile.de
 mysql.com
-playstation.com
 rakuten.co.jp
+tiktok.com
 ups.com
 usda.gov
 webex.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -114,6 +114,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -155,6 +156,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -175,7 +177,6 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
 singular.net
 smartadserver.com
@@ -195,7 +196,7 @@ tinyurl.com
 trendyol.com
 twitter.com
 uber.com
-umich.edu
+unisys.com
 unpkg.com
 vimeo.com
 vungle.com
@@ -208,21 +209,25 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
+x.com
 xhamster.com
+xhamster46.desi
 zendesk.com
 zoho.com
 zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+amazon.ca
 amazon.co.jp
+amazon.co.uk
 amazon.co.za
 amazon.com
 amazon.com.au

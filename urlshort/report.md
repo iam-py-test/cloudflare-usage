@@ -1,7 +1,8 @@
-366 domains tested. 46.994535519125684% were behind nothing (194 were behind something). 13 domains could not be tested.<br>
-1 used akamai (0.273224043715847%):
+366 domains tested. 46.44808743169399% were behind nothing (196 were behind something). 13 domains could not be tested.<br>
+2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
+x.co
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,7 +20,7 @@ email-sendgrid-deep-linking.chewy.com
 
 ```
 
-167 used cloudflare (45.62841530054645%):
+168 used cloudflare (45.90163934426229%):
 ```
 02ip.ru
 123415.xyz
@@ -116,6 +117,7 @@ linkvertise.com
 linkvertise.net
 llili.li
 ln.run
+lnkd.in
 lyksoomu.com
 lyzo.io
 mirrorz.com

@@ -52,8 +52,9 @@ usfa.fema.gov
 
 ```
 
-48 used cloudflare (13.29639889196676%):
+49 used cloudflare (13.573407202216067%):
 ```
+abmc.gov
 bjs.gov
 census.gov
 cftc.gov
@@ -104,7 +105,7 @@ usip.org
 usmint.gov
 ```
 
-35 used cloudfront (9.695290858725762%):
+34 used cloudfront (9.418282548476455%):
 ```
 acquisition.gov
 alabama.gov
@@ -129,7 +130,6 @@ nsf.gov
 onrr.gov
 osc.gov
 osha.gov
-sba.gov
 state.gov
 treas.gov
 treasury.gov
