@@ -1,5 +1,5 @@
-1000 domains tested. 63.3% were behind nothing (367 were behind something). 52 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 63.4% were behind nothing (366 were behind something). 52 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -25,7 +25,6 @@ mi.com
 mobile.de
 mysql.com
 rakuten.co.jp
-tiktok.com
 ups.com
 usda.gov
 webex.com
@@ -50,7 +49,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -73,6 +72,7 @@ buydomains.com
 cambridge.org
 canva.com
 casalemedia.com
+centinel-analytica.com
 character.ai
 chatgpt.com
 chatgpt.site
@@ -156,7 +156,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -196,6 +195,7 @@ tinyurl.com
 trendyol.com
 twitter.com
 uber.com
+umich.edu
 unisys.com
 unpkg.com
 vimeo.com
@@ -218,7 +218,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -228,11 +228,10 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
-amazon.es
 amazon.fr
 amazon.in
 amazon.it
