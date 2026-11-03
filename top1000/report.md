@@ -1,4 +1,4 @@
-1000 domains tested. 63.4% were behind nothing (366 were behind something). 52 domains could not be tested.<br>
+1000 domains tested. 63.3% were behind nothing (367 were behind something). 54 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-165 used cloudflare (16.5%):
+166 used cloudflare (16.6%):
 ```
 33across.com
 academia.edu
@@ -114,7 +114,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -125,7 +124,6 @@ ietf.org
 ikea.com
 indeed.com
 iso.org
-it.com
 itch.io
 jquery.com
 kick.com
@@ -156,6 +154,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -176,6 +175,7 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 singular.net
 smartadserver.com
@@ -199,6 +199,7 @@ umich.edu
 unisys.com
 unpkg.com
 vimeo.com
+visa.cn
 vungle.com
 w3.org
 weebly.com
@@ -218,7 +219,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -228,13 +229,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.co.za
 amazon.com
-amazon.com.au
-amazon.com.br
 amazon.de
-amazon.fr
+amazon.es
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -253,6 +252,7 @@ calendly.com
 change.org
 charter.net
 checkpoint.com
+company-target.com
 curseforge.com
 dailymotion.com
 datadoghq.com
@@ -271,7 +271,6 @@ figma.com
 flickr.com
 go.com
 goodreads.com
-gotinder.com
 grammarly.com
 gumgum.com
 hbr.org
@@ -287,6 +286,7 @@ live-video.net
 noaa.gov
 note.com
 onet.pl
+pbs.org
 primevideo.com
 pubmatic.com
 repubblica.it
@@ -330,14 +330,13 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
 corriere.it
-fastly.net
 github.io
 speedtest.net
 www.gov.uk
