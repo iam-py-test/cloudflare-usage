@@ -1,4 +1,4 @@
-366 domains tested. 46.44808743169399% were behind nothing (196 were behind something). 13 domains could not be tested.<br>
+366 domains tested. 48.08743169398907% were behind nothing (190 were behind something). 13 domains could not be tested.<br>
 2 used akamai (0.546448087431694%):
 ```
 email-sendgrid-deep-linking.chewy.com
@@ -20,7 +20,7 @@ x.co
 
 ```
 
-168 used cloudflare (45.90163934426229%):
+162 used cloudflare (44.26229508196721%):
 ```
 02ip.ru
 123415.xyz
@@ -78,9 +78,7 @@ fc.lc
 fedishort.com
 filetap.com
 firefone.com
-foot.wiki
 funurl.com
-gamingfun.me
 go.ly
 go.pedido.me
 go.sv
@@ -122,7 +120,6 @@ lyksoomu.com
 lyzo.io
 mirrorz.com
 mub.me
-myprivate.pics
 n9.cl
 nxlnk.com
 nyl.as
@@ -141,8 +138,6 @@ rekonise.com
 rkns.link
 rotf.lol
 s.id
-screenshare.pics
-screenshot.best
 sh.21111993.xyz
 shhh.lol
 short.gy
@@ -167,7 +162,6 @@ spoo.me
 spoturl.com
 spqr.to
 stfly.xyz
-stopify.co
 streak-link.com
 t.co
 t.ly

@@ -1,4 +1,4 @@
-1000 domains tested. 63.3% were behind nothing (367 were behind something). 54 domains could not be tested.<br>
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 55 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -49,7 +49,7 @@ php.net
 
 ```
 
-166 used cloudflare (16.6%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -60,6 +60,7 @@ anthropic.com
 anydesk.com
 apnews.com
 appsflyer.com
+attn.tv
 berkeley.edu
 bluehost.com
 box.com
@@ -108,12 +109,14 @@ expireddomains.com
 fandom.com
 fiverr.com
 flashtalking.com
+flightradar24.com
 fontawesome.com
 forter.com
 ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -154,7 +157,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -175,22 +177,19 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
-singular.net
 smartadserver.com
 smilewanted.com
 sophos.com
 sourceforge.net
 spamhaus.org
-stackexchange.com
 stackoverflow.com
 substack.com
 t.co
-tagomi.com
 tandfonline.com
 teamviewer.com
 techcrunch.com
+thenai.org
 tinyurl.com
 trendyol.com
 twitter.com
@@ -219,7 +218,7 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -229,11 +228,13 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.co.za
 amazon.com
+amazon.com.au
+amazon.com.br
 amazon.de
 amazon.es
-amazon.in
+amazon.fr
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -283,6 +284,7 @@ latimes.com
 lijit.com
 line.me
 live-video.net
+n-tv.de
 noaa.gov
 note.com
 onet.pl
