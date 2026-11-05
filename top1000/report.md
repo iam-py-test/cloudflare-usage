@@ -1,4 +1,4 @@
-1000 domains tested. 63.0% were behind nothing (370 were behind something). 55 domains could not be tested.<br>
+1000 domains tested. 62.9% were behind nothing (371 were behind something). 57 domains could not be tested.<br>
 29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
@@ -81,6 +81,7 @@ chaturbate.com
 chess.com
 classlink.com
 claude.ai
+clever.com
 cloudflare-dns.com
 cloudflare.com
 cloudflare.net
@@ -116,7 +117,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hostgator.com.br
@@ -157,6 +157,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -189,7 +190,6 @@ t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
-thenai.org
 tinyurl.com
 trendyol.com
 twitter.com
@@ -218,24 +218,22 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
-amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -257,6 +255,7 @@ company-target.com
 curseforge.com
 dailymotion.com
 datadoghq.com
+deepseek.com
 deviantart.com
 doi.org
 dotomi.com
