@@ -1,4 +1,4 @@
-186 domains tested. 67.74193548387096% were behind nothing (60 were behind something). 10 domains could not be tested.<br>
+186 domains tested. 66.66666666666666% were behind nothing (62 were behind something). 10 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 
@@ -19,16 +19,18 @@ mastodon.site
 
 ```
 
-48 used cloudflare (25.806451612903224%):
+50 used cloudflare (26.881720430107524%):
 ```
 a.sukazyo.cc
 ac.akirin.xyz
 acat.world
+airwaves.social
 better.boston
 bols.games
 catcore.life
 cryptodon.lol
 eigenmagic.net
+freesocial.co
 freifunk.social
 india.goonj.xyz
 jiaojiao.org
