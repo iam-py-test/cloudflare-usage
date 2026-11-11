@@ -1,5 +1,5 @@
-1000 domains tested. 63.1% were behind nothing (369 were behind something). 60 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 62.3% were behind nothing (377 were behind something). 62 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -8,7 +8,6 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -118,7 +117,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -178,6 +176,7 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -186,7 +185,6 @@ sourceforge.net
 spamhaus.org
 stackoverflow.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
@@ -209,6 +207,7 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
+x.com
 xhamster.com
 xhamster46.desi
 zendesk.com
@@ -217,7 +216,7 @@ zoom.com
 zoom.us
 ```
 
-93 used cloudfront (9.3%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -226,8 +225,14 @@ adsrvr.org
 agora.io
 amazon.ca
 amazon.co.jp
+amazon.co.uk
+amazon.com
 amazon.com.au
-amazon.com.br
+amazon.de
+amazon.es
+amazon.fr
+amazon.it
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -326,9 +331,10 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
+adobe.io
 bbc.co.uk
 bbc.com
 cbsnews.com
