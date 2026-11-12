@@ -20,7 +20,7 @@ x.co
 
 ```
 
-161 used cloudflare (43.98907103825137%):
+162 used cloudflare (44.26229508196721%):
 ```
 02ip.ru
 123415.xyz
@@ -163,6 +163,7 @@ spoturl.com
 spqr.to
 stfly.xyz
 streak-link.com
+t.co
 t.ly
 tii.la
 tinu.be
@@ -185,9 +186,8 @@ y0utu.be
 your.ls
 ```
 
-10 used cloudfront (2.73224043715847%):
+9 used cloudfront (2.459016393442623%):
 ```
-a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qr-codes.io

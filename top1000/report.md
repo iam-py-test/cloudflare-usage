@@ -1,5 +1,5 @@
-1000 domains tested. 62.3% were behind nothing (377 were behind something). 62 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 58 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -8,6 +8,7 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -49,7 +50,7 @@ php.net
 
 ```
 
-163 used cloudflare (16.3%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -87,7 +88,6 @@ cloudflare.com
 cloudflare.net
 cloudflareinsights.com
 cloudinary.com
-cm.com
 conviva.com
 cookiedatabase.org
 cookielaw.org
@@ -117,6 +117,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -156,6 +157,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -176,7 +178,6 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -185,6 +186,7 @@ sourceforge.net
 spamhaus.org
 stackoverflow.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
@@ -216,7 +218,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+95 used cloudfront (9.5%):
 ```
 3lift.com
 a-mo.net
@@ -224,14 +226,10 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
 amazon.com.au
+amazon.com.br
 amazon.de
-amazon.es
-amazon.fr
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -331,10 +329,9 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
-adobe.io
 bbc.co.uk
 bbc.com
 cbsnews.com
