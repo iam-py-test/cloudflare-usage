@@ -1,4 +1,4 @@
-1000 domains tested. 63.0% were behind nothing (370 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 62.8% were behind nothing (372 were behind something). 60 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+162 used cloudflare (16.2%):
 ```
 33across.com
 academia.edu
@@ -103,6 +103,7 @@ discord.media
 discordapp.com
 doubleverify.com
 dreamhost.com
+ecosia.org
 epicgames.com
 eu-1-id5-sync.com
 example.com
@@ -117,7 +118,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -157,7 +157,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -191,7 +190,6 @@ tandfonline.com
 teamviewer.com
 techcrunch.com
 tinyurl.com
-trendyol.com
 twitter.com
 uber.com
 unisys.com
@@ -218,7 +216,7 @@ zoom.com
 zoom.us
 ```
 
-95 used cloudfront (9.5%):
+96 used cloudfront (9.6%):
 ```
 3lift.com
 a-mo.net
@@ -226,11 +224,13 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
-amazon.com
+amazon.co.uk
 amazon.com.au
 amazon.com.br
 amazon.de
-amazonalexa.com
+amazon.es
+amazon.fr
+amazon.it
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -298,7 +298,6 @@ statuspage.io
 stripchat.com
 supercell.com
 surveymonkey.com
-synology.com
 t-online.de
 tp-link.com
 tradingview.com
@@ -329,7 +328,7 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+9 used fastly (0.8999999999999999%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -337,6 +336,7 @@ bbc.com
 cbsnews.com
 corriere.it
 github.io
+nytimes.com
 speedtest.net
 www.gov.uk
 ```
