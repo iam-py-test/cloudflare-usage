@@ -1,4 +1,4 @@
-1000 domains tested. 62.8% were behind nothing (372 were behind something). 60 domains could not be tested.<br>
+1000 domains tested. 62.7% were behind nothing (373 were behind something). 58 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -103,7 +103,6 @@ discord.media
 discordapp.com
 doubleverify.com
 dreamhost.com
-ecosia.org
 epicgames.com
 eu-1-id5-sync.com
 example.com
@@ -118,6 +117,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -177,6 +177,7 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -216,7 +217,7 @@ zoom.com
 zoom.us
 ```
 
-96 used cloudfront (9.6%):
+98 used cloudfront (9.8%):
 ```
 3lift.com
 a-mo.net
@@ -224,13 +225,14 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
 amazon.de
-amazon.es
-amazon.fr
-amazon.it
+amazon.in
+amazonalexa.com
 amazonaws.com
 amazontrust.com
 amazonvideo.com
@@ -300,6 +302,7 @@ supercell.com
 surveymonkey.com
 t-online.de
 tp-link.com
+tplinkcloud.com
 tradingview.com
 tripadvisor.com
 trustpilot.com
