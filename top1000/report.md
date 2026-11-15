@@ -1,4 +1,4 @@
-1000 domains tested. 62.7% were behind nothing (373 were behind something). 58 domains could not be tested.<br>
+1000 domains tested. 62.4% were behind nothing (376 were behind something). 59 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -157,6 +157,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -177,7 +178,6 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -217,7 +217,7 @@ zoom.com
 zoom.us
 ```
 
-98 used cloudfront (9.8%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -228,10 +228,12 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
 amazon.de
+amazon.es
+amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -339,7 +341,7 @@ bbc.com
 cbsnews.com
 corriere.it
 github.io
-nytimes.com
+lemonde.fr
 speedtest.net
 www.gov.uk
 ```

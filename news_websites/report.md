@@ -120,7 +120,7 @@ bbc.com
 cbsnews.com
 corriere.it
 gazzetta.it
-nytimes.com
+lemonde.fr
 ```
 
 0 used sucuri (0.0%):
