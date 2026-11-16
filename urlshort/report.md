@@ -1,8 +1,7 @@
-366 domains tested. 47.540983606557376% were behind nothing (192 were behind something). 15 domains could not be tested.<br>
-2 used akamai (0.546448087431694%):
+366 domains tested. 81.14754098360656% were behind nothing (69 were behind something). 5 domains could not be tested.<br>
+1 used akamai (0.273224043715847%):
 ```
 email-sendgrid-deep-linking.chewy.com
-x.co
 ```
 
 0 used bunnycdn (0.0%):
@@ -20,184 +19,73 @@ x.co
 
 ```
 
-162 used cloudflare (44.26229508196721%):
+57 used cloudflare (15.573770491803279%):
 ```
-02ip.ru
-123415.xyz
-1sta.com
 24ex.com
-2fear.com
-2fortune.com
-2freedom.com
 2hell.com
 2no.co
 2savvy.com
-2truth.com
-2tunes.com
-2ya.com
-301.li
-4.fo
-adf.ly
 adfoc.us
-ahscdn.com
 alturl.com
-antiblog.com
 appcurt.com
-appurl.io
-b1.fr
 bc.vc
 bigbig.com
-bitly.cx
-booplink.com
-buff.ly
-c1ic.link
-caplnk.com
-ceesty.com
-chilp.it
-cleanuri.com
-cli.re
 click.discord.com
-clk.asia
-clk.sh
-clks.pro
-corneey.com
 cutt.ly
 cuty.io
-dealtap.com
-destyy.com
 direct-link.net
-dollarlink.net
-dommania.pl
-duopro.io
-ebored.com
 echoz.com
-exe.io
-ezstat.ru
 fc-lc.com
-fc.lc
 fedishort.com
-filetap.com
-firefone.com
-funurl.com
 go.ly
-go.pedido.me
-go.sv
-grabify.link
-grabify.world
 headplug.com
 hereweb.com
 heylink.me
-hitart.com
-hsh.sh
 ibf.tw
-imagehost.pics
-in.sv
 ipgraber.ru
-iplogger.co
 iplogger.com
-iplogger.info
-iplogger.org
-iplogger.ru
 iqr.im
-is.gd
 klclick.com
 klclick1.com
-klclick2.com
 klclick3.com
-knpp.online
-link-center.net
-link-z.net
-link.sbstck.com
-link.sv
-links.e.malwarebytes.com
-linksbr.com.br
-linkvertise.com
-linkvertise.net
 llili.li
-ln.run
-lnkd.in
-lyksoomu.com
-lyzo.io
-mirrorz.com
-mub.me
-n9.cl
-nxlnk.com
-nyl.as
 ouo.io
-photovault.pics
-prediksiyupitoto.xyz
-prettylinks.com
-prolink168.com
-promo-visits.site
 pxl.to
 qrco.de
 rb.gy
-rebrand.ly
 rebrandly.com
 rekonise.com
 rkns.link
-rotf.lol
 s.id
 sh.21111993.xyz
-shhh.lol
-short.gy
-shorten.ee
-shorten.is
 shorten.world
 shortest.link
 shortlink.ad
-shorturl.at
 shorturl.com
-shorturl.gg
-shre.su
 shrink.pe
-shrinkearn.com
-shrinkme.io
-shrtm.nu
-slk.me
 smarturl.it
-snip.ly
 sor.bz
 spoo.me
-spoturl.com
 spqr.to
 stfly.xyz
 streak-link.com
 t.co
-t.ly
 tii.la
-tinu.be
 tinyurl.com
 toldyouso.lol
-track.canva.com
 unim.ma
 uprot.net
-url.or.at
-url1.io
-urlshortx.com
-usheethe.com
 utml.it
-v.gd
-v.ht
-vze.com
-www.bl.ink
-www.jdoqocy.com
 y0utu.be
 your.ls
 ```
 
-10 used cloudfront (2.73224043715847%):
+4 used cloudfront (1.092896174863388%):
 ```
 a.co
 bstore.smsb.co
-clicks.eventbrite.com
-qr-codes.io
 qrs.ly
-trk.klclick.com
 trk.klclick1.com
-trk.klclick2.com
-trk.klclick3.com
-zpr.io
 ```
 
 2 used ddosguard (0.546448087431694%):
@@ -216,9 +104,9 @@ u.to
 
 ```
 
-1 used sucuri (0.273224043715847%):
+0 used sucuri (0.0%):
 ```
-wee.so
+
 ```
 
 0 used myracloud (0.0%):
