@@ -1,7 +1,8 @@
-200 domains tested. 78.5% were behind nothing (43 were behind something). 3 domains could not be tested.<br>
-1 used akamai (0.5%):
+200 domains tested. 57.49999999999999% were behind nothing (85 were behind something). 4 domains could not be tested.<br>
+2 used akamai (1.0%):
 ```
 anandabazar.com
+news.sky.com
 ```
 
 0 used bunnycdn (0.0%):
@@ -19,34 +20,72 @@ anandabazar.com
 
 ```
 
-16 used cloudflare (8.0%):
+43 used cloudflare (21.5%):
 ```
+972mag.com
+alarabiya.net
 ap.org
 apnews.com
+axios.com
+bleepingcomputer.com
+canarymedia.com
 coloradopolitics.com
+dexerto.com
 economist.com
+economist.com
+flatwaterfreepress.org
 freedom.press
 ft.com
 gizmodo.com
 kyivpost.com
+letemps.ch
+mashable.com
+nordic9.com
+nzz.ch
+politico.com
+pravdareport.com
+propublica.org
 publicintegrity.org
+qz.com
 readwrite.com
+science.org
 scroll.in
+smeharbinger.net
 techcrunch.com
+techdirt.com
+the74million.org
 theappeal.org
+theatlantic.com
 thedailybeast.com
+thehindu.com
+themarshallproject.org
+themorningnews.com
+themoscowtimes.com
+thenextweb.com
 therecord.media
 thewire.in
+washingtontimes.com
 ```
 
-18 used cloudfront (9.0%):
+31 used cloudfront (15.5%):
 ```
+SeattleTimes.com
+abcnews.go.com
 andhrajyothy.com
+csmonitor.com
+drudgereport.com
 engadget.com
 espn.com
+fivethirtyeight.com
+fortune.com
 hbr.org
+indianexpress.com
 lastampa.it
 latimes.com
+mathrubhumi.com
+mic.com
+newyorker.com
+observertoday.com
 onet.pl
 repubblica.it
 reuters.com
@@ -54,7 +93,9 @@ salon.com
 slashgear.com
 sueddeutsche.de
 suntimes.com
-univision.com
+theoutline.com
+theregister.com
+thetimes.co.uk
 vanityfair.com
 wired.com
 wired.com
@@ -77,7 +118,7 @@ bbc.com
 bbc.com
 cbsnews.com
 corriere.it
-nytimes.com
+gazzetta.it
 ```
 
 0 used sucuri (0.0%):

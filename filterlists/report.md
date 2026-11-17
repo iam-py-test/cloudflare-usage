@@ -1,13 +1,17 @@
-223 domains tested. 82.0627802690583% were behind nothing (40 were behind something). 4 domains could not be tested.<br>
-3 used akamai (1.345291479820628%):
+223 domains tested. 57.399103139013455% were behind nothing (95 were behind something). 9 domains could not be tested.<br>
+6 used akamai (2.690582959641256%):
 ```
 cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
+easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
+www.microsoft.com
+www.rakuten.ca
 ```
 
-1 used bunnycdn (0.4484304932735426%):
+2 used bunnycdn (0.8968609865470852%):
 ```
+oooo.b-cdn.net
 www.bentasker.co.uk
 ```
 
@@ -16,50 +20,83 @@ www.bentasker.co.uk
 
 ```
 
-0 used cdn77 (0.0%):
+1 used cdn77 (0.4484304932735426%):
+```
+filters.adtidy.org
 ```
 
-```
-
-26 used cloudflare (11.659192825112108%):
+59 used cloudflare (26.45739910313901%):
 ```
 abp.tt.codes
+abpvn.com
 adblock.mahakala.is
 adp.magnobiet.com
 ads-for-open-source.readthedocs.io
+anonymousposter.gitlab.io
+anti-ad.net
+assets.windscribe.com
 azorult-tracker.net
 blokada.org
 cdn.jsdelivr.net
+cdn.statically.io
 dns-family.adguard.com
+dns.adgk.net
 dns.adguard.com
-downloads.vivaldi.com
+easylist.to
+family.cloudflare-dns.com
 fanboy.co.nz
 feeds.dshield.org
+filter.futa.gg
+filtersheroes.gitlab.io
 gitlab.com
 hblock.molinero.dev
+iplists.firehol.org
+isc.sans.edu
+jansal.net
+lists.blocklist.de
 lpt.lrv.lt
+malsilo.gitlab.io
+malware-filter.gitlab.io
+managedsentinel.com
 mirai.security.gives
+netapi.com
 netmountains.de
 nonio.pt
+osint.bambenekconsulting.com
+pastebin.com
 phishing.army
 phishing.mailscanner.info
+raw.githack.com
+rawcdn.githack.com
+repo.andnixsh.com
+secure.fanboy.co.nz
+security.cloudflare-dns.com
+someonewhocares.org
 stanev.org
+tgc.cloud
 theantisocialengineer.com
+threatshare.io
+utilvo.com
 www.accs-net.com
+www.botvrij.eu
+www.dshield.org
 www.fanboy.co.nz
 www.lb.lt
 www.malwaredomainlist.com
+www.stopforumspam.com
+www.team-cymru.org
+www.zoso.ro
 ```
 
 2 used cloudfront (0.8968609865470852%):
 ```
-bitbucket.org
 www.i-dont-care-about-cookies.eu
+www.topcashback.com
 ```
 
-0 used ddosguard (0.0%):
+1 used ddosguard (0.4484304932735426%):
 ```
-
+gitflic.ru
 ```
 
 0 used edgecast (0.0%):
@@ -67,12 +104,23 @@ www.i-dont-care-about-cookies.eu
 
 ```
 
-4 used fastly (1.7937219730941705%):
+15 used fastly (6.726457399103139%):
 ```
+adaway.org
+adblock-thai.github.io
+badmojr.github.io
+downloads.vivaldi.com
+easydutch-ublockorigin.github.io
+iam-py-test.github.io
 mkb2091.github.io
 paulgb.github.io
+rickrolldb.com
 tantalusdrive.github.io
+urlhaus.abuse.ch
+v.firebog.net
+www.eff.org
 www.github.developerdan.com
+www.thedumbterminal.co.uk
 ```
 
 0 used sucuri (0.0%):

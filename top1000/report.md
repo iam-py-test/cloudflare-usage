@@ -1,4 +1,4 @@
-1000 domains tested. 62.8% were behind nothing (372 were behind something). 59 domains could not be tested.<br>
+1000 domains tested. 62.2% were behind nothing (378 were behind something). 65 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -50,7 +50,7 @@ php.net
 
 ```
 
-162 used cloudflare (16.2%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
@@ -70,7 +70,6 @@ braze.com
 britannica.com
 btloader.com
 bugsnag.com
-buydomains.com
 cambridge.org
 canva.com
 casalemedia.com
@@ -118,6 +117,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -157,6 +157,7 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -191,7 +192,6 @@ teamviewer.com
 techcrunch.com
 tinyurl.com
 twitter.com
-uber.com
 unisys.com
 unpkg.com
 unruly.co
@@ -207,7 +207,6 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
-x.com
 xhamster.com
 xhamster46.desi
 zendesk.com
@@ -216,7 +215,7 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
@@ -228,8 +227,10 @@ amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -285,6 +286,7 @@ noaa.gov
 note.com
 onet.pl
 pbs.org
+playrix.com
 primevideo.com
 pubmatic.com
 repubblica.it
@@ -329,7 +331,7 @@ pikabu.ru
 
 ```
 
-9 used fastly (0.8999999999999999%):
+8 used fastly (0.8%):
 ```
 0xrpc.io
 bbc.co.uk
@@ -337,7 +339,6 @@ bbc.com
 cbsnews.com
 corriere.it
 github.io
-nytimes.com
 speedtest.net
 www.gov.uk
 ```
@@ -386,9 +387,8 @@ netlify.app
 stanford.edu
 ```
 
-3 used imperva (0.3%):
+2 used imperva (0.2%):
 ```
-certcenter.com
 digicert.com
 dnsmadeeasy.com
 ```
