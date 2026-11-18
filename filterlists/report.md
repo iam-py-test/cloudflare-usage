@@ -1,5 +1,5 @@
-223 domains tested. 57.399103139013455% were behind nothing (95 were behind something). 9 domains could not be tested.<br>
-6 used akamai (2.690582959641256%):
+224 domains tested. 57.14285714285714% were behind nothing (96 were behind something). 9 domains could not be tested.<br>
+6 used akamai (2.6785714285714284%):
 ```
 cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
@@ -9,7 +9,7 @@ www.microsoft.com
 www.rakuten.ca
 ```
 
-2 used bunnycdn (0.8968609865470852%):
+2 used bunnycdn (0.8928571428571428%):
 ```
 oooo.b-cdn.net
 www.bentasker.co.uk
@@ -20,12 +20,12 @@ www.bentasker.co.uk
 
 ```
 
-1 used cdn77 (0.4484304932735426%):
+1 used cdn77 (0.4464285714285714%):
 ```
 filters.adtidy.org
 ```
 
-59 used cloudflare (26.45739910313901%):
+60 used cloudflare (26.785714285714285%):
 ```
 abp.tt.codes
 abpvn.com
@@ -75,6 +75,7 @@ someonewhocares.org
 stanev.org
 tgc.cloud
 theantisocialengineer.com
+threatcluster.io
 threatshare.io
 utilvo.com
 www.accs-net.com
@@ -88,13 +89,13 @@ www.team-cymru.org
 www.zoso.ro
 ```
 
-2 used cloudfront (0.8968609865470852%):
+2 used cloudfront (0.8928571428571428%):
 ```
 www.i-dont-care-about-cookies.eu
 www.topcashback.com
 ```
 
-1 used ddosguard (0.4484304932735426%):
+1 used ddosguard (0.4464285714285714%):
 ```
 gitflic.ru
 ```
@@ -104,7 +105,7 @@ gitflic.ru
 
 ```
 
-15 used fastly (6.726457399103139%):
+15 used fastly (6.696428571428571%):
 ```
 adaway.org
 adblock-thai.github.io

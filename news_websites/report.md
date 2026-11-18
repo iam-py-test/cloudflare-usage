@@ -1,7 +1,8 @@
-200 domains tested. 57.49999999999999% were behind nothing (85 were behind something). 4 domains could not be tested.<br>
-2 used akamai (1.0%):
+200 domains tested. 56.49999999999999% were behind nothing (87 were behind something). 4 domains could not be tested.<br>
+3 used akamai (1.5%):
 ```
 anandabazar.com
+cnbc.com
 news.sky.com
 ```
 
@@ -67,7 +68,7 @@ thewire.in
 washingtontimes.com
 ```
 
-31 used cloudfront (15.5%):
+32 used cloudfront (16.0%):
 ```
 SeattleTimes.com
 abcnews.go.com
@@ -96,6 +97,7 @@ suntimes.com
 theoutline.com
 theregister.com
 thetimes.co.uk
+univision.com
 vanityfair.com
 wired.com
 wired.com

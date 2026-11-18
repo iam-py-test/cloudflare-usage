@@ -1,5 +1,5 @@
-1000 domains tested. 62.2% were behind nothing (378 were behind something). 65 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 62.5% were behind nothing (375 were behind something). 62 domains could not be tested.<br>
+31 used akamai (3.1%):
 ```
 accuweather.com
 adobe.com
@@ -8,6 +8,7 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+cnbc.com
 coupang.com
 fda.gov
 godaddy.com
@@ -50,7 +51,7 @@ php.net
 
 ```
 
-161 used cloudflare (16.1%):
+164 used cloudflare (16.400000000000002%):
 ```
 33across.com
 academia.edu
@@ -178,6 +179,7 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
+shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -190,13 +192,14 @@ t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
+thenai.org
 tinyurl.com
 twitter.com
+uber.com
 unisys.com
 unpkg.com
 unruly.co
 vimeo.com
-visa.cn
 vungle.com
 w3.org
 weebly.com
@@ -207,6 +210,7 @@ worldbank.org
 wpguardian.com
 wpguardian.io
 wyzecam.com
+x.com
 xhamster.com
 xhamster46.desi
 zendesk.com
@@ -215,7 +219,7 @@ zoom.com
 zoom.us
 ```
 
-100 used cloudfront (10.0%):
+97 used cloudfront (9.700000000000001%):
 ```
 3lift.com
 a-mo.net
@@ -223,11 +227,9 @@ adsafeprotected.com
 adsrvr.org
 agora.io
 amazon.ca
+amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
-amazon.de
 amazon.es
 amazon.fr
 amazon.in
@@ -272,7 +274,6 @@ goodreads.com
 grammarly.com
 gumgum.com
 hbr.org
-ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -331,9 +332,8 @@ pikabu.ru
 
 ```
 
-8 used fastly (0.8%):
+7 used fastly (0.7000000000000001%):
 ```
-0xrpc.io
 bbc.co.uk
 bbc.com
 cbsnews.com
