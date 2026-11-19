@@ -1,5 +1,5 @@
-1000 domains tested. 62.5% were behind nothing (375 were behind something). 62 domains could not be tested.<br>
-31 used akamai (3.1%):
+1000 domains tested. 62.5% were behind nothing (375 were behind something). 61 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -8,7 +8,6 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
-cnbc.com
 coupang.com
 fda.gov
 godaddy.com
@@ -51,12 +50,11 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+161 used cloudflare (16.1%):
 ```
 33across.com
 academia.edu
 addtoany.com
-allaboutcookies.org
 ancestry.com
 anthropic.com
 anydesk.com
@@ -158,7 +156,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -192,7 +189,6 @@ t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
-thenai.org
 tinyurl.com
 twitter.com
 uber.com
@@ -219,20 +215,23 @@ zoom.com
 zoom.us
 ```
 
-97 used cloudfront (9.700000000000001%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
+allaboutcookies.org
 amazon.ca
-amazon.co.jp
-amazon.co.uk
 amazon.com
+amazon.com.au
+amazon.com.br
+amazon.de
 amazon.es
 amazon.fr
 amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -274,6 +273,7 @@ goodreads.com
 grammarly.com
 gumgum.com
 hbr.org
+ieee.org
 imdb.com
 intercom.io
 ipify.org
@@ -302,6 +302,7 @@ stripchat.com
 supercell.com
 surveymonkey.com
 t-online.de
+themoviedb.org
 tp-link.com
 tplinkcloud.com
 tradingview.com

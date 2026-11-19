@@ -20,7 +20,7 @@ x.co
 
 ```
 
-161 used cloudflare (43.98907103825137%):
+162 used cloudflare (44.26229508196721%):
 ```
 02ip.ru
 123415.xyz
@@ -131,6 +131,7 @@ prolink168.com
 promo-visits.site
 pxl.to
 qrco.de
+rb.gy
 rebrand.ly
 rebrandly.com
 rekonise.com
@@ -185,14 +186,13 @@ y0utu.be
 your.ls
 ```
 
-11 used cloudfront (3.0054644808743167%):
+10 used cloudfront (2.73224043715847%):
 ```
 a.co
 bstore.smsb.co
 clicks.eventbrite.com
 qr-codes.io
 qrs.ly
-rb.gy
 trk.klclick.com
 trk.klclick1.com
 trk.klclick2.com
