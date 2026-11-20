@@ -1,4 +1,4 @@
-1000 domains tested. 62.5% were behind nothing (375 were behind something). 61 domains could not be tested.<br>
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 58 domains could not be tested.<br>
 30 used akamai (3.0%):
 ```
 accuweather.com
@@ -55,6 +55,7 @@ php.net
 33across.com
 academia.edu
 addtoany.com
+allaboutcookies.org
 ancestry.com
 anthropic.com
 anydesk.com
@@ -116,7 +117,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -131,7 +131,6 @@ jquery.com
 kick.com
 klaviyo.com
 life360.com
-liftoff.io
 loc.gov
 maricopa.gov
 markmonitor.com
@@ -148,6 +147,7 @@ namecheap.com
 networkadvertising.org
 nexusmods.com
 nist.gov
+oecd.org
 okta.com
 onelink.me
 onetrust.com
@@ -215,23 +215,20 @@ zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+100 used cloudfront (10.0%):
 ```
 3lift.com
 a-mo.net
 adsafeprotected.com
 adsrvr.org
 agora.io
-allaboutcookies.org
 amazon.ca
+amazon.co.jp
+amazon.co.uk
 amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
-amazon.es
-amazon.fr
 amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -293,6 +290,7 @@ pubmatic.com
 repubblica.it
 reuters.com
 samsungcloud.com
+scorecardresearch.com
 shalltry.com
 soundcloud.com
 state.gov
