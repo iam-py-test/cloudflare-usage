@@ -1,4 +1,4 @@
-224 domains tested. 57.14285714285714% were behind nothing (96 were behind something). 9 domains could not be tested.<br>
+224 domains tested. 57.14285714285714% were behind nothing (96 were behind something). 8 domains could not be tested.<br>
 6 used akamai (2.6785714285714284%):
 ```
 cdn.adblockcdn.com
@@ -25,7 +25,7 @@ www.bentasker.co.uk
 filters.adtidy.org
 ```
 
-60 used cloudflare (26.785714285714285%):
+61 used cloudflare (27.232142857142854%):
 ```
 abp.tt.codes
 abpvn.com
@@ -59,6 +59,7 @@ malsilo.gitlab.io
 malware-filter.gitlab.io
 managedsentinel.com
 mirai.security.gives
+mynext.pro
 netapi.com
 netmountains.de
 nonio.pt

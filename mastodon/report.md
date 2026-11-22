@@ -24,7 +24,6 @@ mastodon.site
 a.sukazyo.cc
 ac.akirin.xyz
 acat.world
-airwaves.social
 better.boston
 bols.games
 catcore.life
@@ -36,6 +35,7 @@ india.goonj.xyz
 jiaojiao.org
 journa.host
 k.yumeka.xyz
+kids.0px.io
 kitsui.life
 kolektiva.social
 loforo.com
