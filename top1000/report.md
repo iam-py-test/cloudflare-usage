@@ -1,5 +1,5 @@
-1000 domains tested. 62.2% were behind nothing (378 were behind something). 61 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 62.5% were behind nothing (375 were behind something). 58 domains could not be tested.<br>
+29 used akamai (2.9000000000000004%):
 ```
 accuweather.com
 adobe.com
@@ -8,7 +8,6 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -50,7 +49,7 @@ php.net
 
 ```
 
-164 used cloudflare (16.400000000000002%):
+163 used cloudflare (16.3%):
 ```
 33across.com
 academia.edu
@@ -118,6 +117,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -177,7 +177,6 @@ sciencedirect.com
 seedtag.com
 sharethrough.com
 shein.com
-shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -185,7 +184,6 @@ sophos.com
 sourceforge.net
 spamhaus.org
 stackoverflow.com
-stripchat.com
 substack.com
 t.co
 tandfonline.com
@@ -218,7 +216,7 @@ zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+105 used cloudfront (10.5%):
 ```
 3lift.com
 a-mo.net
@@ -234,6 +232,7 @@ amazon.com.br
 amazon.de
 amazon.es
 amazon.fr
+amazon.in
 amazon.it
 amazonalexa.com
 amazonaws.com
@@ -276,6 +275,7 @@ goodreads.com
 grammarly.com
 gumgum.com
 hbr.org
+huggingface.co
 ieee.org
 imdb.com
 intercom.io
@@ -302,6 +302,7 @@ soundcloud.com
 state.gov
 statista.com
 statuspage.io
+stripchat.com
 supercell.com
 surveymonkey.com
 t-online.de
@@ -382,9 +383,8 @@ bund.de
 
 ```
 
-5 used netlify (0.5%):
+4 used netlify (0.4%):
 ```
-ampproject.org
 launchdarkly.com
 lencr.org
 netlify.app
