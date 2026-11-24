@@ -1,5 +1,5 @@
-1000 domains tested. 62.5% were behind nothing (375 were behind something). 58 domains could not be tested.<br>
-29 used akamai (2.9000000000000004%):
+1000 domains tested. 62.8% were behind nothing (372 were behind something). 60 domains could not be tested.<br>
+30 used akamai (3.0%):
 ```
 accuweather.com
 adobe.com
@@ -8,6 +8,7 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
+coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -117,7 +118,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -202,6 +202,7 @@ w3.org
 weebly.com
 who.int
 wiley.com
+wix.com
 workers.dev
 worldbank.org
 wpguardian.com
@@ -216,7 +217,7 @@ zoom.com
 zoom.us
 ```
 
-105 used cloudfront (10.5%):
+99 used cloudfront (9.9%):
 ```
 3lift.com
 a-mo.net
@@ -227,13 +228,7 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
-amazon.com.br
-amazon.de
 amazon.es
-amazon.fr
-amazon.in
-amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
