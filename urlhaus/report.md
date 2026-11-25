@@ -1,4 +1,4 @@
-10 domains tested. 100.0% were behind nothing (0 were behind something). 0 domains could not be tested.<br>
+5 domains tested. 100.0% were behind nothing (0 were behind something). 0 domains could not be tested.<br>
 0 used akamai (0.0%):
 ```
 

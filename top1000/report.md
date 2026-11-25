@@ -1,5 +1,5 @@
-1000 domains tested. 62.8% were behind nothing (372 were behind something). 60 domains could not be tested.<br>
-30 used akamai (3.0%):
+1000 domains tested. 62.5% were behind nothing (375 were behind something). 58 domains could not be tested.<br>
+27 used akamai (2.7%):
 ```
 accuweather.com
 adobe.com
@@ -21,7 +21,6 @@ marriott.com
 mayoclinic.org
 mcafee.com
 meraki.com
-mi.com
 mobile.de
 mysql.com
 rakuten.co.jp
@@ -29,8 +28,6 @@ spectrum.com
 ups.com
 usda.gov
 webex.com
-xiaomi.com
-xiaomi.net
 ```
 
 3 used bunnycdn (0.3%):
@@ -50,7 +47,7 @@ php.net
 
 ```
 
-163 used cloudflare (16.3%):
+167 used cloudflare (16.7%):
 ```
 33across.com
 academia.edu
@@ -118,6 +115,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -157,15 +155,18 @@ openai.com
 oup.com
 pages.dev
 patreon.com
+paypal.com
 people.com
 perplexity.ai
 pexels.com
 pixabay.com
+pixiv.net
 plesk.com
 poki.com
 princeton.edu
 prnewswire.com
 publicnode.com
+quizlet.com
 quora.com
 readthedocs.io
 researchgate.net
@@ -175,8 +176,8 @@ rubiconproject.com
 sagepub.com
 sciencedirect.com
 seedtag.com
-sharethrough.com
 shein.com
+shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -217,7 +218,7 @@ zoom.com
 zoom.us
 ```
 
-99 used cloudfront (9.9%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -227,8 +228,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
-amazon.com
+amazon.com.au
+amazon.com.br
+amazon.de
 amazon.es
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -317,6 +321,7 @@ wattpad.com
 wired.com
 wps.com
 wsj.com
+xing.com
 zillow.com
 ```
 
