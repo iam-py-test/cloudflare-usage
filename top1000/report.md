@@ -1,5 +1,5 @@
-1000 domains tested. 62.5% were behind nothing (375 were behind something). 58 domains could not be tested.<br>
-27 used akamai (2.7%):
+1000 domains tested. 62.8% were behind nothing (372 were behind something). 57 domains could not be tested.<br>
+28 used akamai (2.8000000000000003%):
 ```
 accuweather.com
 adobe.com
@@ -21,6 +21,7 @@ marriott.com
 mayoclinic.org
 mcafee.com
 meraki.com
+microsoft.com
 mobile.de
 mysql.com
 rakuten.co.jp
@@ -47,7 +48,7 @@ php.net
 
 ```
 
-167 used cloudflare (16.7%):
+165 used cloudflare (16.5%):
 ```
 33across.com
 academia.edu
@@ -90,6 +91,7 @@ cookiedatabase.org
 cookielaw.org
 cpanel.net
 creativecommons.org
+curseforge.com
 deepl.com
 digitalocean.com
 digitaloceanspaces.com
@@ -115,7 +117,6 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
-globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -155,7 +156,6 @@ openai.com
 oup.com
 pages.dev
 patreon.com
-paypal.com
 people.com
 perplexity.ai
 pexels.com
@@ -186,7 +186,6 @@ sourceforge.net
 spamhaus.org
 stackoverflow.com
 substack.com
-t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
@@ -218,7 +217,7 @@ zoom.com
 zoom.us
 ```
 
-103 used cloudfront (10.299999999999999%):
+102 used cloudfront (10.2%):
 ```
 3lift.com
 a-mo.net
@@ -228,11 +227,11 @@ agora.io
 amazon.ca
 amazon.co.jp
 amazon.co.uk
+amazon.com
 amazon.com.au
 amazon.com.br
-amazon.de
 amazon.es
-amazon.in
+amazon.it
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -252,7 +251,6 @@ change.org
 charter.net
 checkpoint.com
 company-target.com
-curseforge.com
 dailymotion.com
 datadoghq.com
 deepseek.com
