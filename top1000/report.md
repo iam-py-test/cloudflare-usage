@@ -1,5 +1,5 @@
-1000 domains tested. 62.8% were behind nothing (372 were behind something). 57 domains could not be tested.<br>
-28 used akamai (2.8000000000000003%):
+1000 domains tested. 63.0% were behind nothing (370 were behind something). 57 domains could not be tested.<br>
+26 used akamai (2.6%):
 ```
 accuweather.com
 adobe.com
@@ -8,7 +8,6 @@ arubanetworks.com
 autodesk.com
 cdc.gov
 cisco.com
-coupang.com
 fda.gov
 godaddy.com
 hm.com
@@ -21,7 +20,6 @@ marriott.com
 mayoclinic.org
 mcafee.com
 meraki.com
-microsoft.com
 mobile.de
 mysql.com
 rakuten.co.jp
@@ -91,7 +89,6 @@ cookiedatabase.org
 cookielaw.org
 cpanel.net
 creativecommons.org
-curseforge.com
 deepl.com
 digitalocean.com
 digitaloceanspaces.com
@@ -117,6 +114,7 @@ ft.com
 fwmrm.net
 genius.com
 gitlab.com
+globalsign.com
 hcaptcha.com
 hostgator.com
 hubspot.com
@@ -177,7 +175,6 @@ sagepub.com
 sciencedirect.com
 seedtag.com
 shein.com
-shop.app
 shopify.com
 smartadserver.com
 smilewanted.com
@@ -186,6 +183,7 @@ sourceforge.net
 spamhaus.org
 stackoverflow.com
 substack.com
+t.co
 tandfonline.com
 teamviewer.com
 techcrunch.com
@@ -217,7 +215,7 @@ zoom.com
 zoom.us
 ```
 
-102 used cloudfront (10.2%):
+103 used cloudfront (10.299999999999999%):
 ```
 3lift.com
 a-mo.net
@@ -228,10 +226,10 @@ amazon.ca
 amazon.co.jp
 amazon.co.uk
 amazon.com
-amazon.com.au
 amazon.com.br
+amazon.de
 amazon.es
-amazon.it
+amazon.in
 amazonalexa.com
 amazonaws.com
 amazontrust.com
@@ -251,6 +249,7 @@ change.org
 charter.net
 checkpoint.com
 company-target.com
+curseforge.com
 dailymotion.com
 datadoghq.com
 deepseek.com
@@ -335,12 +334,11 @@ pikabu.ru
 
 ```
 
-7 used fastly (0.7000000000000001%):
+6 used fastly (0.6%):
 ```
 bbc.co.uk
 bbc.com
 cbsnews.com
-corriere.it
 github.io
 speedtest.net
 www.gov.uk

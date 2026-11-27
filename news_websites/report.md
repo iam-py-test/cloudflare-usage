@@ -1,8 +1,7 @@
-200 domains tested. 56.00000000000001% were behind nothing (88 were behind something). 5 domains could not be tested.<br>
-3 used akamai (1.5%):
+200 domains tested. 57.99999999999999% were behind nothing (84 were behind something). 5 domains could not be tested.<br>
+2 used akamai (1.0%):
 ```
 anandabazar.com
-dnaindia.com
 news.sky.com
 ```
 
@@ -21,10 +20,9 @@ news.sky.com
 
 ```
 
-43 used cloudflare (21.5%):
+42 used cloudflare (21.0%):
 ```
 972mag.com
-alarabiya.net
 ap.org
 apnews.com
 axios.com
@@ -114,13 +112,11 @@ wsj.com
 
 ```
 
-5 used fastly (2.5%):
+3 used fastly (1.5%):
 ```
 bbc.com
 bbc.com
 cbsnews.com
-corriere.it
-gazzetta.it
 ```
 
 0 used sucuri (0.0%):
