@@ -1,14 +1,18 @@
-225 domains tested. 81.77777777777779% were behind nothing (41 were behind something). 5 domains could not be tested.<br>
-3 used akamai (1.3333333333333335%):
+225 domains tested. 57.333333333333336% were behind nothing (96 were behind something). 7 domains could not be tested.<br>
+6 used akamai (2.666666666666667%):
 ```
+cdn.adblockcdn.com
 easylist-downloads.adblockplus.org
 easylist-msie.adblockplus.org
 www.barclaycardrewardsboost.com
+www.microsoft.com
+www.rakuten.ca
 ```
 
-0 used bunnycdn (0.0%):
+2 used bunnycdn (0.8888888888888888%):
 ```
-
+oooo.b-cdn.net
+www.bentasker.co.uk
 ```
 
 0 used cachefly (0.0%):
@@ -16,36 +20,72 @@ www.barclaycardrewardsboost.com
 
 ```
 
-0 used cdn77 (0.0%):
+1 used cdn77 (0.4444444444444444%):
+```
+filters.adtidy.org
 ```
 
-```
-
-25 used cloudflare (11.11111111111111%):
+61 used cloudflare (27.111111111111114%):
 ```
 abp.tt.codes
+abpvn.com
+adblock.mahakala.is
 adp.magnobiet.com
+ads-for-open-source.readthedocs.io
+anonymousposter.gitlab.io
 anti-ad.net
+assets.windscribe.com
 azorult-tracker.net
+blokada.org
 cdn.jsdelivr.net
 cdn.statically.io
+dns-family.adguard.com
+dns.adgk.net
 dns.adguard.com
 easylist.to
+family.cloudflare-dns.com
 fanboy.co.nz
+feeds.dshield.org
+filter.futa.gg
+filtersheroes.gitlab.io
 gitlab.com
+hblock.molinero.dev
 iplists.firehol.org
+isc.sans.edu
+jansal.net
+lists.blocklist.de
 lpt.lrv.lt
+malsilo.gitlab.io
+malware-filter.gitlab.io
+managedsentinel.com
 mirai.security.gives
+mynext.pro
 netapi.com
+netmountains.de
 nonio.pt
 osint.bambenekconsulting.com
+pastebin.com
 phishing.army
+phishing.mailscanner.info
+raw.githack.com
+rawcdn.githack.com
+repo.andnixsh.com
+secure.fanboy.co.nz
 security.cloudflare-dns.com
 someonewhocares.org
 stanev.org
+tgc.cloud
 theantisocialengineer.com
+threatcluster.io
+threatshare.io
+utilvo.com
+www.accs-net.com
+www.botvrij.eu
+www.dshield.org
+www.fanboy.co.nz
 www.lb.lt
 www.malwaredomainlist.com
+www.stopforumspam.com
 www.team-cymru.org
 www.zoso.ro
 ```
@@ -66,13 +106,24 @@ gitflic.ru
 
 ```
 
-5 used fastly (2.2222222222222223%):
+16 used fastly (7.111111111111111%):
 ```
+adaway.org
+adblock-thai.github.io
 badmojr.github.io
+downloads.vivaldi.com
+easydutch-ublockorigin.github.io
+iam-py-test.github.io
+mindveto.app
 mkb2091.github.io
 paulgb.github.io
+rickrolldb.com
 tantalusdrive.github.io
+urlhaus.abuse.ch
+v.firebog.net
 www.eff.org
+www.github.developerdan.com
+www.thedumbterminal.co.uk
 ```
 
 0 used sucuri (0.0%):
